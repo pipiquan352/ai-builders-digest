@@ -17,58 +17,61 @@
     padding-bottom: 100px;
   }
 
-  /* Top nav */
-  .topnav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 24px 40px;
-    max-width: 1400px;
-    margin: 0 auto;
-  }
-  .topnav-brand {
-    font-size: 18px;
-    font-weight: 700;
-    color: #1a1a1a;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .topnav-brand .dot {
-    width: 32px; height: 32px;
-    background: linear-gradient(135deg, #6366f1, #a78bfa);
-    border-radius: 10px;
+  /* Banner */
+  .banner {
+    background: #f5c542;
+    padding: 60px 40px 50px;
+    position: relative;
+    overflow: hidden;
+    min-height: 280px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
-    font-size: 16px;
+  }
+  .banner-shapes { position: absolute; inset: 0; pointer-events: none; }
+  /* Decorative shapes */
+  .shape {
+    position: absolute;
+    border-radius: 50%;
+  }
+  .s1 { width: 90px; height: 90px; border: 6px solid #e85d3a; top: 20px; left: 6%; }
+  .s2 { width: 50px; height: 50px; border: 5px solid #e85d3a; top: 35px; left: 8%; }
+  .s3 { width: 120px; height: 40px; background: #1a8a6a; border-radius: 30px; transform: rotate(-30deg); top: 60px; left: 30%; }
+  .s4 { width: 80px; height: 80px; background: #e85d3a; border-radius: 50% 50% 50% 0; top: 55%; left: 15%; opacity: 0.9; }
+  .s5 { width: 100px; height: 70px; background: #f0a0c0; border-radius: 4px; transform: rotate(8deg); top: 50%; right: 8%; }
+  .s6 { width: 30px; height: 30px; background: #6366f1; top: 25%; left: 50%; }
+  .s7 { width: 14px; height: 14px; background: #fff; border-radius: 50%; top: 70%; left: 40%; }
+  .s8 { width: 10px; height: 10px; background: #1a8a6a; border-radius: 50%; top: 30%; right: 30%; }
+  .s9 { width: 60px; height: 60px; border: 5px solid #6366f1; border-radius: 0; transform: rotate(15deg); top: 15%; right: 12%; opacity: 0.5; }
+  .s10 { width: 80px; height: 30px; background: #1a8a6a; border-radius: 0 0 50px 50px; top: 45%; left: 42%; }
+  .s11 { width: 40px; height: 40px; background: #f5c542; border: 4px solid #1a1a1a; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); top: 10%; right: 5%; }
+  .s12 { width: 35px; height: 35px; background: #1a1a1a; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); bottom: 25%; left: 5%; }
+  .s13 { width: 70px; height: 8px; background: #1a1a1a; border-radius: 4px; transform: rotate(-20deg); bottom: 20%; right: 25%; }
+  /* Squiggle via box-shadow trick */
+  .s14 { width: 8px; height: 8px; background: #1a1a1a; border-radius: 50%; bottom: 35%; right: 15%;
+    box-shadow: 12px -8px 0 #1a1a1a, 24px 0px 0 #1a1a1a, 36px -8px 0 #1a1a1a; }
+
+  .banner-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+  }
+  .banner h1 {
+    font-size: 52px;
     font-weight: 800;
+    color: #1a1a1a;
+    line-height: 1.15;
+    letter-spacing: -2px;
   }
-  .topnav-right {
-    display: flex;
-    gap: 4px;
-    background: #fff;
-    border-radius: 28px;
-    padding: 4px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-  }
-  .nav-btn {
-    background: transparent;
-    border: none;
-    padding: 8px 20px;
-    border-radius: 24px;
-    font-size: 13px;
+  .banner-sub {
+    font-size: 16px;
+    color: rgba(0,0,0,0.55);
+    margin-top: 10px;
     font-weight: 500;
-    color: #666;
-    cursor: pointer;
-    transition: all 0.2s;
-    font-family: inherit;
   }
-  .nav-btn:hover { color: #1a1a1a; }
-  .nav-btn.active {
-    background: #1a1a1a;
-    color: #fff;
+  @media (max-width: 600px) {
+    .banner { padding: 40px 20px 36px; min-height: 200px; }
+    .banner h1 { font-size: 32px; }
   }
 
   /* Masonry grid */
@@ -319,15 +322,26 @@
 </head>
 <body class="show-en show-zh">
 
-<div class="topnav">
-  <div class="topnav-brand">
-    <div class="dot">AB</div>
-    AI Builders Digest
+<div class="banner">
+  <div class="banner-shapes">
+    <div class="shape s1"></div>
+    <div class="shape s2"></div>
+    <div class="shape s3"></div>
+    <div class="shape s4"></div>
+    <div class="shape s5"></div>
+    <div class="shape s6"></div>
+    <div class="shape s7"></div>
+    <div class="shape s8"></div>
+    <div class="shape s9"></div>
+    <div class="shape s10"></div>
+    <div class="shape s11"></div>
+    <div class="shape s12"></div>
+    <div class="shape s13"></div>
+    <div class="shape s14"></div>
   </div>
-  <div class="topnav-right">
-    <button class="nav-btn" data-lang="en" onclick="setLang('en')">EN</button>
-    <button class="nav-btn active" data-lang="both" onclick="setLang('both')">EN / ZH</button>
-    <button class="nav-btn" data-lang="zh" onclick="setLang('zh')">ZH</button>
+  <div class="banner-content">
+    <h1>AI Builders<br>Digest</h1>
+    <div class="banner-sub">Follow Builders, Not Influencers</div>
   </div>
 </div>
 
@@ -350,7 +364,6 @@ function setLang(lang) {
   if (lang === 'en') document.body.classList.add('show-en');
   else if (lang === 'zh') document.body.classList.add('show-zh', 'hide-en');
   else document.body.classList.add('show-en', 'show-zh');
-  document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
   document.querySelectorAll('.bottom-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
 }
 
