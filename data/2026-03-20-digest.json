@@ -1,70 +1,70 @@
 {
   "x": {
     "karpathy": {
-      "en": "Had to go see Project Hail Mary right away (it's based on the book of Andy Weir, of also The Martian fame). Both very pleased and relieved to say that 1) the movie sticks very close to the book in both content and tone and 2) is really well executed.\n\nThe book is one of my favorites when it comes to alien portrayals because a lot of thought was clearly given to the scientific details of an alternate biochemistry, evolutionary history, sensorium, psychology, language, tech tree, etc. It's different enough that it is highly creative and plausible, but also similar enough that you get a compelling story and one of the best bromances in fiction. Not to mention the other (single-cellular) aliens. I can count fictional portrayals of aliens of this depth on one hand. A lot of these aspects are briefly featured - if you read the book you'll spot them but if you haven't, the movie can't spend the time to do them justice.\n\nI'll say that the movie inches a little too much into the superhero movie tropes with the pacing, the quips, the Bathos and such for my taste, and we get a little bit less the grand of Interstellar and a little bit less of the science of The Martian, but I think it's ok considering the tone of the original content. And it does really well where it counts - on Rocky and the bromance. Thank you to the film crew for the gem!",
-      "zh": "必须立即去看《万福玛丽计划》（它是根据《火星救援》中的安迪·威尔的书改编的）。两人都非常高兴和欣慰地说：1）这部电影在内容和基调上都与原著非常接近，2）执行得非常好。\n\n当谈到外星人的描绘时，这本书是我最喜欢的书之一，因为它清楚地考虑了另一种生物化学、进化历史、感觉、心理学、语言、科技树等科学细节。它足够不同，具有高度的创造性和合理性，但也足够相似，你可以得到一个引人入胜的故事和小说中最好的兄弟情谊之一。更不用说其他（单细胞）外星人了。我一只手就能数出如此深度的外星人的虚构描绘。其中很多方面都进行了简要介绍——如果你读过这本书，你就会发现它们，但如果你没有，电影就不会花时间来公正地呈现它们。\n\n我想说的是，这部电影在节奏、俏皮话、巴托斯等方面有点过于融入超级英雄电影的比喻，对我来说，我们得到的《星际穿越》的宏大和《火星救援》的科学知识也少了一点，但考虑到原始内容的基调，我认为这还可以。它在重要的地方表现得非常好——洛基和兄弟情谊。感谢摄制组的宝石！"
+      "en": "Andrej Karpathy praises the Project Hail Mary film adaptation for faithfully capturing the book's scientific depth and creative alien worldbuilding while maintaining the bromance that makes the story compelling, though noting it leans slightly more into superhero movie pacing than the grand scope of Interstellar or hard sci-fi focus of The Martian.",
+      "zh": "Andrej Karpathy 称赞《Hail Mary 计划》电影版忠实呈现了原著的科学深度和创意十足的外星人设定，同时保留了驱动故事的关键关系，但指出它在节奏上稍微倾向于超级英雄电影的风格，而不是《星际穿越》的宏大或《火星救援》的硬科幻焦点。"
     },
     "swyx": {
-      "en": "to: every single dev that works with a designer\n\nmsg: Give your designer access to your coding agent. It is imperative that you do so. You'll see the most productivity and beauty in your work in a month. And then you'll realize just how much -you- were holding them back this entire time.",
-      "zh": "致：每一位与设计师合作的开发人员\n\nmsg：让您的设计人员能够访问您的编码代理。您必须这样做。您将在一个月内看到工作中最高的生产力和最美丽的效果。然后你就会意识到，你一直在多大程度上阻碍了他们。"
+      "en": "Swyx emphasizes that developers should give their designers access to coding agents, as this dramatically increases productivity and creative output—and reveals how much developer constraints were previously limiting designer potential.",
+      "zh": "Swyx 强调开发者应该让设计师访问编码 agent，这会显著提升生产力和创意产出——并揭示开发者的限制之前对设计师潜力的制约程度。"
     },
     "joshwoodward": {
-      "en": "✅ Papercut fixed: Gemini won’t cut you off if you pause while talking on Android anymore. (iOS in a few weeks!)\n\nSo next time you hit the mic icon, feel free to pause, take a breath, or ramble. No more anxiety to speak it all out before @GeminiApp jumps in prematurely.",
-      "zh": "✅ 修复剪纸问题：如果您在 Android 上通话时暂停，Gemini 不会打断您。 （iOS 几周后！）\n\n因此，下次您点击麦克风图标时，请随意暂停、喘口气或闲聊。在 @GeminiApp 过早介入之前，不再需要担心将一切说出来。"
+      "en": "Josh Woodward announces a Gemini Android fix that allows users to pause mid-speech without the app cutting them off prematurely, improving the experience of natural conversation flow.",
+      "zh": "Josh Woodward 宣布 Gemini Android 修复，允许用户在说话中途暂停而不会被应用打断，改善了自然对话流的体验。"
     },
     "petergyang": {
-      "en": "I think OpenAI’s strategy is pretty clear:\n\n1. More people have ChatGPT installed than any other AI product\n\n2. Make ChatGPT great for coding and knowledge work\n\n3. Make it a personal assistant like OpenClaw that knows you and can do whatever you want \n\nThey just need to do 2 and 3 faster before people switch to Claude or Gemini for the same use cases.",
-      "zh": "我认为 OpenAI 的策略非常明确：\n\n1.安装ChatGPT的人比任何其他人工智能产品都多\n\n2. 让 ChatGPT 非常适合编码和知识工作\n\n3. 让它成为一个像OpenClaw一样了解你并且可以做你想做的事情的私人助理 \n\n他们只需要更快地完成 2 和 3 步，然后人们就相同的用例转向 Claude 或 Gemini。"
+      "en": "Peter Yang outlines OpenAI's competitive strategy: leverage ChatGPT's massive user base, improve it for coding and knowledge work, and expand toward personal assistant capabilities like OpenClaw before users migrate to Claude or Gemini.",
+      "zh": "Peter Yang 阐述了 OpenAI 的竞争策略：利用 ChatGPT 庞大的用户基数，为编码和知识工作改进产品，并在用户迁移到 Claude 或 Gemini 之前扩展到个人助手功能。"
     },
     "thenanyu": {
-      "en": "Forbes 30 under 30 remains undefeated (fraud)",
-      "zh": "福布斯 30 位 30 岁以下精英保持不败（欺诈）"
+      "en": "Nan Yu sarcastically comments on Forbes' 30 Under 30 list, suggesting it lacks credibility.",
+      "zh": "Nan Yu 讽刺评论了《福布斯》30 岁以下精英榜单，暗示其缺乏可信度。"
     },
     "AmandaAskell": {
-      "en": "Perhaps I should get married again so that the media has a more recent man they can reference any time they mention me or my work.",
-      "zh": "也许我应该再次结婚，以便媒体在提到我或我的工作时可以参考一个更新的男人。"
+      "en": "Amanda Askell humorously suggests getting married again so media outlets have a more recent reference point when discussing her work instead of relying on outdated biographical details.",
+      "zh": "Amanda Askell 幽默地暗示再结一次婚，这样媒体在讨论她的工作时可以有更近期的参考，而不是依赖过时的传记细节。"
     },
     "trq212": {
-      "en": "We just released Claude Code channels, which allows you to control your Claude Code session through select MCPs, starting with Telegram and Discord. \n\nUse this to message Claude Code directly from your phone.",
-      "zh": "我们刚刚发布了 Claude Code 频道，它允许您通过选定的 MCP（从 Telegram 和 Discord 开始）控制您的 Claude Code 会话。 \n\n使用此功能可以直接从您的手机向 Claude Code 发送消息。"
+      "en": "Thariq announces Claude Code channels, a new feature enabling control of Claude Code sessions through MCPs like Telegram and Discord, allowing direct messaging with Claude Code from mobile devices.",
+      "zh": "Thariq 宣布推出 Claude Code channels，这是一项新功能，允许通过 Telegram 和 Discord 等 MCP 控制 Claude Code 会话，支持从移动设备直接与 Claude Code 通信。"
     },
     "amasad": {
-      "en": "Happy Eid! 😊",
-      "zh": "开斋节快乐！ 😊"
+      "en": "Amjad Masad extends warm Eid greetings.",
+      "zh": "Amjad Masad 送上温暖的开斋节祝福。"
     },
     "levie": {
-      "en": "Without getting into the specific numbers, this underlying concept and trend is going to be very real. For any worker who is able to wield AI agents effectively in an organization, their compute budgets are just going to monotonically go up over time. \n\nThis will of course start in engineering, where we already know developers can run multiple agents in parallel, or have projects going over night. But this eventually hit the rest of knowledge work as well. Lawyers that can create and review more drafts, marketed that can build more campaigns and test more ideals in parallel, sales reps that can reach out to more customers and process more leads. \n\nMany of these activities will essentially be token-dependent in how much work a single person can do. These aren’t chatbot workflows answering a simple question, but agents that are running and processing through incredible amounts of data at scale, and generating all new forms of information.\n\nCompanies will have to figure out how they budget for this, and it likely won’t be an IT budget item over time, but ultimately owned and allocated by the business. Maybe the CFO is ultimately the head of AI :-).",
-      "zh": "在不考虑具体数字的情况下，这一基本概念和趋势将是非常真实的。对于任何能够在组织中有效使用人工智能代理的员工来说，他们的计算预算只会随着时间的推移而单调增加。 \n\n这当然将从工程开始，我们已经知道开发人员可以并行运行多个代理，或者让项目连夜进行。但这最终也影响了其他知识工作。律师可以创建和审查更多草稿，营销人员可以开展更多活动并同时测试更多理想，销售代表可以接触更多客户并处理更多潜在客户。 \n\n其中许多活动本质上取决于一个人可以完成多少工作。这些不是回答简单问题的聊天机器人工作流程，而是大规模运行和处理大量数据并生成所有新形式信息的代理。\n\n公司必须弄清楚如何为此进行预算，而且随着时间的推移，它可能不会成为 IT 预算项目，而是最终由企业拥有和分配。也许首席财务官最终是人工智能的负责人:-)。"
+      "en": "Aaron Levie (Box CEO) argues that workers skilled with AI agents will see their compute budgets grow monotonically, extending from engineering to all knowledge work—lawyers drafting documents, marketers running campaigns, sales reps handling leads—as these token-dependent activities scale exponentially.",
+      "zh": "Box CEO Aaron Levie 认为掌握 AI agent 的员工的计算预算将单调增长，从工程扩展到所有知识工作——律师起草文件、营销人员运行活动、销售代表处理线索——随着这些 token 依赖活动的指数级扩展。"
     },
     "ryolu_": {
-      "en": "Frontier intelligence.\nFraction of cost.\nFast.\nComposer 2.",
-      "zh": "前沿情报。\n成本的分数。\n快速地。\n作曲家2."
+      "en": "Ryo Lu highlights Composer 2's key strengths: frontier intelligence, fractional cost, and speed in AI development.",
+      "zh": "Ryo Lu 强调 Composer 2 的关键优势：前沿智能、分数成本和 AI 开发速度。"
     },
     "garrytan": {
-      "en": "I did slip one easter egg for YC into my /office-hours skill",
-      "zh": "我确实在我的/办公时间技能中为 YC 塞了一个复活节彩蛋"
+      "en": "Garry Tan (YC President) embedded an easter egg into the YC /office-hours skill.",
+      "zh": "Y Combinator 主席 Garry Tan 在 YC /office-hours skill 中嵌入了一个彩蛋。"
     },
     "mattturck": {
-      "en": "My latest conversation with the always incredible @benedictevans: OpenAI’s moat problem, the rise of ephemeral and improvised sofware, OpenClaw & agents.\n\n00:00 Intro\n\n01:06 OpenAI's Focus Shift\n\n03:12 ChatGPT usage: a \"mile wide, inch deep\"\n\n09:03 Why better models do not solve the real problem\n\n13:58 Why AI product teams are strategy takers, not strategy setters\n\n15:38 Do agents help create defensibility?\n\n20:06 OpenClaw and the \"Desktop Linux\" moment for AI\n\n25:52 Why \"everyone will build their own software\" is completely wrong\n\n28:09 Improvised software vs. institutionalized software\n\n29:23 Why there will be more software, not less\n\n36:15 Are we heading toward value destruction before value creation?\n\n38:03 Circular revenue, leverage, and AI bubble dynamics\n\n38:53 Big Tech's Trillion-Dollar CapEx Crisis & Financial Gravity\n\n45:23 Why AI job exposure charts can be misleading\n\n52:15 How Fortune 500 Execs are actually deploying AI today\n\n56:45 The White Space: What this means for founders and investors",
-      "zh": "我与总是令人难以置信的 @benedictevans 的最新对话：OpenAI 的护城河问题、临时和临时软件、OpenClaw 和代理的兴起。\n\n00:00 简介\n\n01:06 OpenAI 的焦点转移\n\n03:12 ChatGPT 用法：“一英里宽，一英寸深”\n\n09:03 为什么更好的模型不能解决真正的问题\n\n13:58 为什么人工智能产品团队是战略接受者，而不是战略制定者\n\n15:38 代理人是否有助于建立防御力？\n\n20:06 OpenClaw 和 AI 的“桌面 Linux”时刻\n\n25:52 为什么“每个人都会构建自己的软件”是完全错误的\n\n28:09 简易软件与制度化软件\n\n29:23 为什么软件会更多而不是更少\n\n36:15 我们是否正在走向价值创造之前的价值毁灭？\n\n38:03 循环收入、杠杆和人工智能泡沫动态\n\n38:53 大型科技公司的数万亿美元资本支出危机与金融重力\n\n45:23 为什么人工智能工作暴露图表可能会产生误导\n\n52:15 财富 500 强企业高管如今如何实际部署人工智能\n\n56:45 空白：这对创始人和投资者意味着什么"
+      "en": "Matt Turck discusses with Benedict Evans OpenAI's focus shifts, ChatGPT's shallow adoption, why better models don't solve real problems, the rise of improvised software, and the role of agents in defensibility—suggesting we're in an AI Desktop Linux moment.",
+      "zh": "Matt Turck 与 Benedict Evans 讨论 OpenAI 的战略转变、ChatGPT 的浅层采用、为什么更好的模型无法解决真正问题、临时软件的崛起以及 agent 在防御性中的作用——暗示我们正处于 AI 桌面 Linux 时刻。"
     },
     "nikunj": {
-      "en": "I *think* the tide is finally going to turn on all the actors (LPs, VCs, founders, employees) who believe momentum is simply everything.. \n\nIt has led to terrible trickle down effects across the entire ecosystem (manipulating data, no diligence, growth at all costs etc.)\n\nAs they say, what goes up must eventually come down. I hope these are not infamous last words, but I’m hopeful 🤞",
-      "zh": "我“认为”这股潮流最终将转向所有相信动力就是一切的参与者（有限合伙人、风险投资人、创始人、员工）。 \n\n它给整个生态系统带来了可怕的涓滴效应（操纵数据、不勤奋、不惜一切代价增长等）\n\n正如他们所说，有涨必有跌。我希望这些不是臭名昭著的遗言，但我充满希望🤞"
+      "en": "Nikunj Kothari argues that momentum-driven investing is finally declining, as the ecosystem's focus on unsustainable growth-at-all-costs practices—data manipulation, lack of diligence—will eventually correct.",
+      "zh": "Nikunj Kothari 认为动量驱动的投资最终在衰退，因为生态系统对不可持续的不惜一切代价增长的关注——数据操纵、缺乏尽职调查——最终会纠正。"
     },
     "steipete": {
-      "en": "\"Your frustration is the product.\"",
-      "zh": "“你的挫败感就是产品。”"
+      "en": "Peter Steinberger observes that frustration itself has become the product.",
+      "zh": "Peter Steinberger 观察到挫折本身已成为产品。"
     },
     "danshipper": {
-      "en": "we just published the definitive guide to writing good prose with your AI\n\nread it on @every:",
-      "zh": "我们刚刚发布了用人工智能写出好散文的权威指南\n\n在@every 上阅读："
+      "en": "Dan Shipper published a definitive guide on writing effective prose with AI assistance on Every.",
+      "zh": "Dan Shipper 在 Every 上发布了一份关于使用 AI 协助编写有效文章的权威指南。"
     }
   },
   "podcasts": {
     "Data Driven NYC": {
-      "en": "Data Driven NYC episode: \"Benedict Evans: OpenAI’s Moat Problem & the Future of Software\". If you're Sam Alman, you've got a commodity technology. You've got you're competing with people who have giant legacy cash flows. You don't have your own infrastructure, don't really have any differentiation, but you've got massive mind share. So, what do you do? You try and swap that for hard asset...",
-      "zh": "数据驱动纽约剧集：“Benedict Evans：OpenAI 的护城河问题与软件的未来”。如果你是萨姆·阿尔曼，你就拥有了商品技术。你正在与拥有巨额遗产现金流的人竞争。你没有自己的基础设施，没有任何差异化，但你拥有巨大的思想份额。那么，你做什么呢？你尝试将其换成硬资产......",
+      "en": "If you're Sam Alman, you've got a commodity technology. You've got you're competing with people who have giant legacy cash flows. You don't have your own infrastructure, don't really have any differentiation, but you've got massive mind share. So, what do you do? You try and swap that for hard asset...",
+      "zh": "如果你是萨姆·阿尔曼，你就拥有了商品技术。你正在与拥有巨额遗产现金流的人竞争。你没有自己的基础设施，没有任何差异化，但你拥有巨大的思想份额。那么，你做什么呢？你尝试将其换成硬资产",
       "takeaway_en": "",
       "takeaway_zh": ""
     }
