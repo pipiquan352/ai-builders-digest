@@ -5,247 +5,294 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Builders Digest</title>
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
   * { margin:0; padding:0; box-sizing:border-box; }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    background: #f0f0f4;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #f5f5f5;
     color: #1a1a1a;
     min-height: 100vh;
+    padding-bottom: 100px;
   }
 
-  /* Header */
-  .header {
-    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a78bfa 100%);
-    padding: 48px 32px 40px;
-    position: relative;
-    overflow: hidden;
-  }
-  .header::before {
-    content: '';
-    position: absolute;
-    top: -40px; right: -40px;
-    width: 200px; height: 200px;
-    background: rgba(255,255,255,0.06);
-    border-radius: 50%;
-  }
-  .header::after {
-    content: '';
-    position: absolute;
-    bottom: -50px; right: 100px;
-    width: 140px; height: 140px;
-    background: rgba(255,255,255,0.04);
-    border-radius: 50%;
-  }
-  .header-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 1;
-  }
-  .header-label {
-    color: rgba(255,255,255,0.6);
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    margin-bottom: 6px;
-  }
-  .header h1 {
-    color: #fff;
-    font-size: 36px;
-    font-weight: 800;
-    letter-spacing: -1px;
-  }
-  .header-sub {
-    color: rgba(255,255,255,0.75);
-    font-size: 15px;
-    margin-top: 8px;
-  }
-  .header-nav {
-    display: flex;
-    gap: 8px;
-    margin-top: 20px;
-    flex-wrap: wrap;
-  }
-  .lang-btn {
-    background: rgba(255,255,255,0.15);
-    border: 1px solid rgba(255,255,255,0.2);
-    color: #fff;
-    padding: 6px 16px;
-    border-radius: 20px;
-    font-size: 13px;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-  .lang-btn:hover, .lang-btn.active {
-    background: rgba(255,255,255,0.3);
-    border-color: rgba(255,255,255,0.4);
-  }
-
-  /* Date section */
-  .date-section {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 24px;
-  }
-  .date-header {
+  /* Top nav */
+  .topnav {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin: 36px 0 20px;
+    justify-content: space-between;
+    padding: 24px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
   }
-  .date-dot {
-    width: 10px; height: 10px;
-    background: #6366f1;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-  .date-label {
+  .topnav-brand {
     font-size: 18px;
     font-weight: 700;
-    color: #374151;
-  }
-  .date-line {
-    flex: 1;
-    height: 1px;
-    background: #ddd;
-  }
-
-  /* Section tag */
-  .section-tag {
-    display: inline-flex;
+    color: #1a1a1a;
+    display: flex;
     align-items: center;
-    gap: 8px;
-    padding: 6px 16px;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: #fff;
-    margin: 20px 0 16px;
+    gap: 10px;
   }
-  .section-tag.x { background: #14171a; }
-  .section-tag.podcast { background: #e44d26; }
-  .section-tag img {
-    width: 16px; height: 16px;
-    border-radius: 3px;
+  .topnav-brand .dot {
+    width: 32px; height: 32px;
+    background: linear-gradient(135deg, #6366f1, #a78bfa);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+  }
+  .topnav-right {
+    display: flex;
+    gap: 4px;
+    background: #fff;
+    border-radius: 28px;
+    padding: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .nav-btn {
+    background: transparent;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 24px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+  }
+  .nav-btn:hover { color: #1a1a1a; }
+  .nav-btn.active {
+    background: #1a1a1a;
+    color: #fff;
   }
 
   /* Masonry grid */
-  .card-grid {
-    columns: 3;
-    column-gap: 16px;
-    max-width: 1200px;
+  .grid {
+    columns: 4;
+    column-gap: 20px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 0 40px;
   }
-  @media (max-width: 900px) { .card-grid { columns: 2; } }
-  @media (max-width: 560px) { .card-grid { columns: 1; } }
+  @media (max-width: 1100px) { .grid { columns: 3; } }
+  @media (max-width: 780px) { .grid { columns: 2; padding: 0 16px; } }
+  @media (max-width: 500px) { .grid { columns: 1; } }
 
   /* Card */
   .card {
     break-inside: avoid;
     background: #fff;
-    border-radius: 14px;
-    padding: 20px;
-    margin-bottom: 16px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: default;
   }
   .card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.1);
   }
-  .card-author {
-    font-size: 15px;
+
+  /* Colored top accent */
+  .card-accent {
+    padding: 28px 24px 24px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card-accent::before {
+    content: '';
+    position: absolute;
+    top: -30px; right: -30px;
+    width: 100px; height: 100px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 50%;
+  }
+  .card-accent::after {
+    content: '';
+    position: absolute;
+    bottom: -20px; left: 30%;
+    width: 60px; height: 60px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 50%;
+  }
+  .card-accent-name {
+    font-size: 20px;
     font-weight: 700;
-    color: #1a1a1a;
-    margin-bottom: 4px;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    line-height: 1.3;
   }
-  .card-role {
+  .card-accent-role {
     font-size: 12px;
-    color: #9ca3af;
-    margin-bottom: 10px;
+    color: rgba(255,255,255,0.75);
+    margin-top: 4px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Card body */
+  .card-content {
+    padding: 18px 22px 20px;
   }
   .card-body-en {
     font-size: 14px;
-    line-height: 1.65;
+    line-height: 1.7;
     color: #374151;
-    margin-bottom: 8px;
   }
   .card-body-zh {
     font-size: 13px;
-    line-height: 1.65;
-    color: #666;
-    border-top: 1px dashed #eee;
-    padding-top: 8px;
-    margin-bottom: 8px;
-  }
-  .card-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
+    line-height: 1.7;
+    color: #888;
     margin-top: 10px;
   }
-  .card-link {
-    display: inline-block;
-    font-size: 12px;
-    color: #6366f1;
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 22px 18px;
+  }
+  .card-tags {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .card-tag {
+    font-size: 11px;
+    color: #999;
+    background: #f5f5f5;
+    padding: 3px 10px;
+    border-radius: 12px;
     text-decoration: none;
-    border: 1px solid #e0e0ff;
-    border-radius: 20px;
-    padding: 3px 12px;
     transition: background 0.2s;
   }
-  .card-link:hover {
-    background: #f0f0ff;
-  }
+  .card-tag:hover { background: #eee; }
+  a.card-tag { color: #6366f1; }
   .card-time {
     font-size: 11px;
-    color: #bbb;
-    margin-top: 8px;
+    color: #ccc;
   }
 
   /* Podcast card */
-  .card.podcast-card {
-    border-left: 4px solid #e44d26;
+  .card-podcast .card-accent {
+    padding-bottom: 20px;
   }
-  .card-podcast-title {
-    font-size: 16px;
-    font-weight: 700;
-    color: #1a1a1a;
+  .card-podcast-icon {
+    font-size: 28px;
     margin-bottom: 8px;
-    line-height: 1.4;
+    position: relative;
+    z-index: 1;
   }
   .card-takeaway {
-    background: linear-gradient(135deg, #f0f0ff, #f5f0ff);
-    border-left: 3px solid #6366f1;
-    padding: 10px 14px;
-    border-radius: 0 8px 8px 0;
-    color: #312e81;
+    background: rgba(255,255,255,0.15);
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-top: 14px;
+    position: relative;
+    z-index: 1;
+  }
+  .card-takeaway p {
     font-size: 13px;
     font-weight: 600;
+    color: #fff;
     line-height: 1.5;
-    margin-bottom: 12px;
   }
-  .card-takeaway-zh {
-    color: #5b5299;
+  .card-takeaway .zh {
     font-weight: 400;
+    opacity: 0.8;
     display: block;
     margin-top: 6px;
   }
 
-  /* Footer */
-  .footer {
-    text-align: center;
-    padding: 40px 24px;
-    color: #9ca3af;
-    font-size: 13px;
+  /* Date divider */
+  .date-divider {
+    max-width: 1400px;
+    margin: 10px auto 24px;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
   }
-  .footer span { color: #6366f1; font-weight: 600; }
+  .date-divider-text {
+    font-size: 13px;
+    font-weight: 600;
+    color: #bbb;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .date-divider-line {
+    flex: 1;
+    height: 1px;
+    background: #e5e5e5;
+  }
+
+  /* Section label */
+  .section-label {
+    max-width: 1400px;
+    margin: 0 auto 16px;
+    padding: 0 40px;
+  }
+  .section-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .section-pill.x {
+    background: #1a1a1a;
+    color: #fff;
+  }
+  .section-pill.podcast {
+    background: #e44d26;
+    color: #fff;
+  }
+  .section-pill img {
+    width: 14px; height: 14px;
+    border-radius: 3px;
+  }
+
+  /* Floating bottom nav */
+  .bottom-nav {
+    position: fixed;
+    bottom: 28px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    border-radius: 32px;
+    padding: 6px;
+    display: flex;
+    gap: 4px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.12), 0 0 0 1px rgba(0,0,0,0.04);
+    z-index: 100;
+  }
+  .bottom-btn {
+    background: transparent;
+    border: none;
+    padding: 10px 22px;
+    border-radius: 26px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+  }
+  .bottom-btn:hover { color: #1a1a1a; }
+  .bottom-btn.active {
+    background: #1a1a1a;
+    color: #fff;
+  }
 
   /* Language visibility */
   .lang-en { display: block; }
@@ -257,43 +304,71 @@
 </head>
 <body class="show-en show-zh">
 
-<div class="header">
-  <div class="header-inner">
-    <div class="header-label">Daily Briefing</div>
-    <h1>AI Builders Digest</h1>
-    <div class="header-sub">Follow Builders, Not Influencers</div>
-    <div class="header-nav">
-      <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
-      <button class="lang-btn active" data-lang="both" onclick="setLang('both')">EN / ZH</button>
-      <button class="lang-btn" data-lang="zh" onclick="setLang('zh')">ZH</button>
-    </div>
+<div class="topnav">
+  <div class="topnav-brand">
+    <div class="dot">AB</div>
+    AI Builders Digest
+  </div>
+  <div class="topnav-right">
+    <button class="nav-btn" data-lang="en" onclick="setLang('en')">EN</button>
+    <button class="nav-btn active" data-lang="both" onclick="setLang('both')">EN / ZH</button>
+    <button class="nav-btn" data-lang="zh" onclick="setLang('zh')">ZH</button>
   </div>
 </div>
 
 <div id="content"></div>
 
-<div class="footer">
-  <span>Follow Builders, Not Influencers</span>
+<div class="bottom-nav">
+  <button class="bottom-btn active" data-lang="en" onclick="setLang('en')">English</button>
+  <button class="bottom-btn" data-lang="both" onclick="setLang('both')">Bilingual</button>
+  <button class="bottom-btn" data-lang="zh" onclick="setLang('zh')">Chinese</button>
 </div>
 
 <script>
 const DATA_DIR = 'data/';
 const EXCLUDE_HANDLES = ['zarazhangrui'];
 
+const ACCENT_COLORS = [
+  'linear-gradient(135deg, #6366f1, #818cf8)',
+  'linear-gradient(135deg, #f43f5e, #fb7185)',
+  'linear-gradient(135deg, #0ea5e9, #38bdf8)',
+  'linear-gradient(135deg, #8b5cf6, #a78bfa)',
+  'linear-gradient(135deg, #f59e0b, #fbbf24)',
+  'linear-gradient(135deg, #10b981, #34d399)',
+  'linear-gradient(135deg, #ec4899, #f472b6)',
+  'linear-gradient(135deg, #14b8a6, #5eead4)',
+  'linear-gradient(135deg, #ef4444, #f87171)',
+  'linear-gradient(135deg, #3b82f6, #60a5fa)',
+  'linear-gradient(135deg, #a855f7, #c084fc)',
+  'linear-gradient(135deg, #e44d26, #f97316)',
+  'linear-gradient(135deg, #06b6d4, #22d3ee)',
+  'linear-gradient(135deg, #d946ef, #e879f9)',
+  'linear-gradient(135deg, #84cc16, #a3e635)',
+];
+
+let colorIdx = 0;
+function nextColor() {
+  const c = ACCENT_COLORS[colorIdx % ACCENT_COLORS.length];
+  colorIdx++;
+  return c;
+}
+
 let currentLang = 'both';
 function setLang(lang) {
   currentLang = lang;
   document.body.className = '';
-  if (lang === 'en') { document.body.classList.add('show-en'); }
-  else if (lang === 'zh') { document.body.classList.add('show-zh', 'hide-en'); }
-  else { document.body.classList.add('show-en', 'show-zh'); }
-  document.querySelectorAll('.lang-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
+  if (lang === 'en') document.body.classList.add('show-en');
+  else if (lang === 'zh') document.body.classList.add('show-zh', 'hide-en');
+  else document.body.classList.add('show-en', 'show-zh');
+
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
+  document.querySelectorAll('.bottom-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
 }
 
 function extractRole(bio) {
   if (!bio) return '';
   const first = bio.split('\n')[0].trim();
-  return first.length > 80 ? first.slice(0, 80) + '...' : first;
+  return first.length > 60 ? first.slice(0, 60) + '...' : first;
 }
 
 function timeAgo(dateStr) {
@@ -303,21 +378,19 @@ function timeAgo(dateStr) {
   const h = Math.floor((now - d) / 3600000);
   if (h < 1) return 'just now';
   if (h < 24) return h + 'h ago';
-  const days = Math.floor(h / 24);
-  return days + 'd ago';
+  return Math.floor(h / 24) + 'd ago';
 }
 
 function summarizeTweets(tweets) {
   if (!tweets || tweets.length === 0) return { text: '', url: '', time: '' };
   const sorted = [...tweets].sort((a, b) => (b.likes + b.retweets) - (a.likes + a.retweets));
   const top = sorted[0];
-  const text = top.text.replace(/https:\/\/t\.co\/\S+/g, '').trim();
-  return { text, url: top.url, time: top.createdAt };
+  return { text: top.text.replace(/https:\/\/t\.co\/\S+/g, '').trim(), url: top.url, time: top.createdAt };
 }
 
 function renderPodcast(podcast, digest, container) {
   const card = document.createElement('div');
-  card.className = 'card podcast-card';
+  card.className = 'card card-podcast';
 
   const pd = digest && digest.podcasts && digest.podcasts[podcast.name];
   const enText = pd ? pd.en : '';
@@ -325,24 +398,33 @@ function renderPodcast(podcast, digest, container) {
   const takeawayEn = pd ? pd.takeaway_en : '';
   const takeawayZh = pd ? pd.takeaway_zh : '';
 
+  const color = 'linear-gradient(135deg, #e44d26, #f97316)';
+
   let takeawayHtml = '';
   if (takeawayEn || takeawayZh) {
     takeawayHtml = `<div class="card-takeaway">
-      ${takeawayEn ? `<span class="lang-en">${takeawayEn}</span>` : ''}
-      ${takeawayZh ? `<span class="card-takeaway-zh lang-zh">${takeawayZh}</span>` : ''}
+      ${takeawayEn ? `<p class="lang-en">${takeawayEn}</p>` : ''}
+      ${takeawayZh ? `<p><span class="zh lang-zh">${takeawayZh}</span></p>` : ''}
     </div>`;
   }
 
   card.innerHTML = `
-    <div class="card-podcast-title">${podcast.name}</div>
-    <div class="card-role">${podcast.title}</div>
-    ${takeawayHtml}
-    ${enText ? `<div class="card-body-en lang-en">${enText}</div>` : ''}
-    ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
-    <div class="card-links">
-      <a class="card-link" href="${podcast.url}" target="_blank">Watch Episode &rarr;</a>
+    <div class="card-accent" style="background:${color}">
+      <div class="card-podcast-icon">&#127897;</div>
+      <div class="card-accent-name">${podcast.name}</div>
+      <div class="card-accent-role">${podcast.title}</div>
+      ${takeawayHtml}
     </div>
-    <div class="card-time">${timeAgo(podcast.publishedAt)}</div>
+    <div class="card-content">
+      ${enText ? `<div class="card-body-en lang-en">${enText}</div>` : ''}
+      ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
+    </div>
+    <div class="card-footer">
+      <div class="card-tags">
+        <a class="card-tag" href="${podcast.url}" target="_blank">Watch Episode</a>
+      </div>
+      <span class="card-time">${timeAgo(podcast.publishedAt)}</span>
+    </div>
   `;
   container.appendChild(card);
 }
@@ -354,19 +436,26 @@ function renderBuilder(builder, digest, container) {
   const bd = digest && digest.x && digest.x[builder.handle];
   const enText = bd ? bd.en : text;
   const zhText = bd ? bd.zh : '';
+  const color = nextColor();
 
   const card = document.createElement('div');
   card.className = 'card';
 
   card.innerHTML = `
-    <div class="card-author">${builder.name}</div>
-    <div class="card-role">${extractRole(builder.bio)}</div>
-    <div class="card-body-en lang-en">${enText}</div>
-    ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
-    <div class="card-links">
-      <a class="card-link" href="${url}" target="_blank">View Post &rarr;</a>
+    <div class="card-accent" style="background:${color}">
+      <div class="card-accent-name">${builder.name}</div>
+      <div class="card-accent-role">${extractRole(builder.bio)}</div>
     </div>
-    <div class="card-time">${timeAgo(time)}</div>
+    <div class="card-content">
+      <div class="card-body-en lang-en">${enText}</div>
+      ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
+    </div>
+    <div class="card-footer">
+      <div class="card-tags">
+        <a class="card-tag" href="${url}" target="_blank">View Post</a>
+      </div>
+      <span class="card-time">${timeAgo(time)}</span>
+    </div>
   `;
   container.appendChild(card);
 }
@@ -381,7 +470,6 @@ async function loadJSON(path) {
 
 async function init() {
   const content = document.getElementById('content');
-
   const today = new Date();
   const days = [];
   for (let i = 0; i < 7; i++) {
@@ -393,31 +481,28 @@ async function init() {
   for (const day of days) {
     const data = await loadJSON(DATA_DIR + day + '.json');
     if (!data || data.status === 'error') continue;
-
     const digest = await loadJSON(DATA_DIR + day + '-digest.json');
 
-    // Date header
-    const dateSection = document.createElement('div');
-    dateSection.className = 'date-section';
     const dateObj = new Date(day + 'T00:00:00');
     const dateLabel = dateObj.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-    dateSection.innerHTML = `<div class="date-header">
-      <div class="date-dot"></div>
-      <div class="date-label">${dateLabel}</div>
-      <div class="date-line"></div>
-    </div>`;
-    content.appendChild(dateSection);
+
+    // Date divider
+    const divider = document.createElement('div');
+    divider.className = 'date-divider';
+    divider.innerHTML = `<span class="date-divider-text">${dateLabel}</span><div class="date-divider-line"></div>`;
+    content.appendChild(divider);
 
     // X section
     const xBuilders = (data.x || []).filter(b => !EXCLUDE_HANDLES.includes(b.handle));
     if (xBuilders.length > 0) {
-      const tag = document.createElement('div');
-      tag.className = 'date-section';
-      tag.innerHTML = '<div class="section-tag x"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="16" height="16" alt="X"></div>';
-      content.appendChild(tag);
+      const label = document.createElement('div');
+      label.className = 'section-label';
+      label.innerHTML = '<span class="section-pill x"><img src="https://abs.twimg.com/favicons/twitter.3.ico" width="14" height="14" alt="X"></span>';
+      content.appendChild(label);
 
       const grid = document.createElement('div');
-      grid.className = 'card-grid';
+      grid.className = 'grid';
+      colorIdx = Math.floor(Math.random() * ACCENT_COLORS.length);
       const shuffled = [...xBuilders].sort(() => Math.random() - 0.5);
       shuffled.forEach(b => renderBuilder(b, digest, grid));
       content.appendChild(grid);
@@ -425,19 +510,19 @@ async function init() {
 
     // Podcast section
     if (data.podcasts && data.podcasts.length > 0) {
-      const tag = document.createElement('div');
-      tag.className = 'date-section';
-      tag.innerHTML = '<div class="section-tag podcast">&#127897; PODCASTS</div>';
-      content.appendChild(tag);
+      const label = document.createElement('div');
+      label.className = 'section-label';
+      label.style.marginTop = '28px';
+      label.innerHTML = '<span class="section-pill podcast">&#127897; Podcasts</span>';
+      content.appendChild(label);
 
       const grid = document.createElement('div');
-      grid.className = 'card-grid';
+      grid.className = 'grid';
       data.podcasts.forEach(p => renderPodcast(p, digest, grid));
       content.appendChild(grid);
     }
   }
 
-  // Apply initial language
   setLang('both');
 }
 
