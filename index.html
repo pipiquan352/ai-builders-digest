@@ -492,7 +492,7 @@ function renderBuilder(builder, digest, container) {
   const zhText = bd ? bd.zh : '';
 
   const card = document.createElement('div');
-  const isLong = (enText.length + (zhText || '').length) > 300;
+  const isLong = (enText.length + (zhText || '').length) > 500;
   card.className = 'card' + (isLong ? ' card-wide' : '');
 
   card.innerHTML = `
@@ -557,8 +557,14 @@ async function init() {
 
       const grid = document.createElement('div');
       grid.className = 'grid';
-      const shuffled = [...xBuilders].sort(() => Math.random() - 0.5);
-      shuffled.forEach(b => renderBuilder(b, digest, grid));
+      // Sort by engagement (likes + retweets) so order is stable
+      const sorted = [...xBuilders].sort((a, b) => {
+        const aTop = a.tweets?.[0]; const bTop = b.tweets?.[0];
+        const aScore = aTop ? (aTop.likes + aTop.retweets) : 0;
+        const bScore = bTop ? (bTop.likes + bTop.retweets) : 0;
+        return bScore - aScore;
+      });
+      sorted.forEach(b => renderBuilder(b, digest, grid));
       content.appendChild(grid);
     }
 
