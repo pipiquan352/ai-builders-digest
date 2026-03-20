@@ -1,72 +1,72 @@
 {
   "x": {
     "karpathy": {
-      "en": "Andrej Karpathy praises the Project Hail Mary film adaptation for faithfully capturing the book's scientific depth and creative alien worldbuilding while maintaining the bromance that makes the story compelling, though noting it leans slightly more into superhero movie pacing than the grand scope of Interstellar or hard sci-fi focus of The Martian.",
-      "zh": "Andrej Karpathy 称赞《Hail Mary 计划》电影版忠实呈现了原著的科学深度和创意十足的外星人设定，同时保留了驱动故事的关键关系，但指出它在节奏上稍微倾向于超级英雄电影的风格，而不是《星际穿越》的宏大或《火星救援》的硬科幻焦点。"
+      "en": "Andrej Karpathy reviewed Project Hail Mary film, praising its faithful adaptation of Andy Weir's book and the thoughtful alien design with rich scientific details; he notes the movie leans slightly toward superhero pacing but excels at character relationships and the central bromance.",
+      "zh": "Andrej Karpathy 评价《火星救援》电影对 Andy Weir 原著的忠实改编和精心设计的外星人设定，包含丰富的科学细节；他指出电影在超级英雄式节奏方面有所倾斜，但在角色关系和核心关系刻画上表现出色。"
     },
     "swyx": {
-      "en": "Swyx emphasizes that developers should give their designers access to coding agents, as this dramatically increases productivity and creative output—and reveals how much developer constraints were previously limiting designer potential.",
-      "zh": "Swyx 强调开发者应该让设计师访问编码 agent，这会显著提升生产力和创意产出——并揭示开发者的限制之前对设计师潜力的制约程度。"
+      "en": "Swyx advocates giving designers direct access to coding agents, arguing this dramatically improves both productivity and design quality while revealing how much developers were previously slowing designers down.",
+      "zh": "Swyx 主张给设计师直接访问编码 agent 的权限，认为这能大幅提高生产力和设计质量，同时暴露了开发者之前对设计师效率的阻碍。"
     },
     "joshwoodward": {
-      "en": "Josh Woodward announces a Gemini Android fix that allows users to pause mid-speech without the app cutting them off prematurely, improving the experience of natural conversation flow.",
-      "zh": "Josh Woodward 宣布 Gemini Android 修复，允许用户在说话中途暂停而不会被应用打断，改善了自然对话流的体验。"
+      "en": "Josh Woodward announced a fix for Gemini's Android voice feature, allowing users to pause mid-speech without the app interrupting prematurely; iOS support coming in a few weeks.",
+      "zh": "Josh Woodward 宣布 Gemini Android 语音功能修复，用户可在说话中暂停而不会被应用过早打断；iOS 支持将在几周内推出。"
     },
     "petergyang": {
-      "en": "Peter Yang outlines OpenAI's competitive strategy: leverage ChatGPT's massive user base, improve it for coding and knowledge work, and expand toward personal assistant capabilities like OpenClaw before users migrate to Claude or Gemini.",
-      "zh": "Peter Yang 阐述了 OpenAI 的竞争策略：利用 ChatGPT 庞大的用户基数，为编码和知识工作改进产品，并在用户迁移到 Claude 或 Gemini 之前扩展到个人助手功能。"
+      "en": "Peter Yang outlines OpenAI's strategy: leverage ChatGPT's dominant installation base, enhance it for coding and knowledge work, then evolve it into a personal assistant (like OpenClaw) that adapts to individual users before competitors capture those use cases.",
+      "zh": "Peter Yang 概述 OpenAI 的策略：利用 ChatGPT 最大的安装基数，增强其编码和知识工作能力，然后演进成个人助手（如 OpenClaw）在竞争对手抢占这些应用场景前满足用户需求。"
     },
     "thenanyu": {
-      "en": "Nan Yu sarcastically comments on Forbes' 30 Under 30 list, suggesting it lacks credibility.",
-      "zh": "Nan Yu 讽刺评论了《福布斯》30 岁以下精英榜单，暗示其缺乏可信度。"
+      "en": "Nan Yu sarcastically comments that Forbes 30 Under 30 list remains consistently fraudulent.",
+      "zh": "Nan Yu 讽刺评论 Forbes 30 Under 30 榜单持续欺诈性。"
     },
     "AmandaAskell": {
-      "en": "Amanda Askell humorously suggests getting married again so media outlets have a more recent reference point when discussing her work instead of relying on outdated biographical details.",
-      "zh": "Amanda Askell 幽默地暗示再结一次婚，这样媒体在讨论她的工作时可以有更近期的参考，而不是依赖过时的传记细节。"
+      "en": "Amanda Askell humorously suggests getting married again so the media has fresher personal details to reference when covering her or her work.",
+      "zh": "Amanda Askell 幽默地建议再次结婚，这样媒体在报道她或她的工作时有更新鲜的个人细节可以参考。"
     },
     "trq212": {
-      "en": "Thariq announces Claude Code channels, a new feature enabling control of Claude Code sessions through MCPs like Telegram and Discord, allowing direct messaging with Claude Code from mobile devices.",
-      "zh": "Thariq 宣布推出 Claude Code channels，这是一项新功能，允许通过 Telegram 和 Discord 等 MCP 控制 Claude Code 会话，支持从移动设备直接与 Claude Code 通信。"
+      "en": "Thariq announced Claude Code channels feature, enabling control of Claude Code sessions through select MCPs starting with Telegram and Discord, allowing direct messaging from mobile devices.",
+      "zh": "Thariq 宣布 Claude Code channels 功能，允许通过包括 Telegram 和 Discord 在内的 MCP 控制 Claude Code 会话，支持从移动设备直接消息传递。"
     },
     "amasad": {
-      "en": "Amjad Masad extends warm Eid greetings.",
-      "zh": "Amjad Masad 送上温暖的开斋节祝福。"
+      "en": "Amjad Masad sent Eid greetings.",
+      "zh": "Amjad Masad 发送开斋节问候。"
     },
     "levie": {
-      "en": "Aaron Levie (Box CEO) argues that workers skilled with AI agents will see their compute budgets grow monotonically, extending from engineering to all knowledge work—lawyers drafting documents, marketers running campaigns, sales reps handling leads—as these token-dependent activities scale exponentially.",
-      "zh": "Box CEO Aaron Levie 认为掌握 AI agent 的员工的计算预算将单调增长，从工程扩展到所有知识工作——律师起草文件、营销人员运行活动、销售代表处理线索——随着这些 token 依赖活动的指数级扩展。"
+      "en": "AI agents will monotonically increase compute budgets for workers who master them across all knowledge work domains—from lawyers and marketers to sales reps—shifting AI spending from IT budgets to business unit ownership, making CFOs potential heads of AI strategy.",
+      "zh": "掌握 AI agent 的员工将看到计算预算持续增长，从工程扩展到法律、营销和销售等所有知识工作领域——将 AI 支出从 IT 预算转向业务部门所有权，使 CFO 有可能成为 AI 战略负责人。"
     },
     "ryolu_": {
-      "en": "Ryo Lu highlights Composer 2's key strengths: frontier intelligence, fractional cost, and speed in AI development.",
-      "zh": "Ryo Lu 强调 Composer 2 的关键优势：前沿智能、分数成本和 AI 开发速度。"
+      "en": "Frontier intelligence, cost-effective, fast—Composer 2 delivers.",
+      "zh": "前沿智能，成本低，速度快——Composer 2 交付。"
     },
     "garrytan": {
-      "en": "Garry Tan (YC President) embedded an easter egg into the YC /office-hours skill.",
-      "zh": "Y Combinator 主席 Garry Tan 在 YC /office-hours skill 中嵌入了一个彩蛋。"
+      "en": "Easter egg: Garry Tan embedded a YC reference into his /office-hours skill.",
+      "zh": "彩蛋：Garry Tan 在 /office-hours 技能中嵌入了 YC 参考。"
     },
     "mattturck": {
-      "en": "Matt Turck discusses with Benedict Evans OpenAI's focus shifts, ChatGPT's shallow adoption, why better models don't solve real problems, the rise of improvised software, and the role of agents in defensibility—suggesting we're in an AI Desktop Linux moment.",
-      "zh": "Matt Turck 与 Benedict Evans 讨论 OpenAI 的战略转变、ChatGPT 的浅层采用、为什么更好的模型无法解决真正问题、临时软件的崛起以及 agent 在防御性中的作用——暗示我们正处于 AI 桌面 Linux 时刻。"
+      "en": "Benedict Evans discussion explores OpenAI's moat challenges, the shift toward ephemeral and improvised software powered by agents, and how the AI industry is moving beyond simple chatbot interfaces to complex agent-driven workflows.",
+      "zh": "Benedict Evans 讨论深入探讨 OpenAI 的护城河挑战、向临时性和即兴软件的转变（由 agent 驱动），以及 AI 行业如何超越简单的聊天机器人界面转向复杂的 agent 驱动工作流。"
     },
     "nikunj": {
-      "en": "Nikunj Kothari argues that momentum-driven investing is finally declining, as the ecosystem's focus on unsustainable growth-at-all-costs practices—data manipulation, lack of diligence—will eventually correct.",
-      "zh": "Nikunj Kothari 认为动量驱动的投资最终在衰退，因为生态系统对不可持续的不惜一切代价增长的关注——数据操纵、缺乏尽职调查——最终会纠正。"
+      "en": "The momentum-obsessed culture in VC and startup ecosystems—marked by data manipulation, poor due diligence, and unchecked growth—is showing signs of finally reversing as market gravity reasserts itself.",
+      "zh": "VC 和创业生态系统中痴迷于动量的文化——以数据操纵、尽职调查不力和无节制增长为特征——正显示出最终逆转的迹象，市场重力重新发挥作用。"
     },
     "steipete": {
-      "en": "Peter Steinberger observes that frustration itself has become the product.",
-      "zh": "Peter Steinberger 观察到挫折本身已成为产品。"
+      "en": "Your frustration is the product.",
+      "zh": "你的挫折感就是产品。"
     },
     "danshipper": {
-      "en": "Dan Shipper published a definitive guide on writing effective prose with AI assistance on Every.",
-      "zh": "Dan Shipper 在 Every 上发布了一份关于使用 AI 协助编写有效文章的权威指南。"
+      "en": "Every just published a definitive guide to writing high-quality prose with AI assistance, offering practical techniques for crafting better content.",
+      "zh": "Every 发布了关于使用 AI 辅助编写高质量文案的权威指南，提供了编写更好内容的实用技巧。"
     }
   },
   "podcasts": {
     "Data Driven NYC": {
-      "en": "If you're Sam Alman, you've got a commodity technology. You've got you're competing with people who have giant legacy cash flows. You don't have your own infrastructure, don't really have any differentiation, but you've got massive mind share. So, what do you do? You try and swap that for hard asset...",
-      "zh": "如果你是萨姆·阿尔曼，你就拥有了商品技术。你正在与拥有巨额遗产现金流的人竞争。你没有自己的基础设施，没有任何差异化，但你拥有巨大的思想份额。那么，你做什么呢？你尝试将其换成硬资产",
-      "takeaway_en": "",
-      "takeaway_zh": ""
+      "en": "Benedict Evans argues that OpenAI faces a critical strategic problem: while foundation models lack network effects, OpenAI has massive mindshare but only 5% of its 900M weekly users are paying customers, using the platform just one mile wide and an inch deep. Without a sustainable moat, the company is attempting to build durable ecosystems above the commodity models—through partnerships, integrations, and applications—but faces challenges competitors like Meta and Google don't, as they can embed LLMs into existing profitable businesses. The real question isn't whether better models solve the problem (they don't, since most use cases accept 80-90% accuracy), but whether OpenAI can transform mindshare into locked-in developer ecosystems before other organizations leapfrog their models.",
+      "zh": "Benedict Evans 指出，OpenAI 面临一个关键的战略问题：虽然基础模型缺乏网络效应，但 OpenAI 拥有巨大的心智份额，却只有 5% 的 9 亿周活用户是付费客户，用户基数很广但深度很浅。在缺乏可持续护城河的情况下，OpenAI 试图通过合作、集成和应用程序在商品化模型上建立持久的生态系统，但面临 Meta 和 Google 不存在的挑战，因为后者可以将 LLM 嵌入现有的盈利业务中。真正的问题不是更好的模型是否能解决问题（实际上不能，因为大多数用例都接受 80-90% 的准确率），而是 OpenAI 能否在其他组织不断超越其模型之前，将心智份额转化为锁定的开发者生态系统。",
+      "takeaway_en": "OpenAI's moat isn't in models—it's in building an irreplaceable platform ecosystem before commodity LLMs make all models interchangeable.",
+      "takeaway_zh": "OpenAI 的护城河不在模型本身——而在于在商品化 LLM 使所有模型可互换之前，建立一个不可替代的平台生态系统。"
     }
   }
 }
