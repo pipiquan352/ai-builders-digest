@@ -1,0 +1,76 @@
+{
+  "x": {
+    "levie": {
+      "en": "Shared detailed takeaways from meetings with 20+ enterprise AI leaders. Key trends: agents are the dominant theme replacing chatbots, with coding as the leading agentic use case. Data governance and agent identity/permissions are emerging challenges. Also argues that agents will outnumber human users on the web, creating new micro-payment revenue models.",
+      "zh": "分享了与20多位企业 AI 领导者会面的详细观察。关键趋势：agent 正在取代 chatbot 成为核心话题，编程是目前最主要的 agent 应用场景。数据治理和 agent 身份/权限管理成为新兴挑战。他还提出 agent 在网络上的数量将远超人类用户，由此催生全新的微支付商业模式。"
+    },
+    "alexalbert__": {
+      "en": "Announced a webinar on applying AI to work, featuring best practices for Claude for Excel/Powerpoint, with one free month of Claude Pro for attendees.",
+      "zh": "宣布举办 AI 工作应用研讨会，介绍 Claude for Excel/Powerpoint 的最佳实践，参与者可获得一个月免费 Claude Pro。"
+    },
+    "claudeai": {
+      "en": "Announced its developer conference \"Code with Claude\" returning this spring in San Francisco, London, and Tokyo, featuring workshops, demos, and 1:1 office hours.",
+      "zh": "宣布开发者大会 \"Code with Claude\" 将于今春在旧金山、伦敦和东京举办，包含工作坊、演示和一对一答疑环节。"
+    },
+    "trq212": {
+      "en": "Announced a skills livestream on March 19th with a special guest from Uber sharing how they use skills.",
+      "zh": "宣布于3月19日举办 skills 直播，并邀请 Uber 嘉宾分享他们的 skills 使用经验。"
+    },
+    "rauchg": {
+      "en": "Announced Next.js 16.2 \"Snow Leopard\" focused on performance and agentic developer experience, and welcomed Mitchell Hashimoto (HashiCorp founder) to the Vercel board to help define \"Agentic Infrastructure.\"",
+      "zh": "发布了 Next.js 16.2 \"Snow Leopard\"，专注于性能和 agentic 开发者体验，并宣布 HashiCorp 创始人 Mitchell Hashimoto 加入 Vercel 董事会，称他是定义\"Agentic Infrastructure\"的最佳人选。"
+    },
+    "GoogleLabs": {
+      "en": "Launched the new Stitch, an AI-native \"vibe design\" platform that transforms natural language into high-fidelity designs, with voice interaction for real-time collaboration.",
+      "zh": "推出全新 Stitch，一个 AI 原生的\"vibe design\"平台，支持用自然语言生成高保真设计，并可通过语音实时协作迭代。"
+    },
+    "joshwoodward": {
+      "en": "Highlighted Stitch Live, a new feature letting users talk to their designs via voice for real-time critiques and edits.",
+      "zh": "重点介绍了 Stitch Live 新功能，用户可以用语音与设计稿对话，实现实时设计审查和修改。"
+    },
+    "karpathy": {
+      "en": "Recalled Jensen Huang's prescient 2015 GTC talk where Jensen cited Karpathy's PhD thesis as evidence that deep learning was \"The Next Big Thing\" — back when most people were still skeptical.",
+      "zh": "回忆了 Jensen Huang 2015年 GTC 大会上极具远见的演讲，当时 Jensen 引用了 Karpathy 的博士论文来证明深度学习是\"下一个大事件\"，那时大多数人还持怀疑态度。"
+    },
+    "amasad": {
+      "en": "Highlighted impressive growth rates for a project, noting the compounding potential, and shared insights on Replit's sales culture where \"the best seller had previously never sold a day in his life.\"",
+      "zh": "关注了一个项目令人印象深刻的增长速度，强调复合增长的潜力，并分享了 Replit 的销售文化洞察：\"Replit 最好的销售此前从未做过一天销售。\""
+    },
+    "nikunj": {
+      "en": "Shared a candid breakdown of underrated AI models: Gemini 3 Flash for long context at low cost, GPT 5.4 Pro for hard reasoning (\"no model comes close\"), NotebookLM for slides, and open-source picks like Minimax 2.5 and GLM.",
+      "zh": "分享了被低估的 AI 模型盘点：Gemini 3 Flash 在长上下文场景性价比极高，GPT 5.4 Pro 的深度推理能力\"没有模型能比\"，NotebookLM 做幻灯片用了底层的\"nano banana\"模型，开源方面推荐 Minimax 2.5 和 GLM。"
+    },
+    "steipete": {
+      "en": "Announced OpenClaw now supports every major LLM provider, and helped launch a new community ambassador page for Codex.",
+      "zh": "宣布 OpenClaw 现已支持所有主流 LLM 提供商，并协助上线了 Codex 的社区大使页面。"
+    },
+    "danshipper": {
+      "en": "Shared that Codex threads can now message each other, enabling use cases like having one chat thread handle stacked production deployments.",
+      "zh": "分享了 Codex 的新功能：线程之间可以互相通信，比如让一个聊天线程专门管理堆叠的生产部署。"
+    },
+    "garrytan": {
+      "en": "Open-sourcing his approach to building a \"software factory\" with AI, and shared a browser-based workflow using Claude.",
+      "zh": "正在开源他用 AI 构建\"软件工厂\"的方法，并分享了一个基于浏览器的 Claude 工作流。"
+    },
+    "petergyang": {
+      "en": "Compared modern AI tools to \"slot machines but 100x more addictive,\" and noted he now writes blog posts via the terminal.",
+      "zh": "把现代 AI 工具比作\"老虎机，但成瘾性高100倍\"，还感慨自己现在竟然通过终端写博客了。"
+    },
+    "adityaag": {
+      "en": "Observed that the best hardware founders are winning by telling compelling stories about the future, not leading with specs: \"Nobody cares about your actuator resolution. They care about what it means.\"",
+      "zh": "观察到最优秀的硬件创始人靠的是讲述关于未来的故事，而不是堆参数：\"没人关心你的执行器分辨率，他们关心的是这意味着什么。\""
+    },
+    "swyx": {
+      "en": "Commented on being outpaced by other creators in the AI content space.",
+      "zh": "感叹自己在 AI 内容领域被其他创作者超越了。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "StarCloud founder and CEO Philip Johnston makes a compelling case for why data centers belong in space. The core economics: on Earth, every additional data center gets more expensive. In space, marginal costs go down. Solar panels produce 8x the energy per square meter, need no batteries, and require no permitted land. StarCloud already has an H100 GPU operating in orbit with zero chip failures. Their all-in energy cost will be under half a cent per kilowatt-hour, versus 8 cents terrestrially.",
+      "zh": "StarCloud 创始人兼 CEO Philip Johnston 为太空数据中心提出了令人信服的经济论证。核心逻辑：在地球上每增加一个数据中心就更贵，在太空中边际成本反而下降。太阳能板每平方米产能是地面的8倍，不需要电池，也不需要审批用地。StarCloud 的第一颗卫星上已有 H100 GPU 在轨运行，零芯片故障。最终全部能源成本将低于每千瓦时半美分，而地面是8美分。",
+      "takeaway_en": "Within 5-10 years, at least half of all new compute capacity will be deployed in space, making space data centers potentially the largest market opportunity in history.",
+      "takeaway_zh": "未来5到10年，至少一半的新增算力将部署在太空，太空数据中心可能成为有史以来最大的市场机会。"
+    }
+  }
+}
