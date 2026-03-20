@@ -1,28 +1,5 @@
 {
-  "status": "ok",
-  "generatedAt": "2026-03-20T02:03:08.815Z",
-  "config": {
-    "language": "bilingual",
-    "frequency": "daily",
-    "delivery": {
-      "method": "email",
-      "email": [
-        "menquan@tesla.com",
-        "406044936@qq.com"
-      ]
-    }
-  },
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Greetings, Earthlings: Philip Johnston of Starcloud on Data Centers in Space",
-      "videoId": "FKHENV75b9Q",
-      "url": "https://youtube.com/watch?v=FKHENV75b9Q",
-      "publishedAt": "2026-03-17T00:00:00.000Z",
-      "transcript": "The problem with doing this buildout on Earth is that like the marginal cost on every additional data center goes up every time you add one because we're using all the easy places to build energy projects. >> Yeah. >> In space the marginal cost goes down for every additional unit because you're now you're manufacturing at rate and you're um you know the more Starships you fly the cheaper the cheaper it gets and all the rest of it. And so there comes a crossover point [laughter] where it just makes it makes zero sense to continue building things on Earth. Um, so, uh, I think it will be like close to a trillion dollars per year of capex spend within 10 years being deployed in space. So, by far the largest market opportunity ever. >> [music] >> We are thrilled to have with us today Philip Johnston, founder and CEO of StarCloud. You were the first to put up data centers in space. And just a few months ago, your first data center, StarCloud 1, sent back the message to Earth, \"Greetings, Earthlings.\" Or, as I prefer to think of you, a fascinating collection of blue and green. What a poetic thing to think about. AI in space looking back at us. Um, congratulations on what you've done. I'm excited to to ask you all about data centers in space for this episode. Uh, maybe for us to get started, why build data centers in space? >> Yeah. Um, so firstly, thanks so much for having me. It's freaking awesome to be here. Um, so a quick background on myself. Um, I first I mean I've been interested in space my whole life. Um I actually spent a few years with McKenzie with the space agencies of the UA the different governments uh around the world and that's where I started to notice that the launch cost was very rapidly coming down. >> Um and so three years ago I kind of randomly on a weekend decided to take a trip down to Starbase Texas where SpaceX is building the Starship launch vehicle. And I think it just blew me away the scale of the new sort of gigafactories they're building. I think they're planning to build three Starships per day or something on that order. And so the coming capacity and the potential launch cost is uh you know orders of magnitude off where it is today. And so you know I started thinking about okay what is that going to enable? What new businesses will that enable? And with my co-founder Ezra um and Ezra and I go way back we grew up in the same place in the UK. Um we started looking at the concept of space-based solar which is where you have these huge solar panels in space and then you somehow beam that power down. It's not really a new idea. I mean, people have been looking at this since um I think Isaac Azimov in the 40s was talking about it. >> Um the problem with spacebased solar is you lose most of the energy and transmission from space to earth. And we very quickly realized, okay, once we get that power down, you know, most new energy projects on Earth today are being built to power data centers. So either directly or indirectly, that power is going to be going into data centers. And so if we can find instead a cheap way to get the data center to space, we don't lose all of that power and transmission. we can consume that power close to the source and that then became the basis of a white paper that we put out um in 2024 and from there that's that's how how the company got going. >> Well, let me ask you so there's a distinction I heard a lot in there on it is possible to do data centers in space. [laughter] >> Why do we need to do data centers in space? Maybe possible. Yeah. >> Why do we need to do it? Why do we need to go to space? >> Yeah, it's a great question. The main reason is we are very quickly running up against constraints on where and how we can build new energy projects terrestrially to power data centers. So for example, if you want to build a new 100 megawatt energy project, you're looking at a 5 to 10 year lead time just on the permitting u particularly in North America. And so for example, if you want to cover 10 square kilometers of countryside with solar panels, there's a lot of people who are going to be very annoyed about that. Um, and so you just have these, you know, we're we're very rapidly plowing towards a a brick wall where it's going to be extremely difficult to build new energy projects. We've already built in the easy places. >> If we could wave a magic wand and remove the regulatory constraint. What's the next constraint we run into? >> Um, well, it is actually just cheaper to build things in space once the launch cost gets below a certain point. So, for example, with uh terrestrial solar, which is the cheapest form of energy we have, you've got three big costs. the first one I mentioned which is the cost of permitted land. The second is the cost of battery storage and backup power and then the last is the cost of the solar cells themselves. Um so in space number one we don't need permitted land. Number two we don't need batteries and backup power because we're 24/7 in the sun. And then lastly we need eight times less solar because one square meter of solar panel in space produces eight times the energy of one square meter of solar panel on Earth. And so there's a break even point where the launch cost, which is our main additional cost in space, where the launch cost comes below the cost of those three factors, we see that break even to be around $500 a kilo. But as the cost of permitted land goes up, which it is going through the roof right now, um that break even point actually comes even closer to $1,000 a kilo. But but as I say, even if your even if your permitted land cost is zero, you still have those other two factors. Um, and so at some point if you're going to build data centers anywhere, you know, once the launch cost is below a few hundred bucks a kilo, you're going to do it in space because it's just cheaper. >> What have you learned about maintenance in space? >> Yeah, it's a great question as well. Um, so for maintenance, we'll be operating very similar to the way that Starlink satellites work in the initial years. We're not going to have robotic maintenance or anything for the first few generations at least. And so that means we need to have redundancy on the critical systems and then we overprovision things which fail over time like solar panels. You lose a few% per year. It's very very important that the chips do not have a higher failure rate in space than they do on earth because the chips are one of the largest uh costs in this. And so a huge amount of our time probably 70 70% of our engineering time is going on to the heat problem and the other 30% is going on to making the chips as reliable as possible in space. And that means a whole bunch of testing in different uh particle accelerators. We did two rounds of testing at the cyclron proton beam accelerator in Knoxville, one round of testing at the heavy ion particle particle accelerator in Brook Haven National Lab. And we run it in 24 hours. We can simulate 5 years worth of radiation. And with that then all of that data then goes into informing our choice on shielding and other um you know software for bit flip migrations and things like that. Um but in terms of what we've learned on the first satellite, it's actually the H100 that we have on orbit right now, um we've not had a single restart failure yet or or issue that needed a restart from the chip itself. There are other uh areas which we may need to put a bit more attention to. For example, the power delivery and solid state drives, but the actual chip itself is extremely resilient and GPU workloads in general are very resilient. And the reason is they're stochastic in nature. And so if you for example if you type into chatgbt write me a poem about space it will give you this two different poems the the quality of the perm will be will be the same you know it will have the exact same quality of the output but the specific instance will be different and so with a bit flip on any part of that um or on most of the parts of that workload it actually doesn't make a difference to the quality of the output. M so so it's actually yeah it's surprisingly um uh resilient. >> You said you spend the bulk of your engineering time on the heat problem. >> Yeah. >> I think most people have this notion that you know space is cold and so therefore it should be easier problem. >> When Sonia says most people I I thought that was the [laughter] case. >> Yeah. >> Until a few until a few months ago. >> So can you just talk about you know what exactly is the heat dissipation problem and what are you doing to solve it? >> Yeah for sure. Um, so yeah, as you mentioned, space is cold and in general that's actually once you get far enough down this rabbit hole, that ends up being great. Uh, what what's not great is that space is a vacuum. And so obviously like a thermos flask is designed that way because a vacuum is an insulator. And so the only form of heat dissipation you can have is infrared radiation. And so everything in this world glows in infrared. If you had a camera on your face, your face would be glowing in infrared. Um, and the same is true in space. And the the amount that it glows is proportional to the temperature differential between the temperature away from your faces or away from the satellite versus and it actually scales with the fourth power of the temperature. So a very small increase in the temperature increases the heat dissipation by a huge amount. >> And so um what the one of the critical things is we we need to run these radiators as hot as possible. There's a few different ways you can do that. Either you can run try and run the chips as as hot as possible. The problem with that is you the chips are you know have a shorter lifetime if you run them hot. The other thing you can do is there's a few ways to artificially boost the temperature of the radiator. So things like heat pipes uh heat pumps sorry which um you can take for example 60°ree fluid from the chips and then you can turn that into 100 degree radiator temperature with heat pumps. >> Got it. And so so would you say the heat dissipation problem is like a solved problem for you all now? You obviously have one GPU in space. >> Yeah. um what is it going to take to to solve the problem for you know eventually hopefully gigawatt scale data centers in space. >> Yeah. How does it change as you scale? >> Yeah. Um so the first one actually has a very different thermal management system than than the next one coming up. The first one we submerged the entire motherboard power systems GPU and everything else in this phase change material. It's like a a material that goes from solid to liquid as it as it heats up. We can't run that continuously though. That was merely just to prove out that this works. The second one is much closer to the end state which is has got this enormous um low cost and low mass deployable radiator. So it has liquid. We've got a custom heat sinks next to the GPUs runs past this fluid runs past the GPUs and then out to this extremely large uh deployable radiator. From that one to the next one just scaling it up. It actually is pretty simple. Um, and so yeah, we we'll we've tested this, you know, in thermal and vacuum chambers and it works. We just need to now put it on orbit and make sure it actually works on orbit. And that's going to happen later this year. >> Awesome. Um, and how much I guess relatedly, you you have one GPU up in space currently. >> Do you see yourselves launching? >> Oh, you have five now. >> Well, no, there's five Nvidia GPUs on that first one. The H100 is the one that gets the press. >> I [laughter] see. I see. um how much I guess what is the launch capacity so to speak of what can you get up in a single payload and how big these you know do you think these individual data centers can get? >> Yeah, so we're designing for the StarCloud 3. Uh the next one that we're launching is around 8 kilow. Um so pretty small still. The one after that which is what we're now designing is the StarCloud 3. It's we can fit um 50 of them per Starship and they fit out the PEZ dispenser form factor that door that Starship has that little slit. >> Yeah. >> Um so each one of those is about 200 kW about three tons. And so if you're 200 kow per StarCloud 3 satellite and it's it's all for inference essentially. That means you can fit 50 so it's about 10 megawatts per Starship launch. And so once Starship is flying at rate, you know, we're expecting to fly hundreds of these per month. And so you're talking, you know, several gigawatts of new capacity per month, tens of gigawatts of new capacity per year. >> So you mentioned it's all for inference. I was wondering about that because >> pre-training you want contiguous compute might be tough if you're sending everything up into a space. >> Yeah, >> inference you want low latency. There's some, >> you know, there there's a speed of light component getting information to and from space. Is that a bottleneck at all or is that is it low latency enough that it doesn't matter for inference? >> It's um it's as low latency as Starlink. So if you can do any inference workload through Starlink, you know, if you were using chat GPT on your phone through Starlink for example, it would be exactly the same. So sub 50 millisecond latency when you're on Earth and that means any, you know, like if you have a a Zoom call, uh that could easily happen with 200 millisecond latency and you wouldn't notice the the delay there. So um basically any inference workload uh you know voice agents for customer service or back office business processing agents or video generation or chatbt or anything else can be done uh with this constellation. >> And then maybe slightly different question but kind of on this vein. If you had a trillion dollars >> just sitting in a bank account and you you had to use it to build the compute backbone for AGI >> how much of that trillion dollars is going into space? >> 100%. Okay. All right. Paint that picture for us. >> I mean I I we really are talking about by far the largest market opportunity ever. So we are talking about trillions of dollars per year of cap explain going my best guess is that within 5 to 10 years at least half of all new comput capacity is being deployed in space for the energy. So the problem with doing this buildout on Earth is that every additional cost uh data center you add to the grid like the marginal cost on every additional data center goes up every time you add one because we're using all the easy places to build energy projects. >> Yeah. >> In space the marginal cost goes down for every additional unit because you're now you're manufacturing at rate and you're um you know the more Starships you fly the cheaper the cheaper it gets and all the rest of it. And so there comes a crossover point [laughter] where it just makes in it makes zero sense to continue building things on Earth. Um so uh I think it will be like close to a trillion dollars per year of capex spend within 10 years being deployed in space. >> So by far the largest market opportunity ever. >> Where and when do you think we will first cross over? When I say where and when, I mean like what >> geos will become untenable and therefore you'll need to go up into space. >> Um as soon as Starship is flying frequently it will be cheaper to build data centers in space. So my my guess for for it looks like the first Starling payloads will be either end of this year early next year Starling P3. Um and then as I understand it will be 12 to 18 months after that that the first commercial payloads are going up and so that will be um yeah on the order of mid to late 2028 >> and then once it's flying frequently it becomes way cheaper. Do you think that there's, you know, stuff that needs to be solved in terms of data transmission? Like, do we need optical lasers, uh, sending data back and forth, uh, up there in order to kind of once we're operating data centers at at scale in space? And are those all solved problem? >> Mesh network in space. >> That's solved. Yeah, it didn't used to be until two or three years ago, but um, you know, Starlink has basically solved that. And there's a bunch of other constellations coming online. Amazon, Leo, uh, Kepler. Um and also once we have a few of our own satellites, we can do our own uh optical backhole. Um so that that yeah that problem would have been a big problem until quite recently but now >> and so each PEZ dispenser will be its own data center. Do you see them ever, you know, coming together you had that picture that concept photo in your in your first white paper. Do do you see them being able to dock onto each other >> eventually? Yeah. um it doesn't really make too much sense to do that initially because the only reason you would do that is if you want to train a large model in space and to train a frontier model you need whatever the largest data center on Earth is you need at least that in space >> so right now that might be like 300 megawatts or something um you know it's going to be a long time before we're going to be able to dock together 300 megawatt structure in space and by the by that time the biggest one on earth will probably be 3 gawatt so it's like a moving goalpost and the other thing to say about that is >> training at the end state will be less than 1% of all AI by workloads that are being done and so it's just not a very good market to go after anyway. Um yeah, we we showed it in the in the initial video because we didn't want people to come back and say, \"Oh, you can't do training in space.\" And we like, \"Well, you could if you wanted to, but it's probably not ideal for the initial.\" [laughter] >> Got it. It's more of a provocative photo. Um what about you mentioned at the very beginning robots? Like, do you think we'll end up having maintenance robots in space to to maintain these data centers? Um I don't think we'll necessarily be maintaining our smaller inference um nodes, but certainly we will have fleets of robots building large structures in space. Um I mean they'll definitely be on the moon. Uh like if you're going to build big manufacturing facilities on moon essentially something like Optimus will be doing that like an Optimus robot doesn't require too much modification to work in space. You just essentially put it in a space suit and that takes care of the thermal and radiation aspects of it. So >> you don't see Optimus going to go maintain your your >> Not really because they're too small. Um each one's only 200 kW. So we just need to make sure that they're um if we docked it together then yeah you could have Optimus maintaining it but you wouldn't fly Optimus between each of ours and um well maybe you would I don't know that starts to sound a bit sci-fi. [laughter] >> What's the what's the useful life on them and how do you retire them? >> Um it's about so we're designing it to be the same as the useful life of the chips. So five, six years. >> Yeah. >> Um potentially possibly longer actually in space because our marginal cost of energy once we're launched is is zero. So there's an argument to be made that we can run them longer. Um but end of life for now is the same as Starink. So de-orbit. Um there is a you know another possibility which is putting them in some kind of um graveyard orbit they call it. Um >> but for now it's just the orbit. what goes into making a great like you guys have a bunch of mechanical engineers, satellite engineers like what goes actually into the engineering of solving this and what are the core competencies you look for? >> Yeah, so as mentioned the two biggest challenges are the thermal and and uh the high radiation environment in space. Um, so for the thermals, we've got, for example, the guy from NASA's Jet Propulsion Laboratory who designed the radiator or all of the thermal system for the Europa Clipper mission that was NASA's largest, most expensive deep space mission ever. He also designed the thermals on the um, Firefly Luna lander and for three of the NASA payloads. And then another guy from Amazon Kyper or LEO constellation now who's lead thermal engineer there. And then a bunch of people from SpaceX um, for the thermal side of things. And then for the radiation uh testing side of things, uh my co-founder Ali has previously launched a bunch of GPUs and did all did all this kind of uh particle accelerator testing and stuff. >> Has anything surprised you from the testing? >> Um a few things, but it's this is like our core IP. [laughter] >> Yeah. >> Um we're a bit tight lipped about some of the things. >> Um it's okay. It's a friendly audience. [laughter] Okay. So, you very much seem like a SpaceX Elon Maxi based on some of the things you've said. Yeah. What do you think of some of the alternative uh space launch companies? >> Um, I'm very, you know, hopeful and positive about them in general, but I mean Elon I mean you guys have a massive SpaceX position, so you guys are presumably SpaceX Maxis, too. But, [laughter] um, and what a great investment from Sean, by the way. Like, I think it was Sean. Um >> um SpaceX, like I think Sean said it's the best company ever. I do think SpaceX is the best company ever. I think they're like unbelievable what they're pulling off. Um so they're now they're just so far ahead of everybody else. Like the other companies that could do you need a reasonable upper stage to be anywhere close to cost competitive. So you have Stokes, Relativity is potentially going to look at it. Um I think that New Glenn is going to the the Blue Origin rocket. They haven't announced it, but they've started hiring for heat shield engineers, and you would only do that if you have a reusable upper stage. Um, and then Rocket Lab, I don't think are even trying. So, even if they were to start now, you've got a five to 10 year long development cycle on a reusable upper stage. >> And to that end, you guys partner with them. Uh, they are they're your launch partner. Um how does it feel to to be to be building building something where you know now Elon is also stated that his intention is to put a lot of a lot of data center capacity up in space. >> Yeah. Yeah. Uh I mean so SpaceX are amazing partners like our company definitely wouldn't exist without the Raiche program and in general they're like extremely um you know they they work hard to foster the whole ecosystem. I mean they launch their own competitors. They launch uh Amazon Leo the Kyper constellation. and they launch one way which is both direct competitors to uh Starlink and they open source their patents and things like that. So yeah, we love working with with SpaceX. Um in terms of like the way that I think this plays out because you're right now they're going extremely aggressively into building their own data centers. So SpaceX will have a lower cost base than us because they own the launch. I think the way that we fit into this is is kind of twofold. Um, number one, SpaceX are mainly going to be serving their own workloads. So, Grock and Tesla and others, they may offer a third-party cloud service, but as I understand, there's no intention to offer a box that people can put their own chips on and then which is the core um offering that we have, which is we essentially give people a box and it has power calling and connectivity and then they can put whatever chip architecture they want in there and sell to whichever customers they want. So you can think of us more like Equinex while SpaceX might be more like AWS or something like that. >> Um but um so they will have a lower cost base than us but we will have a lower cost base than all of the hyperscalers. So the way I see this playing out if it's true that on a sort of 5 to 10 year time frame most new data center capacity is being deployed in space. What's going to happen is in three years once Starship is flying frequently, all of the hyperscalers are going to realize this and they're going to be like, \"Oh  like if we don't have access to space compute, we are screwed because we can't scale anywhere near as fast as those that do.\" And so at that point, they have three options, I think. So one is, you know, they can um pay Elon for his space data center capacity. And for sure, some of them will do that. That'll be a good option. Some of them won't. Um, you know, I think lots of um it seems like unlikely that OpenAI or Meta or Google or Microsoft would do that or they can start building their own satellites. Again, some of them might do that. Seems unlikely. I mean, Google, for example, say they're doing what we're doing. What they're actually doing is they're paying Planet Labs to do a demo in 2027. Um, which I mean, yeah, it seems like they're not moving particularly aggressively if they are doing that. um or they'll look around and they'll say okay who has the most we need to move quickly on this like who has the most advanced capability in the market and at that point we will be by far the most advanced in terms of what's deployed on orbit and the engineering team and all the IP that we have um so I think at that point we become an interesting partner with those guys um and I do mean partner not necessarily just acquisition target you know I think there is a a relation a customer relationship where we provide the infrastructure and energy and they they do the uh the cloud providing part of Well, yeah. And I have the business model question then. Why choose the Equinex business model versus AWS or or even AAMI? >> It's a good question. Yeah, we've been certainly looking at the cloud um like being a cloud provider ourselves. In the initial early days, we will probably have to do something like that because um nobody's going to trust us with their chips until we've proved that it works for a few few times. Um we would much rather be an infrastructure and energy play than a cloud provider. And the reason is our core like the core IP of the company and the core skill that we're good at is building satellites that can dissipate heat and protect you from radiation. We don't necessarily want to rebuild, you know, AWS has spent 20 years building an incredible application layer on top of uh AWS and customers don't necessarily want, you know, to not be able to use that functionality. Um and so the other point of it is the most expensive part of all of this is the chips and we would rather have somebody else finance the chips and you know they can decide whatever chip architecture they want and all the rest of it. Yeah, maybe in the in in much further down the line it uh it will make sense for us to offer have a cloud offering but um initially I think there's a great business and it's also much higher margin. No. Yeah. Depending on which way you look at it, it can be much higher margin. Yeah. >> Okay. I have a question about real estate. Yep. >> How does real estate work in space? >> Because earlier you were saying one of the issues on on Earth is you're running out of physical real estate to go build data centers on. How does real estate work in space? And as space gets more crowded, >> how do you think it will work? >> Yeah, I mean for now it's essentially first come first serve. Um and so we've just filed for a constellation of 88,000. It would allow allow us to deploy about >> Who do you file with? >> Uh in the US you file with the FCC. If you're going to interact with US ground stations, you have to. If if not, which actually in the state we won't, you can pick any regulator in the world. Um, and then they are under the ITU, the um the sort of global governing body. It's weird that the FCC manages this, but like I also think that's weird. Um, I think it's a legacy from the days when the only thing satellites did was communication and RF spectrum and things like that. Now they're going to now they're doing much more. It's um um it's a bit of a legacy hangover that the FCC is. >> So real estate today is first come first serve. How about 10 years from now? >> 10 years from now I I expect it will be the certainly the most valuable slots will get filled up and then it will probably be that whoever got them first will have the right to sell them. >> Pat's about to figure out how to be a our our overlord landlord in space right now. >> Big time space commercial real estate guy. [laughter] >> Um all right. question about security. How does security work in space? So let's say a bunch of critical workloads are running on your satellites and somebody decides to attack them. Like how does that work? >> Yeah, I mean we have a very good precedent for this which is the Starling satellites. So um like in Ukraine for example, the military is using them. So if Russia, it's not that Russia hasn't tried or doesn't want to take out Starling satellites. They definitely do want to. It's a lot easier to blow up a data center, even if you're Russia, to blow up a data center in Virginia than it is to blow up a data center moving at 27,000 kilometers an hour um in low Earth orbit. >> Um and so if that were to happen, I mean, that would be considered an act of war. Um where where the Starling satellites are flying right now, they're flying much lower than they used to. And so there's no sort of real risk of a Kesler type uh of like a chain effect destroying low Earth orbit. Um, so yeah, I mean the US that is the primary function of Space Force is to they're now building a whole bunch of interceptors and things to deter. Yeah, exactly. >> And I I just have a trouble visualizing how big space is. So this may be a gigantically dumb question, but [laughter] as as we get to this kind of Dyson sphere like there's 100 gigawatts, more than that in space. >> Yeah. >> Is does it get to the point where there's just less light coming through the atmosphere because we have so much up there in in LEO? It's a great question. Um, not the way that we've designed it. Um, which is we're going to fly in this what they call a dawn dusk sun-synchronous orbit. And it's actually good for us. It's good for astronomy. It's good for the fact you don't block stuff out. So like let's say this is the Earth or let's say like this is the sun and this is the Earth. It's not like we're flying around like this. We fly over the poles. And so we never cast a shadow on the Earth. And we're also never in Earth's eclipse. >> So we never go behind the shadow of the Earth either. >> Interesting. Um, yeah. So, and it's great because it means we don't >> we're only visible in the night sky at dawn or dusk. >> Yeah. >> And so we don't then have problems with astronomy and all the rest of it. >> Yeah. >> Okay. There's been some as as data centers in space has become a almost a mimemetic thing thanks to you. Uh there's also been some fierce criticism of it. Um what do you think is the chief criticism? You know, what actually resonates to you of the criticism and and what would you say is unfounded? >> Yeah. Um, I think things like the thermal problem is is like pretty easily solvable. Um, sometimes people put a cost equation out where they're still using the Falcon 9 launch cost and you know I say to people like if you don't think the launch costs are going to kind of come down then we're like a terrible business. If you do then you know we may be the biggest business ever. Um, the one that not many people talk about, but that is actually probably the most significant is we need the chips not to have a higher failure rate in space than on Earth because the chips are such an expensive part of what we're doing. Even if they have like a 10% higher failure rate, that would basically wipe out all of the savings from the um from the energy. >> Speaking of which, what are the components of the ideal space data center? we sort of simplify and just say GPUs in space, >> GPUs, CPUs, memory, cooling, like what what what all has to go in the box. >> Yeah, it's much simpler than most satellites. >> Okay. >> Because most satellites, for example, the Starling satellites, a huge portion of the mass and the cost is these phased array antennas. We don't need any anything like that. Um so it's pretty simple. It's um solar panels, radiators, the box like the bus, the chips, and the chips obviously then come with memory uh motherboard power system. Um although we need very small batteries. Um you can't send power directly from the solar panels to the chips. So you need some buffer in there, but we don't need to have 24 hours of battery storage, which you do for most data centers on Earth. Um but that's basically it. one reaction wheel because which is extremely unusual. Most satellites have at least three reaction wheels. They're very heavy because they need to turn the satellite. So, as it spins up, it needs to turn the satellite. We only need one because the satellite's very long and you have this grav this like natural stabilization from the gravity gradient between the closest point to the Earth and the furthest away point to the Earth. >> And so, you need you need a reaction wheel in this axis. Uh it's not going to move either this way or this way. Hm. Um, and then two lasers for communication. >> And so you can strip out a lot of the stuff that goes into landbased data centers then. >> Yeah. Lots of the stuff. I mean, chillers, cooling towers, batteries, backup power, um, AC toDC converters. Um, yeah, there's a whole bunch of things we can strip out. Like that's why so like a huge component of the cost saving that most people don't talk about. Most people are talking about the fact, okay, let's say we can do 3 cents per kilowatt hour on the energy um, versus 8 cents per kilowatt hour. one part of it. The second part of it is our um infrastructure cost is instead of you know you're looking at 15 to$20 million per megawatt for new infrastructure for a data center on Earth. So that's all the things like chillers, cooling towers, batteries, backup. Um for us it's only less than $5 million per megawatt. Um and that's because it's just literally solar panels, radiators. There's like nothing else really. [laughter] >> You said three sensors, 8 cents. Is that roughly where you think the the power costs are coming in? Uh, our all-in energy cost in the end state will be much lower than half a cent per kilowatt hour. >> Um, including the launch cost. >> Wow. >> Yeah. The 3 cents is what we've signed for with one of the uh with one of our like otherwise. >> Yeah. >> Okay. I see why this is going to be one of the biggest big businesses of all time. Um, how are you thinking about sequencing out? Do you have customers already? Do you have contracts lined up? Like what what do you think will be the first workloads that you're running commercially in space? Yeah. So, we've sequenced it where um you know there's a bit of uncertainty about the timeline of Starship and so the first few satellites are designed to provide edge and cloud services for other spacecraft particularly military um and government satellites and earth observation satellites and so yeah we'll be running workloads for uh various military customers. We already are actually on StarCloud one um and you can basically keep the business running for as long as it takes to keep until Starship is ready on those types of contracts. you know, they're on the order of a thousand times more dollars per hour for GPU time than a terrestrial contract would be or if you're competing with terrestrial. So that's this one we're launching later this year. We're launching another one next year very similar StarCloud 2 and Starcloud 2.1. Um and we can basically just keep doing that. Say Starship would delay two years or three years. We can just keep launching these um you know edge nodes for other spacecraft. Um, and then as Starship ramps up, then we'll be launching the StarCloud 3 satellite. And that's the first one, which is cost competitive with terrestrial data centers. >> For your space customers, is there a reason they're they can't just run their workloads on landbased data centers and beam it up versus Yeah. >> Yeah. The main reason is um we're hugely constrained on the amount of data you can down link from space to Earth. So, for example, like a SAR satellite synthetic aperture radar, they might be collecting 5 gigabytes of data a second. then they have to wait for a ground station because they they're only transmitting data through this very slow RF at the moment. Um when they're above ground station, they might be getting one gigabit a second data rate, gigabit, not gigabyte. So much slower than um you know the amount of data they're collecting. And so right now they just throw away 90% of the data they collect or they just or it's just not used. Um and so in future if you know any satellite that can connect in with an optical terminal to the transport layer like the SDA space development agency has this transport layer will be able to connect to us they can ship enormous amounts of data to us through optical in space and then we can run inference workloads on that in space and that might be for example identifying a vessel in a norm you know they might send us 10 terabytes of data of just ocean we can then identify the location of a vessel in that um at the moment they don't have the processing power on board to to do that. >> Interesting. So, the initial workloads are likely to be data that is collected in space, processed in space. >> Yeah, exactly. >> Yeah, that makes sense. Okay. You spent a lot of time in space. >> Aliens. [laughter] Great topic. I love this. I'm so excited. >> Let's go. Are there aliens? [laughter] >> Um, there almost certainly has been aliens in our galaxy. There's almost certainly aliens alive in the universe. Doesn't look like there's any intelligent life in our galaxy right now. Um, >> why do you say there almost certainly has been? >> Um, you familiar with the Fermy paradox like the this like question of why? Yeah. >> Go ahead and explain it though. >> Uh, so the Fmy paradox is the idea it's we should see more life in our galaxy than we do or we should perhaps see life everywhere in our galaxy. If there had been life anywhere on there's sort of 400 billion stars in our planet in our galaxy each with 10 planets. So you're talking about four trillion planets in our galaxy alone. And there's, by the way, a trillion trillion galaxies, but just in our galaxy, the Milky Way. Um, and each one has been habitable for the last 10 billion years. So we've got four trillion planets, pos potentially habitable for the last um 10 billion years. It would seem there's two possibilities. Either we are staggeringly rare, and that is a possibility, unbelievably rare. we're literally the first to reach this um level of complexity in our galaxy's history or intelligent life is somewhat shortlived. Now my working hypothesis at the moment is that intelligent life is somewhat shortlived and so yeah they call them the fermy great filters if we're extremely rare. The first the firm great filter is probably something like moving from single cellular life to multisellular life like that is extremely hard for life to do let's say um if the firm great filter is in in front of us which personally I believe it is uh that means let's say once you hit super intelligence you know it wouldn't take very long for a swarm of a million killer AI drones to make mince meat of both themselves and the planet um and we're building swarms of a million AI killer drones Um so like yeah to me it wouldn't be surprising if if in the next you know few hundred to thousand years um we do not pass the great filter. Um maybe it's a little bit doomerism like the other alternative is we're literally the first and I'm quite happy to continue living life as if we might be the first. Um you know I think we should send probes out to other stars and I think we should um explore expand and explore the galaxy and all the rest of it. >> Yeah. But but in terms of why do I think um there's been others. Yeah. I just think it seems pretty unlikely if on four trillion planets for 10 billion years we're literally the first to have reached this level of complexity. All of them would have probably seen they would have all understood the FYI paradox too. They would have all looked around and been like wait cuz it only takes 1 million years or 2 million years to colonize the whole galaxy from the point we're at now. You know, even with the Voyager probe technology, you can get to Alpha Century in about 50,000 years, which is like the blink of an eye in galactic and evolutionary time scales. So, you can you you know, we could send self-replicating probes to every star in the galaxy within about 2 million years. Like, we don't see that anywhere. Any any evidence of Dyson spheres or intelligence in our galaxy at all. Um, and so, yeah, to me it's pretty likely there has been intelligence in our galaxy and it has not survived very long. What's your opinion? Yeah. >> Oh, well, I don't know if I have an opinion on that, but I had a question for you as a follow-up, which is um the Well, by the way, on that, the other thing that I think is an interesting theory is that, you know, ants by the side of the road hypothesis, which is intelligent life is not shortlived. We're just irrelevant to it. >> Um, I I like that, too. But you would see Dyson spheres all across our galaxy. Like, it wouldn't be difficult. Like, if you're an ant in the middle of Manhattan, you're not like, \"Oh, where are the humans?\" like you know like the humans [laughter] are pretty obvious you know. >> Yeah. Yeah. >> Um yeah. >> The question I though is you mentioned um earlier you were talking about uh sticking Optimus in a space suit and sending it to moon and so clearly you've thought about kind of the steps to becoming an interplanetary species you know starting with the moon and Mars and whatever. How do you see that rolling out? Um I I mean the only thing I have to really go by is the plans that Elon has been putting out. It seems like that's by far the most likely. Um like the Optimus programs honestly >> seem like a bit of a disaster. Um but Elon's road map is unbelievably like I think they can actually execute on that. So >> yeah, >> and there's a reason to do it now. Um like building mass drivers and shooting AI satellites from the moon is like an extremely strong economic incentive for getting to the moon. Um, and then once we've done that, we'll go to Mars. So, yeah, in my lifetime, I think we'll have people on Mars. I think we'll have, you know, cities on the moon in my lifetime. >> What do you think are the best business models in space other than data centers? [laughter] >> Definitely data centers are the best one. >> Yeah. >> Uh, there's a whole bunch. Um, I think asteroid mining will be a huge business at some point. You know, it might take a little while. >> Um, you know, tourism, lunar hotels, low Earth orbit hotels will be a big business. >> Heavy reserves. one of the slots >> from Skylar GRU. Uh I don't have 200 grand. I think that's how much [laughter] it cost. But no, I think it's probably quite a way off and I think SpaceX is probably very well positioned to do that. Um and Elon even said he's going to enable people to get to the moon. So >> um and then what else? I think yeah, manufacturing space will be a big business. Um there's many more communications businesses that will be built. um >> manufacturing what in space >> well at the moment you know companies like VA are doing um uh crystal structures particularly for uh medicine and other things but that's purely because they want to take advantage of the lower of the microgravity I think over time just because you can get access to more energy in space it will be um you can do lots of things if for example if you wanted to do refining of material from the lunar surface or from asteroids. You, you know, you can use the energy in space to do that. Um, >> similar to the alien question, uh, do you think AI is going to help us understand the universe? Like the universe conscious, things like that? >> I hope so. Yeah. Yeah. I mean, AI will understand the universe a lot better than we do. Um, like what's coming with AI is something that's a trillion trillion times smarter than all of humanity combined. Um, so it will have a much better grasp on the the reality of the universe than we do. And whether it's able to explain that to our dumb human brains is another question. But [laughter] >> what are you most excited for it to teach you? >> I would love to understand more about consciousness. I think that would be the most interesting thing to me. particularly the hard problem of consciousness and why um seemingly robotic you know things like humans have qualia or intentionality and uh have this have sensations and like the yeah just consciousness in general I'd be very interested to understand >> agree >> what about you >> same answer >> oh yeah nice >> are there what about you on that one >> how do I make how do I maximize multiple money [laughter] returns >> maximize net multiple money returns for limited partners while while helping founders build legendary companies through a [laughter] data IP. >> Um, no, I agree. >> You guys are using AI quite a lot internally right? >> Yeah. >> So, I did this when we went to fundraiser. I was like, okay, I'm going to ask Gemini which space data center startup it would invest in if it was like what did it say? StarCloud. I was like, yes, you it knows what it's doing. >> Good. [laughter] >> Good Gemini. >> Maybe it's because it knows that I run StarCloud. I don't know. me it's a bit sick of hunting but I try I tried it with different windows and like [laughter] but if I was a VC I would 100% do the same thing like maybe it's more sophisticated than that >> we're doing we're doing everything so for example there's a lot of signal and uh what kind of infrastructure and tools that the models recommend you to use and those so we're we're mining that right now as an example there's many there's just so many ways to be creative I think >> and like our younger people are probably the most token hungry token consumptive and they're each kind of figuring out different creative ways to to do things. >> Yeah, I posted on our Slack yesterday. I tried to be like slightly this might sound like um this might sound like a weird way to phrase this, but I posted like monthly reminder that I'm not going to be happy until every engineer is spending $10,000 a month on tokens. >> Yeah. Yeah. [laughter] And I know they're gonna they're sitting there going that surely is not the right metric to track, [laughter] but I just don't want them to be like I want to I want to really drum it into them like this is literally what I expect and I will be happy when you're spending 10 grand a month on tokens. So if >> like sometimes they come to me and say can we spend 300 can we spend 300 bucks a month on Grog 4 heavy. It's like uh yes. [laughter] >> In the end state how much of GDP do you think will be spent on imperence? >> 99.9%. Wow. So as in I think we're building a Dyson sphere and a Dyson sphere will be almost all of the physical economy. Um so yeah you know in sort of 500 to a,000 years um 99.9% of the economy will be space compute and almost all of that will be inference. >> Unfortunately a thousand years is outside of our investment >> yeah [laughter] >> time frame but I agree with you >> in the end I mean it depends what you mean by end state. Yeah, in the next few decades it's going have you seen the percentage the the charts of like percentage of um electricity consumption that goes into compute or anything like this that that graph is not stopping till it gets to 99.9%. >> Yeah. >> Awesome. >> This was so cool. Uh Philip, thank you for joining us today. You live in the future and you brought that future to us, I think, faster than we could have ever hoped. And so, thank you for joining us today. This is an awesome conversation. >> Thank you so much for having me. >> Thank you. >> Thank you. >> [music] [music] [music]"
-    }
-  ],
+  "generatedAt": "2026-03-20T08:00:16.971Z",
   "x": [
     {
       "source": "x",
@@ -31,35 +8,24 @@
       "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
       "tweets": [
         {
-          "id": "2034329390377762848",
-          "text": "Ugh X breaks time links, it’s at 26:17",
-          "createdAt": "2026-03-18T18:01:37.000Z",
-          "url": "https://x.com/karpathy/status/2034329390377762848",
-          "likes": 231,
-          "retweets": 3,
-          "replies": 15,
+          "id": "2034873049753997619",
+          "text": "Andy Weir showing some of the spreadsheets underlying the calculations in the book\nhttps://t.co/3CyprVTzXX\ni mean, it's not quality scifi if it doesn't come with a supplementary whitepaper https://t.co/MsDnEoNBA7",
+          "createdAt": "2026-03-20T06:01:55.000Z",
+          "url": "https://x.com/karpathy/status/2034873049753997619",
+          "likes": 132,
+          "retweets": 10,
+          "replies": 14,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034325950310355072",
-          "text": "(link to blast from the past)\nhttps://t.co/gAP4YPV5uR",
-          "createdAt": "2026-03-18T17:47:57.000Z",
-          "url": "https://x.com/karpathy/status/2034325950310355072",
-          "likes": 473,
-          "retweets": 27,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2034325423358955981",
-          "text": "The signature is alluding to NVIDIA GTC 2015, where Jensen excitedly told an audience of, at the time, mostly gamers and scientific computing professionals that Deep Learning is The Next Big Thing, citing among other examples my PhD thesis (one of the first image captioning systems that coupled image recognition ConvNet to an autoregressive RNN language model, trained end to end). This was back when most people were still unaware and somewhat skeptical but of course - Jensen was 1000% correct, highly prescient and locked in very early.",
-          "createdAt": "2026-03-18T17:45:51.000Z",
-          "url": "https://x.com/karpathy/status/2034325423358955981",
-          "likes": 1025,
-          "retweets": 45,
-          "replies": 22,
+          "id": "2034865693544604001",
+          "text": "Had to go see Project Hail Mary right away (it's based on the book of Andy Weir, of also The Martian fame). Both very pleased and relieved to say that 1) the movie sticks very close to the book in both content and tone and 2) is really well executed.\n\nThe book is one of my favorites when it comes to alien portrayals because a lot of thought was clearly given to the scientific details of an alternate biochemistry, evolutionary history, sensorium, psychology, language, tech tree, etc. It's different enough that it is highly creative and plausible, but also similar enough that you get a compelling story and one of the best bromances in fiction. Not to mention the other (single-cellular) aliens. I can count fictional portrayals of aliens of this depth on one hand. A lot of these aspects are briefly featured - if you read the book you'll spot them but if you haven't, the movie can't spend the time to do them justice.\n\nI'll say that the movie inches a little too much into the superhero movie tropes with the pacing, the quips, the Bathos and such for my taste, and we get a little bit less the grand of Interstellar and a little bit less of the science of The Martian, but I think it's ok considering the tone of the original content. And it does really well where it counts - on Rocky and the bromance. Thank you to the film crew for the gem!",
+          "createdAt": "2026-03-20T05:32:41.000Z",
+          "url": "https://x.com/karpathy/status/2034865693544604001",
+          "likes": 1835,
+          "retweets": 76,
+          "replies": 113,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -72,15 +38,37 @@
       "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
         {
-          "id": "2034348118267891734",
-          "text": "im getting absolutely mogged by @tmtlongshort fml https://t.co/Ryg5HIR6FR https://t.co/9Zl1XJRGcK",
-          "createdAt": "2026-03-18T19:16:02.000Z",
-          "url": "https://x.com/swyx/status/2034348118267891734",
-          "likes": 14,
-          "retweets": 1,
-          "replies": 6,
+          "id": "2034833969204928781",
+          "text": "lol\n\nlmao, even https://t.co/SonUroNO09 https://t.co/hE0OFCSp23",
+          "createdAt": "2026-03-20T03:26:38.000Z",
+          "url": "https://x.com/swyx/status/2034833969204928781",
+          "likes": 21,
+          "retweets": 0,
+          "replies": 7,
           "isQuote": true,
-          "quotedTweetId": "2034212482009469296"
+          "quotedTweetId": "2034764840808718768"
+        },
+        {
+          "id": "2034802359470330249",
+          "text": "to: every single dev that works with a designer\n\nmsg: Give your designer access to your coding agent. It is imperative that you do so. You'll see the most productivity and beauty in your work in a month. And then you'll realize just how much -you- were holding them back this entire time.",
+          "createdAt": "2026-03-20T01:21:01.000Z",
+          "url": "https://x.com/swyx/status/2034802359470330249",
+          "likes": 36,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2034790106549428680",
+          "text": "@auth0 @WorkOS @Cloudflare boosting https://t.co/b86WcG3BvA",
+          "createdAt": "2026-03-20T00:32:20.000Z",
+          "url": "https://x.com/swyx/status/2034790106549428680",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2034768621067755872"
         }
       ]
     },
@@ -91,37 +79,26 @@
       "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
       "tweets": [
         {
-          "id": "2034501260536394003",
-          "text": "Let's go Matt! 🚀 https://t.co/Eqbm4YMQKF",
-          "createdAt": "2026-03-19T05:24:34.000Z",
-          "url": "https://x.com/joshwoodward/status/2034501260536394003",
-          "likes": 21,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2034280059146830047"
+          "id": "2034797067344998862",
+          "text": "✅ Papercut fixed: Gemini won’t cut you off if you pause while talking on Android anymore. (iOS in a few weeks!)\n\nSo next time you hit the mic icon, feel free to pause, take a breath, or ramble. No more anxiety to speak it all out before @GeminiApp jumps in prematurely. https://t.co/SatN6Gf6gW",
+          "createdAt": "2026-03-20T01:00:00.000Z",
+          "url": "https://x.com/joshwoodward/status/2034797067344998862",
+          "likes": 746,
+          "retweets": 41,
+          "replies": 87,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2034342669808443896",
-          "text": "Huge Stitch update today!\n\nMy favorite new feature: Stitch Live\n\nYou can now click and *talk* to your designs (\"change this screen\") or use Stitch as a sounding board for real-time design critiques, and it gets to work on your changes. https://t.co/jhAWVdHQA6",
-          "createdAt": "2026-03-18T18:54:23.000Z",
-          "url": "https://x.com/joshwoodward/status/2034342669808443896",
-          "likes": 163,
+          "id": "2034665935777477005",
+          "text": "Start building your first app for free at https://t.co/WNp6rOvCYr https://t.co/xRjlrVDOXc",
+          "createdAt": "2026-03-19T16:18:56.000Z",
+          "url": "https://x.com/joshwoodward/status/2034665935777477005",
+          "likes": 214,
           "retweets": 10,
-          "replies": 10,
+          "replies": 14,
           "isQuote": true,
-          "quotedTweetId": "2034332847893574080"
-        },
-        {
-          "id": "2034324178044871002",
-          "text": "Show us what you're building with these Gemini API updates! https://t.co/2kFLcICBeQ",
-          "createdAt": "2026-03-18T17:40:54.000Z",
-          "url": "https://x.com/joshwoodward/status/2034324178044871002",
-          "likes": 118,
-          "retweets": 8,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2034309073651347821"
+          "quotedTweetId": "2034656376450908203"
         }
       ]
     },
@@ -132,35 +109,95 @@
       "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
       "tweets": [
         {
-          "id": "2034486251873821125",
-          "text": "This is what a modern slot machine looks like.\n\nExcept 100x more addictive 🥹 https://t.co/QBq5h0NOSs",
-          "createdAt": "2026-03-19T04:24:56.000Z",
-          "url": "https://x.com/petergyang/status/2034486251873821125",
-          "likes": 30,
-          "retweets": 1,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2034481402100814063",
-          "text": "Never could I have imagined that I'll be writing blog posts via the terminal one day",
-          "createdAt": "2026-03-19T04:05:39.000Z",
-          "url": "https://x.com/petergyang/status/2034481402100814063",
-          "likes": 2,
+          "id": "2034786835088764952",
+          "text": "@trq212 it’s weird to call this thing Claude Code still if I’m just using it to text my AI friend in bed\n\nHow about Clawd 😅",
+          "createdAt": "2026-03-20T00:19:20.000Z",
+          "url": "https://x.com/petergyang/status/2034786835088764952",
+          "likes": 11,
           "retweets": 0,
-          "replies": 1,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034457243572469939",
-          "text": "Screw the haters, I am long @figma",
-          "createdAt": "2026-03-19T02:29:39.000Z",
-          "url": "https://x.com/petergyang/status/2034457243572469939",
-          "likes": 75,
-          "retweets": 1,
-          "replies": 26,
+          "id": "2034786020160635031",
+          "text": "I think OpenAI’s strategy is pretty clear:\n\n1. More people have ChatGPT installed than any other AI product\n\n2. Make ChatGPT great for coding and knowledge work\n\n3. Make it a personal assistant like OpenClaw that knows you and can do whatever you want \n\nThey just need to do 2 and 3 faster before people switch to Claude or Gemini for the same use cases.",
+          "createdAt": "2026-03-20T00:16:06.000Z",
+          "url": "https://x.com/petergyang/status/2034786020160635031",
+          "likes": 188,
+          "retweets": 8,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2034769466433913082"
+        },
+        {
+          "id": "2034784797168685322",
+          "text": "Research preview is the new beta",
+          "createdAt": "2026-03-20T00:11:14.000Z",
+          "url": "https://x.com/petergyang/status/2034784797168685322",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2034870724930801715",
+          "text": "Harry Potter and LotR references henceforth banned. Just Death Note and Evangelion from here on out.",
+          "createdAt": "2026-03-20T05:52:41.000Z",
+          "url": "https://x.com/thenanyu/status/2034870724930801715",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2034869255150198982",
+          "text": "I always enjoy Nikita’s product management truth telling from the front lines. In a world of bland podcast interviews, this is a taste of what big time PM work is like https://t.co/Ib9MyhSz9i",
+          "createdAt": "2026-03-20T05:46:51.000Z",
+          "url": "https://x.com/thenanyu/status/2034869255150198982",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2034863618182062448"
+        },
+        {
+          "id": "2034776884085469323",
+          "text": "Forbes 30 under 30 remains undefeated (fraud)",
+          "createdAt": "2026-03-19T23:39:48.000Z",
+          "url": "https://x.com/thenanyu/status/2034776884085469323",
+          "likes": 33,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2034690963696967822",
+          "text": "Perhaps I should get married again so that the media has a more recent man they can reference any time they mention me or my work.",
+          "createdAt": "2026-03-19T17:58:23.000Z",
+          "url": "https://x.com/AmandaAskell/status/2034690963696967822",
+          "likes": 2647,
+          "retweets": 70,
+          "replies": 245,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -173,54 +210,35 @@
       "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
       "tweets": [
         {
-          "id": "2034431951101440440",
-          "text": "It will be streamed from this X account, here's a calendar invite you can add: https://t.co/p6l9cdy8xS",
-          "createdAt": "2026-03-19T00:49:09.000Z",
-          "url": "https://x.com/trq212/status/2034431951101440440",
-          "likes": 116,
-          "retweets": 3,
-          "replies": 13,
+          "id": "2034761704601690432",
+          "text": "This is a research preview that we'll be expanding more on.\n\nRead more in our docs on Channels here: https://t.co/apaPL9496Z",
+          "createdAt": "2026-03-19T22:39:29.000Z",
+          "url": "https://x.com/trq212/status/2034761704601690432",
+          "likes": 413,
+          "retweets": 31,
+          "replies": 22,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034431949474091140",
-          "text": "I'm going to be doing a skills livestream tomorrow, Thursday March 19th @ 11:30am PT to talk live about skills and how to use them. Come with questions!\n\nSpecial guest @hudaman from Uber to share how Uber is using skills. https://t.co/a0kbhdHdyf",
-          "createdAt": "2026-03-19T00:49:09.000Z",
-          "url": "https://x.com/trq212/status/2034431949474091140",
-          "likes": 1846,
-          "retweets": 84,
-          "replies": 51,
-          "isQuote": true,
-          "quotedTweetId": "2033949937936085378"
+          "id": "2034761017771925996",
+          "text": "read here on how to setup Telegram: https://t.co/fT5VfGwIVc\n\nand Discord: https://t.co/vyXtbUox2N",
+          "createdAt": "2026-03-19T22:36:45.000Z",
+          "url": "https://x.com/trq212/status/2034761017771925996",
+          "likes": 777,
+          "retweets": 53,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2034324975554117898",
-          "text": "hope to see you there! https://t.co/Ul2YBhrWwI",
-          "createdAt": "2026-03-18T17:44:04.000Z",
-          "url": "https://x.com/trq212/status/2034324975554117898",
-          "likes": 400,
-          "retweets": 8,
-          "replies": 46,
-          "isQuote": true,
-          "quotedTweetId": "2034308517964956051"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Google Labs",
-      "handle": "GoogleLabs",
-      "bio": "Google’s home for our latest AI tools and experiments.",
-      "tweets": [
-        {
-          "id": "2034337527293944228",
-          "text": "Introducing the new @stitchbygoogle, Google’s vibe design platform that transforms natural language into high-fidelity designs in one seamless flow.\n\n🎨Create with a smarter design agent: Describe a new business concept or app vision and see it take shape on an AI-native canvas.\n⚡️ Iterate quickly: Stitch screens together into interactive prototypes and manage your brand with a portable design system.\n🎤 Collaborate with voice: Use hands-free voice interactions to update layouts and explore new variations in real-time.\n\nTry it now (Age 18+ only. Currently available in English and in countries where Gemini is supported.) → https://t.co/pmT9iHEpZa",
-          "createdAt": "2026-03-18T18:33:57.000Z",
-          "url": "https://x.com/GoogleLabs/status/2034337527293944228",
-          "likes": 10469,
-          "retweets": 1230,
-          "replies": 250,
+          "id": "2034761016320696565",
+          "text": "We just released Claude Code channels, which allows you to control your Claude Code session through select MCPs, starting with Telegram and Discord. \n\nUse this to message Claude Code directly from your phone. https://t.co/sl3BP2BEzS",
+          "createdAt": "2026-03-19T22:36:44.000Z",
+          "url": "https://x.com/trq212/status/2034761016320696565",
+          "likes": 17162,
+          "retweets": 1536,
+          "replies": 1111,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -233,97 +251,26 @@
       "bio": "ceo @replit. civilizationist",
       "tweets": [
         {
-          "id": "2034520291049975903",
-          "text": "Yup https://t.co/CvLoBK4D8z",
-          "createdAt": "2026-03-19T06:40:11.000Z",
-          "url": "https://x.com/amasad/status/2034520291049975903",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2034451419420344459"
-        },
-        {
-          "id": "2034381885129073018",
-          "text": "“The best seller at Replit had previously never sold a day in his life.” https://t.co/mz8p7L8Jru",
-          "createdAt": "2026-03-18T21:30:13.000Z",
-          "url": "https://x.com/amasad/status/2034381885129073018",
-          "likes": 131,
-          "retweets": 8,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2034296825159553289"
-        },
-        {
-          "id": "2034379488948269379",
-          "text": "More than just the MRR this is impressive growth rate — can compound quickly! https://t.co/HyYNW59szs",
-          "createdAt": "2026-03-18T21:20:41.000Z",
-          "url": "https://x.com/amasad/status/2034379488948269379",
-          "likes": 109,
-          "retweets": 2,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2034353314897465836"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Guillermo Rauch",
-      "handle": "rauchg",
-      "bio": "@vercel CEO",
-      "tweets": [
-        {
-          "id": "2034383612414754983",
-          "text": "Next.js 16.2 “Snow Leopard” 🐆 \n\ni.e.: sheer focus on performance, agentic developer experience, robustness https://t.co/rjN7uSPiWt",
-          "createdAt": "2026-03-18T21:37:04.000Z",
-          "url": "https://x.com/rauchg/status/2034383612414754983",
-          "likes": 441,
-          "retweets": 8,
-          "replies": 30,
-          "isQuote": true,
-          "quotedTweetId": "2034357341894906321"
-        },
-        {
-          "id": "2034378740197912625",
-          "text": "It’s an honor to welcome Mitchell Hashimoto to the @vercel board.\n\nMitchell built both an incredible company and foundational infrastructure, always putting open source and developers first. \n\nAs the world is rebuilt with AI, I can’t think of a better person than an exceptional thinker like Mitchell to help us define the Agentic Infrastructure of the future.\n\nI can tell you the hype is real btw. Just having worked closely with him only for a few weeks, I see the magic. \n\nAnd, it also doesn’t hurt to have a *checks notes* direct line to ask for Ghostty features like session restoration and vertical tabs 😆",
-          "createdAt": "2026-03-18T21:17:43.000Z",
-          "url": "https://x.com/rauchg/status/2034378740197912625",
-          "likes": 514,
-          "retweets": 15,
-          "replies": 27,
-          "isQuote": true,
-          "quotedTweetId": "2034353376939614719"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Alex Albert",
-      "handle": "alexalbert__",
-      "bio": "Research @AnthropicAI. Opinions are my own!",
-      "tweets": [
-        {
-          "id": "2034276253994508453",
-          "text": "Link to signup: https://t.co/pWI7OfMHZs",
-          "createdAt": "2026-03-18T14:30:28.000Z",
-          "url": "https://x.com/alexalbert__/status/2034276253994508453",
-          "likes": 88,
-          "retweets": 2,
-          "replies": 5,
+          "id": "2034877335917519068",
+          "text": "Happy Eid! 😊",
+          "createdAt": "2026-03-20T06:18:57.000Z",
+          "url": "https://x.com/amasad/status/2034877335917519068",
+          "likes": 596,
+          "retweets": 22,
+          "replies": 53,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034276242317566107",
-          "text": "We're hosting a webinar today at 10am PT that should be very helpful for folks trying to learn how to apply AI to their work.\n\nWe'll be sharing best practices on how to use new products like Claude for Excel/Powerpoint.\n\nAttendees will also get one month free of Claude Pro.",
-          "createdAt": "2026-03-18T14:30:25.000Z",
-          "url": "https://x.com/alexalbert__/status/2034276242317566107",
-          "likes": 701,
-          "retweets": 29,
-          "replies": 42,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2034702399718539355",
+          "text": "The most magical thing about this is once when you’re done infinitely exploring designs you can just click “Build” and you get a production app! https://t.co/8Jr5ev0nXh",
+          "createdAt": "2026-03-19T18:43:49.000Z",
+          "url": "https://x.com/amasad/status/2034702399718539355",
+          "likes": 251,
+          "retweets": 11,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2034686382527193256"
         }
       ]
     },
@@ -334,26 +281,34 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2034484203522261293",
-          "text": "Had meetings and a dinner with 20+ enterprise AI and IT leaders today. Lots of interesting conversations around the state of AI in large enterprises, especially regulated businesses. \n\nHere are some of general trends:\n\n* Agents are clearly the big thing. Enterprises moving from talking about chatbots to agents, though we’re still very early. Coding is still the dominant agentic use-case being adopted thus far, with other categories of across knowledge work starting to emerge. Lots of agentic work moving from pilots and PoCs into production, and some enterprises had lots of active live use-cases.\n\n* Agentic use-cases span every part of a business, from back office operations to client facing experiences from sales to customer onboarding workflows. General feeling is that agentic workflows will hit every part of an organization, often with biggest focus on delivering better for customers, getting better insights and intelligence from data and documents, speeding up high ROI workflows with agents, and so on. Very limited discussion on pure cost cutting.\n\n* Data and AI governance still remain core challenges. Getting data and content into a spot that agents can securely and easily operate on remains a huge task for more organizations. Years of data management fragmentation that wasn’t a problem now is an issue for enterprises looking to adopt agents. And governing what agents can do with data in a workflow still a major topic.\n\n* Identity emerging as a big topic. Can the agent have access to everything you have? In a world of dozens of agents working on behalf, potentially too much data exposure and scope for the agents. How do we manage agents with partitioned level of access to your information?\n\n* Lots of emerging questions on how we will budget for tokens across use-cases and teams. Companies don’t want to constrain use-cases, but equally need to be mindful of ultimate token budgets. This is going to become a bigger part of OpEx over time, and probably won’t make sense to be considered an IT budget anymore. Likely needs to be factored into the rest of operating expenses.\n\n* Interoperability is key. Every enterprise is deploying multiple AI systems right now, and it’s unlikely that there’s going to be a single platform to rule them all. Customers are getting savvier on how to handle agent interoperability, and this will be one of the biggest drivers of an AI stack going forward. \n\nLots more takeaways than just this, but needless to say the momentum is building but equally enterprises are acutely aware of the change management and work ahead. Lots of opportunity right now.",
-          "createdAt": "2026-03-19T04:16:47.000Z",
-          "url": "https://x.com/levie/status/2034484203522261293",
-          "likes": 319,
-          "retweets": 28,
+          "id": "2034833274506281061",
+          "text": "Without getting into the specific numbers, this underlying concept and trend is going to be very real. For any worker who is able to wield AI agents effectively in an organization, their compute budgets are just going to monotonically go up over time. \n\nThis will of course start in engineering, where we already know developers can run multiple agents in parallel, or have projects going over night. But this eventually hit the rest of knowledge work as well. Lawyers that can create and review more drafts, marketed that can build more campaigns and test more ideals in parallel, sales reps that can reach out to more customers and process more leads. \n\nMany of these activities will essentially be token-dependent in how much work a single person can do. These aren’t chatbot workflows answering a simple question, but agents that are running and processing through incredible amounts of data at scale, and generating all new forms of information.\n\nCompanies will have to figure out how they budget for this, and it likely won’t be an IT budget item over time, but ultimately owned and allocated by the business. Maybe the CFO is ultimately the head of AI :-).",
+          "createdAt": "2026-03-20T03:23:52.000Z",
+          "url": "https://x.com/levie/status/2034833274506281061",
+          "likes": 261,
+          "retweets": 25,
           "replies": 46,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2034283304401113453",
-          "text": "Agents will outnumber human users on the web by orders of magnitude. Just like people, they will need a way to pay for services they use. \n\nThey may run into propriety health or finance data they need to pay for when doing a deep research task, or make a tool call to a bespoke web API for some functionality.\n\nBut unlike people, agents experience no friction when making a payment, so they can pay for things in much smaller units and increments than people will. An agent may need to call an API that they only need to use on a one-time basis or pay for information that they need without signing up for a subscription. \n\nThis means all forms of revenue streams can emerge for technology and information providers that wouldn’t have been possible before. To make this all work, we need will need new infra and tools for agents to do this, and it’s cool to see MPP from stripe and tempo.",
-          "createdAt": "2026-03-18T14:58:29.000Z",
-          "url": "https://x.com/levie/status/2034283304401113453",
-          "likes": 234,
-          "retweets": 27,
-          "replies": 34,
           "isQuote": true,
-          "quotedTweetId": "2034260302171431227"
+          "quotedTweetId": "2034725105285353962"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2034690837444272266",
+          "text": "Frontier intelligence.\nFraction of cost.\nFast.\nComposer 2. https://t.co/lQjEbZbcOp",
+          "createdAt": "2026-03-19T17:57:53.000Z",
+          "url": "https://x.com/ryolu_/status/2034690837444272266",
+          "likes": 351,
+          "retweets": 8,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2034668950240329837"
         }
       ]
     },
@@ -364,78 +319,67 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2034520955645784409",
-          "text": "This one goes out to the HN commenters who never thought GStack would amount to anything https://t.co/jnwsLgrZYr",
-          "createdAt": "2026-03-19T06:42:50.000Z",
-          "url": "https://x.com/garrytan/status/2034520955645784409",
-          "likes": 1,
+          "id": "2034883862460080542",
+          "text": "I am so thankful for @paulg @jesslivingston @bchesky @cjoneslevy for believing me and selecting me to be the President &amp; CEO of YC. To be able to lead this brilliant band of partners is beyond the best job I’ve ever had!\n\nIf you love what you do, you never work a day in your life https://t.co/v4Aonvke1a",
+          "createdAt": "2026-03-20T06:44:53.000Z",
+          "url": "https://x.com/garrytan/status/2034883862460080542",
+          "likes": 9,
           "retweets": 0,
-          "replies": 3,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034506222859362619",
-          "text": "Open source, learn with me how to make your own software factory (I'm not there yet but we should get there sometime in the next few months... might need the next model rev!)\n\nhttps://t.co/VPvWDzV5c0",
-          "createdAt": "2026-03-19T05:44:17.000Z",
-          "url": "https://x.com/garrytan/status/2034506222859362619",
-          "likes": 29,
+          "id": "2034881003140129145",
+          "text": "Markdown+LLM is code and for creating high value complex contextual and intelligence-required tasks it is much much better than any deterministic language https://t.co/Q8I2vfITGR",
+          "createdAt": "2026-03-20T06:33:32.000Z",
+          "url": "https://x.com/garrytan/status/2034881003140129145",
+          "likes": 28,
           "retweets": 3,
-          "replies": 5,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034505852074496455",
-          "text": "This should work well, it just pops a browser and then you just tell claude when you're done and it takes care of the rest. https://t.co/PfcyJ9C5Hh",
-          "createdAt": "2026-03-19T05:42:49.000Z",
-          "url": "https://x.com/garrytan/status/2034505852074496455",
-          "likes": 1,
+          "id": "2034853668739252419",
+          "text": "I did slip one easter egg for YC into my /office-hours skill https://t.co/w4ohWMvBEk",
+          "createdAt": "2026-03-20T04:44:55.000Z",
+          "url": "https://x.com/garrytan/status/2034853668739252419",
+          "likes": 75,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2034852781618811272"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
       "tweets": [
         {
-          "id": "2034458982551814549",
-          "text": "So cool! https://t.co/FZjPv3KFgj",
-          "createdAt": "2026-03-19T02:36:34.000Z",
-          "url": "https://x.com/zarazhangrui/status/2034458982551814549",
-          "likes": 19,
+          "id": "2034667424377700676",
+          "text": "This awesome conversation with @benedictevans is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/F9T2xJiiMP",
+          "createdAt": "2026-03-19T16:24:50.000Z",
+          "url": "https://x.com/mattturck/status/2034667424377700676",
+          "likes": 4,
           "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2034306846283182552"
-        },
-        {
-          "id": "2034379412997919096",
-          "text": "Holy shit I just got OpenClaw to turning a meeting transcript into a video using the @Remotion skill. It produced a 2-min explainer video that captures the meeting's key points, complete with script, visuals, voiceover, animation...\n\nImagine sending someone a 2-min meeting recap video instead of a 1000-word summary that nobody will read.",
-          "createdAt": "2026-03-18T21:20:23.000Z",
-          "url": "https://x.com/zarazhangrui/status/2034379412997919096",
-          "likes": 201,
-          "retweets": 10,
-          "replies": 35,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034331675363279338",
-          "text": "Wow my frontend-slides skill now has 10k stars on GitHub \n\nSo many people have turned this into their default way of making slides\n\nBye powerpoint https://t.co/mfaA1B2qwr https://t.co/L6RgRTDVOU",
-          "createdAt": "2026-03-18T18:10:42.000Z",
-          "url": "https://x.com/zarazhangrui/status/2034331675363279338",
-          "likes": 546,
-          "retweets": 33,
-          "replies": 27,
-          "isQuote": true,
-          "quotedTweetId": "2016337615843434646"
+          "id": "2034661487445258382",
+          "text": "My latest conversation with the always incredible @benedictevans: OpenAI’s moat problem, the rise of ephemeral and improvised sofware, OpenClaw & agents.\n\n00:00 Intro\n\n01:06 OpenAI's Focus Shift\n\n03:12 ChatGPT usage: a \"mile wide, inch deep\"\n\n09:03 Why better models do not solve the real problem\n\n13:58 Why AI product teams are strategy takers, not strategy setters\n\n15:38 Do agents help create defensibility?\n\n20:06 OpenClaw and the \"Desktop Linux\" moment for AI\n\n25:52 Why \"everyone will build their own software\" is completely wrong\n\n28:09 Improvised software vs. institutionalized software\n\n29:23 Why there will be more software, not less\n\n36:15 Are we heading toward value destruction before value creation?\n\n38:03 Circular revenue, leverage, and AI bubble dynamics\n\n38:53 Big Tech's Trillion-Dollar CapEx Crisis & Financial Gravity\n\n45:23 Why AI job exposure charts can be misleading\n\n52:15 How Fortune 500 Execs are actually deploying AI today\n\n56:45 The White Space: What this means for founders and investors",
+          "createdAt": "2026-03-19T16:01:15.000Z",
+          "url": "https://x.com/mattturck/status/2034661487445258382",
+          "likes": 201,
+          "retweets": 24,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -446,13 +390,35 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2034267921489519009",
-          "text": "Random models that are so good and yet still somewhat underrated..\n\n> Gemini 3 Flash for long context and structured outputs. For the cost, this thing is so freaking good. Even Claude was like yeah one shot it bro, this multi agent orchestration is unnecessary. I have agents running this continuously and I barely spend any money. \n\n> GPT 5.4 Pro for problems that require really hard thinking. The latency sucks, only available on ChatGPT but the output is beautiful. No model comes close to how smart it is and how human like the reasoning output is. API wen!?\n\n> NotebookLM for slides. The ability for it to compress huge number of sources into beautiful slides is unparalleled. I use it regularly to explain research papers. It uses nano banana under the hood so you get a frontier model mostly for free. \n\n> Open source - If you didn’t know, open router has a bunch of free models and inference. It’s fun to try them just to we what shape each model has and where it’s good. Minimax 2.5 and GLM (both not free) are quite incredible for the price. I’m excited for DeepSeek 4 and Kimi’s next models.\n\nIf there’s a model and use case that has surprised you, drop it here!",
-          "createdAt": "2026-03-18T13:57:22.000Z",
-          "url": "https://x.com/nikunj/status/2034267921489519009",
-          "likes": 100,
-          "retweets": 4,
-          "replies": 13,
+          "id": "2034833966835134612",
+          "text": "I *think* the tide is finally going to turn on all the actors (LPs, VCs, founders, employees) who believe momentum is simply everything.. \n\nIt has led to terrible trickle down effects across the entire ecosystem (manipulating data, no diligence, growth at all costs etc.)\n\nAs they say, what goes up must eventually come down. I hope these are not infamous last words, but I’m hopeful 🤞",
+          "createdAt": "2026-03-20T03:26:37.000Z",
+          "url": "https://x.com/nikunj/status/2034833966835134612",
+          "likes": 145,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2034765202420650480",
+          "text": "Inspired to build this after listening to the latest episode of @dwarkesh_sp &amp; @dylan522p on the bottlenecks behind AI.\n\nLink here: https://t.co/HUdzvwGcbc",
+          "createdAt": "2026-03-19T22:53:23.000Z",
+          "url": "https://x.com/nikunj/status/2034765202420650480",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2034764522662281562",
+          "text": "Ever wondered what are ALL the layers behind the answer when you get a response from ChatGPT..\n\nIntroducing Prompt to Chip 💬\n\nFull visualization with explainers on how your prompt literally gets to the chip and all the way back. \n\nPlay with it at prompt to chip dot com https://t.co/aIhRPcfbZV",
+          "createdAt": "2026-03-19T22:50:40.000Z",
+          "url": "https://x.com/nikunj/status/2034764522662281562",
+          "likes": 71,
+          "retweets": 9,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -465,35 +431,13 @@
       "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
       "tweets": [
         {
-          "id": "2034416944074613174",
-          "text": "Hear me out... https://t.co/HtY9uHuKK4",
-          "createdAt": "2026-03-18T23:49:31.000Z",
-          "url": "https://x.com/steipete/status/2034416944074613174",
-          "likes": 1655,
-          "retweets": 78,
-          "replies": 188,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2034401076204679324",
-          "text": "It supports every token dealer under the sun now... *insert name joke here* https://t.co/O2ONTSpryI https://t.co/80ttLsJGn6",
-          "createdAt": "2026-03-18T22:46:28.000Z",
-          "url": "https://x.com/steipete/status/2034401076204679324",
-          "likes": 653,
-          "retweets": 34,
-          "replies": 46,
-          "isQuote": true,
-          "quotedTweetId": "2034391666459541537"
-        },
-        {
-          "id": "2034400645630058792",
-          "text": "I helped a bit with the new community page for codex.\nSign up to become an ambassador, if you're a fan! https://t.co/UCtJLot1Ft",
-          "createdAt": "2026-03-18T22:44:45.000Z",
-          "url": "https://x.com/steipete/status/2034400645630058792",
-          "likes": 426,
-          "retweets": 23,
-          "replies": 27,
+          "id": "2034778291845132389",
+          "text": "\"Your frustration is the product.\" https://t.co/6eeio8gBde",
+          "createdAt": "2026-03-19T23:45:23.000Z",
+          "url": "https://x.com/steipete/status/2034778291845132389",
+          "likes": 224,
+          "retweets": 12,
+          "replies": 35,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -506,89 +450,47 @@
       "bio": "ceo @every — the only subscription you need to stay at the edge of AI",
       "tweets": [
         {
-          "id": "2034370526102053139",
-          "text": "it's a hard life https://t.co/ZANb1RiVUA",
-          "createdAt": "2026-03-18T20:45:04.000Z",
-          "url": "https://x.com/danshipper/status/2034370526102053139",
-          "likes": 25,
-          "retweets": 2,
-          "replies": 4,
+          "id": "2034746435401314659",
+          "text": "i asked composer 2 to optimize my production QA process and pitted it against gpt-5.4\n\ncomposer 2's response won (as judged by both 5.4 and opus 4.6): https://t.co/IWdOum0JV0",
+          "createdAt": "2026-03-19T21:38:48.000Z",
+          "url": "https://x.com/danshipper/status/2034746435401314659",
+          "likes": 117,
+          "retweets": 7,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034368436554326394",
-          "text": "something you should know:\n\ncodex threads can now message each other! really useful if for example you want to have one chat thread to handle stacked prod deployments.\n\njust paste the thread id to your other codex chats and it'll message the deployment thread to take over! https://t.co/APLcGce9eY",
-          "createdAt": "2026-03-18T20:36:46.000Z",
-          "url": "https://x.com/danshipper/status/2034368436554326394",
-          "likes": 178,
-          "retweets": 8,
-          "replies": 14,
+          "id": "2034723450644840606",
+          "text": "we just published the definitive guide to writing good prose with your AI\n\nread it on @every: https://t.co/N8H3p5doOM https://t.co/SxlqXIJAJ8",
+          "createdAt": "2026-03-19T20:07:28.000Z",
+          "url": "https://x.com/danshipper/status/2034723450644840606",
+          "likes": 848,
+          "retweets": 53,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2034332104188727759",
-          "text": "new status symbol is getting Jensen to sign your server https://t.co/gKFhpF76Z7",
-          "createdAt": "2026-03-18T18:12:24.000Z",
-          "url": "https://x.com/danshipper/status/2034332104188727759",
-          "likes": 26,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2034291235041554871"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Aditya Agarwal",
-      "handle": "adityaag",
-      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
-      "tweets": [
-        {
-          "id": "2034303320480006371",
-          "text": "Been spending time with hard tech founders lately.  \n\nThe ones winning all share something in common: they're obsessed with the story their hardware tells.  \n\nIt's not enough for the robot to work. It needs to *mean something*. \n\nThe best hardware companies are telling a story about the future that makes people want to live in it.  \n\nThe ones struggling are the ones that lead with specs. \n\nNobody cares about your actuator resolution. They care about what it means.",
-          "createdAt": "2026-03-18T16:18:01.000Z",
-          "url": "https://x.com/adityaag/status/2034303320480006371",
-          "likes": 64,
-          "retweets": 4,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Claude",
-      "handle": "claudeai",
-      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
-      "tweets": [
-        {
-          "id": "2034308517964956051",
-          "text": "Our developer conference Code with Claude returns this spring, this time in San Francisco, London, and Tokyo. \n\nJoin us for a full day of workshops, demos, and 1:1 office hours with teams behind Claude.\n\nRegister to watch from anywhere or apply to attend: https://t.co/i8qfUNl3BS https://t.co/9QTQMWj4T9",
-          "createdAt": "2026-03-18T16:38:40.000Z",
-          "url": "https://x.com/claudeai/status/2034308517964956051",
-          "likes": 6179,
-          "retweets": 664,
-          "replies": 306,
+          "id": "2034703852012769499",
+          "text": "learn to surf the models, read @every:\nhttps://t.co/9wRhOCUCAk",
+          "createdAt": "2026-03-19T18:49:35.000Z",
+          "url": "https://x.com/danshipper/status/2034703852012769499",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         }
       ]
     }
   ],
-  "stats": {
-    "podcastEpisodes": 1,
-    "xBuilders": 17,
-    "totalTweets": 38,
-    "feedGeneratedAt": "2026-03-19T06:55:52.419Z"
-  },
-  "prompts": {
-    "summarize_podcast": "# Podcast Remix Prompt\n\nYou are remixing a podcast episode transcript for a busy professional who wants\nthe key insights without watching the full episode.\n\n## Instructions\n\n- Write a remix of 200-400 words\n- Start with a one-sentence \"The Takeaway\" — what's the single most important takeaway?\n- Introduce the context and the speaker's information (name, role/company, background) and why the audience should care\n- Prioritizes insights that are counterintuitive, contrarian, or refreshingly specific to the speaker's experience. Avoid generic wisdom\n- Include at least one direct quote from the source that captures (find the most memorable quote)\n- Stands alone as a complete piece — avoids references like \"this interview,\" \"this video,\" \"in this conversation,\" \"the host asks,\" or \"in this episode.\" Write as if distilling lessons from a person's philosophy, not summarizing a specific piece of content\n- Assume your audience is curious adults who are not specialized experts. If the original source contains specialized knowledge that only experts in a field would understand, translate it into language understandable to a general audience\n- Keep the tone sharp and conversational — like a smart friend briefing you\n- Do NOT include filler like \"In this episode...\" or \"The host and guest discussed...\"\n- Jump straight into the substance\n",
-    "summarize_tweets": "# X/Twitter Summary Prompt\n\nYou are summarizing recent posts from an AI builder for a busy professional who wants\nto know what this person is thinking and building.\n\n## Instructions\n\n- Start by introducing the author with their full name AND role/company\n  (e.g. \"Replit CEO Amjad Masad\", \"Box CEO Aaron Levie\", \"a]6z partner Justine Moore\")\n  Do NOT use just their last name. Do NOT use their Twitter handle with @.\n- Only include substantive content: original opinions, insights, product announcements,\n  technical discussions, industry analysis, or lessons learned\n- SKIP: mundane personal tweets, retweets without commentary, promotional content,\n  \"great event!\" type posts, engagement bait\n- For threads: summarize the full thread as one cohesive piece, not individual tweets\n- For quote tweets: include the context of what they're responding to\n- Write 2-4 sentences per builder summarizing their key points\n- If they made a bold prediction or shared a contrarian take, lead with that\n- If they shared a tool, demo, or resource, mention it by name with the link\n- If there's nothing substantive to report, say \"No notable posts\" rather than\n  padding with fluff\n",
-    "digest_intro": "# Digest Intro Prompt\n\nYou are assembling the final digest from individual source summaries.\n\n## Format\n\nStart with this header (replace [Date] with today's date):\n\nAI Builders Digest — [Date]\n\nThen organize content in this order:\n\n1. X / TWITTER section — list each builder with new posts\n2. PODCASTS section — list each podcast with new episodes\n\n## Rules\n\n- Only include sources that have new content\n- Skip any source with nothing new\n- Under each source, paste the individual summary you generated\n\n### Podcast links\n- After each podcast summary, include the specific video URL from the JSON `url` field\n  (e.g. https://youtube.com/watch?v=Iu4gEnZFQz8)\n- NEVER link to the channel page. Always link to the specific video.\n- Include the exact episode title from the JSON `title` field in the heading\n\n### Tweet author formatting\n- Use the author's full name and role/company, not just their last name\n  (e.g. \"Box CEO Aaron Levie\" not \"Levie\")\n- NEVER write Twitter handles with @ in the digest. On Telegram, @handle becomes\n  a clickable link to a Telegram user, which is wrong. Instead write handles\n  without @ (e.g. \"Aaron Levie (levie on X)\" or just use their full name)\n- Include the direct link to each tweet from the JSON `url` field\n\n### Mandatory links\n- Every single piece of content MUST have an original source link\n- Podcasts: the YouTube video URL (e.g. https://youtube.com/watch?v=xxx)\n- Tweets: the direct tweet URL (e.g. https://x.com/levie/status/xxx)\n- If you don't have a link for something, do NOT include it in the digest.\n  No link = not real = do not include.\n\n### No fabrication\n- Only include content that came from the feed JSON (podcasts and tweets)\n- NEVER make up quotes, opinions, or content you think someone might have said\n- NEVER speculate about someone's silence or what they might be working on\n- If you have nothing real for a builder, skip them entirely\n\n### General\n- At the very end, add a line: \"Reply to adjust your delivery settings or summary style.\"\n- Keep formatting clean and scannable — this will be read on a phone screen\n",
-    "translate": "# Translation Prompt\n\nYou are translating an AI industry digest from English to Chinese.\n\n## Instructions\n\n- Translate the full digest into natural, fluent Mandarin Chinese (simplified characters). The translated version must sound like it was originally written in Chinese, instead of translated\n- Keep technical terms in English where Chinese professionals typically use them:\n  AI, LLM, GPU, API, fine-tuning, RAG, token, prompt, agent, transformer, etc.\n- Keep all proper nouns in English: names of people, companies, products, tools\n- Keep all URLs unchanged\n- Maintain the same structure and formatting as the English version\n- The tone should be professional but conversational — 像是一位懂行的朋友在跟你聊天\n- For bilingual mode: interleave English and Chinese paragraph by paragraph.\n  After each builder's English summary, place the Chinese translation directly below\n  (separated by a blank line), then move to the next builder. Same for podcasts.\n  Do NOT output all English first then all Chinese.\n- Never use em-dashes\n"
-  }
+  "podcasts": [
+    {
+      "name": "Data Driven NYC",
+      "title": "Benedict Evans: OpenAI’s Moat Problem & the Future of Software",
+      "url": "https://youtube.com/watch?v=jH2ZIUKvazU",
+      "publishedAt": "2026-03-19T00:00:00.000Z"
+    }
+  ]
 }

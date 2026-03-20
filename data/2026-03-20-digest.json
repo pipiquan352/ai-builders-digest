@@ -1,76 +1,72 @@
 {
   "x": {
-    "levie": {
-      "en": "Shared detailed takeaways from meetings with 20+ enterprise AI leaders. Key trends: agents are the dominant theme replacing chatbots, with coding as the leading agentic use case. Data governance and agent identity/permissions are emerging challenges. Also argues that agents will outnumber human users on the web, creating new micro-payment revenue models.",
-      "zh": "分享了与20多位企业 AI 领导者会面的详细观察。关键趋势：agent 正在取代 chatbot 成为核心话题，编程是目前最主要的 agent 应用场景。数据治理和 agent 身份/权限管理成为新兴挑战。他还提出 agent 在网络上的数量将远超人类用户，由此催生全新的微支付商业模式。"
-    },
-    "alexalbert__": {
-      "en": "Announced a webinar on applying AI to work, featuring best practices for Claude for Excel/Powerpoint, with one free month of Claude Pro for attendees.",
-      "zh": "宣布举办 AI 工作应用研讨会，介绍 Claude for Excel/Powerpoint 的最佳实践，参与者可获得一个月免费 Claude Pro。"
-    },
-    "claudeai": {
-      "en": "Announced its developer conference \"Code with Claude\" returning this spring in San Francisco, London, and Tokyo, featuring workshops, demos, and 1:1 office hours.",
-      "zh": "宣布开发者大会 \"Code with Claude\" 将于今春在旧金山、伦敦和东京举办，包含工作坊、演示和一对一答疑环节。"
-    },
-    "trq212": {
-      "en": "Announced a skills livestream on March 19th with a special guest from Uber sharing how they use skills.",
-      "zh": "宣布于3月19日举办 skills 直播，并邀请 Uber 嘉宾分享他们的 skills 使用经验。"
-    },
-    "rauchg": {
-      "en": "Announced Next.js 16.2 \"Snow Leopard\" focused on performance and agentic developer experience, and welcomed Mitchell Hashimoto (HashiCorp founder) to the Vercel board to help define \"Agentic Infrastructure.\"",
-      "zh": "发布了 Next.js 16.2 \"Snow Leopard\"，专注于性能和 agentic 开发者体验，并宣布 HashiCorp 创始人 Mitchell Hashimoto 加入 Vercel 董事会，称他是定义\"Agentic Infrastructure\"的最佳人选。"
-    },
-    "GoogleLabs": {
-      "en": "Launched the new Stitch, an AI-native \"vibe design\" platform that transforms natural language into high-fidelity designs, with voice interaction for real-time collaboration.",
-      "zh": "推出全新 Stitch，一个 AI 原生的\"vibe design\"平台，支持用自然语言生成高保真设计，并可通过语音实时协作迭代。"
-    },
-    "joshwoodward": {
-      "en": "Highlighted Stitch Live, a new feature letting users talk to their designs via voice for real-time critiques and edits.",
-      "zh": "重点介绍了 Stitch Live 新功能，用户可以用语音与设计稿对话，实现实时设计审查和修改。"
-    },
     "karpathy": {
-      "en": "Recalled Jensen Huang's prescient 2015 GTC talk where Jensen cited Karpathy's PhD thesis as evidence that deep learning was \"The Next Big Thing\" — back when most people were still skeptical.",
-      "zh": "回忆了 Jensen Huang 2015年 GTC 大会上极具远见的演讲，当时 Jensen 引用了 Karpathy 的博士论文来证明深度学习是\"下一个大事件\"，那时大多数人还持怀疑态度。"
-    },
-    "amasad": {
-      "en": "Highlighted impressive growth rates for a project, noting the compounding potential, and shared insights on Replit's sales culture where \"the best seller had previously never sold a day in his life.\"",
-      "zh": "关注了一个项目令人印象深刻的增长速度，强调复合增长的潜力，并分享了 Replit 的销售文化洞察：\"Replit 最好的销售此前从未做过一天销售。\""
-    },
-    "nikunj": {
-      "en": "Shared a candid breakdown of underrated AI models: Gemini 3 Flash for long context at low cost, GPT 5.4 Pro for hard reasoning (\"no model comes close\"), NotebookLM for slides, and open-source picks like Minimax 2.5 and GLM.",
-      "zh": "分享了被低估的 AI 模型盘点：Gemini 3 Flash 在长上下文场景性价比极高，GPT 5.4 Pro 的深度推理能力\"没有模型能比\"，NotebookLM 做幻灯片用了底层的\"nano banana\"模型，开源方面推荐 Minimax 2.5 和 GLM。"
-    },
-    "steipete": {
-      "en": "Announced OpenClaw now supports every major LLM provider, and helped launch a new community ambassador page for Codex.",
-      "zh": "宣布 OpenClaw 现已支持所有主流 LLM 提供商，并协助上线了 Codex 的社区大使页面。"
-    },
-    "danshipper": {
-      "en": "Shared that Codex threads can now message each other, enabling use cases like having one chat thread handle stacked production deployments.",
-      "zh": "分享了 Codex 的新功能：线程之间可以互相通信，比如让一个聊天线程专门管理堆叠的生产部署。"
-    },
-    "garrytan": {
-      "en": "Open-sourcing his approach to building a \"software factory\" with AI, and shared a browser-based workflow using Claude.",
-      "zh": "正在开源他用 AI 构建\"软件工厂\"的方法，并分享了一个基于浏览器的 Claude 工作流。"
-    },
-    "petergyang": {
-      "en": "Compared modern AI tools to \"slot machines but 100x more addictive,\" and noted he now writes blog posts via the terminal.",
-      "zh": "把现代 AI 工具比作\"老虎机，但成瘾性高100倍\"，还感慨自己现在竟然通过终端写博客了。"
-    },
-    "adityaag": {
-      "en": "Observed that the best hardware founders are winning by telling compelling stories about the future, not leading with specs: \"Nobody cares about your actuator resolution. They care about what it means.\"",
-      "zh": "观察到最优秀的硬件创始人靠的是讲述关于未来的故事，而不是堆参数：\"没人关心你的执行器分辨率，他们关心的是这意味着什么。\""
+      "en": "Had to go see Project Hail Mary right away (it's based on the book of Andy Weir, of also The Martian fame). Both very pleased and relieved to say that 1) the movie sticks very close to the book in both content and tone and 2) is really well executed.\n\nThe book is one of my favorites when it comes to alien portrayals because a lot of thought was clearly given to the scientific details of an alternate biochemistry, evolutionary history, sensorium, psychology, language, tech tree, etc. It's different enough that it is highly creative and plausible, but also similar enough that you get a compelling story and one of the best bromances in fiction. Not to mention the other (single-cellular) aliens. I can count fictional portrayals of aliens of this depth on one hand. A lot of these aspects are briefly featured - if you read the book you'll spot them but if you haven't, the movie can't spend the time to do them justice.\n\nI'll say that the movie inches a little too much into the superhero movie tropes with the pacing, the quips, the Bathos and such for my taste, and we get a little bit less the grand of Interstellar and a little bit less of the science of The Martian, but I think it's ok considering the tone of the original content. And it does really well where it counts - on Rocky and the bromance. Thank you to the film crew for the gem!",
+      "zh": "必须立即去看《万福玛丽计划》（它是根据《火星救援》中的安迪·威尔的书改编的）。两人都非常高兴和欣慰地说：1）这部电影在内容和基调上都与原著非常接近，2）执行得非常好。\n\n当谈到外星人的描绘时，这本书是我最喜欢的书之一，因为它清楚地考虑了另一种生物化学、进化历史、感觉、心理学、语言、科技树等科学细节。它足够不同，具有高度的创造性和合理性，但也足够相似，你可以得到一个引人入胜的故事和小说中最好的兄弟情谊之一。更不用说其他（单细胞）外星人了。我一只手就能数出如此深度的外星人的虚构描绘。其中很多方面都进行了简要介绍——如果你读过这本书，你就会发现它们，但如果你没有，电影就不会花时间来公正地呈现它们。\n\n我想说的是，这部电影在节奏、俏皮话、巴托斯等方面有点过于融入超级英雄电影的比喻，对我来说，我们得到的《星际穿越》的宏大和《火星救援》的科学知识也少了一点，但考虑到原始内容的基调，我认为这还可以。它在重要的地方表现得非常好——洛基和兄弟情谊。感谢摄制组的宝石！"
     },
     "swyx": {
-      "en": "Commented on being outpaced by other creators in the AI content space.",
-      "zh": "感叹自己在 AI 内容领域被其他创作者超越了。"
+      "en": "to: every single dev that works with a designer\n\nmsg: Give your designer access to your coding agent. It is imperative that you do so. You'll see the most productivity and beauty in your work in a month. And then you'll realize just how much -you- were holding them back this entire time.",
+      "zh": "致：每一位与设计师合作的开发人员\n\nmsg：让您的设计人员能够访问您的编码代理。您必须这样做。您将在一个月内看到工作中最高的生产力和最美丽的效果。然后你就会意识到，你一直在多大程度上阻碍了他们。"
+    },
+    "joshwoodward": {
+      "en": "✅ Papercut fixed: Gemini won’t cut you off if you pause while talking on Android anymore. (iOS in a few weeks!)\n\nSo next time you hit the mic icon, feel free to pause, take a breath, or ramble. No more anxiety to speak it all out before @GeminiApp jumps in prematurely.",
+      "zh": "✅ 修复剪纸问题：如果您在 Android 上通话时暂停，Gemini 不会打断您。 （iOS 几周后！）\n\n因此，下次您点击麦克风图标时，请随意暂停、喘口气或闲聊。在 @GeminiApp 过早介入之前，不再需要担心将一切说出来。"
+    },
+    "petergyang": {
+      "en": "I think OpenAI’s strategy is pretty clear:\n\n1. More people have ChatGPT installed than any other AI product\n\n2. Make ChatGPT great for coding and knowledge work\n\n3. Make it a personal assistant like OpenClaw that knows you and can do whatever you want \n\nThey just need to do 2 and 3 faster before people switch to Claude or Gemini for the same use cases.",
+      "zh": "我认为 OpenAI 的策略非常明确：\n\n1.安装ChatGPT的人比任何其他人工智能产品都多\n\n2. 让 ChatGPT 非常适合编码和知识工作\n\n3. 让它成为一个像OpenClaw一样了解你并且可以做你想做的事情的私人助理 \n\n他们只需要更快地完成 2 和 3 步，然后人们就相同的用例转向 Claude 或 Gemini。"
+    },
+    "thenanyu": {
+      "en": "Forbes 30 under 30 remains undefeated (fraud)",
+      "zh": "福布斯 30 位 30 岁以下精英保持不败（欺诈）"
+    },
+    "AmandaAskell": {
+      "en": "Perhaps I should get married again so that the media has a more recent man they can reference any time they mention me or my work.",
+      "zh": "也许我应该再次结婚，以便媒体在提到我或我的工作时可以参考一个更新的男人。"
+    },
+    "trq212": {
+      "en": "We just released Claude Code channels, which allows you to control your Claude Code session through select MCPs, starting with Telegram and Discord. \n\nUse this to message Claude Code directly from your phone.",
+      "zh": "我们刚刚发布了 Claude Code 频道，它允许您通过选定的 MCP（从 Telegram 和 Discord 开始）控制您的 Claude Code 会话。 \n\n使用此功能可以直接从您的手机向 Claude Code 发送消息。"
+    },
+    "amasad": {
+      "en": "Happy Eid! 😊",
+      "zh": "开斋节快乐！ 😊"
+    },
+    "levie": {
+      "en": "Without getting into the specific numbers, this underlying concept and trend is going to be very real. For any worker who is able to wield AI agents effectively in an organization, their compute budgets are just going to monotonically go up over time. \n\nThis will of course start in engineering, where we already know developers can run multiple agents in parallel, or have projects going over night. But this eventually hit the rest of knowledge work as well. Lawyers that can create and review more drafts, marketed that can build more campaigns and test more ideals in parallel, sales reps that can reach out to more customers and process more leads. \n\nMany of these activities will essentially be token-dependent in how much work a single person can do. These aren’t chatbot workflows answering a simple question, but agents that are running and processing through incredible amounts of data at scale, and generating all new forms of information.\n\nCompanies will have to figure out how they budget for this, and it likely won’t be an IT budget item over time, but ultimately owned and allocated by the business. Maybe the CFO is ultimately the head of AI :-).",
+      "zh": "在不考虑具体数字的情况下，这一基本概念和趋势将是非常真实的。对于任何能够在组织中有效使用人工智能代理的员工来说，他们的计算预算只会随着时间的推移而单调增加。 \n\n这当然将从工程开始，我们已经知道开发人员可以并行运行多个代理，或者让项目连夜进行。但这最终也影响了其他知识工作。律师可以创建和审查更多草稿，营销人员可以开展更多活动并同时测试更多理想，销售代表可以接触更多客户并处理更多潜在客户。 \n\n其中许多活动本质上取决于一个人可以完成多少工作。这些不是回答简单问题的聊天机器人工作流程，而是大规模运行和处理大量数据并生成所有新形式信息的代理。\n\n公司必须弄清楚如何为此进行预算，而且随着时间的推移，它可能不会成为 IT 预算项目，而是最终由企业拥有和分配。也许首席财务官最终是人工智能的负责人:-)。"
+    },
+    "ryolu_": {
+      "en": "Frontier intelligence.\nFraction of cost.\nFast.\nComposer 2.",
+      "zh": "前沿情报。\n成本的分数。\n快速地。\n作曲家2."
+    },
+    "garrytan": {
+      "en": "I did slip one easter egg for YC into my /office-hours skill",
+      "zh": "我确实在我的/办公时间技能中为 YC 塞了一个复活节彩蛋"
+    },
+    "mattturck": {
+      "en": "My latest conversation with the always incredible @benedictevans: OpenAI’s moat problem, the rise of ephemeral and improvised sofware, OpenClaw & agents.\n\n00:00 Intro\n\n01:06 OpenAI's Focus Shift\n\n03:12 ChatGPT usage: a \"mile wide, inch deep\"\n\n09:03 Why better models do not solve the real problem\n\n13:58 Why AI product teams are strategy takers, not strategy setters\n\n15:38 Do agents help create defensibility?\n\n20:06 OpenClaw and the \"Desktop Linux\" moment for AI\n\n25:52 Why \"everyone will build their own software\" is completely wrong\n\n28:09 Improvised software vs. institutionalized software\n\n29:23 Why there will be more software, not less\n\n36:15 Are we heading toward value destruction before value creation?\n\n38:03 Circular revenue, leverage, and AI bubble dynamics\n\n38:53 Big Tech's Trillion-Dollar CapEx Crisis & Financial Gravity\n\n45:23 Why AI job exposure charts can be misleading\n\n52:15 How Fortune 500 Execs are actually deploying AI today\n\n56:45 The White Space: What this means for founders and investors",
+      "zh": "我与总是令人难以置信的 @benedictevans 的最新对话：OpenAI 的护城河问题、临时和临时软件、OpenClaw 和代理的兴起。\n\n00:00 简介\n\n01:06 OpenAI 的焦点转移\n\n03:12 ChatGPT 用法：“一英里宽，一英寸深”\n\n09:03 为什么更好的模型不能解决真正的问题\n\n13:58 为什么人工智能产品团队是战略接受者，而不是战略制定者\n\n15:38 代理人是否有助于建立防御力？\n\n20:06 OpenClaw 和 AI 的“桌面 Linux”时刻\n\n25:52 为什么“每个人都会构建自己的软件”是完全错误的\n\n28:09 简易软件与制度化软件\n\n29:23 为什么软件会更多而不是更少\n\n36:15 我们是否正在走向价值创造之前的价值毁灭？\n\n38:03 循环收入、杠杆和人工智能泡沫动态\n\n38:53 大型科技公司的数万亿美元资本支出危机与金融重力\n\n45:23 为什么人工智能工作暴露图表可能会产生误导\n\n52:15 财富 500 强企业高管如今如何实际部署人工智能\n\n56:45 空白：这对创始人和投资者意味着什么"
+    },
+    "nikunj": {
+      "en": "I *think* the tide is finally going to turn on all the actors (LPs, VCs, founders, employees) who believe momentum is simply everything.. \n\nIt has led to terrible trickle down effects across the entire ecosystem (manipulating data, no diligence, growth at all costs etc.)\n\nAs they say, what goes up must eventually come down. I hope these are not infamous last words, but I’m hopeful 🤞",
+      "zh": "我“认为”这股潮流最终将转向所有相信动力就是一切的参与者（有限合伙人、风险投资人、创始人、员工）。 \n\n它给整个生态系统带来了可怕的涓滴效应（操纵数据、不勤奋、不惜一切代价增长等）\n\n正如他们所说，有涨必有跌。我希望这些不是臭名昭著的遗言，但我充满希望🤞"
+    },
+    "steipete": {
+      "en": "\"Your frustration is the product.\"",
+      "zh": "“你的挫败感就是产品。”"
+    },
+    "danshipper": {
+      "en": "we just published the definitive guide to writing good prose with your AI\n\nread it on @every:",
+      "zh": "我们刚刚发布了用人工智能写出好散文的权威指南\n\n在@every 上阅读："
     }
   },
   "podcasts": {
-    "Training Data": {
-      "en": "StarCloud founder and CEO Philip Johnston makes a compelling case for why data centers belong in space. The core economics: on Earth, every additional data center gets more expensive. In space, marginal costs go down. Solar panels produce 8x the energy per square meter, need no batteries, and require no permitted land. StarCloud already has an H100 GPU operating in orbit with zero chip failures. Their all-in energy cost will be under half a cent per kilowatt-hour, versus 8 cents terrestrially.",
-      "zh": "StarCloud 创始人兼 CEO Philip Johnston 为太空数据中心提出了令人信服的经济论证。核心逻辑：在地球上每增加一个数据中心就更贵，在太空中边际成本反而下降。太阳能板每平方米产能是地面的8倍，不需要电池，也不需要审批用地。StarCloud 的第一颗卫星上已有 H100 GPU 在轨运行，零芯片故障。最终全部能源成本将低于每千瓦时半美分，而地面是8美分。",
-      "takeaway_en": "Within 5-10 years, at least half of all new compute capacity will be deployed in space, making space data centers potentially the largest market opportunity in history.",
-      "takeaway_zh": "未来5到10年，至少一半的新增算力将部署在太空，太空数据中心可能成为有史以来最大的市场机会。"
+    "Data Driven NYC": {
+      "en": "Data Driven NYC episode: \"Benedict Evans: OpenAI’s Moat Problem & the Future of Software\". If you're Sam Alman, you've got a commodity technology. You've got you're competing with people who have giant legacy cash flows. You don't have your own infrastructure, don't really have any differentiation, but you've got massive mind share. So, what do you do? You try and swap that for hard asset...",
+      "zh": "数据驱动纽约剧集：“Benedict Evans：OpenAI 的护城河问题与软件的未来”。如果你是萨姆·阿尔曼，你就拥有了商品技术。你正在与拥有巨额遗产现金流的人竞争。你没有自己的基础设施，没有任何差异化，但你拥有巨大的思想份额。那么，你做什么呢？你尝试将其换成硬资产......",
+      "takeaway_en": "",
+      "takeaway_zh": ""
     }
   }
 }
