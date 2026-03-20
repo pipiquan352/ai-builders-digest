@@ -118,24 +118,23 @@
     .bottom-nav { bottom: 16px; }
   }
 
-  /* Masonry grid */
+  /* Grid */
   .grid {
-    columns: 4;
-    column-gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 40px;
   }
-  @media (max-width: 1100px) { .grid { columns: 3; } }
-  @media (max-width: 780px) { .grid { columns: 2; padding: 0 16px; } }
-  @media (max-width: 500px) { .grid { columns: 1; } }
+  @media (max-width: 1100px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 780px) { .grid { grid-template-columns: repeat(2, 1fr); padding: 0 16px; } }
+  @media (max-width: 500px) { .grid { grid-template-columns: 1fr; } }
 
   /* Card */
   .card {
-    break-inside: avoid;
     background: #fff;
     border-radius: 20px;
-    margin-bottom: 20px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: default;
@@ -143,6 +142,13 @@
   .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+  }
+  /* Wide card for long content */
+  .card.card-wide {
+    grid-column: span 2;
+  }
+  @media (max-width: 500px) {
+    .card.card-wide { grid-column: span 1; }
   }
 
   /* Avatar header */
@@ -440,7 +446,7 @@ function avatarUrl(handle) {
 
 function renderPodcast(podcast, digest, container) {
   const card = document.createElement('div');
-  card.className = 'card card-podcast';
+  card.className = 'card card-podcast card-wide';
 
   const pd = digest && digest.podcasts && digest.podcasts[podcast.name];
   const enText = pd ? pd.en : '';
@@ -486,7 +492,8 @@ function renderBuilder(builder, digest, container) {
   const zhText = bd ? bd.zh : '';
 
   const card = document.createElement('div');
-  card.className = 'card';
+  const isLong = (enText.length + (zhText || '').length) > 300;
+  card.className = 'card' + (isLong ? ' card-wide' : '');
 
   card.innerHTML = `
     <div class="card-header">
