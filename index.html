@@ -143,9 +143,13 @@
     transform: translateY(-4px);
     box-shadow: 0 12px 40px rgba(0,0,0,0.1);
   }
-  /* Wide card for long content */
+  /* Wide card for long tweets */
   .card.card-wide {
     grid-column: span 2;
+  }
+  /* Full-width card for podcasts */
+  .card.card-full {
+    grid-column: 1 / -1;
   }
   @media (max-width: 500px) {
     .card.card-wide { grid-column: span 1; }
@@ -231,7 +235,7 @@
   /* Podcast card */
   .card-podcast .card-accent {
     background: linear-gradient(135deg, #1a1a2e, #2d2b55);
-    padding: 24px 22px;
+    padding: 28px 30px;
     position: relative;
     overflow: hidden;
   }
@@ -243,29 +247,37 @@
     background: rgba(255,255,255,0.06);
     border-radius: 50%;
   }
+  .card-podcast .card-accent::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: 30%;
+    width: 140px; height: 140px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
   .card-podcast-icon {
     font-size: 28px;
     margin-bottom: 10px;
   }
   .card-podcast-name {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 700;
     color: #fff;
     line-height: 1.3;
   }
   .card-podcast-title {
-    font-size: 12px;
+    font-size: 13px;
     color: rgba(255,255,255,0.6);
     margin-top: 4px;
   }
   .card-takeaway {
     background: rgba(255,255,255,0.1);
     border-radius: 12px;
-    padding: 12px 14px;
-    margin-top: 14px;
+    padding: 14px 18px;
+    margin-top: 16px;
   }
   .card-takeaway p {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     color: #fff;
     line-height: 1.5;
@@ -275,6 +287,27 @@
     opacity: 0.75;
     display: block;
     margin-top: 6px;
+  }
+  /* Podcast bilingual side-by-side */
+  .card-podcast .card-content {
+    padding: 20px 30px 10px;
+  }
+  .card-podcast .card-bilingual {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .card-podcast .card-bilingual .card-body-en,
+  .card-podcast .card-bilingual .card-body-zh {
+    margin-top: 0;
+  }
+  .card-podcast .card-footer {
+    padding: 10px 30px 22px;
+  }
+  @media (max-width: 780px) {
+    .card-podcast .card-bilingual { grid-template-columns: 1fr; gap: 10px; }
+    .card-podcast .card-content { padding: 16px 20px 6px; }
+    .card-podcast .card-footer { padding: 10px 20px 18px; }
   }
 
   /* Date divider */
@@ -446,7 +479,7 @@ function avatarUrl(handle) {
 
 function renderPodcast(podcast, digest, container) {
   const card = document.createElement('div');
-  card.className = 'card card-podcast card-wide';
+  card.className = 'card card-podcast card-full';
 
   const pd = digest && digest.podcasts && digest.podcasts[podcast.name];
   const enText = pd ? pd.en : '';
@@ -470,8 +503,10 @@ function renderPodcast(podcast, digest, container) {
       ${takeawayHtml}
     </div>
     <div class="card-content">
-      ${enText ? `<div class="card-body-en lang-en">${enText}</div>` : ''}
-      ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
+      <div class="card-bilingual">
+        ${enText ? `<div class="card-body-en lang-en">${enText}</div>` : ''}
+        ${zhText ? `<div class="card-body-zh lang-zh">${zhText}</div>` : ''}
+      </div>
     </div>
     <div class="card-footer">
       <div class="card-tags">
@@ -492,7 +527,7 @@ function renderBuilder(builder, digest, container) {
   const zhText = bd ? bd.zh : '';
 
   const card = document.createElement('div');
-  const isLong = (enText.length + (zhText || '').length) > 500;
+  const isLong = (enText.length + (zhText || '').length) > 600;
   card.className = 'card' + (isLong ? ' card-wide' : '');
 
   card.innerHTML = `
