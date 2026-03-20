@@ -98,47 +98,36 @@
     box-shadow: 0 12px 40px rgba(0,0,0,0.1);
   }
 
-  /* Colored top accent */
-  .card-accent {
-    padding: 28px 24px 24px;
-    position: relative;
-    overflow: hidden;
+  /* Avatar header */
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 20px 0;
   }
-  .card-accent::before {
-    content: '';
-    position: absolute;
-    top: -30px; right: -30px;
-    width: 100px; height: 100px;
-    background: rgba(255,255,255,0.15);
-    border-radius: 50%;
+  .card-avatar {
+    width: 44px; height: 44px;
+    border-radius: 14px;
+    object-fit: cover;
+    background: #eee;
+    flex-shrink: 0;
   }
-  .card-accent::after {
-    content: '';
-    position: absolute;
-    bottom: -20px; left: 30%;
-    width: 60px; height: 60px;
-    background: rgba(255,255,255,0.1);
-    border-radius: 50%;
-  }
-  .card-accent-name {
-    font-size: 20px;
+  .card-author {
+    font-size: 15px;
     font-weight: 700;
-    color: #fff;
-    position: relative;
-    z-index: 1;
+    color: #1a1a1a;
     line-height: 1.3;
   }
-  .card-accent-role {
-    font-size: 12px;
-    color: rgba(255,255,255,0.75);
-    margin-top: 4px;
-    position: relative;
-    z-index: 1;
+  .card-role {
+    font-size: 11px;
+    color: #aaa;
+    margin-top: 1px;
+    line-height: 1.3;
   }
 
   /* Card body */
   .card-content {
-    padding: 18px 22px 20px;
+    padding: 14px 20px 6px;
   }
   .card-body-en {
     font-size: 14px;
@@ -155,7 +144,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 22px 18px;
+    padding: 10px 20px 18px;
   }
   .card-tags {
     display: flex;
@@ -178,23 +167,49 @@
     color: #ccc;
   }
 
+  /* Featured image area (for cards with images) */
+  .card-image {
+    width: 100%;
+    aspect-ratio: 16/10;
+    object-fit: cover;
+    display: block;
+  }
+
   /* Podcast card */
   .card-podcast .card-accent {
-    padding-bottom: 20px;
+    background: linear-gradient(135deg, #1a1a2e, #2d2b55);
+    padding: 24px 22px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card-podcast .card-accent::before {
+    content: '';
+    position: absolute;
+    top: -30px; right: -30px;
+    width: 100px; height: 100px;
+    background: rgba(255,255,255,0.06);
+    border-radius: 50%;
   }
   .card-podcast-icon {
     font-size: 28px;
-    margin-bottom: 8px;
-    position: relative;
-    z-index: 1;
+    margin-bottom: 10px;
+  }
+  .card-podcast-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.3;
+  }
+  .card-podcast-title {
+    font-size: 12px;
+    color: rgba(255,255,255,0.6);
+    margin-top: 4px;
   }
   .card-takeaway {
-    background: rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.1);
     border-radius: 12px;
     padding: 12px 14px;
     margin-top: 14px;
-    position: relative;
-    z-index: 1;
   }
   .card-takeaway p {
     font-size: 13px;
@@ -204,7 +219,7 @@
   }
   .card-takeaway .zh {
     font-weight: 400;
-    opacity: 0.8;
+    opacity: 0.75;
     display: block;
     margin-top: 6px;
   }
@@ -319,39 +334,14 @@
 <div id="content"></div>
 
 <div class="bottom-nav">
-  <button class="bottom-btn active" data-lang="en" onclick="setLang('en')">English</button>
-  <button class="bottom-btn" data-lang="both" onclick="setLang('both')">Bilingual</button>
+  <button class="bottom-btn" data-lang="en" onclick="setLang('en')">English</button>
+  <button class="bottom-btn active" data-lang="both" onclick="setLang('both')">Bilingual</button>
   <button class="bottom-btn" data-lang="zh" onclick="setLang('zh')">Chinese</button>
 </div>
 
 <script>
 const DATA_DIR = 'data/';
 const EXCLUDE_HANDLES = ['zarazhangrui'];
-
-const ACCENT_COLORS = [
-  'linear-gradient(135deg, #6366f1, #818cf8)',
-  'linear-gradient(135deg, #f43f5e, #fb7185)',
-  'linear-gradient(135deg, #0ea5e9, #38bdf8)',
-  'linear-gradient(135deg, #8b5cf6, #a78bfa)',
-  'linear-gradient(135deg, #f59e0b, #fbbf24)',
-  'linear-gradient(135deg, #10b981, #34d399)',
-  'linear-gradient(135deg, #ec4899, #f472b6)',
-  'linear-gradient(135deg, #14b8a6, #5eead4)',
-  'linear-gradient(135deg, #ef4444, #f87171)',
-  'linear-gradient(135deg, #3b82f6, #60a5fa)',
-  'linear-gradient(135deg, #a855f7, #c084fc)',
-  'linear-gradient(135deg, #e44d26, #f97316)',
-  'linear-gradient(135deg, #06b6d4, #22d3ee)',
-  'linear-gradient(135deg, #d946ef, #e879f9)',
-  'linear-gradient(135deg, #84cc16, #a3e635)',
-];
-
-let colorIdx = 0;
-function nextColor() {
-  const c = ACCENT_COLORS[colorIdx % ACCENT_COLORS.length];
-  colorIdx++;
-  return c;
-}
 
 let currentLang = 'both';
 function setLang(lang) {
@@ -360,7 +350,6 @@ function setLang(lang) {
   if (lang === 'en') document.body.classList.add('show-en');
   else if (lang === 'zh') document.body.classList.add('show-zh', 'hide-en');
   else document.body.classList.add('show-en', 'show-zh');
-
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
   document.querySelectorAll('.bottom-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
 }
@@ -388,6 +377,10 @@ function summarizeTweets(tweets) {
   return { text: top.text.replace(/https:\/\/t\.co\/\S+/g, '').trim(), url: top.url, time: top.createdAt };
 }
 
+function avatarUrl(handle) {
+  return `https://unavatar.io/x/${handle}`;
+}
+
 function renderPodcast(podcast, digest, container) {
   const card = document.createElement('div');
   card.className = 'card card-podcast';
@@ -398,8 +391,6 @@ function renderPodcast(podcast, digest, container) {
   const takeawayEn = pd ? pd.takeaway_en : '';
   const takeawayZh = pd ? pd.takeaway_zh : '';
 
-  const color = 'linear-gradient(135deg, #e44d26, #f97316)';
-
   let takeawayHtml = '';
   if (takeawayEn || takeawayZh) {
     takeawayHtml = `<div class="card-takeaway">
@@ -409,10 +400,10 @@ function renderPodcast(podcast, digest, container) {
   }
 
   card.innerHTML = `
-    <div class="card-accent" style="background:${color}">
+    <div class="card-accent">
       <div class="card-podcast-icon">&#127897;</div>
-      <div class="card-accent-name">${podcast.name}</div>
-      <div class="card-accent-role">${podcast.title}</div>
+      <div class="card-podcast-name">${podcast.name}</div>
+      <div class="card-podcast-title">${podcast.title}</div>
       ${takeawayHtml}
     </div>
     <div class="card-content">
@@ -436,15 +427,17 @@ function renderBuilder(builder, digest, container) {
   const bd = digest && digest.x && digest.x[builder.handle];
   const enText = bd ? bd.en : text;
   const zhText = bd ? bd.zh : '';
-  const color = nextColor();
 
   const card = document.createElement('div');
   card.className = 'card';
 
   card.innerHTML = `
-    <div class="card-accent" style="background:${color}">
-      <div class="card-accent-name">${builder.name}</div>
-      <div class="card-accent-role">${extractRole(builder.bio)}</div>
+    <div class="card-header">
+      <img class="card-avatar" src="${avatarUrl(builder.handle)}" alt="${builder.name}" onerror="this.style.display='none'">
+      <div>
+        <div class="card-author">${builder.name}</div>
+        <div class="card-role">${extractRole(builder.bio)}</div>
+      </div>
     </div>
     <div class="card-content">
       <div class="card-body-en lang-en">${enText}</div>
@@ -486,13 +479,11 @@ async function init() {
     const dateObj = new Date(day + 'T00:00:00');
     const dateLabel = dateObj.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
 
-    // Date divider
     const divider = document.createElement('div');
     divider.className = 'date-divider';
     divider.innerHTML = `<span class="date-divider-text">${dateLabel}</span><div class="date-divider-line"></div>`;
     content.appendChild(divider);
 
-    // X section
     const xBuilders = (data.x || []).filter(b => !EXCLUDE_HANDLES.includes(b.handle));
     if (xBuilders.length > 0) {
       const label = document.createElement('div');
@@ -502,13 +493,11 @@ async function init() {
 
       const grid = document.createElement('div');
       grid.className = 'grid';
-      colorIdx = Math.floor(Math.random() * ACCENT_COLORS.length);
       const shuffled = [...xBuilders].sort(() => Math.random() - 0.5);
       shuffled.forEach(b => renderBuilder(b, digest, grid));
       content.appendChild(grid);
     }
 
-    // Podcast section
     if (data.podcasts && data.podcasts.length > 0) {
       const label = document.createElement('div');
       label.className = 'section-label';
