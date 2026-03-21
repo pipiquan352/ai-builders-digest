@@ -220,7 +220,7 @@ async function sendEmail(digestPath, rawPath) {
       'Authorization': `Bearer ${apiKey}`
     },
     body: JSON.stringify({
-      from: 'AI Builders Digest <digest@send.mengyuan-pi.xyz>',
+      from: 'AI Builders Digest <digest@mengyuan-pi.xyz>',
       to: toAddresses,
       subject: `AI Builders Digest - ${new Date().toLocaleDateString('en-US', {
         weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
