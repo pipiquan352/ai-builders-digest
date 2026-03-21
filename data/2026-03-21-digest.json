@@ -1,0 +1,60 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Andrej Karpathy thanks the podcast host and offers to engage in Q&A with listeners in the replies.",
+      "zh": "Andrej Karpathy 感谢播客主持人，并表示乐意在评论中与听众进行问答互动。"
+    },
+    "swyx": {
+      "en": "Swyx reflects that a talk from 2.5 years ago may have been his peak in terms of prediction value, calling it an 'insane run' of accurate forecasting.",
+      "zh": "Swyx 反思称 2.5 年前的一次演讲可能是他预测准确率的巅峰，称之为令人惊异的预测记录。"
+    },
+    "petergyang": {
+      "en": "Peter Yang outlines four key product development principles: plan in short sprints, prioritize demos and evaluations over documentation, revisit features with new models, and start with the simplest approach.",
+      "zh": "Peter Yang 总结了四个关键的产品开发原则：短周期规划、优先考虑演示和评估而非文档、用新模型重新审视功能、以及从最简单的方案开始。"
+    },
+    "thenanyu": {
+      "en": "Nan Yu critiques the current trend of Apple-inspired minimalist design, describing tall centered serif typography as already looking dated.",
+      "zh": "Nan Yu 批评当前受 Apple 启发的极简设计趋势，认为高大的居中衬线字体已经显得过时。"
+    },
+    "catwu": {
+      "en": "Cat Wu shares how product leaders at Decagon and Datadog accelerate their workflows by getting prototypes in front of customers faster than before.",
+      "zh": "Cat Wu 分享了 Decagon 和 Datadog 的产品负责人如何通过更快速地将原型展示给客户来加速工作流程。"
+    },
+    "trq212": {
+      "en": "Thariq extends Eid Mubarak greetings, noting that the celebration follows a month of reflection during Ramadan.",
+      "zh": "Thariq 送出开斋节祝福，指出这个庆祝活动是对斋月这一反思之月的纪念。"
+    },
+    "amasad": {
+      "en": "Amjad Masad highlights that Replit has maintained its core architecture on the App Store for 4 years without violating Apple guidelines, with the fundamental workflow unchanged: write/generate code, server-side compilation, and webview display.",
+      "zh": "Amjad Masad 强调 Replit 在 App Store 上保持了 4 年的核心架构不变，且从未违反 Apple 指南，基本工作流程保持一致：编写/生成代码、服务器端编译和网页视图显示。"
+    },
+    "rauchg": {
+      "en": "Guillermo Rauch announces Next.js 16.2 as an agent-native framework with bundled documentation that makes agents expert in specific framework versions, plus a purpose-built browser debugging tool that enables agents to optimize frontends beyond what expert engineers can manually achieve.",
+      "zh": "Guillermo Rauch 宣布 Next.js 16.2 为 Agent 原生框架，内置文档使 Agent 成为特定框架版本的专家，并配备专用浏览器调试工具，使 Agent 能够实现超越人工工程师手动优化的前端优化。"
+    },
+    "levie": {
+      "en": "Box CEO Aaron Levie argues that AI agent stacks must constantly evolve as capabilities improve—what works today becomes obsolete within months. Each new capability (better context windows, improved tool use) eliminates old patterns but also creates new requirements (code execution sandboxes), making agility essential for builders.",
+      "zh": "Box CEO Aaron Levie 认为 AI agent 栈必须不断演进以适应能力提升——今天有效的方案几个月内就会过时。每项新能力(更大的 context window、更强的工具使用)都会淘汰旧模式,同时也会产生新需求(代码执行沙箱),使敏捷性对构建者至关重要。"
+    },
+    "danshipper": {
+      "en": "Founder Dan Shipper shared how their vibe-coded agent-native document editor Proof went viral with 4,000+ documents created in two days, but then crashed under load. Spending a week debugging code he barely understood with AI agents taught him valuable lessons about the future of programming.",
+      "zh": "创始人 Dan Shipper 分享了他们通过 vibe coding 构建的 agent-native 文档编辑器 Proof 如何在两天内被创建了 4000+ 个文档后崩溃。他花了一周时间与 AI agent 一起调试他几乎不了解的代码,学到了关于编程未来的宝贵经验。"
+    },
+    "adityaag": {
+      "en": "Entrepreneur Aditya Agarwal emphasizes that building world-class products requires deep intentionality, spending time on work that truly matters, and demanding excellence—values he credits to speaker Fei-Fei Li.",
+      "zh": "企业家 Aditya Agarwal 强调,构建世界一流的产品需要深思熟虑、投入真正重要的工作,并要求卓越——这些价值观来自演讲者 Fei-Fei Li 的启发。"
+    },
+    "claudeai": {
+      "en": "Anthropic announced that Projects are now available in Cowork, allowing users to keep tasks and context in one focused workspace with files and instructions stored locally, and supporting one-click imports of existing projects.",
+      "zh": "Anthropic 宣布 Projects 现已在 Cowork 中提供,允许用户在一个专注的工作区中保持任务和上下文,文件和说明存储在本地,并支持一键导入现有项目。"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Obviously, it's really cool to have software that will work on your behalf, but it's only useful if you can trust it, right? So, privacy and security is very important to us. And so, as we started to think about this problem, we realized that we actually had to build something that's a bit like an o...",
+      "zh": "显然，拥有可以代表您工作的软件确实很酷，但只有当您可以信任它时它才有用，对吗？因此，隐私和安全对我们来说非常重要。因此，当我们开始思考这个问题时，我们意识到我们实际上必须构建一些有点像 o 的东西。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
