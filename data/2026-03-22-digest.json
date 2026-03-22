@@ -1,0 +1,68 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&amp;A in the replies.",
+      "zh": "谢谢莎拉，我很高兴来到这个吊舱！并很高兴在回复中进行更多问答。"
+    },
+    "swyx": {
+      "en": "this talk was 2.5 years ago\n\ni might never top my 2023 record in terms of prediction value per item of what i wrote/spoke about. insane run.",
+      "zh": "这个演讲是 2.5 年前的事\n\n就我所写/谈论的每项内容的预测价值而言，我可能永远不会打破 2023 年的记录。疯狂奔跑。"
+    },
+    "petergyang": {
+      "en": "1/ Plan in short sprints\n2/ Encourage demos and evals over doc (get a prototype in front of internal folks and users asap!)\n3/ Revisit features with new models\n4/ Do the simple thing first",
+      "zh": "1/ 短期冲刺计划\n2/ 鼓励演示和评估而不是文档（尽快在内部人员和用户面前获得原型！）\n3/ 重新审视新型号的功能\n4/先做简单的事"
+    },
+    "thenanyu": {
+      "en": "whatever the design style is that copies this old Apple stuff is already looking crazy dated to me. Big tall centered condensed serif titles barf",
+      "zh": "无论什么设计风格，抄袭苹果的旧东西对我来说都已经显得疯狂过时了。大而高的居中压缩衬线标题呕吐"
+    },
+    "_catwu": {
+      "en": "Bihan Jiang (Director of Product, Decagon) and Kai Xin Tai (Senior Product Manager, Datadog) also shared how their teams get a prototype in front of a customer way faster than they used to.\n\nRead more:",
+      "zh": "Bihan Jiang（Decagon 产品总监）和 Kai Xin Tai（Datadog 高级产品经理）也分享了他们的团队如何比以前更快地向客户展示原型。\n\n阅读更多："
+    },
+    "trq212": {
+      "en": "Eid Mubarak! \n\na day of celebration after a month of reflection",
+      "zh": "开斋节穆巴拉克！ \n\n经过一个月的反思后的庆祝日"
+    },
+    "amasad": {
+      "en": "Important to note that Replit has been on the App Store for 4 years and core functionality is exactly the same: You type (or generate) code, we compile on the server, and open a webview.\n\nNever have been in violation of any guidelines, which Apple eventually acknowledged.",
+      "zh": "需要注意的是，Replit 已经在 App Store 上存在 4 年了，核心功能完全相同：您输入（或生成）代码，我们在服务器上编译，然后打开 Web 视图。\n\n从未违反过任何指导方针，苹果最终承认了这一点。"
+    },
+    "rauchg": {
+      "en": "Next.js 16.2 is an agent-native framework.\n\n𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 + bundled docs make your agent an expert in the exact version of Next.js you’re using.\n\n@𝚟𝚎𝚛𝚌𝚎𝚕/𝚗𝚎𝚡𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 gets your agent a purpose-built tool to debug & optimize your frontend.\n\nWe proved these in production at Vercel. Agents shipped optimizations that expert frontend engineers missed or struggled to write manually. \n\nThe thing I’m most excited about is that agents will be able to harness the full power of the newer advanced React and Next.js capabilities that were conceived for humans to have the best possible end-user experience.",
+      "zh": "Next.js 16.2 是一个代理原生框架。\n\n𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 + 捆绑文档使您的代理成为您正在使用的 Next.js 确切版本的专家。\n\n@𝚟𝚎𝚛𝚌𝚎𝚕/𝚗𝚎𝚡𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 为您的代理提供一个专门构建的工具来调试和优化您的前端。\n\n我们在 Vercel 的生产中证明了这些。代理提供了专家前端工程师错过或难以手动编写的优化。 \n\n最令我兴奋的是，代理将能够充分利用较新的高级 React 和 Next.js 功能的全部功能，这些功能是为人类提供最佳的最终用户体验而设计的。"
+    },
+    "levie": {
+      "en": "It is quite ridiculous how agile you have to be with your AI agent stack right now. Whatever you spent 6 months perfecting 12 months ago probably is already out of date and you’re better off doing a reset than trying to resuscitate it architecturally.\n\nAnd what’s interesting is that for every jump in progress that eliminates one part of the stack, generally a new capability becomes possible that you need to build new scaffolding for. \n\nFor instance, probably lots of RAG pipelines have had to adjust because of context windows have improved dramatically and you can now just using agentic search due to improve tool use. But that same improved tool use means you probably need to be supporting code execution with sandboxes so the agent can handle more complex work.\n\nSo one capability gets bitter lessened, and a new one opens up altogether. This is the cycle we’re going to be in for years. If you don’t have the speed and agility to deal with it, probably going to be in a tough spot.",
+      "zh": "现在你的人工智能代理堆栈必须有多敏捷，这是相当荒谬的。无论你在 12 个月前花了 6 个月完善的东西，都可能已经过时了，你最好进行重置，而不是试图在架构上复兴它。\n\n有趣的是，对于消除堆栈一部分的每一次跳跃，通常都会出现一种新功能，您需要为其构建新的脚手架。 \n\n例如，由于上下文窗口已显着改进，许多 RAG 管道可能必须进行调整，并且由于工具使用的改进，您现在可以仅使用代理搜索。但同样改进的工具使用意味着您可能需要使用沙箱支持代码执行，以便代理可以处理更复杂的工作。\n\n因此，一种能力逐渐减弱，而另一种新能力则完全开放。这就是我们将持续多年的循环。如果你没有足够的速度和敏捷性来应对它，可能会陷入困境。"
+    },
+    "garrytan": {
+      "en": "i used to use 'continue' or 'keep going' but these days now i just say",
+      "zh": "我曾经使用“继续”或“继续”，但现在我只是说"
+    },
+    "steipete": {
+      "en": "Surprised it lasted that long.",
+      "zh": "令人惊讶的是它持续了这么久。"
+    },
+    "danshipper": {
+      "en": "Last week our vibe-coded agent-native document editor, Proof, went viral. \n\n4,000+ documents were created in the first two days—and then the app started crashing uncontrollably.\n\nI vibe coded all of Proof—so I spent the next week or so not sleeping and watching Codex agents debug a codebase I barely understood.\n\nHere's what I learned—and what it means for the future of programming:",
+      "zh": "上周，我们的 vivi 编码代理原生文档编辑器 Proof 迅速走红。 \n\n前两天创建了 4,000 多个文档，然后应用程序开始不受控制地崩溃。\n\n我感觉自己编写了《Proof》的全部代码，所以接下来的一周左右我都没有睡觉，看着 Codex 代理调试一个我几乎看不懂的代码库。\n\n以下是我学到的东西，以及它对编程的未来意味着什么："
+    },
+    "adityaag": {
+      "en": "If you're finding conviction, you need to be deeply intentional. \n\nSpend time on something that actually matters. \n\nIf you want to build something world-class, you have to demand excellence. \n\n@drfeifei embodies all of this, and more. Thanks for coming by @southpkcommons.",
+      "zh": "如果你要找到信念，你需要有深刻的意图。 \n\n把时间花在真正重要的事情上。 \n\n如果你想打造世界一流的产品，你就必须追求卓越。 \n\n@drfeifei 体现了这一切，甚至更多。感谢您来到@southpkcommons。"
+    },
+    "claudeai": {
+      "en": "Projects are now available in Cowork.\n\nKeep your tasks and context in one place, focused on one area of work. Files and instructions stay on your computer.\n\nImport existing projects in one click, or start fresh.",
+      "zh": "项目现已在 Cowork 中提供。\n\n将您的任务和环境集中在一处，专注于一个工作领域。文件和说明保留在您的计算机上。\n\n一键导入现有项目，或重新开始。"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Obviously, it's really cool to have software that will work on your behalf, but it's only useful if you can trust it, right? So, privacy and security is very important to us. And so, as we started to think about this problem, we realized that we actually had to build something that's a bit like an operating system. You know, the sidekick's like the kernel, the agents and apps are like users. Different rings. Exactly. Because if you try to pick off just one piece of this, you can't actually make ...",
+      "zh": "显然，拥有可以代表您工作的软件确实很酷，但只有当您可以信任它时它才有用，对吗？因此，隐私和安全对我们来说非常重要。因此，当我们开始思考这个问题时，我们意识到我们实际上必须构建一些有点像操作系统的东西。你知道，助手就像内核，代理和应用程序就像用户。不同的戒指。确切地。因为如果你试图只摘下其中的一块，你实际上无法制作",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
