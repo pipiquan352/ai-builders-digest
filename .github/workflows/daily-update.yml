@@ -2,8 +2,8 @@ name: Daily Update
 
 on:
   schedule:
-    # 00:50 UTC = 08:50 Beijing time
-    - cron: '50 0 * * *'
+    # 14:00 UTC = 22:00 Beijing time
+    - cron: '0 14 * * *'
   workflow_dispatch: # manual trigger
 
 permissions:
