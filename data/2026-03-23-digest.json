@@ -1,0 +1,53 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Reupping the @devinai explainer now that everyone is suddenly loving kloud koding because @ryancarson said so\n\n(btw devin usage has grown &gt;50% MoM every month this year, it has shocked even scott)",
+      "zh": "现在每个人都突然喜欢 kloud koding 因为 @ryancarson 这么说，所以重新启用 @devinai 解释器\n\n（顺便说一句，今年 devin 的使用量每月环比增长超过 50%，甚至让 scott 都感到震惊）"
+    },
+    "kevinweil": {
+      "en": "Technology is so rad. @neuralink is amazing.",
+      "zh": "技术真是太棒了。 @neuralink 太棒了。"
+    },
+    "petergyang": {
+      "en": "My personal experience on the drawbacks of using Claude Code vs. OpenClaw as a personal assistant from my phone:  \n\nClaude Code \n- Doesn't have dangerously skip permissions via remote control. Also remote control doesn't feel super reliable\n- Doesn't have voice replies so doesn't feel as personal  \n\nOpenClaw \n- Tends to forget things randomly still",
+      "zh": "我个人对使用 Claude Code 与 OpenClaw 作为手机个人助理的缺点的体验：  \n\n克劳德·科德 \n- 没有通过远程控制危险地跳过权限。而且遥控器感觉不太可靠\n- 没有语音回复，所以感觉不那么个性化  \n\n开爪 \n- 仍然倾向于随机忘记事情"
+    },
+    "thenanyu": {
+      "en": "Damn @grok got an upgrade",
+      "zh": "该死的@grok 升级了"
+    },
+    "trq212": {
+      "en": "we're testing a new version of /init based on your feedback- it should interview you and help setup skills, hooks, etc.\n\nyou can enable it with this env_var flag:\n\nCLAUDE_CODE_NEW_INIT=1 claude\n\nwould love your feedback!",
+      "zh": "我们正在根据您的反馈测试新版本的 /init - 它应该会采访您并帮助设置技能、挂钩等。\n\n您可以使用此 env_var 标志启用它：\n\nCLAUDE_CODE_NEW_INIT=1 克劳德\n\n希望得到您的反馈！"
+    },
+    "rauchg": {
+      "en": "Code is an output. Nature is healing.\n\nFor too long we treated code as input. We glorified it, hand-formatted it, prettified it, obsessed over it.\n\nWe built sophisticated GUIs to write it in: IDEs. We syntax-highlit, tree-sat, mini-mapped the code. Keyboard triggers, inline autocompletes, ghost text. “What color scheme is that?”\n\nWe stayed up debating the ideal length of APIs and function bodies. Is this API going to look nice enough for another human to read?\n\nWe’re now turning our attention to the true inputs. Requirements, specs, feedback, design inspiration. Crucially: production inputs. Our coding agents need to understand how your users are experiencing your application, what errors they’re running into, and turn *that* into code.\n\nWe will inevitably glorify code less, as well as coders. The best engineers I’ve worked with always saw code as a means to an end anyway. An output that’s bound to soon be transformed again.",
+      "zh": "代码是一个输出。大自然正在治愈。\n\n长期以来，我们将代码视为输入。我们赞美它，手工格式化它，美化它，痴迷于它。\n\n我们构建了复杂的 GUI 来将其写入：IDE。我们对代码进行语法高亮、树状排列、迷你映射。键盘触发器、内联自动完成、幽灵文本。 “那是什么配色方案？”\n\n我们一直在争论 API 和函数体的理想长度。这个 API 看起来足够漂亮以供其他人阅读吗？\n\n我们现在将注意力转向真正的输入。要求、规格、反馈、设计灵感。至关重要的是：生产投入。我们的编码代理需要了解您的用户如何体验您的应用程序、他们遇到了哪些错误，并将*该*转化为代码。\n\n我们将不可避免地赞美更少的代码，以及程序员。无论如何，与我共事过的最优秀的工程师总是将代码视为达到目的的手段。很快就会再次转变的输出。"
+    },
+    "levie": {
+      "en": "We are so unbelievably early with agents right now. The majority of companies aren’t even using coding agents at scale, let alone for the rest of knowledge work. We’re still mostly in the chatbot era of work for most of AI right now. \n\nDiffusion of tech takes time, even in the most breakneck of markets, because there are major workflows that need to be reinvented, any regulated or large business has huge governance processes for deploying new tech or agents, data needs to get into well-organized environments, and there’s technical literacy that needs to be established. All things that get solved, but takes time nonetheless.\n\nA point of comparison for technology diffusion: in 2010, a time by which every person in silicon valley knew that cloud was the future, AWS revenue was $500 million, Azure had only launched that year, and GCP was called Google App Engine. By 2025, these 3 platforms generated around $225 billion in revenue. And that’s only about 60% of the cloud market.\n\nSo from the moment the tech industry saw the future of cloud to today, the market is nearly 1,000 times bigger. And it’s still growing at an insane rate. \n\nThe same will happen for agents. Coding agents are like the early days of cloud computing when developers got on board for initial use cases. Then came the bigger workloads. This gives you a sense for how early we actually are in this transformation.",
+      "zh": "我们现在与代理商的合作非常早，令人难以置信。大多数公司甚至没有大规模使用编码代理，更不用说用于其余的知识工作了。对于大多数人工智能来说，我们目前仍处于聊天机器人时代。 \n\n即使在最危险的市场中，技术的传播也需要时间，因为有一些主要的工作流程需要重新发明，任何受监管的或大型企业都有用于部署新技术或代理的庞大的治理流程，数据需要进入组织良好的环境，并且需要建立技术素养。所有的事情都可以解决，但仍然需要时间。\n\n技术扩散的一个比较点：2010年，硅谷的每个人都知道云是未来的时候，AWS的收入是5亿美元，Azure那一年才推出，GCP被称为Google App Engine。到 2025 年，这 3 个平台将创造约 2250 亿美元的收入。而这仅占云市场的 60% 左右。\n\n因此，从科技行业看到云的未来的那一刻起，到今天，市场规模扩大了近 1,000 倍。而且它仍在以疯狂的速度增长。 \n\n对于代理商来说也会发生同样的情况。编码代理就像云计算的早期阶段，开发人员参与初始用例。接下来就是更大的工作量。这让您了解我们实际上处于这一转变的早期阶段。"
+    },
+    "garrytan": {
+      "en": "Claude Code in Chrome Sidebar coming to you via GStack shortly",
+      "zh": "Chrome 侧边栏中的 Claude 代码很快就会通过 GStack 提供给您"
+    },
+    "mattturck": {
+      "en": "some of the best career advice you’ll hear",
+      "zh": "您会听到一些最好的职业建议"
+    },
+    "nikunj": {
+      "en": "Even better day to watch airplanes",
+      "zh": "观看飞机的更好日子"
+    },
+    "danshipper": {
+      "en": "new model for engineering team structure in 2026: \n\n2 people only\n\none pirate and one architect\n\nthe pirate's job is to move as fast as possible to develop valuable, shipped product features by vibe coding. \n\nthe architect's job is to turn the product surface discovered by the pirate into a reliable, structured machine—also by vibe coding, but at a slower, more well-reasoned pace.\n\nevery product needs a pirate but most product's only need an architect once they some form of PMF, and in that case they usually don't need one full-time. architects can work across many codebases and solve interesting technical challenges. pirates go hard on a product that they own end-to-end.",
+      "zh": "2026年工程团队结构的新模式： \n\n仅限2人\n\n一名海盗和一名建筑师\n\n盗版者的工作是尽快通过 Vivi 编码开发有价值的、已交付的产品功能。 \n\n建筑师的工作是将盗版者发现的产品表面变成可靠的、结构化的机器——同样通过振动编码，但速度更慢、更合理。\n\n每个产品都需要一名盗版者，但大多数产品只有在某种形式的 PMF 后才需要一名架构师，在这种情况下，他们通常不需要一名全职架构师。架构师可以跨多个代码库工作并解决有趣的技术挑战。盗版者对他们拥有的端到端产品不遗余力。"
+    },
+    "adityaag": {
+      "en": "Companies (generally) need capital to grow.\n\nBut every founder's relationship to this capital is quite varied.\n\nSome founders need money to feel secure. \n\nAnd for others, you realize that the company is going to get built whether or not the capital comes along.\n\nAs an investor, you can choose to be along for the ride.....or not. It doesn't matter.\n\nOne special callout here: the founder who wants to plan out every detail of how to use their seed capital. This is insane. In this day and age of AI, you just need to use your capital as (smartly) aggressively as possible.",
+      "zh": "公司（通常）需要资本来发展。\n\n但每位创始人与这笔资本的关系却各不相同。\n\n一些创始人需要金钱来获得安全感。 \n\n对于其他人来说，你意识到无论资本是否到位，公司都会建立起来。\n\n作为投资者，您可以选择参与或不参与。没关系。\n\n这里需要特别注意的是：创始人想要计划好如何使用种子资金的每一个细节。这太疯狂了。在当今人工智能时代，您只需要尽可能（聪明地）积极地使用您的资本即可。"
+    }
+  },
+  "podcasts": {}
+}
