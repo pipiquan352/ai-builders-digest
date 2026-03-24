@@ -1,0 +1,73 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the pattern is clear:\n\ncome on @latentspacepod /@aiDotEngineer , get billions thrown at you by @alexandr_wang and @natfriedman \n\n(congrats)",
+      "zh": "模式很清楚：\n\n来吧 @latentspacepod /@aiDotEngineer，@alexandr_wang 和 @natfriedman 向你扔数十亿美元 \n\n（恭喜）"
+    },
+    "kevinweil": {
+      "en": "I’m inspired by young people putting frontier AI to work in science in new and surprising ways.\n\nWe recently met a young astronomer who used AI to analyze massive datasets. He identified 1.5 million new celestial objects in space, and the head of NASA offered him a job and a ride in a fighter jet as a signing bonus! (\n\nTo celebrate stand-out students and recent grads like this—and help keep their ideas moving—we’re launching a new program: ChatGPT 26. If you're selected, we'll host you at OpenAI HQ in SF, give you access to our latest tech, and give you a $10K cash grant to keep pushing your ideas forward.\n\nIf this sounds like you, we’d love to meet you and hear your story. Apply or nominate someone here:",
+      "zh": "年轻人以令人惊讶的新方式将前沿人工智能应用于科学领域，这给我带来了启发。\n\n我们最近遇到了一位年轻的天文学家，他使用人工智能来分析海量数据集。他在太空中发现了 150 万个新天体，美国宇航局局长为他提供了一份工作和一架战斗机作为签约奖金！ （\n\n为了表彰像这样的杰出学生和应届毕业生，并帮助他们不断发展自己的想法，我们推出了一个新计划：ChatGPT 26。如果您被选中，我们将在旧金山的 OpenAI 总部接待您，让您能够使用我们的最新技术，并为您提供 1 万美元的现金补助，以不断推动您的想法向前发展。\n\n如果这听起来像您，我们很乐意见到您并听听您的故事。在这里申请或提名某人："
+    },
+    "petergyang": {
+      "en": "It’s incredible to see Anthropic ship basically everyday. \n\nReally set the bar for what AI native development looks like.",
+      "zh": "基本上每天都能看到人类飞船真是令人难以置信。 \n\n真正为人工智能原生开发设定了标准。"
+    },
+    "thenanyu": {
+      "en": "Sometimes you have to take a moment, step back, and realize how insane this is. \n\nCodex noticed that I included a line in a prompt that obliquely references a feature that's behind a feature flag elsewhere in the app, and flagged it.\n\nWhat % of human reviewers would catch this?",
+      "zh": "有时你必须花点时间，退后一步，意识到这有多么疯狂。 \n\nCodex 注意到我在提示中包含了一行，该行间接引用了应用程序中其他位置的功能标志后面的功能，并对其进行了标记。\n\n有百分之多少的人类审稿人会发现这一点？"
+    },
+    "trq212": {
+      "en": "Claude Code can control your computer now!",
+      "zh": "克劳德代码现在可以控制你的电脑了！"
+    },
+    "GoogleLabs": {
+      "en": "Thanks for exploring virtual try-on with our experimental app Doppl. Your feedback has helped us refine the technology and you can use our virtual try-on tech on product listings and image results across Google. As we make this transition, the Doppl app will officially shut down on April 30, 2026.\n\nOur goal in Labs is to test new ideas and give you a first look at experimental AI. Thank you for being part of this community and helping us explore, learn, and scale these early technologies!\n\nLearn more:",
+      "zh": "感谢您使用我们的实验性应用程序 Doppl 探索虚拟试穿。您的反馈帮助我们改进了技术，您可以在 Google 上的产品列表和图片结果中使用我们的虚拟试穿技术。在我们进行此过渡时，Doppl 应用程序将于 2026 年 4 月 30 日正式关闭。\n\n我们实验室的目标是测试新想法并让您初步了解实验性人工智能。感谢您成为这个社区的一部分，并帮助我们探索、学习和扩展这些早期技术！\n\n了解更多："
+    },
+    "amasad": {
+      "en": "Super useful viral TSA wait time app — built on Replit.",
+      "zh": "超级有用的病毒式 TSA 等待时间应用程序 — 基于 Replit 构建。"
+    },
+    "alexalbert__": {
+      "en": "The future where I never have to open up my laptop to get work done is becoming real very fast",
+      "zh": "我再也不需要打开笔记本电脑来完成工作的未来很快就会成为现实"
+    },
+    "levie": {
+      "en": "Computer use and the ability to write and run code on the fly are the ultimate primitives for agents to be able to take on more and more tasks in knowledge work. \n\nMost work requires hopping between multiple applications, and working with broad sets of data, in a workflow, and agents will need to be able to traverse these systems to be able to effectively automate any real work in the enterprise. \n\nNow we will have agents that are the equivalent of having an expert programmer (or any number of them) that can write code or use any API to automate whatever work you’re doing. Agents will have access to either a user’s computer and resources, or their own sandbox to operate in, and be able to pull together the tools necessary to perform the task at hand. This opens up the broadest set of agentic use-cases.\n\nTo be sure, there are going to be various hurdles around security, permissions and access controls, identity challenges, and more. \n\nFor instance, should the agent always act on behalf of the user, or should they have their own identity and limited set of access rights? How do you triage security events when historically volume of activity on a system is no longer a reliable signal of a security issue? How do you ensure the agent isn’t going rogue or getting prompt injected to do something risky? All problems that need to get figured out.\n\nThen, there’s also lots of work needed to ensure software is setup to enable to agents to operate with their tools in a headless fashion. This will be an uncomfortable reality for some incumbents, and equally a welcome one for tools that historically have operated seamlessly via APIs, and have business models to support this.\n\nLots of change coming in the world of work agents, and it’s going to get pretty wild.",
+      "zh": "计算机的使用以及即时编写和运行代码的能力是代理能够在知识工作中承担越来越多任务的最终要素。 \n\n大多数工作需要在多个应用程序之间跳转，并在工作流程中处理广泛的数据集，并且代理需要能够遍历这些系统，以便能够有效地自动化企业中的任何实际工作。 \n\n现在，我们将拥有相当于专家程序员（或任意数量）的代理，他们可以编写代码或使用任何 API 来自动化您正在做的任何工作。代理将可以访问用户的计算机和资源，或者他们自己的沙箱来进行操作，并且能够整合执行手头任务所需的工具。这开辟了最广泛的代理用例集。\n\n可以肯定的是，在安全、权限和访问控制、身份挑战等方面将会存在各种障碍。 \n\n例如，代理是否应该始终代表用户行事，还是应该拥有自己的身份和有限的访问权限？当系统上的历史活动量不再是安全问题的可靠信号时，如何对安全事件进行分类？您如何确保代理不会变得无赖或被提示执行危险的操作？所有的问题都需要解决。\n\n然后，还需要做大量的工作来确保软件的设置使代理能够以无头方式使用他们的工具进行操作。对于一些现有企业来说，这将是一个令人不安的现实，但对于历史上通过 API 无缝操作并拥有支持这一点的商业模式的工具来说，这同样是一个受欢迎的现实。\n\n工作代理的世界即将发生许多变化，而且将会变得非常疯狂。"
+    },
+    "garrytan": {
+      "en": "Just created my first PR into the Y Combinator codebase (1.84M lines of code total, this PR was 2400 lines) \n\nI got the YC internal/bookface codebase to run natively in @conductor_build - and it was hairy since it's a gargantuan codebase that I hadn't worked with in more than a decade\n\nSo it turns out GStack can help a ton even with giant production codebases with 14 years of technical debt (I made this repo and made Bookface back in 2013).",
+      "zh": "刚刚在 Y Combinator 代码库中创建了我的第一个 PR（总共 184 万行代码，这个 PR 是 2400 行） \n\n我让 YC 内部/bookface 代码库在 @conductor_build 中本地运行 - 它很毛茸茸，因为它是一个庞大的代码库，我已经十多年没有使用过\n\n因此，事实证明，即使拥有背负 14 年技术债务的庞大生产代码库，GStack 也能提供很大帮助（我在 2013 年制作了这个存储库并制作了 Bookface）。"
+    },
+    "mattturck": {
+      "en": "Going to be hard to explain to future generations that there was a time, before Claude Code, when people with an idea would sometimes spend years looking for a “technical co-founder”",
+      "zh": "很难向后代解释，在克劳德·科德之前，曾经有一段时间，有想法的人有时会花费数年时间寻找“技术联合创始人”"
+    },
+    "nikunj": {
+      "en": "Being in SF means constantly hearing the same three things (jevons paradox, goodharts law and the bitter lesson) over and over again..\n\nGood reminder (even for me) to read more history, art and sci-fi!",
+      "zh": "在科幻小说里意味着不断地一遍又一遍地听到同样的三件事（杰文斯悖论、古德哈茨定律和惨痛的教训）。\n\n很好的提醒（即使对我来说）要阅读更多历史、艺术和科幻小说！"
+    },
+    "steipete": {
+      "en": "Pretty much every PR I review:\n\n0) review <URL> [codex does it's thing and finds issues]\n1) is the issue clear? [if not, trash PR]\n2) is this the best possible fix? [95% of the time no]\n3) continue discussion, consider tradeoffs, usually rewrite PR\n\nMost folks send too localized, small fixes that would end up making the project unmaintainable.",
+      "zh": "几乎我评论的每一个 PR：\n\n0) 审查 <URL> [codex 做它的事情并发现问题]\n1）问题是否清楚？ [如果没有，垃圾公关]\n2）这是最好的解决办法吗？ [95%的时间没有]\n3）继续讨论，考虑权衡，通常重写PR\n\n大多数人都会发送过于本地化的小修复，最终导致项目无法维护。"
+    },
+    "danshipper": {
+      "en": "this is so good\n\nobviously the future",
+      "zh": "这太好了\n\n显然是未来"
+    },
+    "adityaag": {
+      "en": "This is crazy. I thought we were past this.\n\nRyan is building something important -- let's enable him to do so.",
+      "zh": "这太疯狂了。我以为我们已经过去了。\n\nRyan 正在打造一些重要的东西——让我们帮助他做到这一点。"
+    },
+    "sama": {
+      "en": "I have loved being on the Helion board; I continue to be extremely excited about a future with abundant energy and Helion in particular.\n\nAs Helion and OpenAI start to explore working together at significant scale, it is difficult for me to be on both boards. (I will have a financial interest in Helion so still be recused from negotiations, but from a governance perspective this will make things easier for both companies.)\n\nDavid and Chris are exceptional founders and I think people will be quite impressed by the company's progress.",
+      "zh": "我很喜欢在 Helion 董事会任职；我仍然对能源充沛的未来感到非常兴奋，尤其是 Helion。\n\n随着 Helion 和 OpenAI 开始探索大规模合作，我很难同时在两个董事会任职。 （我将在 Helion 中拥有经济利益，因此仍然可以回避谈判，但从治理角度来看，这将使两家公司的事情变得更容易。）\n\n大卫和克里斯是杰出的创始人，我认为人们会对公司的进步印象深刻。"
+    },
+    "claudeai": {
+      "en": "Claude uses your connected apps first: Slack, Calendar, and other integrations.\n\nWhen there's no connector for the tool you need, it asks for your permission to open the app on your screen directly.",
+      "zh": "Claude 首先使用您连接的应用程序：Slack、日历和其他集成。\n\n当没有您需要的工具的连接器时，它会请求您允许直接在屏幕上打开应用程序。"
+    }
+  },
+  "podcasts": {}
+}
