@@ -1,0 +1,88 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
+      "zh": "软件恐怖：litellm PyPI 供应链攻击。 \n\n简单的“pip install litellm”足以泄露 SSH 密钥、AWS/GCP/Azure 凭证、Kubernetes 配置、git 凭证、环境变量（所有 API 密钥）、shell 历史记录、加密钱包、SSL 私钥、CI/CD 机密、数据库密码。\n\nLiteLLM 本身每月有 9700 万次下载，这已经很糟糕了，但更糟糕的是，这种传染会蔓延到任何依赖 litellm 的项目。例如，如果您执行了“pip install dspy”（依赖于 litellm>=1.64.0），您也会被 pwnd 。对于任何其他依赖于 litellm 的大型项目也是如此。\n\n事实上，中毒版本仅运行了不到 1 小时。该攻击有一个导致其被发现的错误 - Callum McMahon 在 Cursor 中使用了 MCP 插件，该插件将 litellm 作为传递依赖项引入。当安装 litellm 1.82.8 时，他们的机器内存不足并崩溃了。因此，如果攻击者没有对这次攻击进行振动编码，那么它可能会在几天或几周内未被检测到。\n\n像这样的供应链攻击基本上是现代软件中可以想象到的最可怕的事情。每次安装任何依赖项时，您都可能会在整个依赖项树深处的任何位置拉入有毒的包。对于可能有很多依赖项的大型项目来说，这尤其危险。在每次攻击中被盗的凭据可用于接管更多帐户并危害更多软件包。\n\n经典软件工程会让你相信依赖关系是好的（我们正在用砖块建造金字塔），但在我看来，这必须重新评估，这就是为什么我越来越反对它们，更喜欢使用法学硕士来“yoink”功能，当它足够简单和可能时。"
+    },
+    "swyx": {
+      "en": "first casualty of OpenAI’s crackdown on Side Quests:\n\nSora is dead :(",
+      "zh": "OpenAI 打击支线任务的第一个受害者：\n\n索拉死了:("
+    },
+    "joshwoodward": {
+      "en": "I've been at @Google since I was an intern, and there's never been a more exciting time. The place is pulsating.\n\nWe're hiring :)\n\n@GeminiApp or @GoogleAIStudio: \n\n@GoogleLabs:",
+      "zh": "我从实习生起就在@Google 工作，从来没有比这更激动人心的时刻了。这个地方正在脉动。\n\n我们正在招聘:)\n\n@GeminiApp 或 @GoogleAIStudio： \n\n@谷歌实验室："
+    },
+    "petergyang": {
+      "en": "I hope AI agents will help us all stop obsessing about:\n\n- Specs\n- Designs\n- Issues\n- Roadmaps\n- Strategy docs\n- Spreadsheets\n\nand instead let us all obsess about improving the end user product and rapid iteration loops with users.\n\nProduct development is much more fun that way.",
+      "zh": "我希望人工智能代理能够帮助我们所有人停止沉迷于：\n\n- 规格\n- 设计\n- 问题\n- 路线图\n- 策略文档\n- 电子表格\n\n相反，让我们都专注于改进最终用户产品和与用户的快速迭代循环。\n\n这样产品开发就会有趣得多。"
+    },
+    "thenanyu": {
+      "en": "I haven’t written a PRD by hand, filed an issue through a form, or hand-written any code in months. \n\nBut the volume of work I’m producing and the quality bar have never been higher.",
+      "zh": "我已经几个月没有手工编写 PRD、通过表格提交问题或手写任何代码了。 \n\n但我正在制作的作品数量和质量标准从未如此高过。"
+    },
+    "_catwu": {
+      "en": "Excited to see everyone at Code with Claude! What would you like to hear from us at this year's sessions?",
+      "zh": "很高兴在 Code with Claude 中见到大家！您想在今年的会议上听到我们什么消息？"
+    },
+    "trq212": {
+      "en": "turns out being an AI safety company is useful for when you need to make sure AIs can run safely",
+      "zh": "事实证明，当您需要确保人工智能能够安全运行时，成为一家人工智能安全公司非常有用"
+    },
+    "amasad": {
+      "en": "If you’re a content creator you need to watch this. No hype or marketing. Nick is sharing is his genuine journey on how learning to make software transformed their business.",
+      "zh": "如果您是内容创作者，您需要观看此内容。没有炒作或营销。尼克正在分享他关于学习软件如何改变他们的业务的真实旅程。"
+    },
+    "rauchg": {
+      "en": "Almost every SaaS app inside Vercel has now been replaced with a generated app or agent interface, deployed on Vercel.\n\nSupport, sales, marketing, PM, HR, dataviz, even design and video workflows. It’s shocking.\n\nThe SaaSpocalypse is both understated and overstated. Over because the key systems of record and storage are still there (Salesforce, Snowflake, etc.)\n\nUnderstated because the software we are generating is more beautiful, personalized, and crucially, fits our business problems better. \n\nWe struggled for years to represent the health of a Vercel customer properly inside Salesforce. Too much data (trillions of consumption data points), the ontology of Vercel was a mismatch to the built-in assumptions, and the resulting UI was bizarre. We generated what we needed instead. When you don’t need a UI, you just ask an agent with natural language.\n\nWe’ve also been moving off legacy systems with poor, slow, outdated, and inconsistent APIs, as well as just dropping abstraction down to more traditional databases. UI is a function 𝑓 of data (always has been), and that 𝑓 is increasingly becoming the LLM.",
+      "zh": "Vercel 内的几乎每个 SaaS 应用程序现在都已替换为部署在 Vercel 上的生成应用程序或代理界面。\n\n支持、销售、营销、产品经理、人力资源、数据可视化，甚至设计和视频工作流程。太令人震惊了。\n\nSaaS 末日既被低估又被夸大。结束是因为关键的记录和存储系统仍然存在（Salesforce、Snowflake 等）\n\n之所以低调，是因为我们生成的软件更美观、更个性化，而且最重要的是，更适合我们的业务问题。 \n\n多年来，我们一直在努力在 Salesforce 中正确代表 Vercel 客户的健康状况。数据太多（数万亿个消费数据点），Vercel 的本体与内置假设不匹配，并且生成的 UI 很奇怪。相反，我们生成了我们需要的东西。当您不需要用户界面时，您只需用自然语言询问客服人员即可。\n\n我们还一直在淘汰那些 API 质量差、速度慢、过时且不一致的遗留系统，并且将抽象简化为更传统的数据库。 UI 是数据的函数𝑓（一直如此），并且𝑓 越来越成为法学硕士。"
+    },
+    "alexalbert__": {
+      "en": "Goodbye --dangerously-skip-permissions, hello auto mode",
+      "zh": "再见——危险地跳过权限，你好自动模式"
+    },
+    "levie": {
+      "en": "“We’ve also been moving off legacy systems with poor, slow, outdated, and inconsistent APIs.”\n\nIf you’re building software that can’t work fully headlessly in a way that agents want to use, you’re not prepared for what the future of software is going to look like. \n\nAgents will use software 100X more than people, and people will more and more interact with their data and workflows via agents across many different platforms.\n\nThis is the real risk but also opportunity for platforms right now. Software doesn’t go away, but it becomes the guardrails and business logic for what agents are able to operate on. But if you can’t connect to wherever the agents want to do that work, you’re DOA.",
+      "zh": "“我们还一直在淘汰 API 质量差、速度慢、过时且不一致的遗留系统。”\n\n如果您正在构建的软件无法以代理想要使用的方式完全无头工作，那么您就没有为软件的未来做好准备。 \n\n代理使用的软件将比人类多 100 倍，人们将越来越多地通过跨许多不同平台的代理与数据和工作流程进行交互。\n\n这是目前平台面临的真正风险，但也是机遇。软件不会消失，但它成为代理能够操作的护栏和业务逻辑。但如果您无法连接到代理想要完成这项工作的任何地方，那么您就完蛋了。"
+    },
+    "garrytan": {
+      "en": "Once you say “replace developers” it’s the wrong ideaspace\n\nCars didn’t replace walking, you still have to walk a little bit AND\n\nIt let people go to places you can’t go to on foot alone",
+      "zh": "一旦你说“更换开发人员”，那就是错误的想法空间\n\n汽车并没有取代步行，你仍然需要步行一点并且\n\n它让人们可以去到你独自步行无法到达的地方"
+    },
+    "mattturck": {
+      "en": "Typo, before: you did sloppy work!  That's bad\n\nTypo, today: you wrote authentic, non-AI generated content! That's awesome",
+      "zh": "以前的错字：你干得马虎！  那就不好了\n\n拼写错误，今天：您编写了真实的、非人工智能生成的内容！太棒了"
+    },
+    "nikunj": {
+      "en": "SOC II is in the news right now for being security theater..\n\nYou know what SOC II is *actually* good for? Subprocessor lists. \n\nI scraped 417 companies subprocessors to investigate what AI native companies are using for their infrastructure. \n\nIntroducing DeployGraph dot com 🥞",
+      "zh": "SOC II 现在因其安全性而成为新闻焦点。\n\n您知道 SOC II“实际上”有什么用处吗？子处理者列表。 \n\n我搜集了 417 家公司的分处理商来调查人工智能本土公司在其基础设施中使用的内容。 \n\n介绍 DeployGraph dot com 🥞"
+    },
+    "steipete": {
+      "en": "Messaged a friend on WhatsApp, got greeted by the OpenClaw doorman 🤣\n\n(use separate number + WA Business to avoid this, see the docs, or use a message platform that is friendlier for agents such as Telegram)",
+      "zh": "在 WhatsApp 上给朋友发消息，受到 OpenClaw 门卫的欢迎🤣\n\n（使用单独的号码 + WA Business 可以避免这种情况，请参阅文档，或者使用对代理更友好的消息平台，例如 Telegram）"
+    },
+    "danshipper": {
+      "en": "new @every stickers for your mac mini running openclaw",
+      "zh": "为您运行 openclaw 的 mac mini 设计的新 @every 贴纸"
+    },
+    "adityaag": {
+      "en": "It is increasing clear that the hardware for robotics is ready.\n\nWe just need to get the software to a point where it is reliable and scalable.\n\nThis actually makes me very bullish on 🇺🇸.\n\nWe are good at software. And increasingly getting at hardware and supply chains as well.",
+      "zh": "越来越明显的是，机器人技术的硬件已经准备就绪。\n\n我们只需要让软件达到可靠且可扩展的程度。\n\n这实际上让我非常看好🇺🇸。\n\n我们擅长软件。并且越来越多地涉足硬件和供应链。"
+    },
+    "sama": {
+      "en": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will need a society-wide response to things like novel bio threats, a massive and fast change to the economy, extremely capable models causing complex emergent effects across society, and more.\n\nThese are the areas the OpenAI Foundation will initially focus on, and in my opinion are some of the most important ones for us to get right. The Foundation will spend at least $1 billion over the next year.\n\n@woj_zaremba, co-founder of OpenAI, will transition to Head of AI Resilience. I believe that shifting how the world thinks about safety to include a Resilience-style approach is critical, and I am extremely grateful to Wojciech for taking on this role.\n\nWojciech has been my cofounder for the last decade; anyone who knows him will understand what I mean when I say he is one of a kind. He has a lot of ideas about how we build a new kind of AI safety.\n\n@JacobTref is joining as Head of Life Sciences and Curing Diseases.\n\n@annaadeola, our VP of Global Impact, will transition to Head of AI for Civil Society and Philanthropy.\n\n@robert_kaiden is joining as Chief Financial Officer.\n\n@jeffarnold is joining as Director of Operations.",
+      "zh": "人工智能将有助于发现新的科学，例如疾病的治疗方法，这可能是长期提高生活质量的最重要方法。\n\n人工智能还将给社会带来我们必须应对的新威胁。没有一家公司能够独自充分缓解这些问题；我们需要全社会对新的生物威胁、经济的巨大而快速的变化、对整个社会造成复杂的紧急影响的极其强大的模型等问题做出反应。\n\n这些是 OpenAI 基金会最初关注的领域，在我看来，也是我们需要做好的一些最重要的领域。该基金会明年将花费至少 10 亿美元。\n\nOpenAI 联合创始人 @woj_zaremba 将担任 AI Resilience 主管。我相信，改变世界对安全的看法，将弹性方式纳入其中至关重要，我非常感谢沃伊切赫担任这一角色。\n\n过去十年来，Wojciech 一直是我的联合创始人。当我说他是独一无二的时候，任何认识他的人都会明白我的意思。关于我们如何构建新型人工智能安全，他有很多想法。\n\n@JacobTref 将以生命科学和治疗疾病主管的身份加入。\n\n我们的全球影响力副总裁 @annaadeola 将转任民间社会和慈善事业人工智能主管。\n\n@robert_kaiden 将担任首席财务官。\n\n@jefarnold 将以运营总监的身份加入。"
+    },
+    "claudeai": {
+      "en": "New in Claude Code: auto mode.\n\nInstead of approving every file write and bash command, or skipping permissions entirely, auto mode lets Claude make permission decisions on your behalf.\n\nSafeguards check each action before it runs.",
+      "zh": "克劳德代码中的新功能：自动模式。\n\n自动模式让 Claude 代表您做出权限决定，而不是批准每个文件写入和 bash 命令，或者完全跳过权限。\n\n保障措施会在每个操作运行之前对其进行检查。"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "There's a school of thought that why should I bother to learn chemistry or physics or whatever when TAGPT know has PhD level understanding of that. Anyway, [music] >> Chach GPT is super good at Wikipedia level chemistry knowledge. I'm really interested in molecular design. Like how do you find a new liant that can go into a transition metal complex? So what that means is [music] it's some combination of atoms and it's going to bind to the metal and it's going to change its properties. The [music...",
+      "zh": "有一种观点认为，当 TAGPT 知道我对化学或物理或其他学科有博士水平的理解时，我为什么还要费心去学习化学或物理或其他学科。无论如何，[音乐] >> Chach GPT 非常擅长维基百科级别的化学知识。我对分子设计非常感兴趣。比如你如何找到一种可以进入过渡金属络合物的新物质？所以这意味着[音乐]它是原子的某种组合，它将与金属结合并改变其属性。 [音乐",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
