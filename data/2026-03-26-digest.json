@@ -1,0 +1,84 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.",
+      "zh": "所有法学硕士个性化的一个常见问题是模型的记忆似乎会分散注意力。两个月前关于某个主题的一个问题可能会因为我的某种浓厚兴趣而不断出现，并永远被不当提及。某种程度的尝试太努力了。"
+    },
+    "swyx": {
+      "en": "Clawfather and friends are coming to @aidotengineer in London in 2 weeks :)\n\nsome transparency from me - running the first international AIE has been extremely hard on our team - even though booths and tickets are ALL sold out, we're still not profitable*. We'll be ok, all first years are investment years, but support from GDM, OAI, Braintrust and WorkOS has been so invaluable in keeping us afloat.\n\nWe still have our Afterparty, Leadership Luncheon, and Expo Cafe available for sponsors who'd like to support and attend on short notice. Would deeply appreciate all referrals!\n\n*events have superlinear cost and logistical complexity curves, i hate it",
+      "zh": "Clawfather 和朋友们两周后将来到伦敦的 @aidotengineer :)\n\n我的一些透明度 - 运行第一个国际 AIE 对我们的团队来说非常困难 - 即使展位和门票都卖完了，我们仍然没有盈利*。我们会没事的，所有的第一年都是投资年，但来自 GDM、OAI、Braintrust 和 WorkOS 的支持对于我们的生存来说非常宝贵。\n\n我们仍然为想要支持并在短时间内参加的赞助商提供余兴派对、领导午餐会和世博咖啡厅。非常感谢所有推荐！\n\n*事件具有超线性成本和后勤复杂性曲线，我讨厌它"
+    },
+    "kevinweil": {
+      "en": "👀",
+      "zh": "👀"
+    },
+    "petergyang": {
+      "en": "The biggest time-waster at most tech companies isn't meetings or Slack.\n\nIt's trying to predict what your leader wants.\n\nIn my latest post, I break down how a VP at Meta solved this by building an AI skill that reviews docs in his voice:\n\n→ What the /exec-review skill does\n→ How to build a leader profile in 6 steps\n→ The full skill files so you can set it up today\n\n📌 Read now:",
+      "zh": "大多数科技公司最浪费时间的不是会议或 Slack。\n\n它试图预测你的领导想要什么。\n\n在我最新的文章中，我详细介绍了 Meta 的副总裁如何通过构建一种可以用他的声音审阅文档的 AI 技能来解决这个问题：\n\n→ /exec-review 技能的作用\n→ 如何通过 6 个步骤建立领导者档案\n→ 完整的技能文件，以便您今天就可以进行设置\n\n📌立即阅读："
+    },
+    "thenanyu": {
+      "en": "I really wish we could reclaim design back to meaning “a plan for arranging elements to accomplish a particular purpose”\n\nWe got overly obsessed with arranging elements and forgot about the purpose.",
+      "zh": "我真的希望我们能够将设计重新定义为“安排元素以实现特定目的的计划”\n\n我们过于沉迷于排列元素而忘记了目的。"
+    },
+    "_catwu": {
+      "en": "Auto mode is a step change improvement in the Claude Code UX, balancing autonomy and safety. Almost everyone on our team uses this as a daily driver. \n\nNow available to Claude for Team users! `claude --enable-auto-mode` to turn on, then Shift + Tab to enter the mode",
+      "zh": "自动模式是 Claude Code UX 的一步改进，平衡了自主性和安全性。我们团队中几乎每个人都将其用作日常驱动程序。 \n\n现在可供 Claude for Team 用户使用！ `claude --enable-auto-mode` 打开，然后 Shift + Tab 进入该模式"
+    },
+    "trq212": {
+      "en": "imessage is now available as a channel!",
+      "zh": "imessage 现已作为频道提供！"
+    },
+    "amasad": {
+      "en": "Apple seems happy with apps made with Replit as evident by the high rate of acceptance.",
+      "zh": "苹果似乎对使用 Replit 制作的应用程序感到满意，这一点从其高接受率就可见一斑。"
+    },
+    "rauchg": {
+      "en": "Every company will become an AI factory, wherein the unit of production is the token. \n\nTokens, however, create usage tracking  billing headaches that are v unlike SaaS.\n\n▲ AI Gateway now solves the metering problem across models &amp; providers with one /𝚟𝟷/𝚛𝚎𝚙𝚘𝚛𝚝 API call",
+      "zh": "每个公司都会成为一个人工智能工厂，其中的生产单位就是代币。 \n\n然而，与 SaaS 不同，令牌会带来使用跟踪计费问题。\n\n▲ AI Gateway 现在通过一次 /𝚟𝟷/𝚛𝚎𝚙𝚘𝚛𝚝 API 调用解决了跨模型和提供商的计量问题"
+    },
+    "levie": {
+      "en": "Jevons paradox is happening in real time. Companies, especially outside of tech, are realizing that they can now afford to take on software projects that they wouldn’t have been able to tackle before because now AI lets them do so. \n\nWe’re going to start to use software for all new things in the economy because it’s incrementally cheaper to produce. Marketing teams at big companies will have engineers helping to automate workflows. Engineers in life sciences and healthcare will automate research. Small businesses will hire engineers for the first to build better digital experiences.\n\nAnd as long as AI agents still require a human who understands what to prompt, how to review when an agent goes off the rails, how it guide back, how to maintain the system that was built, how to fix the ongoing bugs, and more, we will still have humans managing these agents.\n\nThis is why all the advice you get of not going into engineering is wrong. The world is going to increasingly be made up of software, and the people that understand it best will be in a strong economic position. This will happen in other roles as well where output goes up and demand increases.",
+      "zh": "杰文斯悖论正在实时发生。公司，尤其是科技以外的公司，正在意识到他们现在有能力承担以前无法解决的软件项目，因为现在人工智能让他们可以这样做。 \n\n我们将开始将软件用于经济中的所有新事物，因为它的生产成本越来越低。大公司的营销团队将有工程师帮助实现工作流程自动化。生命科学和医疗保健领域的工程师将实现研究自动化。小型企业将首先聘请工程师来打造更好的数字体验。\n\n只要人工智能代理仍然需要一个了解提示内容、如何检查代理脱轨、如何引导返回、如何维护已构建的系统、如何修复持续存在的错误等等的人，我们仍然需要人类来管理这些代理。\n\n这就是为什么你得到的所有不进入工程学的建议都是错误的。世界将越来越多地由软件组成，最了解软件的人将处于强大的经济地位。当产出增加和需求增加时，这种情况也会发生在其他角色中。"
+    },
+    "ryolu_": {
+      "en": "as agents make it easy to add features, design matters more, not less. the role is no longer just pushing pixels – it’s deciding what should exist, how it fits together, how humans stay in control, and how intelligence feels clear, trustworthy, and useful.\n\ntaste, craft, and judgment have always been the bottleneck. the game is not who ships fastest, but who makes the right thing for humans.",
+      "zh": "由于代理可以轻松添加功能，因此设计更重要，而不是更少。这个角色不再只是推动像素——它正在决定什么应该存在，它们如何组合在一起，人类如何保持控制，以及智能如何让人感觉清晰、可信和有用。\n\n品味、工艺、判断力一直是瓶颈。游戏不在于谁出货最快，而在于谁为人类生产正确的产品。"
+    },
+    "garrytan": {
+      "en": "GStack beats Superpowers head to head",
+      "zh": "GStack 正面击败 Superpowers"
+    },
+    "mattturck": {
+      "en": "What VCs do on company boards, an evolution: \n\n2016: governance, guidance, support \n\n2021: cheerleaders \n\n2026: Anthropic and OpenAI sales representatives",
+      "zh": "风险投资人在公司董事会所做的事情的演变： \n\n2016 年：治理、指导、支持 \n\n2021：啦啦队 \n\n2026 年：Anthropic 和 OpenAI 销售代表"
+    },
+    "nikunj": {
+      "en": "I'm generally quite low key when it comes to events. But when @andruyeung comes to town, you ball out..\n\nExcited to cohost a VERY fancy founder dinner on April 7th in SF.\n\nWe already have some fantastic founders coming &amp; would love to add a few more.\n\nRSVP link in the next post!",
+      "zh": "谈到事件时，我通常很低调。但是当@andruyeung来到城里时，你就退出了..\n\n很高兴于 4 月 7 日在旧金山共同举办一场非常精美的创始人晚宴。\n\n我们已经有一些出色的创始人加入，并且很乐意添加更多。\n\n回复链接在下一篇文章！"
+    },
+    "steipete": {
+      "en": "New @openclaw beta is out with better MS Teams integration, @OpenWebUI and more!",
+      "zh": "新的 @openclaw 测试版已推出，具有更好的 MS Teams 集成、@OpenWebUI 等！"
+    },
+    "danshipper": {
+      "en": "The rules of professional product development are being rewritten in real time. \n\n- PMs and designers can ship software as easily as engineers.\n- Software is no longer just built for humans—it’s also built for agents as first-class citizens. \n\nTo better understand how we build products in this world, I invited Mike Krieger (@mikeyk) on @every’s AI & I podcast. Mike cofounded Instagram and is now a member of the technical staff at Anthropic, co-leading Anthropic Labs, their internal incubator for experimental products. He's been at the frontier of two transformative technology waves: mobile/social and now agent-native software.\n\nWe discussed: \n- How to build a truly agent-native product. The best products today, like Claude Code, allow users to do things that their creators never intended. But that requires hard trade-offs between freedom and safety/reliability for frontier products, an issue that Mike's team is learning how to solve. \n- What's different about building now versus building Instagram. At Instagram, it took months to hit dead ends and learn what to cut. Now, that cycle runs in hours.\n- The trap of building too much, too fast with agents. You can go from idea to a nearly-shipped product in a day, but that process doesn’t give you the incremental feedback that used to tell you what not to build. The models are great at adding features, but can create a product that lacks coherence.\n- How Anthropic Labs structures product teams. New product experiments are led by only two people, usually a product manager or designer paired with an engineer. Mike says bigger teams tend to be too slow because of coordination costs.\n- Why you need to throw out your product and start over every three to six months. AI progress means most of your harness will be outdated quickly—the best teams build this into their product strategy.\n\nAnd much more! You should watch this one.\n\nTimestamps\nIntroduction: \nWhat's gotten easier—and what hasn't—about building products in the age of AI: \nWhy vibe coding creates \"indoor trees\": \nHow rewrites have become a normal part of the development process: \nWhat \"agent native\" product design means: \nHow Mike's labs team is structured and the cofounder model: \nThe best signal for a product bet is someone with \"break through walls\" conviction: \nNavigating enterprise customers while keeping pace with rapid AI change: \nOpenClaw, personal agents, and the product question defining 2026:",
+      "zh": "专业产品开发的规则正在被实时改写。 \n\n- 产品经理和设计师可以像工程师一样轻松地交付软件。\n- 软件不再仅仅为人类而构建，它也为作为一等公民的代理而构建。 \n\n为了更好地了解我们如何在这个世界上构建产品，我邀请 Mike Krieger (@mikeyk) 加入@every 的 AI & I 播客。 Mike 是 Instagram 的联合创始人，现在是 Anthropic 的技术人员，共同领导 Anthropic Labs，这是他们的实验产品内部孵化器。他一直处于两个变革性技术浪潮的前沿：移动/社交和现在的代理原生软件。\n\n我们讨论了： \n- 如何构建真正的代理原生产品。当今最好的产品，例如 Claude Code，允许用户做其创建者从未想过的事情。但这需要在前沿产品的自由度和安全性/可靠性之间进行艰难的权衡，迈克的团队正在学习如何解决这个问题。 \n- 现在构建与构建 Instagram 有何不同。在 Instagram，我们花了几个月的时间才进入了死胡同，并学会了删减哪些内容。现在，这个周期以小时为单位。\n- 代理建设过多、过快的陷阱。您可以在一天之内从想法变成即将交付的产品，但这个过程不会为您提供增量反馈，而这些反馈过去常常告诉您不要构建什么。这些模型非常擅长添加功能，但可能会创建缺乏连贯性的产品。\n- Anthropic Labs 如何构建产品团队。新产品实验仅由两个人领导，通常是产品经理或设计师与工程师配对。迈克表示，由于协调成本的原因，较大的团队往往速度太慢。\n- 为什么您需要扔掉您的产品并每三到六个月重新开始一次。人工智能的进步意味着您的大部分工具将很快过时——最好的团队会将其纳入他们的产品策略中。\n\n还有更多！你应该看看这个。\n\n时间戳\n简介： \n在人工智能时代，构建产品有哪些变得更容易，哪些没有变得更容易： \n为什么氛围编码创建“室内树木”： \n重写如何成为开发过程的正常部分： \n“代理原生”产品设计意味着什么： \nMike 的实验室团队的结构和联合创始人模式： \n产品押注的最佳信号是具有“突破墙壁”信念的人： \n引导企业客户，同时跟上快速的人工智能变革： \nOpenClaw、个人代理以及定义 2026 年的产品问题："
+    },
+    "adityaag": {
+      "en": "Some observations from @HillValleyForum yesterday:\n\n- It takes three to tango for hardtech/deeptech. Builders+Investors+PolicyMakers. All 3 were out in full force.\n\n- The speaker lineup was top-tier. It's indicative of the great job that @zebulgar @CGarrett_15 @jacobhelberg have done but also to the fact that there is:\n\n- Insane energy around hardtech+deeptech. Drones, Energy, Robotics, Atoms+Bits.\n\n- This energy is infectious...but oddly not very Silicon Valley / Bay Area pilled. It's in a bunch of disparate places around the US. I think this is a good thing.\n\n- The support from Washington / the political class is very real. This was awesome to see. Every single congressman+senator that I interacted with wanted to be part of building something amazing. Having folks like @sriramk  in DC helps a lot.\n\n- @shaunmmaguire  captured this in his interview with TBPN yesterday but I think the interesting aspect of moving from bits to atoms+bits is that you also diversity your sources of capital. Lots of interesting conversations with investors who are far from traditional venture.\n\nSuper optimistic for 🇺🇸.\n\nWe have a lot to do but things are going in the right direction.",
+      "zh": "昨天@HillValleyForum 的一些观察：\n\n- 硬科技/深科技探戈需要三人。建设者+投资者+政策制定者。 3人全部出动。\n\n- 演讲者阵容是顶级的。这表明了 @zebulgar @CGarrett_15 @jacobhelberg 所做的出色工作，但也表明了以下事实：\n\n- 围绕硬科技+深科技的疯狂能量。无人机、能源、机器人、原子+比特。\n\n- 这种能量具有感染力……但奇怪的是，硅谷/湾区并没有受到太多影响。它位于美国各地的许多不同地方。我认为这是一件好事。\n\n- 来自华盛顿/政治阶层的支持是非常真实的。这真是太棒了。我接触过的每一位国会议员和参议员都希望成为建设令人惊叹的事物的一部分。在华盛顿有像 @sriramk 这样的人会有很大帮助。\n\n- @shaunmmaguire 在昨天接受 TBPN 采访时捕捉到了这一点，但我认为从比特转向原子+比特的有趣之处在于，你还可以实现资本来源的多样化。与远离传统风险投资的投资者进行了很多有趣的对话。\n\n对🇺🇸超级乐观。\n\n我们还有很多事情要做，但事情正在朝着正确的方向发展。"
+    },
+    "claudeai": {
+      "en": "Your work tools in Claude are now available on mobile.\n\nExplore Figma designs, create Canva slides, check Amplitude dashboards, all from your phone.\n\nGive it a try:",
+      "zh": "您现在可以在移动设备上使用 Claude 的工作工具。\n\n探索 Figma 设计、创建 Canva 幻灯片、检查 Amplitude 仪表板，所有这些都可以通过您的手机完成。\n\n尝试一下："
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "All of the previous revolutions in tech, internet, right, like social media, like whatever, have been totally meaningless to biotechnology and bioparma. Like, yeah, it's nice. We communicate slightly better or whatever. It's just some like back office IT crap, right? Like, not this, like this. This is is actually going to change the fundamentals of how we do science and and our big science industries like bioarma are going to get disrupted. I I really believe that and that's not been true for th...",
+      "zh": "之前所有的科技革命、互联网革命、社交媒体革命等等，对于生物技术和 Bioparma 来说都是毫无意义的。就像，是的，这很好。我们的沟通稍微好一点或者怎么样。这只是一些后台 IT 垃圾，对吧？像这样，不是这个，像这样。这实际上将改变我们进行科学研究的基本原理，而我们的大型科学产业（例如生物武器）将受到干扰。我真的相信这一点，但事实并非如此",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
