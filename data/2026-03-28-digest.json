@@ -1,0 +1,49 @@
+{
+  "x": {
+    "swyx": {
+      "en": "just learned about create-context-graph - one command and it sets up key entity relationships for 22 top industry domains. been looking for something like this to \"layer on\" a social graph to every single app I make!",
+      "zh": "刚刚了解了 create-context-graph - 一个命令，它为 22 个顶级行业领域建立了关键实体关系。一直在寻找这样的东西来为我制作的每个应用程序“分层”社交图！"
+    },
+    "joshwoodward": {
+      "en": "Our \"Veo Sailor\" from the Veo 3 launch wants to remind you: \"You can still make videos in Gemini\" :)",
+      "zh": "我们在 Veo 3 中推出的“Veo Sailor”想提醒您：“您仍然可以在 Gemini 中制作视频”:)"
+    },
+    "petergyang": {
+      "en": "The best way to learn to use Claude Cowork is from the designer who helped build it.\n\nDon't miss my new episode with Jenny this weekend where she shared:\n\n→ How she uses Cowork at Anthropic\n→ Live demo: From feedback to product deck\n→ The real story behind Cowork's creation\n\n📌 Subscribe to get it on Sunday:",
+      "zh": "学习使用 Claude Cowork 的最佳方法是从帮助构建它的设计师那里学习。\n\n不要错过本周末我与珍妮的新剧集，她分享了：\n\n→ 她如何在 Anthropic 使用 Cowork\n→ 现场演示：从反馈到产品展示\n→ Cowork 创作背后的真实故事\n\n📌 订阅即可在周日获取："
+    },
+    "thenanyu": {
+      "en": "What if the next few YC batches have overly correlated performance because they all use GStack, which causes them to make the same kinds of mistakes but also biases to them towards being selected for admission.",
+      "zh": "如果接下来的几个 YC 批次由于都使用 GStack 而具有过度相关的性能，这会导致它们犯同样的错误，而且也会对它们被选中录取产生偏见，该怎么办？"
+    },
+    "levie": {
+      "en": "The big gap in most enterprises being able to automate work is being able to get right context to the agents.\n\nWe experience a huge benefit in coding in tech because the problem is generally far simpler than other areas of knowledge work. The codebase contains a bunch of necessary context, access controls and permissions are generally not a major concern, the users are technical enough to supply the context, and the final output is generally quickly verifiable. \n\nMost knowledge work doesn’t look like this. The data is sitting in legacy silos that don’t easily connect to agents, the access controls are all out of whack (people have either too much or too little access), the information isn’t agent-ready, and more. \n\nThis is the big context gap for any type of agentic workflows in most organizations right. The platforms that make solving this easy, and the companies that retool their workflows to enable this, will be the winners in a world of agents.",
+      "zh": "大多数企业在实现工作自动化方面的巨大差距是能够为代理提供正确的上下文。\n\n我们在技术编码中体验到了巨大的好处，因为问题通常比其他知识工作领域简单得多。代码库包含一堆必要的上下文，访问控制和权限通常不是主要问题，用户有足够的技术来提供上下文，并且最终输出通常可以快速验证。 \n\n大多数知识工作看起来并不是这样的。数据位于传统的孤岛中，不容易连接到代理，访问控制完全不正常（人们的访问权限要么太多，要么太少），信息还没有为代理做好准备，等等。 \n\n对于大多数组织中任何类型的代理工作流程来说，这都是巨大的上下文差距。使解决这个问题变得容易的平台，以及重新调整工作流程以实现这一点的公司，将成为代理世界的赢家。"
+    },
+    "garrytan": {
+      "en": "I have to say this interview changed my life. Hearing how Boris thinks about software spurred me to work much harder on releasing my own way of doing things and on iterating fast on how I build. Hard to believe it has only been a month since this one.",
+      "zh": "我不得不说这次采访改变了我的生活。听到鲍里斯对软件的看法激励我更加努力地发布自己的做事方式并快速迭代我的构建方式。很难相信距离这件事仅仅过去了一个月。"
+    },
+    "nikunj": {
+      "en": "If X built something like this natively, I'd honestly pay them $50/mo.. but till then it was fun to run \"intelligence\" to understand all my followers ✌️",
+      "zh": "如果 X 原生构建了这样的东西，我会诚实地付给他们 50 美元/月.. 但在那之前，运行“智能”来了解我所有的追随者是很有趣的✌️"
+    },
+    "steipete": {
+      "en": "The next version of OpenClaw is also an MCP, you can use it instead of Anthropic's message channel MCP to connect to a much wider range of message providers.\n\n(I know, this is awkward)",
+      "zh": "OpenClaw的下一个版本也是一个MCP，您可以使用它代替Anthropic的消息通道MCP来连接到更广泛的消息提供者。\n\n（我知道，这很尴尬）"
+    },
+    "danshipper": {
+      "en": "want an engineering philosophy truly built for the AI age?\n\nuse compound engineering:",
+      "zh": "想要真正为人工智能时代构建的工程哲学吗？\n\n使用复合工程："
+    },
+    "adityaag": {
+      "en": "Lingering is fatal.",
+      "zh": "徘徊是致命的。"
+    },
+    "sama": {
+      "en": "The first steel beams went up this week at our Michigan Stargate site with Oracle and Related Digital",
+      "zh": "本周，第一根钢梁在我们的密歇根星门工厂与 Oracle 和相关数字公司一起架起"
+    }
+  },
+  "podcasts": {}
+}
