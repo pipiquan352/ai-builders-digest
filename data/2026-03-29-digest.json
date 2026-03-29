@@ -1,0 +1,49 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "- Drafted a blog post\n- Used an LLM to meticulously improve the argument over 4 hours.\n- Wow, feeling great, it’s so convincing!\n- Fun idea let’s ask it to argue the opposite. \n- LLM demolishes the entire argument and convinces me that the opposite is in fact true.\n- lol\n\nThe LLMs may elicit an opinion when asked but are extremely competent in arguing almost any direction. This is actually super useful as a tool for forming your own opinions, just make sure to ask different directions and be careful with the sycophancy.",
+      "zh": "- 起草了一篇博客文章\n- 使用法学硕士在 4 小时内精心改进论证。\n- 哇，感觉棒极了，太有说服力了！\n- 有趣的想法，让我们让它提出相反的观点。 \n- 法学硕士推翻了整个论点，并使我相信事实恰恰相反。\n- 哈哈\n\n法学硕士可能会在被问及时提出意见，但在几乎任何方向上都非常有能力争论。作为形成自己观点的工具，这实际上非常有用，只要确保询问不同的方向并小心阿谀奉承即可。"
+    },
+    "swyx": {
+      "en": "False equivalence is a trap I’ve been consciously steering away from in my work the last 5 years. in Zuck’s case it cost him @GoogleDeepMind.\n\nin content/strategy it is common to go wide than deep: “oh we do a, b, c, and d” and put equal weight on all of them. But the world is not fair and power laws compound. Most school systems, bureaucrats, managers, and content curators are not set up for one thing to matter 50x more than the next thing. False equivalence killed my first devtools startup. False equivalence plagues policy making in my home country. False equivalence makes you underpay your top performers and spend too much time on lost causes. \n\nRules:\n\nCarefully bet on a very small set of things. \nDon’t hedge, but keep reversibility.\nSet triggers/levels to monitor if you are wrong.\nSet tests to DOUBLE DOWN EARLY if you are more right than you thought.",
+      "zh": "错误对等是我在过去 5 年的工作中一直有意识地避开的陷阱。就扎克而言，这让他付出了代价@GoogleDeepMind。\n\n在内容/策略中，通常是广而不深：“哦，我们做a、b、c和d”，并对所有这些给予同等的重视。但世界并不公平，幂律也很复杂。大多数学校系统、官僚、管理者和内容策展人都没有意识到一件事比下一件事重要 50 倍。错误的对等毁掉了我的第一个开发工具初创公司。错误对等困扰着我祖国的政策制定。错误的对等会让你给表现最好的员工支付过低的工资，并在失败的原因上花费太多的时间。 \n\n规则：\n\n小心地在很小的一组事情上下注。 \n不要对冲，但要保持可逆性。\n设置触发器/级别来监控您是否错了。\n如果您比您想象的更正确，请将测试设置为“提前加倍”。"
+    },
+    "joshwoodward": {
+      "en": "Seeing great uptake on this, give it a try this weekend!",
+      "zh": "看到大家对此的关注度很高，这个周末就来尝试一下吧！"
+    },
+    "petergyang": {
+      "en": "I would really love to talk to @grok about all the posts I have bookmarked on here but am too lazy to scroll through manually. @elonmusk what do you think?",
+      "zh": "我真的很想和 @grok 谈谈我在这里添加书签的所有帖子，但我懒得手动滚动。 @elonmusk 你觉得怎么样？"
+    },
+    "thenanyu": {
+      "en": "TED and 30u30 need to be taught in business schools as examples of complete brand self-destruction",
+      "zh": "商学院需要教授 TED 和 30u30 作为品牌彻底自我毁灭的例子"
+    },
+    "amasad": {
+      "en": "AI enables everyone to build apps, which leaves the best engineers to focus a layer deeper and do more ambitious things to advance the platforms themselves and expand what’s possible.\n\nThis is what I meant when I started talking about “the 1000x engineer” four years ago.",
+      "zh": "人工智能使每个人都能够构建应用程序，这使得最优秀的工程师能够更深入地关注并做更雄心勃勃的事情，以推进平台本身并扩展可能性。\n\n这就是我四年前开始谈论“1000x 工程师”时的意思。"
+    },
+    "rauchg": {
+      "en": "I can finally ship the text layout of my dreams",
+      "zh": "我终于可以交付我梦想中的文本布局了"
+    },
+    "garrytan": {
+      "en": "After Richmond disabled its Flock cameras to \"protect immigrants,\" car thefts jumped 33%. \n\nImmigrant shopkeepers begged to bring them back. Last week their city council finally listened. \n\nOpposing safety cameras is a luxury belief.",
+      "zh": "在里士满禁用 Flock 摄像头以“保护移民”后，汽车盗窃案猛增了 33%。 \n\n移民店主恳求将它们带回来。上周，他们的市议会终于听取了他们的意见。 \n\n反对安全摄像头是一种奢侈的信念。"
+    },
+    "nikunj": {
+      "en": "Doubt anyone will take me up on this. \n\nIf you want to read about why incentives are not aligned to disclose properly and many many methods of creative accounting, wrote this post in December",
+      "zh": "怀疑有人会接受我这个问题。 \n\n如果您想了解为什么激励措施未能正确披露以及许多创造性会计方法，请在 12 月写这篇文章"
+    },
+    "steipete": {
+      "en": "MCPorter (MCP-&gt;CLI)🧳0.8.0 is out.\n\n- stronger OAuth handling for servers\n- valid JSON output on fallback paths\n- better mcporter call behavior and error handling\n- generated CLIs handle object-valued args better\n- keep-alive/daemon reliability",
+      "zh": "MCPorter (MCP->CLI)🧳0.8.0 已发布。\n\n- 更强大的服务器 OAuth 处理\n- 后备路径上的有效 JSON 输出\n- 更好的 mcporter 调用行为和错误处理\n- 生成的 CLI 可以更好地处理对象值参数\n- 保持活动/守护进程可靠性"
+    },
+    "danshipper": {
+      "en": "not surprising if you’re paying attention",
+      "zh": "如果你注意的话，这并不奇怪"
+    }
+  },
+  "podcasts": {}
+}
