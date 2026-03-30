@@ -1,0 +1,61 @@
+{
+  "x": {
+    "swyx": {
+      "en": "redpoint literally just published a ranked list of saas businesses to redo from scratch with ai. \n\nyou can flip the 54% and the number 46% of enterprise CIOs *open to new ainative startups* over incumbents is a stunning market opportunity. if you’d asked me prior to seeing this survey i’d have said like 20%. CIOs are more hungry than conservative right now (vs my priors) and that will not last.",
+      "zh": "Redpoint 刚刚发布了一份 SaaS 企业的排名列表，这些企业可以利用人工智能从头开始重做。 \n\n你可以将 54% 和 46% 的企业首席信息官“对新的有创意的初创公司开放”而不是现有的首席信息官，这是一个令人惊叹的市场机会。如果你在看到这项调查之前问我，我会说 20% 左右。首席信息官们现在比保守派更饥渴（与我之前相比），而且这种情况不会持续太久。"
+    },
+    "kevinweil": {
+      "en": "\"An open source workflow for producing a personalized mRNA cancer vaccine\"",
+      "zh": "“用于生产个性化 mRNA 癌症疫苗的开源工作流程”"
+    },
+    "petergyang": {
+      "en": "I am incredibly bullish on @meetgranola for a few reasons:\n\n1. Meeting notes are by far the most useful context in a company\n\n2. They know how to build for agents first with great APIs and MCPs\n\n3. @cjpedregal is a stand-up human\n\nLove how they started with a wedge in meeting notes and are expanding into much more.",
+      "zh": "我非常看好@meetgranola，原因如下：\n\n1. 会议记录是迄今为止公司中最有用的上下文\n\n2. 他们知道如何首先使用出色的 API 和 MCP 为代理进行构建\n\n3. @cjpedregal 是一个站立的人\n\n喜欢他们如何从会议记录中的楔子开始，然后扩展到更多内容。"
+    },
+    "thenanyu": {
+      "en": "Jevons paradox",
+      "zh": "杰文斯悖论"
+    },
+    "trq212": {
+      "en": "the more I've been digging into the new Figma MCP, the more excited I am about it\n\nsomething new I'm trying is starting with a very ugly sketch in Figma, and then having Claude Code flesh it out in Figma so I can tweak and edit before sending the final back to Claude Code",
+      "zh": "我对新 Figma MCP 的研究越多，我就越兴奋\n\n我正在尝试的新东西是从 Figma 中的一个非常难看的草图开始，然后让 Claude Code 在 Figma 中充实它，这样我就可以在将最终结果发送回 Claude Code 之前进行调整和编辑"
+    },
+    "amasad": {
+      "en": "Wow — $8m ARR. \n\nJon (@cheneypiano), one of the earliest Replit vibecoding success stories, is on his way to making millions in recurring revenue.\n\nStarted the business in a week and $400 barely a year ago.",
+      "zh": "哇——ARR 800 万美元。 \n\nJon (@cheneypiano) 是最早的 Replit vivicoding 成功案例之一，他正在实现数百万的经常性收入。\n\n不到一年前，公司就开始营业了，花费了 400 美元。"
+    },
+    "rauchg": {
+      "en": "Hiring engineers with 5 years of experience in @𝚌𝚑𝚎𝚗𝚐𝚕𝚘𝚞/𝚙𝚛𝚎𝚝𝚎𝚡𝚝 to create the web rendering toolkit of the future",
+      "zh": "聘请在 @𝚌𝚑𝚎𝚗𝚐𝚕𝚘𝚞/𝚙𝚛𝚎𝚝𝚎𝚡𝚝 拥有 5 年经验的工程师来创建未来的 Web 渲染工具包"
+    },
+    "levie": {
+      "en": "The thing that most people miss initially with agents is that the scope of what we will produce will go up commensurate with what the tools can now automate, which basically means we’ll working the same or even more.\n\nEveryone thinks that we will use AI to do what we already do but cheaper and faster, which would lead to fewer people or getting more time back. In fact it will just mean we’re doing more things.\n\nOnce we figured out that we can automate a particular task, you then expand the size of work to do many more of those or other tasks in a project. The result is that you’re actually combining many other previously hard to combine tasks into a single workflow, causing even more work. \n\nThe software project scope now multiplies because you know you can build far more. The customer insights project now balloons because you know you can reasonably aggregate far more data. The marketing campaign has even more creative production because it’s cheaper and easier. \n\nThis is going to happen in almost every field of work.",
+      "zh": "大多数人最初错过的一点是，我们将生产的产品范围将与工具现在可以自动化的范围相称，这基本上意味着我们将进行相同甚至更多的工作。\n\n每个人都认为我们将使用人工智能来做我们已经做的事情，但更便宜、更快，这将导致更少的人员或获得更多的时间。事实上，这只是意味着我们正在做更多的事情。\n\n一旦我们发现可以自动执行特定任务，您就可以扩大工作规模以在项目中完成更多这些任务或其他任务。结果是，您实际上将许多其他以前难以组合的任务合并到一个工作流程中，从而导致更多的工作。 \n\n软件项目的范围现在成倍增加，因为您知道您可以构建更多。客户洞察项目现在正在蓬勃发展，因为您知道您可以合理地聚合更多数据。营销活动的制作更具创意，因为它更便宜、更容易。 \n\n这几乎会发生在每个工作领域。"
+    },
+    "garrytan": {
+      "en": "morluto was my first outside GStack contributor",
+      "zh": "morluto 是我的第一个外部 GStack 贡献者"
+    },
+    "mattturck": {
+      "en": "Everybody says Spain, but, I mean…",
+      "zh": "每个人都说西班牙，但是，我的意思是……"
+    },
+    "nikunj": {
+      "en": "X Chat app is seriously well done. Performant and buttery smooth. \n\nPlease ship the requests tab and that’s all I need to move all my communication over. \n\nMajor kudos to the team.",
+      "zh": "X Chat 应用程序做得非常好。性能卓越且柔滑。 \n\n请发送“请求”选项卡，这就是我转移所有通信所需的全部内容。 \n\n对团队的主要荣誉。"
+    },
+    "steipete": {
+      "en": "them: openclaw is dead\nme: *keeps scrolling* \n\n今夜、東京で会いましょう!🇯🇵",
+      "zh": "他们：张爪死了\n我：*继续滚动* \n\n今夜、东京で会いましょう!🇯🇵"
+    },
+    "danshipper": {
+      "en": "pirates, architects, hot people, grown ups",
+      "zh": "海盗、建筑师、热门人物、成年人"
+    },
+    "adityaag": {
+      "en": "As a 40 year old, you go to 10x more kids birthday parties than your own friends birthday parties.",
+      "zh": "作为 40 岁的人，您参加的孩子生日聚会比您自己朋友的生日聚会多 10 倍。"
+    }
+  },
+  "podcasts": {}
+}
