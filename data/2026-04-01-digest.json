@@ -1,0 +1,48 @@
+{
+  "x": {
+    "swyx": {
+      "en": "hmm. what happened? no Codex growth in March?",
+      "zh": "唔。发生了什么？ 3 月份 Codex 没有增长？"
+    },
+    "kevinweil": {
+      "en": "Not only is AI solving more open problems—its proofs are getting more elegant as the models improve",
+      "zh": "人工智能不仅解决了更多开放性问题，而且随着模型的改进，它的证明也变得更加优雅"
+    },
+    "thenanyu": {
+      "en": "Everyone apologize to DHH",
+      "zh": "大家向DHH道歉"
+    },
+    "trq212": {
+      "en": "/buddy",
+      "zh": "/伙伴"
+    },
+    "amasad": {
+      "en": "new psyop just dropped",
+      "zh": "新的心理战刚刚落下"
+    },
+    "levie": {
+      "en": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance, the ability to review the work of the agent, ensure that it’s compatible with regulations, and so on. \n\nWe’ve been living in a little bit of la-la land around how much software enterprises are going to ultimately want to vibe code themselves. The last 48 hours represents a good example of why you won’t take on every risk of every piece of technology in your enterprise. \n\nThere’s no free lunch with AI productivity. Companies will have the build up the systems, processes, and controls for ensuring that agents can’t run around and do anything they want on any data at any time.",
+      "zh": "代理生产力提高的最终限制因素将在于安全性、合规性、治理、审查代理工作的能力、确保其与法规兼容等关键方面。 \n\n我们一直生活在一个有点拉拉的土地上，周围有多少软件企业最终想要自己编写代码。过去 48 小时是一个很好的例子，说明了为什么您不会承担企业中每项技术的所有风险。 \n\n人工智能生产力没有免费的午餐。公司将建立系统、流程和控制措施，以确保代理无法随时对任何数据进行任何操作。"
+    },
+    "steipete": {
+      "en": "are they vibing the takedown requests too?",
+      "zh": "他们也回应了删除请求吗？"
+    },
+    "danshipper": {
+      "en": "if you haven't tried proof, you should!",
+      "zh": "如果您还没有尝试过证明，那么您应该尝试！"
+    },
+    "adityaag": {
+      "en": "Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded crazy to most people.\n\nMaybe the modern version of that is, just let your source code be public.\n\nIf software is so dynamic, maybe this isn't so crazy.\n\nOr maybe it is totally batshit crazy.",
+      "zh": "回顾过去，Facebook 早期“修复生产中的错误”的理念对大多数人来说听起来很疯狂。\n\n也许现代版本是，让你的源代码公开。\n\n如果软件如此动态，也许这并没有那么疯狂。\n\n或者也许这完全是疯狂的。"
+    }
+  },
+  "podcasts": {
+    "Data Driven NYC": {
+      "en": "[music] My name is Andrew. Uh, and I'm going to be talking about how we go from here to the oneperson billion-dollar company. Now, a little bit about ourselves. We founded the general intelligence company in New York about a year ago. I'm going to call it general intelligence because I only have so many words I can say. Our mission is to enable the oneperson billion dollar company. We want to build uh organizations that run themselves with AI. There's a number of ways we're going to get there. I...",
+      "zh": "[音乐] 我叫安德鲁。呃，我要谈谈我们如何从这里发展成为一家价值数十亿美元的公司。现在，谈谈我们自己。大约一年前，我们在纽约成立了通用情报公司。我将其称为一般智力，因为我只能说这么多的话。我们的使命是打造一家价值数十亿美元的公司。我们希望建立利用人工智能进行自我管理的组织。我们有多种方法可以实现这一目标。我",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
