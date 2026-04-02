@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; \n\nbecause that goal will serve to organize and measure the best of our energies and skills, \n\nbecause that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.\"",
+      "zh": "“我们选择在这十年内登上月球并做其他事情，不是因为它们容易，而是因为它们很难； \n\n因为这个目标将有助于组织和衡量我们最好的精力和技能， \n\n因为这一挑战是我们愿意接受的挑战，是我们不愿意推迟的挑战，也是我们打算赢得的挑战，还有其他挑战。”"
+    },
+    "petergyang": {
+      "en": "Oh dear",
+      "zh": "哦亲爱的"
+    },
+    "thenanyu": {
+      "en": "LOUDER",
+      "zh": "大声一点"
+    },
+    "_catwu": {
+      "en": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI.\n\nDownload link for Claude iOS and Android apps:",
+      "zh": "我喜欢在 Claude 移动应用程序上使用 Claude Code 随时随地激发想法，然后在我的笔记本电脑上拿起它们。我们支持轻松地将会话传送到您的本地 CLI。\n\nClaude iOS 和 Android 应用程序的下载链接："
+    },
+    "trq212": {
+      "en": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback",
+      "zh": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器以使用虚拟视口\n\n你可以使用鼠标，提示输入保留在底部，还有人们一直要求的更多小的用户体验胜利\n\n这是实验性的，所以请给我们您的反馈"
+    },
+    "amasad": {
+      "en": "We’re in an unprecedented era of rapid wealth creation.",
+      "zh": "我们正处于一个前所未有的快速创造财富的时代。"
+    },
+    "rauchg": {
+      "en": "Vercel signups are growing at 52% MoM\n(up from 23%, up from 17%)",
+      "zh": "Vercel 注册量环比增长 52%\n（高于 23%，高于 17%）"
+    },
+    "levie": {
+      "en": "My team is going to kill me for sharing this, but it's April 1st so why not. Coming very soon.",
+      "zh": "我的团队会因为我分享这个而杀了我，但现在是 4 月 1 日，所以为什么不呢。很快就会到来。"
+    },
+    "nikunj": {
+      "en": "confirmed bionic 🤖",
+      "zh": "确认仿生🤖"
+    },
+    "steipete": {
+      "en": "I never use plan mode. \n\nThe main reason this was added to codex is for claude-pilled people who struggle with changing their habits.\n\njust talk with your agent.",
+      "zh": "我从不使用计划模式。 \n\n将此添加到法典中的主要原因是为了那些难以改变习惯的克劳德丸患者。\n\n只需与您的代理人交谈即可。"
+    },
+    "danshipper": {
+      "en": "SaaS isn’t dead, it just needs to become agent-native. Linear (@linear) is a great example of how:\n\nThey pivoted the product to be used by both humans and agents, and that has made them one of the premier software tools in the agent-native era. \n\nI had Linear’s cofounder and CEO @karrisaarinen on @every's AI & I to talk about how a product management tool for human software developers became an agent-native tool—and how Linear’s trajectory reveals a bright future for SaaS businesses:\n- Speed means decisions matter more, not less. AI makes it easy to have an idea and build it without considering whether its existence is justified. When ChatGPT was released, SaaS companies were launching their own chatbots left, right, and center. Instead of jumping on the bandwagon, Linear stopped to consider whether the application was useful. (It wasn’t.) \n- Just because the technology has changed doesn’t mean your mission should. Karri attributes Linear’s success to never losing sight of what matters: helping teams develop great software. Instead of chasing trends, Linear focused on understanding how AI was impacting its customers’ workflows—and updating its product accordingly.\n- Agents are now first-class users. Linear never tried to change what it was or did well; it just expanded the user base. Companies can now kick off agents inside Linear, manage them, and track what they're working on alongside the humans on the team, which explains why Codex, Coinbase, and Brex all run their agents on Linear. \n\nThis is a must watch for anyone interested in how an agent-native SaaS company operates. \n\nWatch below!\n\nTimestamps:\nIntroduction and how Every first discovered Linear: 00:00:39\nWhy Linear waited to ship AI features instead of rushing to chatbots: 00:02:00\nLinear's agent platform and becoming the system that guides AI agents: 00:05:06\nWhy \"SaaS is dead\" is a simplistic narrative: 00:07:42\nHow Linear adopted AI coding tools internally: 00:12:18\nAI's impact on product building workflows—speed versus thoughtfulness: 00:17:45\nThe value of conceptual work and thinking before shipping: 00:22:18\nHow AI is reshaping Linear's product strategy: 00:29:30\nDemo: Linear's agent skills, shared context, and code review workflow: 00:37:18\nThe future of product development and the enduring role of human judgment: 00:47:48",
+      "zh": "SaaS 并没有消亡，它只是需要成为代理原生的。线性（@线性）是一个很好的例子，说明了如何：\n\n他们将产品转向供人类和代理使用，这使它们成为代理原生时代最重要的软件工具之一。 \n\n我在 @every's AI & I 上与 Linear 的联合创始人兼首席执行官 @karrisaarinen 讨论了面向人类软件开发人员的产品管理工具如何成为代理原生工具，以及 Linear 的发展轨迹如何揭示 SaaS 业务的光明未来：\n- 速度意味着决策更重要，而不是更少。人工智能让你很容易产生一个想法并构建它，而无需考虑它的存在是否合理。当 ChatGPT 发布时，SaaS 公司推出了自己的左、右、中聊天机器人。 Linear 没有随波逐流，而是停下来考虑该应用程序是否有用。 （事实并非如此。） \n- 仅仅因为技术发生了变化，并不意味着您的使命也应该发生变化。 Karri 将 Linear 的成功归功于从未忽视重要的事情：帮助团队开发出色的软件。 Linear 没有追逐趋势，而是专注于了解人工智能如何影响客户的工作流程，并相应地更新其产品。\n- 代理商现在是一级用户。 Linear 从来没有试图改变它的现状或做得很好；它只是扩大了用户群。公司现在可以在 Linear 内部启动代理、管理它们并跟踪他们与团队人员一起工作的情况，这解释了为什么 Codex、Coinbase 和 Brex 都在 Linear 上运行代理。 \n\n对于任何对代理原生 SaaS 公司如何运作感兴趣的人来说，这是必须关注的。 \n\n往下看！\n\n时间戳：\n简介以及每个人如何首次发现线性：00:00:39\n为什么 Linear 等待发布人工智能功能而不是急于开发聊天机器人：00:02:00\nLinear 的代理平台并成为指导 AI 代理的系统：00:05:06\n为什么“SaaS 已死”是一个简单的叙述：00:07:42\nLinear 如何在内部采用 AI 编码工具：00:12:18\n人工智能对产品构建工作流程的影响——速度与深思熟虑：00:17:45\n发货前概念工作和思考的价值：00:22:18\n人工智能如何重塑 Linear 的产品策略：00:29:30\n演示：Linear 的代理技能、共享上下文和代码审查工作流程：00:37:18\n产品开发的未来和人类判断的持久作用：00:47:48"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "When customers use this offtheshelf close model, what's very sad is that they are not leveraging, you know, these data that they have been collecting for for years or sometime for decades. So much data, sometimes it's trillions of tokens of data in a very specific domain, their domain, which is data that you will not find in the in the public on the public internet. So data on which like the closed model we actually have access. So if they're using like closed source models are basically not ben...",
+      "zh": "当客户使用这种现成的封闭模型时，非常可悲的是他们没有利用他们多年来或有时几十年来收集的这些数据。如此多的数据，有时是在一个非常特定的领域（它们的领域）中的数万亿个数据令牌，这些数据是您在公共互联网上公开找不到的数据。因此，我们实际上可以访问诸如封闭模型之类的数据。因此，如果他们使用闭源模型，那么基本上就不会",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
