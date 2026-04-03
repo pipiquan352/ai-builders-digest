@@ -1,0 +1,56 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge (stored as markdown and images). The latest LLMs are quite good at it. So:\n\nData ingest:\nI index source documents (articles, papers, repos, datasets, images, etc.) into a raw/ directory, then I use an LLM to incrementally \"compile\" a wiki, which is just a collection of .md files in a directory structure. The wiki includes summaries of all the data in raw/, backlinks, and then it categorizes data into concepts, writes articles for them, and links them all. To convert web articles into .md files I like to use the Obsidian Web Clipper extension, and then I also use a hotkey to download all the related images to local so that my LLM can easily reference them.\n\nIDE:\nI use Obsidian as the IDE \"frontend\" where I can view the raw data, the the compiled wiki, and the derived visualizations. Important to note that the LLM writes and maintains all of the data of the wiki, I rarely touch it directly. I've played with a few Obsidian plugins to render and view data in other ways (e.g. Marp for slides).\n\nQ&A:\nWhere things get interesting is that once your wiki is big enough (e.g. mine on some recent research is ~100 articles and ~400K words), you can ask your LLM agent all kinds of complex questions against the wiki, and it will go off, research the answers, etc. I thought I had to reach for fancy RAG, but the LLM has been pretty good about auto-maintaining index files and brief summaries of all the documents and it reads all the important related data fairly easily at this ~small scale.\n\nOutput:\nInstead of getting answers in text/terminal, I like to have it render markdown files for me, or slide shows (Marp format), or matplotlib images, all of which I then view again in Obsidian. You can imagine many other visual output formats depending on the query. Often, I end up \"filing\" the outputs back into the wiki to enhance it for further queries. So my own explorations and queries always \"add up\" in the knowledge base.\n\nLinting:\nI've run some LLM \"health checks\" over the wiki to e.g. find inconsistent data, impute missing data (with web searchers), find interesting connections for new article candidates, etc., to incrementally clean up the wiki and enhance its overall data integrity. The LLMs are quite good at suggesting further questions to ask and look into.\n\nExtra tools:\nI find myself developing additional tools to process the data, e.g. I vibe coded a small and naive search engine over the wiki, which I both use directly (in a web ui), but more often I want to hand it off to an LLM via CLI as a tool for larger queries. \n\nFurther explorations:\nAs the repo grows, the natural desire is to also think about synthetic data generation + finetuning to have your LLM \"know\" the data in its weights instead of just context windows.\n\nTLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.",
+      "zh": "法学硕士知识库\n\n我最近发现非常有用的东西：使用法学硕士为各种研究兴趣主题建立个人知识库。通过这种方式，我最近的令牌吞吐量的很大一部分更少地用于操作代码，而更多地用于操作知识（存储为降价和图像）。最新的法学硕士在这方面相当擅长。所以：\n\n数据摄取：\n我将源文档（文章、论文、存储库、数据集、图像等）索引到 raw/ 目录中，然后使用 LLM 增量“编译”一个 wiki，它只是目录结构中 .md 文件的集合。维基百科包含原始/反向链接中所有数据的摘要，然后将数据分类为概念，为它们撰写文章，并将它们全部链接起来。要将网络文章转换为 .md 文件，我喜欢使用 Obsidian Web Clipper 扩展，然后我还使用热键将所有相关图像下载到本地，以便我的 LLM 可以轻松引用它们。\n\n集成开发环境：\n我使用 Obsidian 作为 IDE“前端”，可以在其中查看原始数据、编译后的 wiki 以及派生的可视化效果。需要注意的是，LLM 编写和维护 wiki 的所有数据，我很少直接接触它。我使用过一些 Obsidian 插件来以其他方式渲染和查看数据（例如用于幻灯片的 Marp）。\n\n问答：\n有趣的是，一旦你的 wiki 足够大（例如，我最近的一些研究有约 100 篇文章和约 400K 单词），你可以向你的 LLM 代理询问 wiki 的各种复杂问题，它会开始研究答案等。我以为我必须找到花哨的 RAG，但 LLM 在自动维护索引文件和所有文档的简要摘要方面非常擅长，并且它可以在这个〜小规模的情况下相当轻松地读取所有重要的相关数据。规模。\n\n输出：\n我不想在文本/终端中获得答案，而是喜欢让它为我渲染 markdown 文件、幻灯片（Marp 格式）或 matplotlib 图像，然后我在 Obsidian 中再次查看所有这些文件。您可以根据查询想象许多其他视觉输出格式。通常，我最终会将输出“归档”回 wiki，以增强其进一步查询的能力。所以我自己的探索和疑问总是在知识库中“加起来”。\n\n掉毛：\n我在维基上进行了一些法学硕士“健康检查”，例如查找不一致的数据、估算丢失的数据（通过网络搜索器）、为新候选文章找到有趣的联系等，以逐步清理 wiki 并增强其整体数据完整性。法学硕士非常擅长提出进一步的问题来提出和研究。\n\n额外工具：\n我发现自己正在开发额外的工具来处理数据，例如我在 wiki 上编写了一个小型且简单的搜索引擎，我都直接使用它（在 Web ui 中），但更多时候我想通过 CLI 将其交给 LLM 作为更大查询的工具。 \n\n进一步探索：\n随着存储库的增长，自然的愿望是考虑合成数据生成+微调，让你的法学硕士“了解”其权重中的数据，而不仅仅是上下文窗口。\n\nTLDR：收集来自给定数量来源的原始数据，然后由法学硕士编译成 .md wiki，然后由法学硕士通过各种 CLI 进行操作以进行问答并逐步增强 wiki，所有这些都可以在 Obsidian 中查看。你很少手动编写或编辑维基，这是法学硕士的领域。我认为这里有空间容纳令人难以置信的新产品，而不是黑客的脚本集合。"
+    },
+    "petergyang": {
+      "en": "I just tried out Cursor 3 and the new interface is much better. The old one had far too many buttons and toggles that got in the way of just talking to the agent.\n\nI think this should just be the default view? Why do I need to press cmd+shift+p to use it?",
+      "zh": "我刚刚尝试了 Cursor 3，新界面好多了。旧的有太多的按钮和开关，妨碍了与客服人员的交谈。\n\n我认为这应该只是默认视图？为什么需要按cmd+shift+p才能使用？"
+    },
+    "thenanyu": {
+      "en": "Hear me out: TBPN for sports",
+      "zh": "听我说完：体育 TBPN"
+    },
+    "amasad": {
+      "en": "SEO audit your site.",
+      "zh": "SEO 审核您的网站。"
+    },
+    "levie": {
+      "en": "One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental in your architecture. \n\nThe models get better and better at handling things you previously built scaffolding for, you need to ruthlessly jettison your prior tech to get those new performance gains. \n\nThe rough loop of building AI agents looks something like:\n\n1. Build a bunch of systems around the LLM to ensure that the agent can solve specific tasks very well\n\n2. The model capabilities dramatically improve, rendering many of those systems redundant or even harmful\n\n3. Remove prior scaffolding to get the new performance gains from the agent\n\n4. New capabilities emerge in the models that let you solve a new set of much harder problems\n\n5. Go back to step 1 \n\nFor instance, in our new Box Agent, from the moment we designed the original architecture to the ultimate release, we had to evolve multiple components of agent harness simply because some parts were creating unnecessary constraints for the agents as models improved. \n\nThe models continued to get insanely good at more complex reasoning, improvements in using search and other tools, writing code on the fly for new capabilities, improving context window performance for accuracy, and more. \n\nMany of the mitigations we put in place for the Box Agent (like to appropriately find data that users were looking for, or ways of chunking text to deal with context window limitations), eventually meat we got lower quality results or meant we were overfitting for specific use-cases, as soon as the models got better.\n\nThe main lesson is always make sure you’re taking advantage of the frontier capabilities and don’t become nostalgic around the tech you’ve already built.",
+      "zh": "迄今为止，构建人工智能代理的最大教训之一是，你的架构必须非常冷静。 \n\n这些模型在处理你之前构建的脚手架方面变得越来越好，你需要无情地抛弃你之前的技术来获得这些新的性能提升。 \n\n构建 AI 代理的大致循环如下所示：\n\n1. 围绕LLM构建一堆系统，确保代理能够很好地解决特定任务\n\n2.模型能力显着提高，使许多系统变得多余甚至有害\n\n3. 移除之前的脚手架以从代理获得新的性能提升\n\n4. 模型中出现的新功能可让您解决一系列新的更难的问题\n\n5. 返回步骤 1 \n\n例如，在我们新的 Box Agent 中，从我们设计原始架构到最终发布的那一刻，我们必须发展代理工具的多个组件，因为随着模型的改进，某些部分为代理创建了不必要的约束。 \n\n这些模型在更复杂的推理、使用搜索和其他工具的改进、动态编写新功能的代码、提高上下文窗口性能以提高准确性等方面继续变得非常出色。 \n\n我们为 Box Agent 采取的许多缓解措施（例如适当地查找用户正在寻找的数据，或者对文本进行分块以处理上下文窗口限制的方法），最终导致我们得到较低质量的结果，或者意味着一旦模型变得更好，我们就会过度拟合特定的用例。\n\n主要的教训是始终确保您正在利用前沿功能，并且不要怀旧您已经构建的技术。"
+    },
+    "ryolu_": {
+      "en": "Cursor 3 is here.\nWhere power meets simplicity.\nWorks across all your projects, local and cloud.\n\nIt starts simple, then unfolds more tools when you need them – so you stay in flow and in control. Enjoy!",
+      "zh": "光标3在这里。\n力量与简约的结合。\n适用于您的所有项目（本地项目和云项目）。\n\n一开始很简单，然后在您需要时展开更多工具 - 让您保持流畅和控制。享受！"
+    },
+    "garrytan": {
+      "en": "If you love your work you don’t work for a day in your life",
+      "zh": "如果你热爱你的工作，你一生中就不会工作一天"
+    },
+    "steipete": {
+      "en": "Prediction: This is gonna kill some oss projects.\n\n\"On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week maybe two years ago, then reached probably 10 a week over the last year with the only difference being only AI slop, and now since the beginning of the year we're around 5-10 per day depending on the days (fridays and tuesdays seem the worst). Now most of these reports are correct, to the point that we had to bring in more maintainers to help us.\"",
+      "zh": "预测：这会扼杀一些操作系统项目。\n\n“在内核安全列表上，我们看到了巨大的报告数量。两年前，我们可能每周收到 2 到 3 份报告，去年大约达到每周 10 份，唯一的区别只是 AI 溢出，现在从今年年初开始，我们每天大约有 5 到 10 份报告，具体取决于日期（周五和周二似乎最糟糕）。现在大多数报告都是正确的，以至于我们必须聘请更多维护人员来帮助我们。”"
+    },
+    "danshipper": {
+      "en": "we've been testing Cursor 3.0 for a week now!\n\nread our full vibe check:",
+      "zh": "我们已经测试 Cursor 3.0 一周了！\n\n阅读我们完整的氛围检查："
+    },
+    "sama": {
+      "en": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+      "zh": "TBPN 是我最喜欢的科技节目。\n\n我们希望他们继续保持这种势头，并做他们擅长的事情。\n\n我不指望他们会对我们更宽容，我确信我会尽自己的一份力量，通过偶尔做出愚蠢的决定来帮助实现这一目标。"
+    },
+    "claudeai": {
+      "en": "Computer use in Claude Cowork and Claude Code Desktop is now available on Windows.",
+      "zh": "Claude Cowork 和 Claude Code Desktop 中的计算机使用现在可以在 Windows 上使用。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:14\nAll of the previous revolutions in tech, Internet, right, like social media, like whatever, have been totally meaningless to biotechnology and biopharma. Like, yeah, it's nice. We communicate slightly better or whatever. It's just some, like, back office IT crap. Right?\n\nSpeaker 1 | 00:14 - 00:28\nLike, not this. Like like, this this is is actually gonna change the fundamentals of how we do science and and our big science industries like biopharma are gonna get disrupted...",
+      "zh": "演讲者 1 | 00:00 - 00:14\n之前所有的科技革命、互联网革命、社交媒体革命等等，对于生物技术和生物制药来说都是毫无意义的。就像，是的，这很好。我们的沟通稍微好一点或者怎么样。这只是一些后台 IT 垃圾。正确的？\n\n演讲者 1 | 00:14 - 00:28\n就像，不是这个。就像这样，这实际上会改变我们进行科学研究的基本原理，而我们的大型科学产业（例如生物制药）将会受到干扰",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
