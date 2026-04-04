@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "We have achieved agentic self improvement - i can just copy paste blogposts and tweets into @devinai and it oneshots the complete implementation\n\nwasnt actually sure this was gonna work, jaw dropped when it did. this is very out of distribution of the underlying @GoogleDeepMind Gemini Flash Lite model but it Just Worked.",
+      "zh": "我们已经实现了代理式的自我改进 - 我只需将博客文章和推文复制粘贴到 @devinai 中，它就可以完成完整的实施\n\n实际上并不确定这是否会起作用，当它起作用时，下巴都惊掉了。这与底层 @GoogleDeepMind Gemini Flash Lite 模型的分布非常不相符，但它确实有效。"
+    },
+    "petergyang": {
+      "en": "For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is:\n\n//\n\nVibe: Warm, sharp, dry humor. Not a chatbot — a person.\n\nVoice:\n\n• Skip \"Great question!\" and \"I'd be happy to help!\" — just help\n• Have strong opinions. \"It depends\" is lazy. Pick a side.\n• Be direct. If something's dumb, say so. Charm over cruelty, but don't sugarcoat.\n• Brevity when it fits. Depth when the question deserves it.\n• Swearing lands when it lands. Don't force it.\n• No emojis in docs.\n\nNever say: delve, foster, leverage, \"it's worth noting,\" \"importantly\"\n\nAvoid:\n\n• \"Question? Answer.\" format\n• Choppy dramatic one-liners stacked like poetry\n• Restating the same idea three ways\n• Overusing em dashes\n\nWork style:\n\n• Be resourceful before asking. Try to figure it out first.\n• Come back with answers, not questions.\n• When giving advice: say what he needs to hear, not what he wants to hear. Challenge assumptions. But only criticize if you see something real.",
+      "zh": "对于#2，我要求我的 OpenClaw 提供一个简短的提示来添加到 Soul.md，如下所示：\n\n//\n\n氛围：温暖、尖锐、冷幽默。不是聊天机器人——而是一个人。\n\n声音：\n\n• 跳过“好问题！”和“我很乐意提供帮助！” — 只是帮忙\n• 有强烈的意见。 “这取决于”是懒惰的。选择一边。\n• 直接。如果有什么蠢事，就直说。用魅力战胜残酷，但不要粉饰。\n• 适当时简洁。当问题值得时，深度。\n• 脏话落地时落地。不要强迫它。\n• 文档中没有表情符号。\n\n永远不要说：钻研、培育、杠杆、“值得注意”、“重要”\n\n避免：\n\n• “问题？回答。”格式\n• 像诗歌一样堆叠的断断续续的戏剧性俏皮话\n• 用三种方式重申同一想法\n• 过度使用破折号\n\n工作作风：\n\n• 提问前要足智多谋。首先尝试弄清楚。\n• 带回答案，而不是问题。\n• 提供建议时：说他需要听的话，而不是他想听的话。挑战假设。但只有当你看到真实的东西时才批评。"
+    },
+    "thenanyu": {
+      "en": "Yes. PMM is a product concern. \n\nI see a lot of orgs out there combining design and product management, which I think creates all sorts of poor incentives.\n\nBut product management and product marketing are a much more natural fit together.",
+      "zh": "是的。 PMM 是一个产品问题。 \n\n我看到很多组织将设计和产品管理结合起来，我认为这会产生各种不良的激励措施。\n\n但产品管理和产品营销是更自然的结合。"
+    },
+    "trq212": {
+      "en": "claim a month of free credits on us, thanks for bearing with us",
+      "zh": "向我们索取一个月的免费积分，感谢您对我们的支持"
+    },
+    "amasad": {
+      "en": "Not even a month into building this!",
+      "zh": "建造这个还不到一个月！"
+    },
+    "levie": {
+      "en": "“There is a limit on human cognition. Even if you're not reviewing everything they're doing, how much you can hold in your head at one time.”\n\nThere’s a reason that at a certain scale, teams of people have a manager, and then there are managers of many teams, and so on. Companies don’t inherently love being inefficient. It’s because eventually you run into the limits of how much context you can hold on to produce useful work, so you have to delegate parts to someone else who can track their sub-context.\n\nIn a world where agents don’t need to be prompted or have their work reviewed, or where the agent can know perfectly when to escalate when something is going wrong, then agents can completely break free of these context limits of humans. \n\nBut for now, agents are generally only as effective as the context they’re provided, the tools they have access to, the human’s ability to keep them on track or review their work, and incorporate that work into a broader system. \n\nFor now, that will continue to take real (mental) work from the people managing agents. This is also generally why the jobs arguments from those who think people go away will be wrong.",
+      "zh": "“人类的认知是有限度的。即使你不去回顾他们所做的每一件事，你的脑子里一次能记住多少东西。”\n\n这是有原因的，在一定规模下，团队中有一个经理，然后有许多团队的经理，等等。公司本质上不喜欢低效率。这是因为最终你会遇到可以保留多少上下文来产生有用工作的限制，因此你必须将部分委托给可以跟踪其子上下文的其他人。\n\n在一个代理不需要提示或审查其工作的世界中，或者当出现问题时代理可以完全知道何时升级，那么代理可以完全摆脱人类的这些上下文限制。 \n\n但就目前而言，代理的有效性通常取决于他们所提供的环境、他们可以使用的工具、人们让他们走上正轨或审查他们的工作以及将工作纳入更广泛的系统的能力。 \n\n目前，这将继续需要管理代理的人员进行真正的（脑力）工作。这也是为什么那些认为人们会离开的人的就业论点是错误的。"
+    },
+    "ryolu_": {
+      "en": "simpler is better",
+      "zh": "越简单越好"
+    },
+    "garrytan": {
+      "en": "Garry’s List is now a 95 on page speed and the codegen luddites should take a seat 🫡",
+      "zh": "Garry’s List 现在的页面速度为 95，代码生成者应该坐下来 🫡"
+    },
+    "nikunj": {
+      "en": "Maybe it’s just the people I follow but this happens to me daily on X when I go to investigate someone’s bio..",
+      "zh": "也许这只是我关注的人的问题，但当我在 X 上调查某人的简历时，这种情况每天都会发生在我身上。"
+    },
+    "steipete": {
+      "en": "woke up and my mentions are full of these\n\nBoth me and @davemorin tried to talk sense into Anthropic, best we managed was delaying this for a week.\n\nFunny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.",
+      "zh": "醒来，我的提及充满了这些\n\n我和@davemorin 都试图向 Anthropic 讲道理，我们最好的办法就是推迟一周。\n\n有趣的是，时间安排是如何匹配的，首先他们将一些流行的功能复制到他们的封闭工具中，然后他们锁定​​开源。"
+    },
+    "danshipper": {
+      "en": "it's worth a shot! and they're iterating fast",
+      "zh": "值得一试！而且他们的迭代速度很快"
+    },
+    "adityaag": {
+      "en": "It’s amazing when a $10B company sues you because your app \"looks and feels\" like theirs\n \nLet me give you a tip: Instead of spending 300 bucks on an over-priced @WHOOP , you can get @bevel_health  for free.  \n\nWe want to bring great health to *everyone*.\n\nWe will build, not resort to lawfare.",
+      "zh": "当一家 10B 美元的公司因为你的应用程序“看起来和感觉”与他们的应用程序相似而起诉你时，这真是太神奇了\n \n让我给你一个提示：你可以免费获得@bevel_health，而不是花 300 美元购买价格过高的@WHOOP。  \n\n我们希望为*每个人*带来健康。\n\n我们将建设，而不是诉诸法律。"
+    },
+    "claudeai": {
+      "en": "Microsoft 365 connectors are now available on every Claude plan.\n\nConnect Outlook, OneDrive, and SharePoint to bring your email, docs, and files into the conversation.\n\nGet started here:",
+      "zh": "Microsoft 365 连接器现在可用于每个 Claude 计划。\n\n连接 Outlook、OneDrive 和 SharePoint，将您的电子邮件、文档和文件带入对话中。\n\n从这里开始："
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Speaker 1 | 00:00 - 00:25\nSomething about AI that causes the people in the field, I would say, to become both excessively utopian and excessively apocalyptic. Having said that, I think what's actually happened is an enormous amount of technical progress that built up over time. And like for for example, we now know the neural network is the correct architecture. And I I will tell you, like, was a sixty year run where that was like a, you know, or even seventy years where that was controversial. ...",
+      "zh": "演讲者 1 | 00:00 - 00:25\n我想说，人工智能的一些东西导致了这个领域的人们变得过于乌托邦和过度的世界末日。话虽如此，我认为实际发生的是随着时间的推移积累的大量技术进步。例如，我们现在知道神经网络是正确的架构。我会告诉你，六十年的运行就像，你知道，甚至七十年的运行是有争议的。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
