@@ -1,0 +1,40 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.\n\nSo here's the idea in a gist format: \n\nYou can give this to your agent and it can build you your own LLM wiki and guide you on how to use it etc. It's intentionally kept a little bit abstract/vague because there are so many directions to take this in. And ofc, people can adjust the idea or contribute their own in the Discussion which is cool.",
+      "zh": "哇，这条推文非常火爆！\n\n我想在“想法文件”中分享该推文的可能略有改进的版本。想法文件的想法是，在这个LLM代理时代，共享特定代码/应用程序的点/需要较少，您只需共享想法，然后其他人的代理根据您的特定需求定制和构建它。\n\n所以这是要点格式的想法： \n\n你可以把这个给你的代理人，它可以为你建立你自己的LLM wiki并指导你如何使用它等。它故意保持一点抽象/模糊，因为有很多方向可以接受它。ofc，人们可以调整想法或在讨论中贡献自己的想法，这很酷。"
+    },
+    "petergyang": {
+      "en": "Can someone share a screenshot of what OpenClaw with GPT looks like - how much personality is there?",
+      "zh": "有人可以分享一下带有 GPT 的 OpenClaw 的屏幕截图吗？有多少个性？"
+    },
+    "trq212": {
+      "en": "POV: you're cooking",
+      "zh": "POV：你在做饭"
+    },
+    "levie": {
+      "en": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importantly, as you get into the enterprise, everyone has entirely different access levels to corporate knowledge and information. Continual learning at the model layer, even at a single enterprise level, is near impossible because every user knows and has access to something different than another user.  \n\nThis isn’t like coding where by and large most developers can access all the relevant stuff to their job. On a single banking team, bankers have entirely different sets of documents they’re ever allowed to see. Sanitizing this is hard and having the model keep secrets is impossible.\n\nThis is why the context layer is going to always be the core part of the AI stack for applied use cases to turn general models turn into useful agents. Can’t fight the physics on this one.",
+      "zh": "在人工智能领域，我们必须面对的核心问题之一是，即使是世界上最先进的模型也无法拥有有用的所有相关知识，因为每个人都有不同的用例和设计工作流程的方式。 \n\n也许最重要的是，当您进入企业时，每个人对企业知识和信息的访问级别都完全不同。即使在单个企业级别，模型层的持续学习也几乎是不可能的，因为每个用户都知道并可以访问与其他用户不同的东西。  \n\n这与编码不同，大多数开发人员可以访问与其工作相关的所有内容。在单个银行团队中，银行家可以查看完全不同的文件集。清理这一点很困难，而且让模型保守秘密也是不可能的。\n\n这就是为什么上下文层始终是人工智能堆栈的核心部分，用于将通用模型转变为有用的代理的应用用例。无法对抗这个物理原理。"
+    },
+    "garrytan": {
+      "en": "We are fighting to stop this\n\nJoin @garryslist if you want to help us",
+      "zh": "我们正在努力阻止这一切\n\n如果您想帮助我们，请加入@garryslist"
+    },
+    "nikunj": {
+      "en": "Don’t forget to smell the flowers 💐",
+      "zh": "别忘了闻花香💐"
+    },
+    "steipete": {
+      "en": "\"There’s a big wave coming\"",
+      "zh": "“大浪即将来临”"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie...",
+      "zh": "演讲者 1 | 00:05 - 00:32\n今天，知道普里斯正在与利亚姆·费蒂斯交谈。 Liam 是 ChatGPT 的共同创建者之一，我认为现在几乎每个人都在使用它。他曾担任 OpenAI 后期培训副总裁，此前曾在 Google Brain 工作，致力于各种早期的人工智能创新。 Liam 将向我们介绍他的公司Periodic Labs，该公司专注于建立原子人工智能基础实验室。换句话说，我们如何影响物理世界、物质科学",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
