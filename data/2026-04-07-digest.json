@@ -1,0 +1,52 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "I don’t know measuring productivity by token usage sounds almost as dumb as measuring by lines of code written.",
+      "zh": "我不知道通过令牌使用来衡量生产力听起来几乎和通过编写的代码行来衡量一样愚蠢。"
+    },
+    "thenanyu": {
+      "en": "Mainly, because they would be good at it",
+      "zh": "主要是因为他们擅长于此"
+    },
+    "trq212": {
+      "en": "I want to do a few more of these calls.  \n\nIf your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.\n\nTrying to figure out how we can improve /usage to give more info.",
+      "zh": "我想再打几次这样的电话。  \n\n如果您的 MAX 20x 计划意外地提前耗尽了代币，并且您愿意通过 Claude Code 进行屏幕共享并运行一些提示，请发表评论。\n\n试图弄清楚我们如何改进/使用以提供更多信息。"
+    },
+    "amasad": {
+      "en": "Simple, yet effective.",
+      "zh": "简单但有效。"
+    },
+    "levie": {
+      "en": "When you have agents going out and doing work for you, the work just moved up a layer of abstraction.\n\nNow the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewing the final work, and incorporating the output into something else. Any one of these components being off and poof you will have useless work product.\n\nEven as agents can complete longer horizon tasks, these steps don’t go away. In fact the longer the task the more the planning and review stages will necessarily take up. You are now the editor. A manager. A producer. The taste matters, understanding the craft of what you’re doing matters, and the skills ultimately matter.\n\nAI Agents haven’t changed any of this. We’re going to automate away the annoying parts of work and keep the more enjoyable parts. But the work is still there, just different.",
+      "zh": "当你有代理人出去为你工作时，工作就上升了一个抽象层。\n\n现在的工作是弄清楚告诉代理做什么，确保给它正确的指示，为代理提供执行任务所需的上下文，在它完成任务时进行干预，审查最终工作，并将输出合并到其他内容中。这些组件中的任何一个失效了，你都会得到无用的工作产品。\n\n即使智能体可以完成较长时间的任务，这些步骤也不会消失。事实上，任务越长，规划和审查阶段所需的时间就越多。你现在是编辑。一个经理。一位制片人。品味很重要，了解你正在做的事情的工艺很重要，而技能最终很重要。\n\n人工智能代理并没有改变这一切。我们将自动化处理工作中烦人的部分，保留更有趣的部分。但工作仍然存在，只是有所不同。"
+    },
+    "garrytan": {
+      "en": "Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in  chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. It was acknowledged but not remediated by Anthropic.",
+      "zh": "攻击者可以利用 Claude 编码环境中未经修复的漏洞从 Cowork 中窃取用户文件，该漏洞现已扩展到 Cowork。在 Cowork 出现之前，Johann Rehberger 首次在聊天中发现了该漏洞，并披露了该漏洞。 Anthropic 已承认这一问题，但并未对其进行补救。"
+    },
+    "nikunj": {
+      "en": "Added $21B in the last 3 months and $11B annualized run rate revenue in the last month alone... \n\nholy what @AnthropicAI 🤯",
+      "zh": "过去 3 个月增加了 21B 美元，仅上个月的年化运行率收入就增加了 11B 美元...... \n\n天哪@AnthropicAI🤯"
+    },
+    "steipete": {
+      "en": "̶p̶o̶p̶ geek culture",
+      "zh": "̶p̶o̶p̶极客文化"
+    },
+    "danshipper": {
+      "en": "the idea that organizations don't need hierarchies anymore because of ai is silly\n\nfor sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable",
+      "zh": "因为人工智能而认为组织不再需要等级制度的想法是愚蠢的\n\n当然，这有机会减少中层管理人员的数量。但我与代理商的每一次经历都让我相信专业化和等级制度是非常有价值的"
+    },
+    "adityaag": {
+      "en": "AI is rewriting the rules of security. How do you build defenses at machine speed?\n\nThe only way to defend against AI threats is with AI.\n\n@nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th.",
+      "zh": "人工智能正在改写安全规则。如何以机器速度构建防御？\n\n防御人工智能威胁的唯一方法是使用人工智能。\n\n全球最大网络安全公司 @PaloAltoNtwks 的首席执行官 @nikesharora 将于 4 月 20 日通过 @southpkcommons 加入我们。"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Speaker 1 | 00:05 - 00:10\nOkay. Welcome to Lanespace. We're here in the studio with trusty cohost, Bibou. Welcome.\n\nSpeaker 2 | 00:11 - 00:12\nVery excited for this one.\n\nSpeaker 1 | 00:12 - 00:22\nAs well as Guillaume and Pavan from Mistral. Welcome. I'm glad to be here. Thank you for all this. Pavan, you are leading audio research at Mistral, and, Guillaume, you're a chief scientist.\n\nSpeaker 1 | 00:22 - 00:26\nWhat are we announcing today where we're coordinating this release with you guys?\n\nSpe...",
+      "zh": "演讲者 1 | 00:05 - 00:10\n好的。欢迎来到兰时空间。我们和值得信赖的搭档 Bibou 一起在工作室里。欢迎。\n\n扬声器 2 | 00:11 - 00:12\n对此感到非常兴奋。\n\n演讲者 1 | 00:12 - 00:22\n还有来自米斯特拉尔的纪尧姆和帕万。欢迎。我很高兴来到这里。感谢您所做的这一切。帕万（Pavan），你在米斯特拉尔（Mistral）领导音频研究，纪尧姆（Guillaume），你是首席科学家。\n\n演讲者 1 | 00:22 - 00:26\n今天我们要与你们协调发布什么内容？\n\n斯佩",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
