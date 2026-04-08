@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "@latentspacepod @_lopopolo @OpenAI we didnt get a chance to pod with Alex yet but i am making damn sure to assign due credit!!!",
+      "zh": "@latentspacepod @_lopopolo @OpenAI 我们还没有机会与 Alex 合作，但我一定要给予应有的信任！"
+    },
+    "kevinweil": {
+      "en": "Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.\n\nAnd if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here!",
+      "zh": "顺便说一句：@hemal 在几个小时内将其构建为一项简单的技能，因为 Prism 由 Codex 提供支持。未来还会有更多。\n\n如果您喜欢构建 AI 原生产品来加速科学发展的想法，我们正在招聘一名 Prism 首席设计师：在这里申请！"
+    },
+    "petergyang": {
+      "en": "So nice that I had to run around the entire lake",
+      "zh": "太好了，我不得不绕着整个湖跑一圈"
+    },
+    "thenanyu": {
+      "en": "Many designers and eng. do well when you ask them to think through product questions in abstract. \n\nBut you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for. \n\nMore designers should become PMs. They’d be good at it.",
+      "zh": "许多设计师和工程师。当你要求他们抽象地思考产品问题时，他们会做得很好。 \n\n但你必须拿走 IDE/figma，否则他们往往会直接投入到所需的编码/设计中。 \n\n更多的设计师应该成为产品经理。他们会很擅长的。"
+    },
+    "_catwu": {
+      "en": "Run /powerup to learn our team's favorite Claude Code CLI features!",
+      "zh": "运行 /powerup 来了解我们团队最喜欢的 Claude Code CLI 功能！"
+    },
+    "trq212": {
+      "en": "done about 10 of these calls so far + looked at more transcripts\n\nmany learnings but one of the biggest is that it's very easy to spend a lot of tokens on open ended verification that doesn't make your output better\n\nI'll try and write more on how to do it efficiently",
+      "zh": "到目前为止已经完成了大约 10 个这样的电话+查看了更多的文字记录\n\n有很多经验教训，但最大的教训之一是很容易在开放式验证上花费大量代币，但这并不会让你的输出更好\n\n我会尝试写更多关于如何有效地做到这一点的文章"
+    },
+    "rauchg": {
+      "en": "Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations.",
+      "zh": "总是很高兴在@ycombinator 发言。比以往任何时候都更加看涨。杰出的创始人。最好的城市、最好的时间、最好的机会，世代相传。"
+    },
+    "alexalbert__": {
+      "en": "We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview.",
+      "zh": "两个月前我们发布了 Claude Opus 4.6。今天，我们将分享有关新模型 Claude Mythos Preview 的一些信息。"
+    },
+    "levie": {
+      "en": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.\n\nAnd as coding and tool use goes, so goes agentic workflows. Most knowledge automation is gated by some degree of models being able to reason through complicated tasks, use the right tools to work with data, have access to the right context, and be able to leverage skills and write code to work with and verify that data, and more. \n\nThe capability slope we’re going to keep seeing from the frontier labs is going to open up all new use cases in finance, healthcare, legal, consulting, supply chains, and more. \n\nMake sure you’re building something that can take advantage of these upcoming improvements, or you’ll be in a tough spot strategically.",
+      "zh": "Anthropic 的神话是另一个明确的提醒：目前模型能力的进步绝对没有障碍。在关键基准上取得了有意义的两位数收益，而且我们似乎将继续从其他实验室获得疯狂的收益。\n\n随着编码和工具使用的发展，代理工作流程也随之发展。大多数知识自动化都受到某种程度的模型的控制，这些模型能够推理复杂的任务，使用正确的工具处理数据，访问正确的上下文，并能够利用技能并编写代码来处理和验证数据等等。 \n\n我们将不断从前沿实验室看到的能力斜率将开辟金融、医疗保健、法律、咨询、供应链等领域的所有新用例。 \n\n确保您正在构建的东西可以利用这些即将到来的改进，否则您将在战略上陷入困境。"
+    },
+    "ryolu_": {
+      "en": "no extra buttons \njust click, draw, chat\nfully in flow",
+      "zh": "没有额外的按钮 \n只需点击、绘画、聊天\n完全流动"
+    },
+    "garrytan": {
+      "en": "Oh man Yahoo Tech... you got so close. You almost had it.\n\nBetter luck next time!",
+      "zh": "噢，雅虎科技……你已经很接近了。你几乎已经拥有了。\n\n下次好运！"
+    },
+    "nikunj": {
+      "en": "The Varanasi brothers are Silicon Valley’s greatest secret",
+      "zh": "瓦拉纳西兄弟是硅谷最大的秘密"
+    },
+    "steipete": {
+      "en": "CodexBar 0.20 is out! 🎚️\n\n🆕 New providers: Perplexity + OpenCode Go\n🔄 Switch Codex accounts without re-login\n 🔧 Fixed Claude token/cost inflation from dupes\n 📊 Cost history merges session usage into provider history\n\n16 providers tracked. One menu bar.",
+      "zh": "CodexBar 0.20 已发布！ 🎚️\n\n🆕 新提供商：Perplexity + OpenCode Go\n🔄 无需重新登录即可切换 Codex 帐户\n 🔧 修复了受骗者造成的克劳德代币/成本膨胀问题\n 📊 成本历史记录将会话使用情况合并到提供商历史记录中\n\n跟踪了 16 个提供商。一个菜单栏。"
+    },
+    "danshipper": {
+      "en": "almost there!! \n\nwhat a wild ride",
+      "zh": "快到了！！ \n\n多么狂野的旅程"
+    },
+    "adityaag": {
+      "en": "A  lot of the conversation circa 2009 was about making the web 2.0 read/write and malleable.\n\nWe are living through that today but for all software. \n\nWhat if all software could be forked, changed, re-mixed and customized?",
+      "zh": "2009 年左右的很多讨论都是关于如何使 Web 2.0 读/写和可延展。\n\n今天我们正在经历这种情况，但对于所有软件来说都是如此。 \n\n如果所有软件都可以分叉、更改、重新混合和定制会怎样？"
+    },
+    "sama": {
+      "en": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+      "zh": "为了庆祝每周 300 万 Codex 用户，我们正在重置使用限制。\n\n我们将在每 100 万到 1000 万用户中执行此操作。\n\n快乐建设！"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Speaker 1 | 00:00 - 00:36\nI do think that there is an interesting space to explore here with codecs, the harness as part of building AI products. Right? There's a ton of momentum around getting the models to be good at coding. We've seen big leaps in, like, the task complexity with each incremental model release where if you can figure out how to collapse a product that you're trying to build, a user journey that you're trying to solve into code, it's pretty natural to use the Codex harness to s...",
+      "zh": "演讲者 1 | 00:00 - 00:36\n我确实认为，编解码器是构建人工智能产品的一部分，有一个有趣的空间值得探索。正确的？让模型擅长编码有很大的动力。我们已经看到了每个增量模型版本的任务复杂性方面的巨大飞跃，如果您能够弄清楚如何将您正在尝试构建的产品、您正在尝试将其解决为代码的用户旅程折叠起来，那么使用 Codex 工具来解决问题是很自然的。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
