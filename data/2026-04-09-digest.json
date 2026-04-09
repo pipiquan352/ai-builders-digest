@@ -1,0 +1,68 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Most Al chatbots give you basic \"projects.\" Gemini just built you a second brain. 🧠\n\nIntroducing Notebooks: some of the magic from @NotebookLM, integrated directly into @GeminiApp.\n\nHere's what changes for you today:\n\n📚 Upload 100 sources for free\n\n📂 Organize your chats - the wait is officially over :)\n\n🔄 Sources, chats, and emojis sync\n\nPeople are using Gemini and NotebookLM in tandem, and we'll keep building both.\n\nTo manage capacity, we're rolling this out NOW on the web and going from Ultra ➡️ Pro ➡️ Plus ➡️ Free. (Mobile, EU, and Workspace are up next!)\n\nWith Google I/O right around the corner, we are just getting started. Enjoy!",
+      "zh": "大多数人工智能聊天机器人都会为您提供基本的“项目”。双子座刚刚为你打造了第二个大脑。 🧠\n\n笔记本简介：@NotebookLM 的一些神奇功能，直接集成到@GeminiApp 中。\n\n以下是今天为您带来的变化：\n\n📚 免费上传 100 个资源\n\n📂 组织您的聊天 - 等待正式结束:)\n\n🔄 来源、聊天和表情符号同步\n\n人们正在同时使用 Gemini 和 NotebookLM，我们将继续构建这两者。\n\n为了管理容量，我们现在在网络上推出此功能，并从 Ultra ➡️ Pro ➡️ Plus ➡️ 免费开始。 （接下来是移动、欧盟和工作空间！）\n\n随着 Google I/O 大会的临近，我们才刚刚开始。享受！"
+    },
+    "kevinweil": {
+      "en": "Five Erdos problems at once! The proofs are getting more elegant as the models improve 👀",
+      "zh": "鄂尔多斯五个问题同时出现！随着模型的改进，证明变得更加优雅👀"
+    },
+    "petergyang": {
+      "en": "As much as I love using Claude Max and ChatGPT Pro, I don't think these all-you-can-use AI subscriptions will last forever.\n\nHere's my new deep dive that covers:\n\n→ Why Anthropic cut off OpenClaw access\n→ How to run local models on your Mac\n→ What I'm seeing on the ground in China\n\n📌 Read now:",
+      "zh": "尽管我非常喜欢使用 Claude Max 和 ChatGPT Pro，但我不认为这些无限使用的 AI 订阅会永远持续下去。\n\n这是我新的深入探讨，其中涵盖：\n\n→ 为什么 Anthropic 切断 OpenClaw 访问\n→ 如何在 Mac 上运行本地模型\n→ 我在中国所看到的\n\n📌立即阅读："
+    },
+    "trq212": {
+      "en": "I want to do some streams where I work with non-technical people using Claude Code to figure out how they might be able to improve their process. \n\nMy feeling is that just a few tips could make a big difference in efficiency. Any mutuals interested?",
+      "zh": "我想做一些流程，与非技术人员一起使用 Claude Code 来找出他们如何改进流程。 \n\n我的感觉是，只需一些技巧就可以大大提高效率。有互助有兴趣吗？"
+    },
+    "amasad": {
+      "en": "🔥",
+      "zh": "🔥"
+    },
+    "rauchg": {
+      "en": "The web's brightest days are ahead.\n\n1️⃣ The web is AI's natural medium. LLMs are proficient in web tech. The browser is now everyone's IDE. No 'App Store' bs.\n\n2️⃣ As we approach coding superintelligence, powerful low-level web APIs are maturing: WebGPU, HTML in Canvas, WebAssembly. The performance ceiling of the web will vanish, and you'll witness the most impressive, whimsical, and multi-dimensional pages and apps.\n\n3️⃣ Generative UI is AI's final form. The web will be the birthplace of \"AGUI\". Each hyperlink providing a just-in-time, beautifully personalized experience.\n\nIf you bet on the web, you bet on the right horse.",
+      "zh": "网络最光明的日子即将到来。\n\n1️⃣ 网络是人工智能的自然媒介。法学硕士精通网络技术。浏览器现在是每个人的 IDE。没有“应用程序商店”废话。\n\n2️⃣ 随着我们接近编码超级智能，强大的低级 Web API 正在成熟：WebGPU、Canvas 中的 HTML、WebAssembly。网络的性能上限将消失，您将见证最令人印象深刻、最异想天开、多维的页面和应用程序。\n\n3️⃣ 生成式 UI 是 AI 的最终形式。网络将是“AGUI”的诞生地。每个超链接都提供及时、精美的个性化体验。\n\n如果您在网络上投注，您就押在了正确的马身上。"
+    },
+    "alexalbert__": {
+      "en": "I've found Managed Agents to somehow be both the fastest way to hack together a weekend agent project and the most robust way to ship one to millions of users.\n\nIt eliminates all the complexity of self-hosting an agent but still allows a great degree of flexibility with setting up your harness, tools, skills, etc.",
+      "zh": "我发现托管代理在某种程度上既是整合周末代理项目的最快方法，也是向数百万用户交付项目的最可靠方法。\n\n它消除了自托管代理的所有复杂性，但在设置您的工具、工具、技能等方面仍然具有很大程度的灵活性。"
+    },
+    "levie": {
+      "en": "Background agents for knowledge work are here. You can use the Box API or MCP to automate any content workflow with Box + Claude Managed Agents. In 2 minutes you can be automating document review processes, data extraction, or connecting content to other IT systems. Crazy times.",
+      "zh": "知识工作的后台代理就在这里。您可以使用 Box API 或 MCP 通过 Box + Claude Managed Agents 来自动化任何内容工作流程。只需 2 分钟，您就可以自动化文档审查流程、数据提取或将内容连接到其他 IT 系统。疯狂的时代。"
+    },
+    "garrytan": {
+      "en": "Legit baller @AnjneyMidha",
+      "zh": "合法的球员@AnjneyMidha"
+    },
+    "nikunj": {
+      "en": "Inspired by @karpathy & @FarzaTV, introducing LLMwiki.. fully open source to help build yours. \n\nInputs were tweets, bookmarks, iMessage/WhatsApp, and all my writing. \n\nSpent a bunch of time refining the frontend design to make it look great. \n\nEven though every single article here was written by AI, it was able to make surprisingly sharp connections.\n\nTo make yours, just give the repo to Claude Code and it'll guide you!",
+      "zh": "受到 @karpathy 和 @FarzaTV 的启发，引入 LLMwiki.. 完全开源来帮助您构建。 \n\n输入是推文、书签、iMessage/WhatsApp 以及我所有的文字。 \n\n花了很多时间完善前端设计，使其看起来很棒。 \n\n尽管这里的每一篇文章都是由人工智能撰写的，但它却能够建立令人惊讶的清晰联系。\n\n要制作您的，只需将存储库提供给 Claude Code，它就会指导您！"
+    },
+    "steipete": {
+      "en": "I'm working on character evals and noticed that Claude would constantly pick itself as #1, so I removed the model names from the judge and changed things.",
+      "zh": "我正在进行角色评估，并注意到克劳德会不断地将自己选为第一名，因此我从评判中删除了模型名称并进行了更改。"
+    },
+    "danshipper": {
+      "en": "We use OpenClaws to do all of our work at @every. \n\nWe have 25 full-time employees, so we’re one of the few companies in the world that has seen how work changes when everyone has their own personal agent in the company Slack.\n\nI chatted with @every COO Brandon (@bran_don_gell) and @every head of platform Willie (@bigwilliestyle) to share what we’ve learned.\n\nWe get into:\n- Why agents become mirrors of their owners, and how that influences how other people on the team interact with them\n- How a parallel AI org chart forms on its own. People have stopped tagging me on Slack with questions about Proof, the document editor I vibe coded, because they knew my agent R2-C2 can step in\n- The etiquette for human-agent collaboration is being invented in real time. Brandon's rule is that if there's an established process or documented answer, always ask the agent, not their human\n- Why everyone is a manager now, and why even experienced managers carry limiting beliefs about what their agents can do\n- This is a must-watch for anyone trying to understand how AI workers change daily operations, not just in theory, but inside a company that’s half-agent \n\nWatch below!\n\nTimestamps\nIntroduction: \nHow Brandon built Zosia, an AI agent to run his household: \nBrandon’s “aha” moment: \nWhat happened when everyone on the team got their own agent: \nHow agents take on their owners' personalities, and why that matters inside an org: \nWhy it’s important for agents to work in public: \nWhat we’re still figuring out when it comes to agent behavior, including memory gaps, group chat etiquette, and the \"ant death spiral\" problem: \nHow we built Plus One, our hosted OpenClaw product: \nThe cultural shift required to make agents work at scale:",
+      "zh": "我们使用 OpenClaws 来完成 @every 的所有工作。 \n\n我们有 25 名全职员工，因此我们是世界上为数不多的几家看到当每个人在 Slack 公司都有自己的个人代理时工作发生变化的公司之一。\n\n我与 @every COO Brandon (@bran_don_gell) 和 @every 平台负责人 Willie (@bigwilliestyle) 聊天，分享我们所学到的知识。\n\n我们进入：\n- 为什么代理成为其所有者的镜子，以及这如何影响团队中其他人与他们互动的方式\n- 并行人工智能组织结构图如何自行形成。人们不再在 Slack 上给我贴上关于 Proof 的问题，Proof 是我编写的文档编辑器，因为他们知道我的代理 R2-C2 可以介入\n- 人类与代理协作的礼仪正在实时发明。布兰登的规则是，如果有既定的流程或记录的答案，请始终询问代理人，而不是他们的人\n- 为什么现在每个人都是经理，以及为什么即使是经验丰富的经理也对其代理人的能力抱有有限的信念\n- 对于任何想要了解人工智能员工如何改变日常运营的人来说，这都是必看的，不仅是在理论上，而且是在半代理公司内部 \n\n往下看！\n\n时间戳\n简介： \nBrandon 如何构建 Zosia，一个人工智能代理来管理他的家庭： \n布兰登的“顿悟”时刻： \n当团队中的每个人都有自己的经纪人时会发生什么： \n代理如何体现其所有者的个性，以及为什么这在组织内部很重要： \n为什么代理人在公共场所工作很重要： \n当涉及到代理行为时，我们仍在弄清楚，包括记忆差距、群聊礼仪和“蚂蚁死亡螺旋”问题： \n我们如何构建 Plus One（我们的托管 OpenClaw 产品）： \n使代理大规模工作所需的文化转变："
+    },
+    "adityaag": {
+      "en": "\"First you shape the tools, then the tools shape you\".\n\nAt SPC, our entire team is now writing code on a weekly basis. Two months ago, there were only 1-2 people writing code. \n\nThis has been incredible on many levels but the most interesting one is how the tools are now shaping us as a team:\n\n- Everyone has a mindset towards automation and optimization. \n- Latencies for everything are lower.\n- People can focus on the more interesting parts of their roles.\n- The scope of everyone's ambition has exploded\n\nThe key enabler was to make sure that everyone got AI coding-pilled.\n\nIf you are not doing this in your own company, then you are really really missing a beat.",
+      "zh": "“首先你塑造工具，然后工具塑造你”。\n\n在 SPC，我们整个团队现在每周都在编写代码。两个月前，只有 1-2 个人写代码。 \n\n这在很多层面上都是令人难以置信的，但最有趣的是这些工具现在如何塑造我们作为一个团队：\n\n- 每个人都有自动化和优化的心态。 \n- 一切的延迟都更低。\n- 人们可以专注于自己角色中更有趣的部分。\n- 每个人的野心范围都爆炸了\n\n关键的推动因素是确保每个人都能进行人工智能编码。\n\n如果你不在自己的公司这样做，那么你真的错过了一个节拍。"
+    },
+    "claudeai": {
+      "en": "Build and deploy your agents through the Claude Console, Claude Code, or our new CLI: \n\nRead more on the blog:",
+      "zh": "通过 Claude Console、Claude Code 或我们的新 CLI 构建和部署您的代理： \n\n在博客上阅读更多内容："
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:28\nClawed is not mine. Clawed is everybody's. A claw or a plus one is mine because you develop a personal relationship with your claw, and your claw can modify itself in response to talking to you. It becomes this reflection of you and who you are and your personality. If you're known for slaying inside of your org and you're using your claw publicly inside of Slack or Discord, your claw then becomes known for that same kind of thing and people trust it for that.\n\nSpeaker ...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n爪子不是我的。爪子是每个人的。爪子或加一是我的，因为你与你的爪子建立了个人关系，并且你的爪子可以根据与你的交谈而自我修改。它成为你、你是谁以及你的个性的反映。如果你因在组织内部杀人而闻名，并且你在 Slack 或 Discord 中公开使用你的爪子，那么你的爪子就会因同样的事情而闻名，并且人们会因此信任它。\n\n扬声器",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
