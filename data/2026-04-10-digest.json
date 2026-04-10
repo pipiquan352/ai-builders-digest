@@ -1,0 +1,84 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
+      "zh": "从我的TL来看，人们对人工智能能力的理解差距越来越大。\n\n我认为第一个问题是关于新近度和使用级别。我认为很多人去年在某个地方尝试过 ChatGPT 的免费版本，并让它过多地表达了他们对人工智能的看法。这是一组嘲笑模型的各种怪癖、幻觉等的反应。是的，我还看到了 OpenAI 高级语音模式的病毒视频，它笨手笨脚地提出简单的问题，比如“我应该开车还是步行去洗车场”。问题是，这些免费和旧的/已弃用的模型并不能反映今年最新一轮最先进的代理模型的功能，尤其是 OpenAI Codex 和 Claude Code。\n\n但这让我想到了第二个问题。即使人们每月支付 200 美元来使用最先进的模型，许多功能在高技术领域仍然相对“高峰”。围绕搜索、写作、建议等的典型查询“不是”在能力方面取得最引人注目和戏剧性进步的领域。部分原因在于强化学习的技术细节及其对可验证奖励的使用。但部分原因也是因为这些用例在爬山过程中没有被公司充分优先考虑，因为它们不会带来那么多的价值。金矿在别处，焦点也随之而来。\n\n因此，这让我想到了第二类人，他们*都* 1）付费并使用最先进的前沿代理模型（OpenAI Codex / Claude Code），2）在编程、数学和研究等技术领域专业地这样做。这群人遭受的“人工智能精神病”最多，因为截至今年这些领域的最新进展简直令人震惊。当您将计算机终端交给这些模型之一时，您现在可以看到它们解决您通常需要数天/数周工作的编程问题。正是第二类人对能力、斜率以及各种与网络相关的影响赋予了更大的重视。\n\n长话短说，这两个群体的人都在互相说话。事实上，OpenAI 的免费和我认为有点孤立（？）的“高级语音模式”将解决你 Instagram 卷轴中最愚蠢的问题，并且“同时”，OpenAI 的最高级别和付费 Codex 模型将运行 1 小时，以连贯地重组整个代码库，或查找和利用计算机系统中的漏洞。这部分确实有效并且取得了巨大的进步，因为有两个特性：1）这些领域提供了可验证的明确奖励函数，这意味着它们很容易接受强化学习训练（例如，单元测试通过是或否，与写作相反，这很难明确判断），而且 2）它们在 B2B 环境中更有价值，这意味着团队的最大部分专注于改进它们。所以我们到了。"
+    },
+    "swyx": {
+      "en": "btw some lore for those of you at @aidotengineer  - this tweet inspired the AGI Pill bottles we handed out today (cc @Ronanchamberss)\n\ni didnt see anyone tweet pictures online, and they got snapped up instantly, so if you have a bottle please share photos!!!",
+      "zh": "顺便说一句，@aidotengineer 为你们提供了一些知识 - 这条推文启发了我们今天分发的 AGI 药瓶（抄送@Ronanchamberss）\n\n我在网上没有看到有人推文图片，它们立刻就被抢购一空，所以如果你有一瓶请分享照片！"
+    },
+    "joshwoodward": {
+      "en": "Expect even more creative model replies (like this) coming soon!",
+      "zh": "期待更多有创意的模型回复（像这样）很快就会出现！"
+    },
+    "petergyang": {
+      "en": "Ok I’ll bite - wtf is Hermes agent?\n\nIs that like the luxury bag version of OpenClaw",
+      "zh": "好吧，我咬——wtf 是 Hermes 代理商吗？\n\n是不是像OpenClaw的豪华包包版"
+    },
+    "_catwu": {
+      "en": "We made setting up Claude Code with Bedrock and Vertex much faster!",
+      "zh": "我们使用 Bedrock 和 Vertex 更快地设置了 Claude Code！"
+    },
+    "trq212": {
+      "en": "I think \"prompting\" will keep being an incredibly high-leverage skill, like writing or public speaking.\n\nIt is the skill of talking to agents, mediated by the harness.\n\nMy main goal is to grow the bandwidth between humans and agents, to help us understand each other better.",
+      "zh": "我认为“提示”将继续成为一种令人难以置信的高杠杆技能，就像写作或公开演讲一样。\n\n这是通过安全带与代理交谈的技能。\n\n我的主要目标是扩大人类和代理之间的带宽，以帮助我们更好地相互理解。"
+    },
+    "amasad": {
+      "en": "💯",
+      "zh": "💯"
+    },
+    "rauchg": {
+      "en": "Agentic Infrastructure is the future of the cloud\n\n① For coding agents\nIf you use Claude Code, Codex, Cursor, you need infra that 'clicks' for your agents, not just devs.\n\n② To deploy agents \nPages → Agents. Long-running compute, sandboxes, and our token delivery network are the building blocks of this new kind of software.\n\n③ Itself an agent\nVercel is beloved because it's self-configuring (serverless). Add to that: self-healing, self-optimizing, self-securing. The agent holds the pager.\n\n⟁ It's a triple-entendre that works. I highly recommend the read. Agentic Infrastructure will make existing companies more efficient and support the next generation of AI-native startups.",
+      "zh": "代理基础设施是云的未来\n\n① 对于编码剂\n如果您使用 Claude Code、Codex、Cursor，您需要为您的代理（而不仅仅是开发人员）提供“点击”的基础设施。\n\n② 部署代理 \n页面 → 代理。长时间运行的计算、沙箱和我们的代币交付网络是这种新型软件的构建块。\n\n③ 本身是代理人\nVercel 深受喜爱，因为它是自配置的（无服务器）。除此之外：自我修复、自我优化、自我保护。特工拿着寻呼机。\n\n⟁ 这是一个行之有效的三句话。我强烈推荐阅读。 Agentic 基础设施将使现有公司更加高效，并支持下一代人工智能原生初创公司。"
+    },
+    "alexalbert__": {
+      "en": "Allowing Sonnet to \"phone a friend\" (i.e. call Opus) increases performance while also reducing total cost since it reduces tokens spent trying to solve more complex tasks",
+      "zh": "允许 Sonnet“给朋友打电话”（即致电 Opus）可以提高性能，同时还可以降低总成本，因为它减少了尝试解决更复杂任务所花费的代币"
+    },
+    "levie": {
+      "en": "I think everyone is substantially underestimating the total demand for software and automation in areas that don’t feel like “software”. Not talking about software that’s another app on your phone. \n\nSoftware that just automates things for companies all day long. Most companies have not been able to bring automation to most areas of work because it’s been too complex or costly to do so. Outside of tech or maybe large banks, companies don’t have an unlimited supply of engineers. They have to ration resources very selectively, which means most things don’t get funded.\n\nFurther, there are many projects that never got done simply because the technology wasn’t there to solve the problem. Basically anything even remotely touching unstructured data was impossible to automate before AI, or connecting data flows between systems that deal with significant variability, for instance.\n\nThis is where all the new software and automation will be applied. It will be in CPG and retail connecting marketing stacks. Pharma research is about to explode because we can automate far more tests and simulations. Bankers and investors are going to run 10X the amount of analyses on every scenario. Healthcare providers will bring automation to the every step of the process.\n\nNow that agents bring down the cost of doing this work, and because many parts of it are now possible, companies will light these projects up. This is why there demand will continue for anyone technical enough to execute this work, and why the jobs arguments will be wrong.",
+      "zh": "我认为每个人都大大低估了那些感觉不像“软件”的领域对软件和自动化的总需求。不谈论手机上另一个应用程序的软件。 \n\n整天为公司自动化操作的软件。大多数公司无法将自动化引入大部分工作领域，因为这样做太复杂或成本太高。除了科技公司或大型银行之外，公司的工程师供应量并不是无限的。他们必须非常有选择性地分配资源，这意味着大多数事情都得不到资助。\n\n此外，有许多项目从未完成只是因为技术无法解决问题。基本上，在人工智能出现之前，任何事情，即使是远程接触非结构化数据，也不可能实现自动化，或者在处理显着变化的系统之间连接数据流。\n\n这是所有新软件和自动化将被应用的地方。它将在消费品和零售领域连接营销堆栈。制药研究即将爆发，因为我们可以自动化更多的测试和模拟。银行家和投资者将对每种情况进行 10 倍的分析。医疗保健提供商将为流程的每一步带来自动化。\n\n现在，代理商降低了这项工作的成本，而且由于其中的许多部分现在都是可能的，公司将启动这些项目。这就是为什么对任何有足够技术能力来执行这项工作的人的需求将会继续存在，也是为什么乔布斯的论点是错误的。"
+    },
+    "ryolu_": {
+      "en": "less is more",
+      "zh": "少即是多"
+    },
+    "garrytan": {
+      "en": "If you want your OpenClaw or Hermes Agent to be able to have perfect total recall of all 10,000+ markdown files, GBrain is here to help.\n\nIt's exactly my OpenClaw/Hermes Agent setup. MIT-licensed open source. Hope it helps you build your mini-AGI.",
+      "zh": "如果您希望 OpenClaw 或 Hermes Agent 能够完美回忆所有 10,000 多个 Markdown 文件，GBrain 可以为您提供帮助。\n\n这正是我的 OpenClaw/Hermes Agent 设置。麻省理工学院许可的开源。希望它能帮助你构建你的迷你 AGI。"
+    },
+    "mattturck": {
+      "en": "You know it's a deep crypto winter when John Carreyrou (of Theranos investigation fame) thinks he's figured out who Satoshi is and no one on my timeline cares",
+      "zh": "你知道，当约翰·卡雷鲁（John Carreyrou，因 Theranos 调查而闻名）认为他已经弄清楚了中本聪是谁，而我的时间线上没有人关心时，加密货币行业正处于深冬。"
+    },
+    "steipete": {
+      "en": "GUYS WE FOUND THE GUY WHO BUILT THE GITHUB MCP SERVER",
+      "zh": "我们找到了构建 GITHUB MCP 服务器的人"
+    },
+    "danshipper": {
+      "en": "This is a very useful feature",
+      "zh": "这是一个非常有用的功能"
+    },
+    "adityaag": {
+      "en": "Very cool to have the @AnthropicAI CTO visit @spc_india",
+      "zh": "非常高兴@AnthropicAI CTO 访问@spc_india"
+    },
+    "sama": {
+      "en": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
+      "zh": "很高兴看到 Codex 受到如此多的喜爱。应广大需求，我们推出了 100 美元的 ChatGPT Pro 套餐。"
+    },
+    "claudeai": {
+      "en": "In evals, Sonnet with an Opus advisor scored 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone, while costing 11.9% less per task.",
+      "zh": "在评估中，带有 Opus 顾问的 Sonnet 在 SWE-bench Multilingual 上的得分比单独的 Sonnet 高 2.7 个百分点，同时每项任务的成本降低 11.9%。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:09\nI definitely agree that continual learning is really the thing. It's really the thing that we're building, but I don't really think this is like a problem that's ignored and and off the path of what we're doing currently. Think it it is what we're working towards.\n\nSpeaker 2 | 00:09 - 00:13\nWhat are like the other research areas within alignment that you're paying attention to or that you think are promising?\n\nSpeaker 1 | 00:13 - 00:19\nA lot of the, like, longer term ch...",
+      "zh": "演讲者 1 | 00:00 - 00:09\n我绝对同意持续学习确实是最重要的。这确实是我们正在构建的东西，但我真的不认为这是一个被忽视的问题，并且脱离了我们当前正在做的事情的道路。认为这就是我们正在努力的方向。\n\n扬声器 2 | 00:09 - 00:13\n您正在关注或您认为有前途的其他研究领域有哪些？\n\n演讲者 1 | 00:13 - 00:19\n很多，比如，长期的变化",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "generatedAt": "2026-04-10T14:49:39.790Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "tweets": [
+        {
+          "id": "2042341482531864741",
+          "text": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
+          "createdAt": "2026-04-09T20:38:48.000Z",
+          "url": "https://x.com/karpathy/status/2042341482531864741",
+          "likes": 1875,
+          "retweets": 62,
+          "replies": 108,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042334451611693415",
+          "text": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
+          "createdAt": "2026-04-09T20:10:52.000Z",
+          "url": "https://x.com/karpathy/status/2042334451611693415",
+          "likes": 12863,
+          "retweets": 1494,
+          "replies": 626,
+          "isQuote": true,
+          "quotedTweetId": "2042063369432183238"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2042443722290327596",
+          "text": "btw some lore for those of you at @aidotengineer  - this tweet inspired the AGI Pill bottles we handed out today (cc @Ronanchamberss)\n\ni didnt see anyone tweet pictures online, and they got snapped up instantly, so if you have a bottle please share photos!!! https://t.co/DS7OAaNtJE https://t.co/g6WoHG4kpT",
+          "createdAt": "2026-04-10T03:25:04.000Z",
+          "url": "https://x.com/swyx/status/2042443722290327596",
+          "likes": 8,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2033390640403214552"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2042318148851188151",
+          "text": "Create your first full song today. For free.\n\nIn under 50 days, over 100 million songs have been generated on @GeminiApp. To celebrate, we’re unlocking the full power of our music model, Lyria 3.\n\nHere’s what you get starting today:\n🎵 Generate up to 5 full-length tracks every day (~3 mins each)\n🎵 Hit your limit? Keep creating 30-second clips, or upgrade for more\n\nImages, video, and now music.\n\nYou have the ideas. Gemini has the tools. Start creating!",
+          "createdAt": "2026-04-09T19:06:05.000Z",
+          "url": "https://x.com/joshwoodward/status/2042318148851188151",
+          "likes": 378,
+          "retweets": 46,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042291365107941669",
+          "text": "Expect even more creative model replies (like this) coming soon! https://t.co/8VHWy5P0eq",
+          "createdAt": "2026-04-09T17:19:40.000Z",
+          "url": "https://x.com/joshwoodward/status/2042291365107941669",
+          "likes": 495,
+          "retweets": 17,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2042272415951253932"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2042472016566239320",
+          "text": "Training my kids for an AGI proof career https://t.co/eQ6Wesw2w0",
+          "createdAt": "2026-04-10T05:17:30.000Z",
+          "url": "https://x.com/petergyang/status/2042472016566239320",
+          "likes": 121,
+          "retweets": 3,
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042411572241608913",
+          "text": "Both of these can be true:\n\n1. No model is anywhere near as good as Opus for OpenClaw\n\n2. Using Claude Code as a personal assistant replacement is OK but just doesn’t feel as “mine” as my OpenClaw",
+          "createdAt": "2026-04-10T01:17:19.000Z",
+          "url": "https://x.com/petergyang/status/2042411572241608913",
+          "likes": 141,
+          "retweets": 4,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042405414999069145",
+          "text": "Ok I’ll bite - wtf is Hermes agent?\n\nIs that like the luxury bag version of OpenClaw",
+          "createdAt": "2026-04-10T00:52:51.000Z",
+          "url": "https://x.com/petergyang/status/2042405414999069145",
+          "likes": 285,
+          "retweets": 4,
+          "replies": 100,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "2042345489778331915",
+          "text": "We made setting up Claude Code with Bedrock and Vertex much faster! https://t.co/0iKOjLAofl",
+          "createdAt": "2026-04-09T20:54:44.000Z",
+          "url": "https://x.com/_catwu/status/2042345489778331915",
+          "likes": 117,
+          "retweets": 9,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2042333291924369890"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "tweets": [
+        {
+          "id": "2042335178388103559",
+          "text": "you'll need to explicitly prompt Claude Code to use it, but the Monitor Tool is super powerful\n\ne.g. \"start my dev server and use the MonitorTool to observe for errors\" https://t.co/xVUr8MysOi",
+          "createdAt": "2026-04-09T20:13:45.000Z",
+          "url": "https://x.com/trq212/status/2042335178388103559",
+          "likes": 2044,
+          "retweets": 106,
+          "replies": 80,
+          "isQuote": true,
+          "quotedTweetId": "2042332268450963774"
+        },
+        {
+          "id": "2042318547519762678",
+          "text": "I think \"prompting\" will keep being an incredibly high-leverage skill, like writing or public speaking.\n\nIt is the skill of talking to agents, mediated by the harness.\n\nMy main goal is to grow the bandwidth between humans and agents, to help us understand each other better.",
+          "createdAt": "2026-04-09T19:07:40.000Z",
+          "url": "https://x.com/trq212/status/2042318547519762678",
+          "likes": 2081,
+          "retweets": 100,
+          "replies": 252,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2042332588308906118",
+          "text": "💯 https://t.co/VYRIZv4val",
+          "createdAt": "2026-04-09T20:03:28.000Z",
+          "url": "https://x.com/amasad/status/2042332588308906118",
+          "likes": 48,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2042300540101550556"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2042358253510963384",
+          "text": "Agentic Infrastructure is the future of the cloud\n\n① For coding agents\nIf you use Claude Code, Codex, Cursor, you need infra that 'clicks' for your agents, not just devs.\n\n② To deploy agents \nPages → Agents. Long-running compute, sandboxes, and our token delivery network are the building blocks of this new kind of software.\n\n③ Itself an agent\nVercel is beloved because it's self-configuring (serverless). Add to that: self-healing, self-optimizing, self-securing. The agent holds the pager.\n\n⟁ It's a triple-entendre that works. I highly recommend the read. Agentic Infrastructure will make existing companies more efficient and support the next generation of AI-native startups.",
+          "createdAt": "2026-04-09T21:45:27.000Z",
+          "url": "https://x.com/rauchg/status/2042358253510963384",
+          "likes": 252,
+          "retweets": 24,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2042353610223468700"
+        },
+        {
+          "id": "2042294997278736552",
+          "text": "This is remarkable. One 𝚗𝚙𝚡 𝚜𝚑𝚊𝚍𝚌𝚗 𝚒𝚗𝚒𝚝 every second\nGives a sense of the scale of new software creation https://t.co/d3pXnujxlk",
+          "createdAt": "2026-04-09T17:34:06.000Z",
+          "url": "https://x.com/rauchg/status/2042294997278736552",
+          "likes": 197,
+          "retweets": 6,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2042268261522256215"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "tweets": [
+        {
+          "id": "2042329150086922574",
+          "text": "Allowing Sonnet to \"phone a friend\" (i.e. call Opus) increases performance while also reducing total cost since it reduces tokens spent trying to solve more complex tasks https://t.co/UmsWK4Xn32 https://t.co/aeoH2E0kb1",
+          "createdAt": "2026-04-09T19:49:48.000Z",
+          "url": "https://x.com/alexalbert__/status/2042329150086922574",
+          "likes": 2183,
+          "retweets": 70,
+          "replies": 87,
+          "isQuote": true,
+          "quotedTweetId": "2042308622181339453"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2042469771275329594",
+          "text": "I think everyone is substantially underestimating the total demand for software and automation in areas that don’t feel like “software”. Not talking about software that’s another app on your phone. \n\nSoftware that just automates things for companies all day long. Most companies have not been able to bring automation to most areas of work because it’s been too complex or costly to do so. Outside of tech or maybe large banks, companies don’t have an unlimited supply of engineers. They have to ration resources very selectively, which means most things don’t get funded.\n\nFurther, there are many projects that never got done simply because the technology wasn’t there to solve the problem. Basically anything even remotely touching unstructured data was impossible to automate before AI, or connecting data flows between systems that deal with significant variability, for instance.\n\nThis is where all the new software and automation will be applied. It will be in CPG and retail connecting marketing stacks. Pharma research is about to explode because we can automate far more tests and simulations. Bankers and investors are going to run 10X the amount of analyses on every scenario. Healthcare providers will bring automation to the every step of the process.\n\nNow that agents bring down the cost of doing this work, and because many parts of it are now possible, companies will light these projects up. This is why there demand will continue for anyone technical enough to execute this work, and why the jobs arguments will be wrong.",
+          "createdAt": "2026-04-10T05:08:35.000Z",
+          "url": "https://x.com/levie/status/2042469771275329594",
+          "likes": 165,
+          "retweets": 14,
+          "replies": 27,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042460500785602648",
+          "text": "The idea that prompting would be useless is like if giving clear instructions to a brand new colleague who just joined your team is useless. “Prompting” should just encapsulate the entirely of giving the agent everything it needs to perform the task. This is high leverage. https://t.co/OZxgC0bIa2",
+          "createdAt": "2026-04-10T04:31:45.000Z",
+          "url": "https://x.com/levie/status/2042460500785602648",
+          "likes": 77,
+          "retweets": 9,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2042318547519762678"
+        },
+        {
+          "id": "2042392664943870443",
+          "text": "AI adoption is a tale of two cities. On one end (most) users right now are interacting with AI via chat tools and on the other end people are deploying agents to do long running tasks that create and produce real work output or automate workflows. \n\nThe former is super useful but the productivity gains are capped. The latter could be 100-200% productivity gains off the bat, and have no inherent upper limit as you have agents running in the background. \n\n*Most* of the users in the latter camp have been coding agents users, since that’s where most progress has been. But now that general purpose agents are coming online that can code, use skills, access data sources, run apps, and more, we’re going to see these agents in more areas of knowledge work.\n\nThe gap, though, with the rest of knowledge work though are going to be thorny issues like charge management, compliance, security, and of course getting the right context to agents.\n\nWe see this day in and day out either enterprises at Box. Some companies are ready to go because their unstructured data is well-suited for agents, but most have legacy data environments, workflows that aren’t well documented, or technologies that don’t play nice with agents. \n\nThis is all going to take time to upgrade these traditional workflows and systems; but this is why there’s so much opportunity right now as well for both the agentic platforms that can help with this, and lots of new roles in organizations to drive the change here.",
+          "createdAt": "2026-04-10T00:02:11.000Z",
+          "url": "https://x.com/levie/status/2042392664943870443",
+          "likes": 113,
+          "retweets": 10,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2042334451611693415"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2042311143788892496",
+          "text": "less is more https://t.co/bMdl07es71",
+          "createdAt": "2026-04-09T18:38:15.000Z",
+          "url": "https://x.com/ryolu_/status/2042311143788892496",
+          "likes": 350,
+          "retweets": 9,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2041508570018275766"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "tweets": [
+        {
+          "id": "2042497872114090069",
+          "text": "If you want your OpenClaw or Hermes Agent to be able to have perfect total recall of all 10,000+ markdown files, GBrain is here to help.\n\nIt's exactly my OpenClaw/Hermes Agent setup. MIT-licensed open source. Hope it helps you build your mini-AGI.\n\nhttps://t.co/yFpFU4pn5b",
+          "createdAt": "2026-04-10T07:00:15.000Z",
+          "url": "https://x.com/garrytan/status/2042497872114090069",
+          "likes": 48,
+          "retweets": 8,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042495930948338048",
+          "text": "GBrain works on Hermes Agent, paste the same install script and you're good to go. \n\nhttps://t.co/yFpFU4pn5b",
+          "createdAt": "2026-04-10T06:52:32.000Z",
+          "url": "https://x.com/garrytan/status/2042495930948338048",
+          "likes": 9,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042493525934424114",
+          "text": "I'm using https://t.co/BPCjmlNVqT on Railway if that helps",
+          "createdAt": "2026-04-10T06:42:58.000Z",
+          "url": "https://x.com/garrytan/status/2042493525934424114",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2042382660568305816",
+          "text": "SurrealDB &gt; EdgeDB &gt; MongoDB https://t.co/6fMEoxr2nk https://t.co/bPABg5tbsV",
+          "createdAt": "2026-04-09T23:22:26.000Z",
+          "url": "https://x.com/mattturck/status/2042382660568305816",
+          "likes": 7,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2041887740531503224"
+        },
+        {
+          "id": "2042215820307140690",
+          "text": "You know it's a deep crypto winter when John Carreyrou (of Theranos investigation fame) thinks he's figured out who Satoshi is and no one on my timeline cares",
+          "createdAt": "2026-04-09T12:19:28.000Z",
+          "url": "https://x.com/mattturck/status/2042215820307140690",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2042429023889080487",
+          "text": "Wow, @pangramlabs thinks this is 100% AI generated slop 😢 \n\nEither I have fused my mind completely with Claude - or it's got this one wrong. Humbling regardless. \n\nMostly hand written, some voice memos and some Claude assist for grammar!",
+          "createdAt": "2026-04-10T02:26:40.000Z",
+          "url": "https://x.com/nikunj/status/2042429023889080487",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042402854925975595",
+          "text": "@andrewfarah @TimFarrelly8 @kepano 80 stars for a side project.. I know it's a very small number, but it makes me so happy!",
+          "createdAt": "2026-04-10T00:42:41.000Z",
+          "url": "https://x.com/nikunj/status/2042402854925975595",
+          "likes": 1,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042393034789437742",
+          "text": "https://t.co/vXJVfChB7z",
+          "createdAt": "2026-04-10T00:03:39.000Z",
+          "url": "https://x.com/nikunj/status/2042393034789437742",
+          "likes": 298,
+          "retweets": 19,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "tweets": [
+        {
+          "id": "2042252659516682719",
+          "text": ".@thsottiaux https://t.co/2rjUaWbSHZ",
+          "createdAt": "2026-04-09T14:45:51.000Z",
+          "url": "https://x.com/steipete/status/2042252659516682719",
+          "likes": 1575,
+          "retweets": 35,
+          "replies": 72,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042214825405661677",
+          "text": "GUYS WE FOUND THE GUY WHO BUILT THE GITHUB MCP SERVER https://t.co/rFrPP8Dd00",
+          "createdAt": "2026-04-09T12:15:31.000Z",
+          "url": "https://x.com/steipete/status/2042214825405661677",
+          "likes": 2675,
+          "retweets": 45,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042184777575367117",
+          "text": "Send all your ClosedClaw questions! https://t.co/cthrSOkf6M",
+          "createdAt": "2026-04-09T10:16:07.000Z",
+          "url": "https://x.com/steipete/status/2042184777575367117",
+          "likes": 153,
+          "retweets": 8,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2042179110001123605"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2042409377554907410",
+          "text": "This is a very useful feature https://t.co/SMMtjUDu2t",
+          "createdAt": "2026-04-10T01:08:36.000Z",
+          "url": "https://x.com/danshipper/status/2042409377554907410",
+          "likes": 48,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2042287192895267212"
+        },
+        {
+          "id": "2042306467932352535",
+          "text": "https://t.co/A3GhRfL9Np",
+          "createdAt": "2026-04-09T18:19:40.000Z",
+          "url": "https://x.com/danshipper/status/2042306467932352535",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2042297006920523904"
+        },
+        {
+          "id": "2042299262176764095",
+          "text": "If you’re still freaking out, I made a video for you: https://t.co/a4BYQ29Ots",
+          "createdAt": "2026-04-09T17:51:02.000Z",
+          "url": "https://x.com/danshipper/status/2042299262176764095",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2042297006920523904"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2042266606152319264",
+          "text": "Very cool to have the @AnthropicAI CTO visit @spc_india https://t.co/t2qpBPbaTY",
+          "createdAt": "2026-04-09T15:41:17.000Z",
+          "url": "https://x.com/adityaag/status/2042266606152319264",
+          "likes": 22,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2042170699310313576"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2042342572958630332",
+          "text": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
+          "createdAt": "2026-04-09T20:43:08.000Z",
+          "url": "https://x.com/sama/status/2042342572958630332",
+          "likes": 7883,
+          "retweets": 295,
+          "replies": 1133,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2042308629940855048",
+          "text": "Now available in beta on the Claude Platform.\n\nRead more: https://t.co/FWbfVOKdaW",
+          "createdAt": "2026-04-09T18:28:16.000Z",
+          "url": "https://x.com/claudeai/status/2042308629940855048",
+          "likes": 1089,
+          "retweets": 48,
+          "replies": 29,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042308627478773808",
+          "text": "In evals, Sonnet with an Opus advisor scored 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone, while costing 11.9% less per task. https://t.co/pV4nftN1wz",
+          "createdAt": "2026-04-09T18:28:15.000Z",
+          "url": "https://x.com/claudeai/status/2042308627478773808",
+          "likes": 1527,
+          "retweets": 42,
+          "replies": 96,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042308625989882054",
+          "text": "Add the advisor tool to your Messages API call. When your Sonnet or Haiku agent hits a hard decision mid-run, it consults Opus, gets a plan, and continues, all within a single API request.",
+          "createdAt": "2026-04-09T18:28:15.000Z",
+          "url": "https://x.com/claudeai/status/2042308625989882054",
+          "likes": 1359,
+          "retweets": 25,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, &amp; Future Alignment Directions",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-04-09T13:25:11.000Z"
+    }
+  ]
+}
