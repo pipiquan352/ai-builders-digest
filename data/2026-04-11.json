@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-04-11T14:36:44.215Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2042772055905689977",
+          "text": "Observations about Chinese AI work culture:\n\n1. Many arrive at work late (11 am) and work until late at night (11 pm).\n\n2. Due to the schedule above, many employees are young. Hard for parents to sustain the same schedule. \n\n3. Everyone at these companies is using the best US AI tools like Claude Code via VPN. VPN is very common even for folks not working in tech. \n\n4. Younger generation doesn’t really drink, smoke, or party much. Many just work all the time and order food and boba delivery to office. \n\n5. Government is very supportive of AI startups including cities competing for the best AI founders to start companies locally. Beijing seems to be main AI hub. \n\n6. Youth employment is still bad so gov is also encouraging OPC (one person companies) via subsidies and incentives.\n\nWould love to hear other people’s perspectives on the above.",
+          "createdAt": "2026-04-11T01:09:45.000Z",
+          "url": "https://x.com/petergyang/status/2042772055905689977",
+          "likes": 654,
+          "retweets": 37,
+          "replies": 36,
+          "isQuote": true,
+          "quotedTweetId": "2040925261236203804"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2042643133003919689",
+          "text": "skillshare would be such a sick domain to have now",
+          "createdAt": "2026-04-10T16:37:28.000Z",
+          "url": "https://x.com/thenanyu/status/2042643133003919689",
+          "likes": 114,
+          "retweets": 3,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "tweets": [
+        {
+          "id": "2042673325139427724",
+          "text": "A few questions on plan vs ultraplan. \n\nI think the insight here is that implementation can sometimes require a local environment/interactivity, but planning can happen in the cloud since it's mostly about reading code &amp; understanding intent.",
+          "createdAt": "2026-04-10T18:37:26.000Z",
+          "url": "https://x.com/trq212/status/2042673325139427724",
+          "likes": 267,
+          "retweets": 13,
+          "replies": 30,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042671371684319723",
+          "text": "Ultraplan uses roughly the same number of tokens (and subscription rate limits) as plan mode.\n\nSee the docs for more: https://t.co/42xCfg7ecN",
+          "createdAt": "2026-04-10T18:29:40.000Z",
+          "url": "https://x.com/trq212/status/2042671371684319723",
+          "likes": 300,
+          "retweets": 14,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042671370186973589",
+          "text": "New in Claude Code: /ultraplan\n\nClaude builds an implementation plan for you on the web. You can read it and edit it, then run the plan on the web or back in your terminal.\n\nAvailable now in preview for all users with CC on the web enabled.",
+          "createdAt": "2026-04-10T18:29:40.000Z",
+          "url": "https://x.com/trq212/status/2042671370186973589",
+          "likes": 7517,
+          "retweets": 487,
+          "replies": 403,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2042833728305795370",
+          "text": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to violence. \n\nAnd sure enough the alleged Sam Altman Molotov attacker appears to be a believer and maybe even an active participant in those communities. https://t.co/R0T9Awg0A6",
+          "createdAt": "2026-04-11T05:14:49.000Z",
+          "url": "https://x.com/amasad/status/2042833728305795370",
+          "likes": 96,
+          "retweets": 6,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042828434439835987",
+          "text": "The Molotov attacker appears to be a “rationalist” type. https://t.co/5yLRzJb3gC",
+          "createdAt": "2026-04-11T04:53:47.000Z",
+          "url": "https://x.com/amasad/status/2042828434439835987",
+          "likes": 45,
+          "retweets": 2,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2042810890274353590"
+        },
+        {
+          "id": "2042824079129096368",
+          "text": "Be funny if the only hope for free American enterprise is China’s open models and European regulation of platforms like Apple. https://t.co/SCp8n6ERkL",
+          "createdAt": "2026-04-11T04:36:28.000Z",
+          "url": "https://x.com/amasad/status/2042824079129096368",
+          "likes": 46,
+          "retweets": 3,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2042822653963309378"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2042824091984658902",
+          "text": "🦞 + ▲ https://t.co/yoAbRqAZWa",
+          "createdAt": "2026-04-11T04:36:32.000Z",
+          "url": "https://x.com/rauchg/status/2042824091984658902",
+          "likes": 61,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2042823618649035141"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2042759653281456218",
+          "text": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building software that doesn’t have a great headless mode, you’re going to be at risk in the coming years.\n\nAsked a group of 20 IT leaders across banking, media, finance, and healthcare if they will have any vendors left in 3-5 years that don’t have a good API option for their service and it was a unanimous “no”.\n\nThis is clearly going to change the nature of software going forward. You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface. I suspect most platforms will make it to the other side because of how forceful the trend will be, but of course some won’t if their heads in the sand. \n\nBut on the other end, the upside is that in a world of 100X+ more agents doing work with with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it’s a renaissance if you’re tied to critical data or workflows because of what customers can now use you for. \n\nIt will certainly force an evolution of business models over time - whether you embed all of this agentic usage in a seat license or make it all consumption based - but dollars will always flow to where value is created. Going to be fun!",
+          "createdAt": "2026-04-11T00:20:28.000Z",
+          "url": "https://x.com/levie/status/2042759653281456218",
+          "likes": 242,
+          "retweets": 20,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2042838538077770025",
+          "text": "The amazing thing about OSS is that it gets better all the time thanks to some wonderful contributors \n\nThanks so much for using GBrain and making this magic thing work https://t.co/D1Gp53ZqWD",
+          "createdAt": "2026-04-11T05:33:56.000Z",
+          "url": "https://x.com/garrytan/status/2042838538077770025",
+          "likes": 34,
+          "retweets": 4,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042827737812078927",
+          "text": "This screenshot is from the \"Developer Experience Empathy Test\" part of /plan-devex-review\n\nThis is what a truly great PM can do. Now anyone can have it. You can just do things now.",
+          "createdAt": "2026-04-11T04:51:01.000Z",
+          "url": "https://x.com/garrytan/status/2042827737812078927",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042827575454822432",
+          "text": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone. \n\nThese are all things that need to be fixed. We're in the Altair BASIC era of AI agents.\n\n(Screenshot below from underrated GStack skill /plan-DevEx-review) https://t.co/3ljs0JfIDE",
+          "createdAt": "2026-04-11T04:50:22.000Z",
+          "url": "https://x.com/garrytan/status/2042827575454822432",
+          "likes": 49,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2042638665260671192",
+          "text": "This wonderful conversation with @felixrieseberg is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/XcJcWwn0qF",
+          "createdAt": "2026-04-10T16:19:42.000Z",
+          "url": "https://x.com/mattturck/status/2042638665260671192",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042638661389328413",
+          "text": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @AnthropicAI \n\n00:00 Intro\n\n01:53 Claude Mythos Preview and the “step-function change”\n\n06:16 Why Anthropic is treating Mythos differently\n\n11:19 The real story behind Claude Cowork’s “10-day” build\n\n12:42 Why Anthropic realized Claude Code needed a non-technical version\n\n15:44 What Claude Cowork actually is\n\n17:03 Under the hood: virtual machines, tools, skills\n\n18:36 Where Cowork’s memory actually lives\n\n19:26 How Cowork connects to files, apps, and the internet\n\n20:45 Why Felix thinks the local computer is under-appreciated\n\n24:49 Trust: how do you get users comfortable with AI agents?\n\n28:45 What UX actually means for AI agents\n\n31:27 Anthropic Cowork's roadmap is only one month long\n\n34:12 Building 100 prototypes \n\n35:10 If execution is free, what becomes the bottleneck?\n\n37:25 Does it come down to taste?\n\n40:12 The hardest part of building Claude Cowork\n\n41:43 Advice for founders building AI agents\n\n44:21 SaaSpocalypse: what’s left for software startups\n\n49:30 Where AI agents are going next\n\n51:20 Regulated industries and enterprise adoption\n\n54:15 Hot takes: what's underrated, overrated, and what Felix would build today",
+          "createdAt": "2026-04-10T16:19:41.000Z",
+          "url": "https://x.com/mattturck/status/2042638661389328413",
+          "likes": 327,
+          "retweets": 52,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2042758851074588945",
+          "text": "I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. \n\nBut, decided to whittle it down to a tight 11 bullet point list (some are cliches, but oh so true):\n\n1. Get on the flight -don’t question it.\n\n2. Deals often die on the weekends.\n\n3. If it’s not wired, it’s not done yet.\n\n4. Conviction is never found in the data room.\n\n5. Naïvety is a virtue, not a weakness.\n\n6. In early stage, pick two: founder, market, product -then believe that the third catches up.\n\n7. The right deal at the wrong time is still the wrong deal.\n\n8. In the land of hubris, constraints still reign king.\n\n9. Slow no’s are worse than fast no’s. Way worse. \n\n10. Your last deal should teach you more than your first.\n\n11. Above all else, pick integrity.\n\n---\n\nIf you are an experienced VC, please add more to this.\n\nIf you as a reader are curious about any of these, please ask questions.\n\nGrateful to have this extremely privileged opportunity!",
+          "createdAt": "2026-04-11T00:17:17.000Z",
+          "url": "https://x.com/nikunj/status/2042758851074588945",
+          "likes": 161,
+          "retweets": 2,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042723383599861817",
+          "text": "Sometimes VCs will ask questions just to test your depth (market, technical, your obsession). \n\nThe best founders (imo) are able to argue both sides of an argument with extreme clarity.\n\nThere’s rarely something VCs ask that should make you *really* think about your business. \n\nIf they do it consistently, try to get them on the cap table!",
+          "createdAt": "2026-04-10T21:56:21.000Z",
+          "url": "https://x.com/nikunj/status/2042723383599861817",
+          "likes": 63,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "tweets": [
+        {
+          "id": "2042793664947081398",
+          "text": "https://t.co/sr0DLHFulq https://t.co/LTLmMQfRES",
+          "createdAt": "2026-04-11T02:35:37.000Z",
+          "url": "https://x.com/steipete/status/2042793664947081398",
+          "likes": 311,
+          "retweets": 7,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2042702850350825950"
+        },
+        {
+          "id": "2042684707683365227",
+          "text": "Anyone here who wants to help with WhatsApp CLI? It needs love, and I can't focus on it right now. https://t.co/J28AfwqmeZ",
+          "createdAt": "2026-04-10T19:22:40.000Z",
+          "url": "https://x.com/steipete/status/2042684707683365227",
+          "likes": 964,
+          "retweets": 49,
+          "replies": 84,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042648934238097842",
+          "text": "My account got reinstated. Thanks folks!",
+          "createdAt": "2026-04-10T17:00:31.000Z",
+          "url": "https://x.com/steipete/status/2042648934238097842",
+          "likes": 945,
+          "retweets": 13,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2042683598801690691",
+          "text": "first @every app using Claude Managed agents!! \n\n@TrySpiral https://t.co/LpLNPQkyev",
+          "createdAt": "2026-04-10T19:18:15.000Z",
+          "url": "https://x.com/danshipper/status/2042683598801690691",
+          "likes": 74,
+          "retweets": 7,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042662486059475302",
+          "text": "im dead lol https://t.co/8gWLkHOFeZ",
+          "createdAt": "2026-04-10T17:54:22.000Z",
+          "url": "https://x.com/danshipper/status/2042662486059475302",
+          "likes": 47,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2042660806546870723"
+        },
+        {
+          "id": "2042590862534644106",
+          "text": "watch on YouTube: https://t.co/AIugzfn3cO",
+          "createdAt": "2026-04-10T13:09:45.000Z",
+          "url": "https://x.com/danshipper/status/2042590862534644106",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2042736543891362058",
+          "text": "The implications of \"free\" software are truly hard to wrap my head around.\n\nYou don't like an interface? Just design and push a new one immediately.\n\nPerformance is slow? Just re-factor the data layer with auto-performance optimization.\n\nInsane.",
+          "createdAt": "2026-04-10T22:48:38.000Z",
+          "url": "https://x.com/adityaag/status/2042736543891362058",
+          "likes": 24,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042702044000038920",
+          "text": "https://t.co/uQsiMT86XA",
+          "createdAt": "2026-04-10T20:31:33.000Z",
+          "url": "https://x.com/adityaag/status/2042702044000038920",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042702042376921142",
+          "text": "You're still thinking about SaaS. \n\n@natosaichek is building space cannons. \n\nFew spots left. RSVP. https://t.co/SHdtEyRTxu",
+          "createdAt": "2026-04-10T20:31:33.000Z",
+          "url": "https://x.com/adityaag/status/2042702042376921142",
+          "likes": 26,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2042738954550603884",
+          "text": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+          "createdAt": "2026-04-10T22:58:13.000Z",
+          "url": "https://x.com/sama/status/2042738954550603884",
+          "likes": 9117,
+          "retweets": 721,
+          "replies": 1471,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2042670343173574705",
+          "text": "Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so Claude can work across your open documents in a single conversation.\n\nRead more: https://t.co/MJ89c4IuTt",
+          "createdAt": "2026-04-10T18:25:35.000Z",
+          "url": "https://x.com/claudeai/status/2042670343173574705",
+          "likes": 816,
+          "retweets": 48,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042670341915295865",
+          "text": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
+          "createdAt": "2026-04-10T18:25:35.000Z",
+          "url": "https://x.com/claudeai/status/2042670341915295865",
+          "likes": 22673,
+          "retweets": 1607,
+          "replies": 837,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Anthropic’s Felix Rieseberg: Claude Cowork, Mythos, and the SaaS Extinction",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-04-10T11:30:00.000Z"
+    }
+  ]
+}

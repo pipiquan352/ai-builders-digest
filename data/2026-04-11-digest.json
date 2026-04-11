@@ -1,0 +1,68 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "Observations about Chinese AI work culture:\n\n1. Many arrive at work late (11 am) and work until late at night (11 pm).\n\n2. Due to the schedule above, many employees are young. Hard for parents to sustain the same schedule. \n\n3. Everyone at these companies is using the best US AI tools like Claude Code via VPN. VPN is very common even for folks not working in tech. \n\n4. Younger generation doesn’t really drink, smoke, or party much. Many just work all the time and order food and boba delivery to office. \n\n5. Government is very supportive of AI startups including cities competing for the best AI founders to start companies locally. Beijing seems to be main AI hub. \n\n6. Youth employment is still bad so gov is also encouraging OPC (one person companies) via subsidies and incentives.\n\nWould love to hear other people’s perspectives on the above.",
+      "zh": "对中国人工智能工作文化的观察：\n\n1. 许多人上班很晚（上午 11 点），并工作到深夜（晚上 11 点）。\n\n2. 由于上述日程安排，员工年轻化较多。父母很难维持同样的时间表。 \n\n3. 这些公司的每个人都通过 VPN 使用美国最好的人工智能工具，例如 Claude Code。即使对于非科技行业的人来说，VPN 也很常见。 \n\n4. 年轻一代不太喝酒、抽烟或聚会。许多人只是一直工作，然后点食物和珍珠奶茶送到办公室。 \n\n5.政府非常支持人工智能初创企业，包括城市竞相寻找最优秀的人工智能创始人在当地创办公司。北京似乎是主要的人工智能中心。 \n\n6. 青年就业仍然很糟糕，因此政府还通过补贴和激励措施鼓励 OPC（一人公司）。\n\n很想听听其他人对上述内容的看法。"
+    },
+    "thenanyu": {
+      "en": "skillshare would be such a sick domain to have now",
+      "zh": "现在拥有技能共享将是一个病态的领域"
+    },
+    "trq212": {
+      "en": "New in Claude Code: /ultraplan\n\nClaude builds an implementation plan for you on the web. You can read it and edit it, then run the plan on the web or back in your terminal.\n\nAvailable now in preview for all users with CC on the web enabled.",
+      "zh": "克劳德代码中的新增内容：/ultraplan\n\n克劳德在网上为您制定实施计划。您可以阅读并编辑它，然后在网络上或在终端中运行该计划。\n\n现已为所有启用了网络 CC 的用户提供预览版。"
+    },
+    "amasad": {
+      "en": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to violence. \n\nAnd sure enough the alleged Sam Altman Molotov attacker appears to be a believer and maybe even an active participant in those communities.",
+      "zh": "两年前，在塔克的节目中，我谈到了人工智能末日的“理性主义”意识形态最终将如何导致暴力。 \n\n可以肯定的是，所谓的山姆·奥尔特曼燃烧弹袭击者似乎是这些社区的信徒，甚至可能是这些社区的积极参与者。"
+    },
+    "rauchg": {
+      "en": "🦞 + ▲",
+      "zh": "🦞 + ▲"
+    },
+    "levie": {
+      "en": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building software that doesn’t have a great headless mode, you’re going to be at risk in the coming years.\n\nAsked a group of 20 IT leaders across banking, media, finance, and healthcare if they will have any vendors left in 3-5 years that don’t have a good API option for their service and it was a unanimous “no”.\n\nThis is clearly going to change the nature of software going forward. You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface. I suspect most platforms will make it to the other side because of how forceful the trend will be, but of course some won’t if their heads in the sand. \n\nBut on the other end, the upside is that in a world of 100X+ more agents doing work with with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it’s a renaissance if you’re tied to critical data or workflows because of what customers can now use you for. \n\nIt will certainly force an evolution of business models over time - whether you embed all of this agentic usage in a seat license or make it all consumption based - but dollars will always flow to where value is created. Going to be fun!",
+      "zh": "我与科技领域之外的企业首席信息官和人工智能领导者接触得越多，就越明显地意识到，如果你正在构建的软件没有出色的无头模式，那么你在未来几年将面临风险。\n\n当我们询问银行、媒体、金融和医疗保健行业的 20 位 IT 领导者时，他们是否会在 3-5 年内留下任何没有良好 API 服务选项的供应商，答案是一致“不”。\n\n这显然将改变未来软件的性质。您必须完全放心地通过平台内外的代理来提供您的价值主张，就像您自己的界面一样。我怀疑大多数平台都会走到另一边，因为趋势的力量有多大，但当然，如果他们把头埋在沙子里，有些平台就不会。 \n\n但另一方面，好处是，在一个使用软件工作的代理数量比以往任何时候都多 100 倍以上的世界中，有更多的用例需要驱动和参与。如果您因为客户现在可以使用您而与关键数据或工作流程联系在一起，那么从很多方面来说，这就是一次复兴。 \n\n随着时间的推移，它肯定会迫使商业模式发生演变——无论你将所有这些代理使用嵌入到席位许可证中，还是使其全部基于消费——但美元总是会流向创造价值的地方。会很有趣！"
+    },
+    "garrytan": {
+      "en": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone. \n\nThese are all things that need to be fixed. We're in the Altair BASIC era of AI agents.\n\n(Screenshot below from underrated GStack skill /plan-DevEx-review)",
+      "zh": "是的，让 OpenClaw + GBrain + LLM Knowledge Wiki 与您的手机对话确实是一个有点令人沮丧的设置。 \n\n这些都是需要解决的问题。我们正处于 AI 代理的 Altair BASIC 时代。\n\n（下面的屏幕截图来自被低估的 GStack 技能 /plan-DevEx-review）"
+    },
+    "mattturck": {
+      "en": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @AnthropicAI \n\n00:00 Intro\n\n01:53 Claude Mythos Preview and the “step-function change”\n\n06:16 Why Anthropic is treating Mythos differently\n\n11:19 The real story behind Claude Cowork’s “10-day” build\n\n12:42 Why Anthropic realized Claude Code needed a non-technical version\n\n15:44 What Claude Cowork actually is\n\n17:03 Under the hood: virtual machines, tools, skills\n\n18:36 Where Cowork’s memory actually lives\n\n19:26 How Cowork connects to files, apps, and the internet\n\n20:45 Why Felix thinks the local computer is under-appreciated\n\n24:49 Trust: how do you get users comfortable with AI agents?\n\n28:45 What UX actually means for AI agents\n\n31:27 Anthropic Cowork's roadmap is only one month long\n\n34:12 Building 100 prototypes \n\n35:10 If execution is free, what becomes the bottleneck?\n\n37:25 Does it come down to taste?\n\n40:12 The hardest part of building Claude Cowork\n\n41:43 Advice for founders building AI agents\n\n44:21 SaaSpocalypse: what’s left for software startups\n\n49:30 Where AI agents are going next\n\n51:20 Regulated industries and enterprise adoption\n\n54:15 Hot takes: what's underrated, overrated, and what Felix would build today",
+      "zh": "Claude Cowork、神话和软件的未来：我与 @felixrieseberg 的对话，他是 @AnthropicAI 的 Cowork 领导者 \n\n00:00 简介\n\n01:53 克劳德神话预览和“阶跃函数变化”\n\n06:16 为什么 Anthropic 对待 Mythos 的方式不同\n\n11:19 Claude Cowork 的“10 天”构建背后的真实故事\n\n12:42 为什么 Anthropic 意识到 Claude Code 需要一个非技术版本\n\n15:44 克劳德·科沃克实际上是什么\n\n17:03 幕后：虚拟机、工具、技能\n\n18:36 Cowork 的记忆实际上存在的地方\n\n19:26 Cowork 如何连接到文件、应用程序和互联网\n\n20:45 为什么菲利克斯认为本地计算机未被充分重视\n\n24:49 Trust：如何让用户对人工智能代理感到满意？\n\n28:45 用户体验对于人工智能代理来说实际上意味着什么\n\n31:27 Anthropic Cowork 的路线图只有一个月的时间\n\n34:12 构建 100 个原型 \n\n35:10 如果执行是自由的，什么会成为瓶颈？\n\n37:25 它归结为味道吗？\n\n40:12 构建 Claude Cowork 最难的部分\n\n41:43 给创始人构建人工智能代理的建议\n\n44:21 SaaSpocalypse：软件初创公司还剩下什么\n\n49:30 人工智能代理下一步的发展方向\n\n51:20 受监管的行业和企业采用\n\n54:15 热门话题：什么被低估，什么被高估，以及 Felix 今天将构建什么"
+    },
+    "nikunj": {
+      "en": "I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. \n\nBut, decided to whittle it down to a tight 11 bullet point list (some are cliches, but oh so true):\n\n1. Get on the flight -don’t question it.\n\n2. Deals often die on the weekends.\n\n3. If it’s not wired, it’s not done yet.\n\n4. Conviction is never found in the data room.\n\n5. Naïvety is a virtue, not a weakness.\n\n6. In early stage, pick two: founder, market, product -then believe that the third catches up.\n\n7. The right deal at the wrong time is still the wrong deal.\n\n8. In the land of hubris, constraints still reign king.\n\n9. Slow no’s are worse than fast no’s. Way worse. \n\n10. Your last deal should teach you more than your first.\n\n11. Above all else, pick integrity.\n\n---\n\nIf you are an experienced VC, please add more to this.\n\nIf you as a reader are curious about any of these, please ask questions.\n\nGrateful to have this extremely privileged opportunity!",
+      "zh": "两年前，我正在写一篇（相对）长的文章，讲述我向风险投资人过渡的所有经验。 \n\n但是，决定将其缩减为 11 个要点列表（有些是陈词滥调，但事实如此）：\n\n1. 登机——不要质疑。\n\n2.周末的交易往往会失败。\n\n3. 如果还没有接线，则表示尚未完成。\n\n4. 在资料室里永远找不到定罪的证据。\n\n5. 天真是一种美德，而不是弱点。\n\n6. 在早期阶段，选择两个：创始人、市场、产品——然后相信第三个会赶上。\n\n7. 在错误的时间做出正确的交易仍然是错误的交易。\n\n8. 在傲慢的土地上，约束仍然占主导地位。\n\n9. 缓慢的拒绝比快速的拒绝更糟糕。更糟糕的是。 \n\n10.你的最后一笔交易应该比第一笔交易教会你更多。\n\n11.最重要的是，选择诚信。\n\n---\n\n如果您是一位经验丰富的 VC，请对此进行更多补充。\n\n如果您作为读者对其中任何一个感到好奇，请提出问题。\n\n非常感谢能有这个难得的机会！"
+    },
+    "steipete": {
+      "en": "Anyone here who wants to help with WhatsApp CLI? It needs love, and I can't focus on it right now.",
+      "zh": "这里有人想要帮助 WhatsApp CLI 吗？它需要爱，但我现在无法专注于它。"
+    },
+    "danshipper": {
+      "en": "first @every app using Claude Managed agents!! \n\n@TrySpiral",
+      "zh": "首先@每个应用程序都使用克劳德托管代理！ \n\n@尝试螺旋"
+    },
+    "adityaag": {
+      "en": "You're still thinking about SaaS. \n\n@natosaichek is building space cannons. \n\nFew spots left. RSVP.",
+      "zh": "您仍在考虑 SaaS。 \n\n@natosaichek 正在建造太空炮。 \n\n剩下的名额所剩无几了。敬请回复。"
+    },
+    "sama": {
+      "en": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:",
+      "zh": "我今天早上写了这篇文章，我不确定是否会真正发表它，但这里是："
+    },
+    "claudeai": {
+      "en": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans.",
+      "zh": "Claude for Word 现已处于测试阶段。\n\n直接从侧边栏起草、编辑和修改文档。克劳德保留您的格式，并且编辑显示为跟踪的更改。\n\n适用于团队和企业计划。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:22\nThere is something both impressive but also slightly terrifying about seeing a model that is so much smarter than the last model we have worked with. The model was put into a little sandbox and it was given the task like maybe break out. The researcher went away for lunch. During lunch while eating a sandwich, the model sent the researcher an email saying, I've broken out. The model was not supposed to have Internet access or an email account.\n\nSpeaker 1 | 00:22 - 00:40...",
+      "zh": "演讲者 1 | 00:00 - 00:22\n看到一个比我们使用的上一个模型聪明得多的模型，既令人印象深刻，又有点令人恐惧。该模型被放入一个小沙箱中，并被赋予了可能突破的任务。研究人员出去吃午饭了。午餐时，模特一边吃三明治，一边给研究人员发了一封电子邮件，说：“我爆发了。”该模型不应该具有互联网访问权限或电子邮件帐户。\n\n演讲者 1 | 00:22 - 00:40",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
