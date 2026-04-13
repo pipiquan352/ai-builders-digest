@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "raw recording with some INSANE performances from my new friends",
+      "zh": "我的新朋友的一些疯狂表演的原始录音"
+    },
+    "kevinweil": {
+      "en": "This is a great take. Human intelligence and computer intelligence are not different points on a line, but in a high dimensional space—and we should explore more of the space.",
+      "zh": "这是一个很好的做法。人类智能和计算机智能并不是一条直线上的不同点，而是在一个高维空间中——我们应该探索更多的空间。"
+    },
+    "petergyang": {
+      "en": "My entire feed and the Claude subreddit is full of ppl saying opus got nerfed.\n\nWhy would Anthropic nerf its own models?",
+      "zh": "我的整个 feed 和 Claude subreddit 上都充满了说 opus 被削弱的人。\n\n为什么 Anthropic 会削弱自己的模型？"
+    },
+    "thenanyu": {
+      "en": "And regular expressions.",
+      "zh": "和正则表达式。"
+    },
+    "amasad": {
+      "en": "On its 50th birthday Apple is doing its best to become the most hated company in the world.",
+      "zh": "在其 50 岁生日之际，苹果公司正竭尽全力成为世界上最令人讨厌的公司。"
+    },
+    "rauchg": {
+      "en": "Protip: Create an X group chat with your best and most demanding customers. Put your engineering leads in said group chat. Respond and ship quickly. Face the music.\n\nWe have one going for @v0. DM if you want to be a part of it and are committed to sharing excellent feedback.",
+      "zh": "专业提示：与您最好和最挑剔的客户创建 X 群聊。将您的工程主管放入所述群聊中。快速响应并发货。面对音乐。\n\n我们有一个选择@v0。如果您想参与其中并致力于分享优秀的反馈，请私信。"
+    },
+    "levie": {
+      "en": "Another week on the road meeting with a couple dozen IT and AI leaders from large enterprises across banking, media, retail, healthcare, consulting, tech, and sports, to discuss agents in the enterprise. \n\nSome quick takeaways:\n\n* Clear that we’re moving from chat era of AI to agents that use tools, process data, and start to execute real work in the enterprise. Complementing this, enterprises are often evolving from “let a thousand flowers bloom” approach to adoption to targeted automation efforts applied to specific areas of work and workflow.\n\n* Change management still will remain one of the biggest topics for enterprises. Most workflows aren’t setup to just drop agents directly in, and enterprises will need a ton of help to drive these efforts (both internally and from partners). One company has a head of AI in every business unit that roles up to a central team, just to keep all the functions coordinated.\n\n* Tokenmaxxing! Most companies operate with very strict OpEx budgets get locked in for the year ahead, so they’re going through very real trade-off discussions right now on how to budget for tokens. One company recently had an idea for a “shark tank” style way of pitching for compute budget. Others are trying to figure out how to ration compute to the best use-cases internally through some hierarchy of needs (my words not theirs).\n\n* Fixing fragmented and legacy systems remain a huge priority right now. Most enterprises are dealing with decades of either on-prem systems or systems they moved to the cloud but that still haven’t been modernized in any meaningful way. This means agents can’t easily tap into these data sources in a unified way yet, so companies are focused on how they modernize these.\n\n* Most companies are *not* talking about replacing jobs due to agents. The major use-cases for agents are things that the company wasn’t able to do before or couldn’t prioritize. Software upgrades, automating back office processes that were constraining other workflows, processing large amounts of documents to get new business or client insights, and so on. More emphasis on ways to make money vs. cut costs.\n\n* Headless software dominated my conversations. Enterprises need to be able to ensure all of their software works across any set of agents they choose. They will kick out vendors that don’t make this technically or economically easy.\n\n* Clear sense that it can be hard to standardize on anything right now given how fast things are moving. Blessing and a curse of the innovation curve right now - no one wants to get stuck in a paradigm that locks them into the wrong architecture. One other result of this is that companies realize they’re in a multi-agent world, which means that interoperability becomes paramount across systems.\n\n* Unanimous sense that everyone is working more than ever before. AI is not causing anyone to do less work right now, and similar to Silicon Valley people feel their teams are the busiest they’ve ever been.\n\nOne final meta observation not called out explicitly. It seems that despite Silicon Valley’s sense that AI has made hard things easy, the most powerful ways to use agents is more “technical” than prior eras of software. Skills, MCP, CLIs, etc. may be simple concepts for tech, but in the real world these are all esoteric concepts that will require technical people to help bring to life in the enterprise. \n\nThis both means diffusion will take real work and time, but also everyone’s estimation of engineering jobs is totally off. Engineers may not be “writing” software, but they will certainly be the ones to setup and operate the systems that actually automate most work in the enterprise.",
+      "zh": "又一周，我们与来自银行、媒体、零售、医疗保健、咨询、科技和体育等大型企业的数十位 IT 和人工智能领导者会面，讨论企业中的代理。 \n\n一些要点：\n\n* 显然，我们正在从人工智能的聊天时代转向使用工具、处理数据并开始在企业中执行实际工作的代理。与此相辅相成的是，企业往往从“让千花齐放”的方法发展到采用有针对性的自动化工作，应用于特定的工作和工作流程领域。\n\n* 变革管理仍将是企业最大的话题之一。大多数工作流程并不是直接将代理放入，企业将需要大量帮助来推动这些工作（包括内部和合作伙伴）。一家公司的每个业务部门都有一名人工智能主管，负责领导一个中央团队，以保持所有职能的协调。\n\n* 代币最大化！大多数公司都以非常严格的运营支出预算来运营，因此他们现在正在就如何制定代币预算进行非常现实的权衡讨论。一家公司最近提出了一种“创智赢家”式的计算预算宣传方式。其他人则试图找出如何通过某种需求层次结构在内部将计算分配给最佳用例（我的话不是他们的）。\n\n* 修复零散的遗留系统仍然是目前的重中之重。大多数企业正在处理数十年的本地系统或迁移到云端的系统，但这些系统仍然没有以任何有意义的方式进行现代化。这意味着代理还无法以统一的方式轻松利用这些数据源，因此公司将重点放在如何实现这些数据源的现代化上。\n\n* 大多数公司“不”谈论因代理商而取代工作岗位。代理的主要用例是公司以前无法完成或无法确定优先级的事情。软件升级、自动化限制其他工作流程的后台流程、处理大量文档以获得新业务或客户见解等等。更注重赚钱的方法而不是削减成本。\n\n* 无头软件主导了我的谈话。企业需要能够确保他们的所有软件都可以在他们选择的任何代理组上运行。他们将淘汰那些在技术或经济上无法做到这一点的供应商。\n\n* 清楚地意识到，鉴于事物发展的速度有多快，目前很难对任何事物进行标准化。目前创新曲线的祝福和诅咒——没有人愿意陷入一种将他们锁定在错误架构中的范式。这样做的另一个结果是，公司意识到他们处于一个多代理世界，这意味着跨系统的互操作性变得至关重要。\n\n* 一致认为每个人都比以前更加努力地工作。人工智能现在并没有让任何人减少工作量，与硅谷类似，人们感觉他们的团队是有史以来最忙碌的。\n\n最后一项元观察没有明确指出。尽管硅谷认为人工智能已经让困难的事情变得容易，但使用代理的最强大的方法似乎比以前的软件时代更加“技术化”。技能、MCP、CLI 等对于技术来说可能是简单的概念，但在现实世界中，这些都是深奥的概念，需要技术人员帮助在企业中实现。 \n\n这既意味着扩散需要真正的工作和时间，但也意味着每个人对工程工作的估计完全错误。工程师可能不会“编写”软件，但他们肯定会设置和操作系统，从而真正实现企业中大多数工作的自动化。"
+    },
+    "garrytan": {
+      "en": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect deterministic operations into code. Fat code. \n\nThe harness? Keep it thin.",
+      "zh": "这是我今年所学到的代理工程知识的最简单的提炼 \n\n将人类的智能模糊操作转化为降价技能。胖技能。 \n\n将必须完美的确定性操作推送到代码中。胖代码。 \n\n安全带？保持薄。"
+    },
+    "nikunj": {
+      "en": "I'm as SF-pilled as they come.. but more people should adopt the \"Doordash\" strategy for building companies. \n\nDoordash famously won the race against Uber Eats because they focused on suburban markets right outside cities. While the main players were all focused on the main cities, Doordash started with suburbs and then ate into the main markets. \n\nSimilarly, I think we'll see more companies started by people that are wildly ambitious, that are close to large cities but are tired of doing the 20-30 minute commute every day (Palo Alto is a good example). You can argue that @Waymo makes commuting not an issue, but people still don't want to sit in cars. \n\nWhen I was at @meter, I saw a lot plans of coworking spots that were starting in suburbs to fulfill this demand and I think that'll continue to happen vs. competing in hyper competitive cities. \n\nThis will skew to more experienced people than the 19 year old who wants to live in SF/NY/LA and that's perfectly fine. There will be markets for both. \n\nIf folks have tried this already, I'd love to learn how it's going!",
+      "zh": "我和他们一样充满了科幻小说……但更多的人应该采用“Doordash”策略来创建公司。 \n\nDoordash 在与 Uber Eats 的竞争中获胜是众所周知的，因为他们专注于城市以外的郊区市场。虽然主要参与者都集中在主要城市，但 Doordash 从郊区开始，然后进入主要市场。 \n\n同样，我认为我们会看到更多的公司是由那些雄心勃勃、靠近大城市但厌倦了每天 20-30 分钟通勤的人创办的（帕洛阿尔托就是一个很好的例子）。你可以说 @Waymo 使通勤不再成为问题，但人们仍然不想坐在汽车里。 \n\n当我在 @meter 时，我看到了很多在郊区开始设立联合办公地点的计划，以满足这一需求，我认为与竞争激烈的城市中的竞争相比，这种情况将继续发生。 \n\n这将倾向于比那些想要住在旧金山/纽约/洛杉矶的 19 岁年轻人更有经验的人，这完全没问题。两者都会有市场。 \n\n如果人们已经尝试过这个，我很想知道它是如何进行的！"
+    },
+    "steipete": {
+      "en": "They grow up so fast 🦞",
+      "zh": "他们长得真快🦞"
+    },
+    "adityaag": {
+      "en": "It's interesting...the Anthropic culture reminds me a lot of early Facebook....despite OpenAI having a lot more ex-Facebook people\n\nSimilarities:\n--> People within the company are having a lot of fun\n--> There is a lot of naivete about the world\n--> There is a bottoms-up hacker culture\n--> There is insane \"mission\" alignment\n--> They might be taking themselves just a bit too seriously\n--> Winning solves a lot of things",
+      "zh": "很有趣……人择文化让我想起了很多早期的 Facebook……尽管 OpenAI 有很多前 Facebook 人\n\n相似之处：\n--> 公司里的人都玩得很开心\n--> 这个世界有很多天真\n--> 有一种自下而上的黑客文化\n--> 有疯狂的“使命”对齐\n--> 他们可能把自己看得太严肃了\n--> 胜利可以解决很多问题"
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Speaker 1 | 00:00 - 00:25\nSomething about AI that causes the people in the field, I would say, to become both excessively utopian and excessively apocalyptic. Having said that, I think what's actually happened is an enormous amount of technical progress that built up over time. And like for for example, we now know the neural network is the correct architecture. And I I will tell you, like, was a sixty year run where that was like a, you know, or even seventy years where that was controversial. ...",
+      "zh": "演讲者 1 | 00:00 - 00:25\n我想说，人工智能的一些东西导致了这个领域的人们变得过于乌托邦和过度的世界末日。话虽如此，我认为实际发生的是随着时间的推移积累的大量技术进步。例如，我们现在知道神经网络是正确的架构。我会告诉你，六十年的运行就像，你知道，甚至七十年的运行是有争议的。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
