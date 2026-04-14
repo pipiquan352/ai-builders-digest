@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw ~80% of the world’s agents and ai engineering is done in these 3 square miles",
+      "zh": "顺便说一句，世界上约 80% 的代理和人工智能工程都是在这 3 平方英里的范围内完成的"
+    },
+    "kevinweil": {
+      "en": "Could not agree more with @gdb.",
+      "zh": "完全同意@gdb 的观点。"
+    },
+    "petergyang": {
+      "en": "I know OpenClaw isn't part of OpenAI but this feels like a mini-crisis for OpenAI if the GPT integration doesn't improve soon.\n\nThe bar is GPT needs to be just as good if not better for OpenClaw as Opus.",
+      "zh": "我知道 OpenClaw 不是 OpenAI 的一部分，但如果 GPT 集成不能很快得到改善，这对 OpenAI 来说就像是一场小危机。\n\n对于 OpenClaw 来说，GPT 的标准是与 Opus 一样好，甚至更好。"
+    },
+    "thenanyu": {
+      "en": "Bill Simmons Tommy Gunn energy",
+      "zh": "比尔·西蒙斯 汤米·冈恩 能量"
+    },
+    "trq212": {
+      "en": "Have you tried the new Claude Code renderer? What has your experience been like?\n\nIf you haven't, you can enable it with: CLAUDE_CODE_NO_FLICKER=1 claude",
+      "zh": "您尝试过新的 Claude Code 渲染器吗？你的经历是怎样的？\n\n如果还没有，您可以使用以下命令启用它： CLAUDE_CODE_NO_FLICKER=1 claude"
+    },
+    "amasad": {
+      "en": "You can now configure your app hosting region. Especially useful for compliance &amp; privacy laws.",
+      "zh": "您现在可以配置您的应用程序托管区域。对于合规性和隐私法特别有用。"
+    },
+    "rauchg": {
+      "en": "Today we're open sourcing  a reference platform for cloud coding agents.\n\nYou've heard that companies like Stripe (Minions), Ramp (Inspect), Spotify (Honk), Block (Goose), and others are building their own \"AI software factories\". Why?\n\n1️⃣ On a technical level, off-the-shelf coding agents don't perform well with huge monorepos, don't have your institutional knowledge, integrations, and custom workflows.\n\n2️⃣ On a business level, the moat of software companies will shift from 'the code they wrote', to the 'means of production' of that code. The alpha is in your factory.\n\nOpen Agents deploys to our agentic infrastructure: Fluid for running the agent's brain, Workflow for its long-running durability, Sandbox for secure code execution, AI Gateway for multi-model tokens.\n\n(Because of our focus on Open SDKs and runtimes, this codebase is a gem even if you're not hosting on Vercel.)\n\nTL;DR: if you're building an internal or user-facing agentic coding platform, deploy this:",
+      "zh": "今天，我们开源了云编码代理的参考平台。\n\n你听说过 Stripe (Minions)、Ramp (Inspect)、Spotify (Honk)、Block (Goose) 等公司正在建立自己的“人工智能软件工厂”。为什么？\n\n1️⃣ 在技术层面上，现成的编码代理在大型单一存储库中表现不佳，没有您的机构知识、集成和自定义工作流程。\n\n2️⃣ 在业务层面上，软件公司的护城河将从“他们编写的代码”转向该代码的“生产手段”。阿尔法就在你的工厂里。\n\n开放代理部署到我们的代理基础设施：用于运行代理大脑的流体、用于长期运行耐久性的工作流、用于安全代码执行的沙箱、用于多模型令牌的人工智能网关。\n\n（由于我们专注于开放 SDK 和运行时，因此即使您不在 Vercel 上托管，此代码库也是一个宝石。）\n\nTL;DR：如果您正在构建内部或面向用户的代理编码平台，请部署以下内容："
+    },
+    "levie": {
+      "en": "The more enterprises I talk to about AI agent transformation, the more it’s clear that there is going to be a new type of role in most enterprises going forward. The job is to be the agent deployer and manager in teams. Here’s the rough JD:\n\nThis person will need to figure out what are the highest leverage set of workflows on a team are (either existing or new ones) where agents can actually drive significantly more value for the team and company. \n\nIn general, it’s going to be in areas where if you threw compute (in the form of agents) at a task you could either execute it 100X faster or do it 100X more times than before. Examples would be processing orders of magnitude more leads to hand them off to reps with extra customer signal, automating a contracting review and intake process, streamlining a client onboarding process to reduce as many straps as possible, setting up knowledge bases than the whole company taps into, and so on.\n\nThis person’s job is to figure out what the future state workflow needs to look like to drive this new form of automation, and how to connect up the various existing or new systems in such a way that this can be fulfilled. The gnarly part of the work is mapping structured and unstructured data flows, figuring out the ideal workflow, getting the agent the context it needs to do the work properly, figuring out where the human interfaces with the agent and at what steps, manages evals and reviews after any major model or data change, and runs and manages the agents on an ongoing basis tracking KPIs, and so on.\n\nThe person must be good at mapping the process and understanding where the value could be unlocked and be relatively technical, and has full autonomy to connect up business systems and drive automation. This means they’re comfortable with skills, MCP, CLIs, and so on, and the company believes it’s safe for them to do so. But also great operationally and at business.\n\nIt may be an existing person repositioned, or a totally net new person in the company. There will likely need to be one or more of these people on every team, so it’s not a centralized role per se. It may rile up into IT or an AI team, or live in the function and just have checkpoints with a central function.\n\nThis would also be a fantastic job for next gen hires who are leaning into AI, and are technical, to be able to go into. And for anyone concerned about engineers in the future, this will be an obvious area for these skills as well.",
+      "zh": "我与越多的企业谈论人工智能代理转型，就越清楚地表明，未来大多数企业将出现一种新型的角色。工作是担任团队中的代理部署者和管理者。这是粗略的 JD：\n\n此人需要弄清楚团队中最具杠杆作用的工作流程集（现有的或新的），在这些工作流程中，代理实际上可以为团队和公司带来显着的更多价值。 \n\n一般来说，在某些领域，如果你将计算（以代理的形式）投入到一项任务中，你的执行速度可以比以前快 100 倍，或者执行次数可以比以前多 100 倍。例如，处理更多数量的潜在客户，将其交给具有额外客户信号的代表，自动化合同审查和接收流程，简化客户入职流程以减少尽可能多的压力，建立比整个公司利用的知识库，等等。\n\n此人的工作是弄清楚未来状态工作流程需要是什么样子来驱动这种新形式的自动化，以及如何以实现这一目标的方式连接各种现有或新系统。这项工作的棘手部分是映射结构化和非结构化数据流，找出理想的工作流程，为代理提供正确完成工作所需的上下文，弄清楚人工与代理交互的位置和步骤，在任何主要模型或数据更改后管理评估和审查，并持续运行和管理代理跟踪 KPI，等等。\n\n该人员必须善于绘制流程并理解可以释放价值的地方并且具有相对的技术性，并且具有连接业务系统和驱动自动化的完全自主权。这意味着他们对技能、MCP、CLI 等感到满意，并且公司相信他们这样做是安全的。而且在运营和商业方面也很出色。\n\n它可能是重新定位的现有人员，也可能是公司的全新人员。每个团队中可能需要有一个或多个这样的人，所以它本身并不是一个集中的角色。它可能会激怒 IT 或人工智能团队，或者存在于功能中并且只在核心功能上设置检查点。\n\n对于那些倾向于人工智能并且具备技术能力的下一代员工来说，这也是一份很棒的工作。对于任何关心未来工程师的人来说，这也将是这些技能的一个明显领域。"
+    },
+    "ryolu_": {
+      "en": "come hang out if you’re in SF!",
+      "zh": "如果你在旧金山，就来玩吧！"
+    },
+    "danshipper": {
+      "en": "Software engineering in 2026 needs two roles: \n\nA pirate and an architect.\n\nThe pirate codes as fast as possible to figure out what's valuable. The architect turns that sloppy mess into a well-oiled machine.\n\nHere's how it works and why:",
+      "zh": "2026 年的软件工程需要两个角色： \n\n一个海盗和一个建筑师。\n\n盗版者会尽快编码以找出有价值的东西。建筑师将那些杂乱无章的东西变成了一台运转良好的机器。\n\n以下是它的工作原理和原因："
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie...",
+      "zh": "演讲者 1 | 00:05 - 00:32\n今天，知道普里斯正在与利亚姆·费蒂斯交谈。 Liam 是 ChatGPT 的共同创建者之一，我认为现在几乎每个人都在使用它。他曾担任 OpenAI 后期培训副总裁，此前曾在 Google Brain 工作，致力于各种早期的人工智能创新。 Liam 将向我们介绍他的公司Periodic Labs，该公司专注于建立原子人工智能基础实验室。换句话说，我们如何影响物理世界、物质科学",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
