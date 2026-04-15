@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw the famous slack chart is slack propaganda and everyone who cites it is legally obligated to also link to @sophiebits",
+      "zh": "顺便说一句，著名的松弛图表是松弛宣传，引用它的每个人都有法律义务也链接到@sophiebits"
+    },
+    "joshwoodward": {
+      "en": "New in Gemini: NEET practice tests! 🇮🇳🩺\n\nSending good luck to everyone taking India's biggest medical exam in a few weeks. You've got this!\n\nWe’re working on adding more practice tests for different subjects and countries. What should we add next? Let us know below 👇",
+      "zh": "双子座的新功能：NEET 练习测试！ 🇮🇳🩺\n\n祝大家在几周内参加印度最大规模的体检。你已经得到了这个！\n\n我们正在努力为不同科目和国家/地区添加更多模拟测试。接下来我们应该添加什么？请在下面告诉我们👇"
+    },
+    "petergyang": {
+      "en": "I'm enjoying using the new Claude Code app (RIP terminal). \n\nHow can I work on the same session across the Claude mobile app too? \n\n/remote-control doesn't seem to work and tbh I shouldn't have to type this to work across desktop + mobile anyway.",
+      "zh": "我很喜欢使用新的 Claude Code 应用程序（RIP 终端）。 \n\n我如何才能在 Claude 移动应用程序上处理同一会话？ \n\n/remote-control 似乎不起作用，而且无论如何，我不应该输入这个来在桌面+移动设备上工作。"
+    },
+    "thenanyu": {
+      "en": "Every time someone shits on Google or Meta they need to be reminded that those companies are unfathomably large. \n\nTheir misses are going to seem enormous because their basic unit of execution is huge. \n\nLike in most businesses: count wins not losses",
+      "zh": "每当有人在 Google 或 Meta 上拉屎时，他们都需要被提醒，这些公司大得不可思议。 \n\n他们的失误看起来会很大，因为他们的基本执行单元很大。 \n\n就像大多数企业一样：计算胜利而不是损失"
+    },
+    "_catwu": {
+      "en": "Over the past few weeks, I’ve become a daily user of Claude Code on desktop.\n\nIt’s the best way to kick off and manage multiple CC sessions across local and cloud in one place. You can also see git status, pin active sessions, and drag and drop layout to view multiple sessions at the same time!\n\nLet us know what you think :)",
+      "zh": "在过去的几周里，我已经成为桌面版 Claude Code 的日常用户。\n\n这是在一个地方跨本地和云启动和管理多个 CC 会话的最佳方式。您还可以查看 git 状态、固定活动会话以及拖放布局以同时查看多个会话！\n\n让我们知道您的想法:)"
+    },
+    "amasad": {
+      "en": "Indian Replit Builders: You can now build &amp; pay with @Razorpay",
+      "zh": "Indian Replit Builders：您现在可以使用 @Razorpay 进行构建和付款"
+    },
+    "rauchg": {
+      "en": "If you're thinking about making an agent coding platform, this is timely…\n\nYou'll want to pair app generations with a database service that's highly elastic. And Postgres-compatible. Like DSQL:",
+      "zh": "如果您正在考虑制作一个代理编码平台，那么这是及时的......\n\n您需要将应用程序生成与高弹性的数据库服务配对。与 Postgres 兼容。像 DSQL 一样："
+    },
+    "alexalbert__": {
+      "en": "New version of Claude Code in the desktop app dropped today with tons of new features and performance improvements. \n\nBetween Cowork and Code, I've found I don't really need to open other apps (or even my terminal) to do most of my work now.",
+      "zh": "桌面应用程序中的新版本 Claude Code 今天发布，具有大量新功能和性能改进。 \n\n在 Cowork 和 Code 之间，我发现我现在不需要打开其他应用程序（甚至我的终端）来完成大部分工作。"
+    },
+    "levie": {
+      "en": "One corollary to the fact that AI agents take real work to setup in company at scale, is that the role of the forward deployed engineer -or whatever it gets called in the future- isn’t going away any time soon. \n\nWhen a vendor sells any kind of agents into an organization, you’re no longer just selling a software tool that gets implemented and you’re done. You’re fundamentally selling some form of the actual workflow being done by your technology. This is far closer to a customer buying from a professional services firm than implementing traditional technology.\n\nThis will almost always require a deep understanding of the domain that the customer operates in, the ability to help a customer wire up their systems to support the agents, make sure all the context is setup in the right way, and help provide change management to actually get the company to adapt its business processes.\n\nThe ability to do this across customers, figure out best practices in a specific industry and customer segment, take new features back to go build in the product, and so on is going to be key. There’s no shortcut to getting this work done by the enterprise, and the vendors are going to have to do a lot of this or risk low adoption.\n\nFinally, this is a big opportunity for existing and next gen professional services companies. There are all new practice areas emerging in every system integrator and consulting firm just to do this kind of work, and this is going to continue to be in demand for quite some time. Yet another example of jobs that aren’t actually going away.",
+      "zh": "人工智能代理需要在公司中进行大规模设置，这一事实的一个必然推论是，前沿部署工程师的角色（或者将来被称为的任何名称）不会很快消失。 \n\n当供应商向组织出售任何类型的代理时，您不再只是销售一个已实施的软件工具，然后就完成了。从根本上来说，你是在出售你的技术所完成的某种形式的实际工作流程。与实施传统技术相比，这更接近于客户从专业服务公司购买产品。\n\n这几乎总是需要对客户所在的领域有深入的了解，能够帮助客户连接他们的系统来支持代理，确保所有上下文都以正确的方式设置，并帮助提供变更管理以真正让公司适应其业务流程。\n\n跨客户做到这一点的能力、找出特定行业和客户群的最佳实践、将新功能带回产品中构建等等的能力将是关键。让企业完成这项工作没有捷径，供应商将不得不做很多这样的工作，否则就会面临采用率低的风险。\n\n最后，这对于现有和下一代专业服务公司来说是一个巨大的机会。每个系统集成商和咨询公司都会出现新的实践领域来完成此类工作，并且这种需求将在相当长的一段时间内持续存在。这是工作实际上并没有消失的另一个例子。"
+    },
+    "garrytan": {
+      "en": "GBrain is free, open source, MIT License. \n\nI built it in about 12 days with the help of a deep deep OpenClaw addiction and also my 70,000 Github Star open source agentic coding toolkit GStack. \n\nMy personal GBrain is pushing over 17,000 pages, and counting. It knows me.",
+      "zh": "GBrain 是免费、开源、MIT 许可的。 \n\n借助对 OpenClaw 的深深沉迷以及我的 70,000 个 Github Star 开源代理编码工具包 GStack，我花了大约 12 天的时间构建了它。 \n\n我个人的 GBrain 已推送超过 17,000 页，并且还在不断增加。它认识我。"
+    },
+    "mattturck": {
+      "en": "The good news is that, while AI is also giving every VC the same investment advice, we're such independent thinkers that there is no risk of herd thinking \n\n(great watch 👇)",
+      "zh": "好消息是，虽然人工智能也为每个风险投资人提供相同的投资建议，但我们是独立的思考者，不存在从众思维的风险 \n\n（很棒的手表👇）"
+    },
+    "nikunj": {
+      "en": "Every time I see a tweet saying “I can vibe code this in a weekend” - I think of the slack notification system..\n\nIt takes time, persistence and effort to get the details right. \n\nSure, a lot of simple workflows will get vibe coded away. And maybe you can put this in Claude Code and get the code right in one shot. \n\nBut quality, depth and great systems will still have value and take time. You can’t vibe code lessons. \n\nNow and forever.",
+      "zh": "每当我看到一条推文说“我可以在周末编写这个代码”时，我就会想到 slack 通知系统。\n\n需要时间、坚持和努力才能把细节做好。 \n\n当然，很多简单的工作流程都会被 Vivi 编码掉。也许您可以将其放入 Claude Code 中，然后一次性获得正确的代码。 \n\n但质量、深度和伟大的系统仍然有价值，并且需要时间。你无法感受代码课程。 \n\n现在和永远。"
+    },
+    "steipete": {
+      "en": "This release makes me unreasonably happy since I wasn't involved at all - @vincent_koc and the maintainer team did a great job.\n\nI'm back soon to work on OpenClaw, today/tomorrow I'm prepping for @TEDTalks in Vancouver. 🇨🇦",
+      "zh": "这个版本让我非常高兴，因为我根本没有参与 - @vincent_koc 和维护团队做得很好。\n\n我很快就会回来从事 OpenClaw 工作，今天/明天我正在为温哥华的 @TEDTalks 做准备。 🇨🇦"
+    },
+    "danshipper": {
+      "en": "INTRODUCING: \n\nSparkle v4 from @every\n\nIs your desktop a disaster? We built an agent for that. \n\n→ sparkle’s agent examines your filesystem and helps you create an organization structure that’s right for how YOU work  \n\n→ it starts with a deep clean. old installers, duplicates, forgotten screenshots, system junk—gone, with your permission.\n\n→ it runs quietly in the background, keeping everything in order. set a schedule, and your mac stays organized over time instead of drifting back into chaos\n\nDeclutter your Mac with 0 effort:",
+      "zh": "介绍： \n\n来自 @every 的 Sparkle v4\n\n您的桌面是一场灾难吗？我们为此建立了一个代理。 \n\n→ Sparkle 的代理会检查您的文件系统并帮助您创建适合您工作方式的组织结构  \n\n→ 从深度清洁开始。旧的安装程序、重复的、忘记的屏幕截图、系统垃圾——在您的许可下消失。\n\n→ 它在后台安静地运行，让一切井井有条。设定一个时间表，您的 Mac 就会随着时间的推移保持井井有条，而不是陷入混乱\n\n0 力气整理您的 Mac："
+    },
+    "adityaag": {
+      "en": "Every day I find someone who manages to get LLMs to do something weird and interesting.\n\nI have to keep on reminding myself that we are in the super early innings of figuring out what we can build with this magical technology.",
+      "zh": "每天我都会发现有人设法让法学硕士做一些奇怪而有趣的事情。\n\n我必须不断提醒自己，我们正处于弄清楚我们可以用这项神奇技术构建什么的超级早期阶段。"
+    },
+    "claudeai": {
+      "en": "We've redesigned Claude Code on desktop.\n\nYou can now run multiple Claude sessions side by side from one window, with a new sidebar to manage them all.",
+      "zh": "我们在桌面上重新设计了 Claude Code。\n\n现在，您可以从一个窗口并排运行多个 Claude 会话，并使用新的侧边栏来管理所有会话。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:23\nWe've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build marketing is that it's just a way to automate the work that we've been doing in the past. Yep. And the reality is quite different.\n\nSpeaker 1 | 00:23 - 00:30\nIt's that you can now, because of agents and ...",
+      "zh": "演讲者 1 | 00:00 - 00:23\n我们现在在营销方面已经到了这样一个阶段：如果你的营销团队不使用代理商，特别是 ProFound 代理商来进行营销，那么你就失败了。它已经从“必须有”变成了“必须有”。我认为使用代理建立营销的最大误解是，这只是我们过去一直在做的工作自动化的一种方式。是的。而现实却截然不同。\n\n演讲者 1 | 00:23 - 00:30\n现在你可以了，因为有了代理和",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
