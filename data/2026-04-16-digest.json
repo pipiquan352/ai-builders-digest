@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "in the grand narrative of Meta x AI, we saw the flop (Llama 4 hurhurhur),  and now we’re seeing the turn:\n\n- *more* hiring since the soup wars of 2025\n- Zuck literally moved in with Alexandr and Nat and is koding again\n- finally GA’ed Opus-ish level model (no api, not open, but still)\n- bought @dps Dreamer and @peakji Manus to build the AI OS prosumer layer\n\nthe MSL “river” is gonna be pretty exciting.",
+      "zh": "在 Meta x AI 的宏大叙事中，我们看到了失败（Llama 4 hurhurhur），现在我们看到了转折：\n\n- 自 2025 年汤战以来*更多*招聘\n- 扎克确实搬去和亚历山大和纳特住在一起，并且又开始敲门了\n- 最终GA’ed Opus-ish关卡模型（没有API，未开放，但仍然如此）\n- 购买了 @dps Dreamer 和 @peakji Manus 来构建 AI OS 产消者层\n\nMSL“河流”将会非常令人兴奋。"
+    },
+    "joshwoodward": {
+      "en": "Introducing Gemini on Mac.\n\nWe heard your feedback. We recruited a small team. They built 100+ features in less than 100 days. 🤯\n\n100% native Swift. Lightning fast.\n\nLet us know what you think!",
+      "zh": "在 Mac 上介绍 Gemini。\n\n我们听到了您的反馈。我们招募了一个小团队。他们在不到 100 天内构建了 100 多个功能。 🤯\n\n100% 原生 Swift。快如闪电。\n\n让我们知道您的想法！"
+    },
+    "petergyang": {
+      "en": "I recently came back from a 2-week trip to China and it was eye-opening to see how the world's second largest economy operates.\n\nI think every product builder should visit at least once to understand:\n\n→ Chinese AI work culture\n→ Electric vehicles, $2 delivery, and more\n→ How people in China live and work\n\n📌 Here are 15 observations from my visit:",
+      "zh": "我最近结束了为期两周的中国之行，看到世界第二大经济体的运作方式让我大开眼界。\n\n我认为每个产品构建者都应该至少访问一次以了解：\n\n→ 中国人工智能工作文化\n→ 电动汽车、2 美元送货等等\n→ 中国人如何生活和工作\n\n📌 以下是我访问期间的 15 条观察结果："
+    },
+    "thenanyu": {
+      "en": "it just makes sense",
+      "zh": "这很有道理"
+    },
+    "trq212": {
+      "en": "I edited the intro because I realized I buried the lede originally-\n\nThe 1M context window is a double-edged sword. It allows Claude to do more complex tasks but it can also leads to more context pollution if you don't manage your session well. \n\nThis is how you do that:",
+      "zh": "我编辑了简介，因为我意识到我最初埋葬了 lede -\n\n1M上下文窗口是一把双刃剑。它允许 Claude 执行更复杂的任务，但如果您不能很好地管理会话，它也可能导致更多的上下文污染。 \n\n您可以这样做："
+    },
+    "amasad": {
+      "en": "If finding security flaws is fully automated with frontier models à la Mythos, then GitHub should have a metric, like stars, showing how much compute is spent securing/hardening an open-source package. Example:\n\n📦 linus/linux\n⭐️ 200k  🦾 $239M\n\nOnly way OSS can be trusted.",
+      "zh": "如果通过前沿模型（如神话）完全自动化地发现安全漏洞，那么 GitHub 应该有一个指标，例如星星，显示用于保护/强化开源包的计算量。示例：\n\n📦 林纳斯/Linux\n⭐️ 20 万 🦾 2.39 亿美元\n\n只有这样 OSS 才能被信任。"
+    },
+    "rauchg": {
+      "en": "This is what the future of design looks like. Not just this specific tool¹, but the fact that every team in the world is now is empowered to build their own 'design factory'.\n\nShader Lab was built with Claude Code, @threejs, @nextjs, and @vercel. To the exact needs, vision, and specification of @basementstudio.\n\nEvery time we work on a project with them, we get a glimpse of an arsenal of internal tools they've deployed. Some built specifically for a project, some more general purpose.\n\nIt's now easier to generate software re-assembling powerful building blocks, than searching and procuring the right SaaS for the job.\n\n¹ though it's a banger",
+      "zh": "这就是设计的未来。不仅仅是这个特定的工具，事实上世界上的每个团队现在都有权建立自己的“设计工厂”。\n\nShader Lab 由 Claude Code、@thirdjs、@nextjs 和 @vercel 构建。满足 @basementstudio 的确切需求、愿景和规范。\n\n每次我们与他们一起开展项目时，我们都会看到他们部署的内部工具库。有些是专门为项目而构建的，有些则更通用。\n\n现在，通过重新组装强大的构建块来生成软件比搜索和采购适合工作的 SaaS 更容易。\n\n尽管这很糟糕"
+    },
+    "levie": {
+      "en": "Why will AI create more jobs in plenty of industries? It’s because we’re going to use AI to accelerate output in one area, and then eventually you run into a new bottleneck somewhere else in the process that still requires humans.\n\nThis example from the FT is an obvious one. More people asking legal questions from AI agents, which downstream eventually will mean there are more lawyers being pinged with questions. There are other drivers, too, like AI accelerating new business formation, more patent filings, new scientific research, and so on - all of which eventually land in the laps of lawyers and other regulatory functions.\n\nBut the analogy holds for plenty of other work. More code will mean more security risks, which means more security researchers. Automating patient referrals in healthcare just leads to a bottleneck of not having enough doctors. More customer outreach via AI leads to more sales conversations. You can list thousands of categories like this.\n\nThere’s a lot of areas where AI will lead to “efficiency” in the sense that we will automate something and then spend less in that area. \n\nBut the value proposition taps out at some point because the world isn’t static. Your competitor will use AI to build a better product, go out and meet with even more customers, deliver a better service, run better ad campaigns, and you eventually have to match them or die.",
+      "zh": "为什么人工智能会在很​​多行业创造更多就业机会？这是因为我们将使用人工智能来加速某个领域的产出，然后最终在这个过程中的其他地方遇到新的瓶颈，而这个过程仍然需要人类。\n\n英国《金融时报》的这个例子就是一个明显的例子。越来越多的人向人工智能代理提出法律问题，这最终意味着会有更多的律师被问到问题。还有其他驱动因素，比如人工智能加速新业务的形成、更多的专利申请、新的科学研究等等——所有这些最终都会落在律师和其他监管职能的手中。\n\n但这个类比也适用于许多其他工作。更多的代码意味着更多的安全风险，也就意味着更多的安全研究人员。医疗保健领域的自动化患者转诊只会导致医生不足的瓶颈。通过人工智能接触更多客户会带来更多销售对话。您可以像这样列出数千个类别。\n\n人工智能将在很多领域带来“效率”，即我们将实现某些事情的自动化，然后在该领域花费更少。 \n\n但价值主张在某些时候会发挥作用，因为世界不是静态的。你的竞争对手将使用人工智能来打造更好的产品，走出去与更多的客户会面，提供更好的服务，开展更好的广告活动，而你最终必须与他们匹敌，否则就会死亡。"
+    },
+    "ryolu_": {
+      "en": "a glimpse into the future\n\ntry /canvas to build custom interfaces for your agents in @cursor_ai",
+      "zh": "展望未来\n\n尝试 /canvas 为 @cursor_ai 中的代理构建自定义界面"
+    },
+    "garrytan": {
+      "en": "It’s April now\n\nOpenClaw with docker sandbox, logging mitmproxy firewall and Clawvisor and you are good to go\n\nThe days of “it’s insecure” for OpenClaw are over",
+      "zh": "现在已经四月了\n\nOpenClaw 与 docker 沙箱、日志记录 mitmproxy 防火墙和 Clawvisor 就可以开始了\n\nOpenClaw 的“不安全”时代已经结束"
+    },
+    "mattturck": {
+      "en": "This radical pivot must have come after a lot of sole searching",
+      "zh": "这种激进的转变一定是经过大量的独家搜索之后才出现的"
+    },
+    "nikunj": {
+      "en": "Find someone who genuinely cares. \n\nA mentor. A founder. A VC. An advisor. A customer. \n\nLife’s too short to work with people who don’t give a sh!t. \n\nIt might end up being the greatest moat of them all.",
+      "zh": "找一个真正关心的人。 \n\n一位导师。一位创始人。风险投资家。顾问。一位顾客。 \n\n生命太短暂，无法与那些不在乎的人一起工作。 \n\n它最终可能成为其中最伟大的护城河。"
+    },
+    "steipete": {
+      "en": "If you look at GPT 5.4-Cyber and it's ability for closed source reverse engineering, I have bad news for you.\n\nI do very much feel the pain though, there's hundreds of teams that try to poke holes into @openclaw. Our response has been of rapid iteration and code hardening. Which did introduce occasiaonal regression (and yes you all been yelling at me), but I see as the only way forward.\n\nI would be very careful of other open source projects/harnesses that ignore this work and do not publish their advisories.",
+      "zh": "如果您查看 GPT 5.4-Cyber​​ 及其闭源逆向工程的能力，我有坏消息要告诉您。\n\n不过，我确实感受到了痛苦，有数百个团队试图在@openclaw 中找出漏洞。我们的反应是快速迭代和代码强化。这确实引入了偶尔的回归（是的，你们都在对我大喊大叫），但我认为这是唯一的前进之路。\n\n我会非常小心其他忽略这项工作并且不发布其建议的开源项目/工具。"
+    },
+    "danshipper": {
+      "en": "everything is coding agent",
+      "zh": "一切都是编码代理"
+    },
+    "adityaag": {
+      "en": "The arc of a LLM skeptic:\n1. They are just auto-correct\n2. They are just next-token predictors\n3. They hallucinate\n4. They can only be useful for the data they are trained on\n5. They are only good for coding\n6. They are only good for verifiable things\n\nJust admit it! LLMs are awesome.",
+      "zh": "LLM 怀疑论者的弧线：\n1.它们只是自动更正\n2. 它们只是下一个标记的预测器\n3.他们产生幻觉\n4.它们只能对它们所训练的数据有用\n5.它们只适合编码\n6.它们只适用于可验证的事情\n\n就承认吧！ LLM 很棒。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:01\nCan you define EBM for us?\n\nSpeaker 2 | 00:01 - 00:20\nEBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're sort of allowed to choose one direction of the time. And sometimes you take the wrong turns just because you hallucinate.\n\nSpeaker 2 | 00:20 - 00:34\nLike, there might be a hole in the road and you're j...",
+      "zh": "演讲者 1 | 00:00 - 00:01\n您能为我们定义 EBM 吗？\n\n扬声器 2 | 00:01 - 00:20\nEBM 本质上是非自回归的。没有令牌序列，这就是它根本不同的原因。就像，想象一下你正在尝试导航地图，并且你有左脑。为了导航，你可以选择一次的一个方向。有时你会因为产生幻觉而走错路。\n\n扬声器 2 | 00:20 - 00:34\n就像，路上可能有一个洞，而你是",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
