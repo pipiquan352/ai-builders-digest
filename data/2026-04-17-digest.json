@@ -1,0 +1,80 @@
+{
+  "x": {
+    "swyx": {
+      "en": "in retrospect putting the slop cannons (@_lopopolo) on @aiDotEngineer talks day 1 and putting the grown ups (@badlogicgames) on talks day 2 is working out pretty well for faithfully representing the most impt split in AI engineering right now",
+      "zh": "回想起来，将泥水炮（@_lopopolo）放在@aiDotEngineer第一天的演讲中，并将成年人（@badlogicgames）放在第二天的演讲中，这对于忠实代表目前人工智能工程中最重要的分歧来说效果非常好"
+    },
+    "kevinweil": {
+      "en": "💥 Super excited to launch GPT-Rosalind, our first frontier model built for scientific research across biology, drug discovery, and translational medicine. \n\nThe model is trained in chemistry, protein engineering, genomics and more, including built-in knowledge of relevant databases and tools researchers use.\n\nWe want to make these capabilities available to scientists and researchers while maintaining strong safeguards against biological misuse. GPT-Rosalind is launching through a trusted access deployment structure for qualified customers. \n\nWe're also launching a Life Sciences plugin for Codex to everyone today, which works with our mainline models as well as GPT-Rosalind.",
+      "zh": "💥 非常高兴推出 GPT-Rosalind，这是我们为生物学、药物发现和转化医学领域的科学研究而构建的第一个前沿模型。 \n\n该模型经过化学、蛋白质工程、基因组学等领域的培训，包括研究人员使用的相关数据库和工具的内置知识。\n\n我们希望向科学家和研究人员提供这些能力，同时保持强有力的保障措施，防止生物滥用。 GPT-Rosalind 正在通过面向合格客户的可信访问部署结构推出。 \n\n今天我们还向所有人推出了 Codex 生命科学插件，该插件可与我们的主线模型以及 GPT-Rosalind 配合使用。"
+    },
+    "petergyang": {
+      "en": "Why do any real work when you can just migrate from openclaw -&gt; hermes -&gt; perplexity computer -&gt; openclaw again",
+      "zh": "当你可以从 openclaw -> hermes -> perplexity computer -> openclaw 再次迁移时，为什么还要做任何真正的工作呢？"
+    },
+    "thenanyu": {
+      "en": "Also product managers",
+      "zh": "还有产品经理"
+    },
+    "_catwu": {
+      "en": "Excited to centralize our updates in one place!",
+      "zh": "很高兴能够将我们的更新集中在一处！"
+    },
+    "trq212": {
+      "en": "Next, we’ve added a curated “What’s New” section to our docs with all of the most important announcements as a digest:",
+      "zh": "接下来，我们在文档中添加了一个精心策划的“新增内容”部分，其中包含所有最重要的公告作为摘要："
+    },
+    "amasad": {
+      "en": "You can turn your web app into an iOS app for less than $10",
+      "zh": "您可以花费不到 10 美元将您的 Web 应用程序转变为 iOS 应用程序"
+    },
+    "rauchg": {
+      "en": "The hardest thing about agents and backends is durability. @workflowsdk fixes this.\n\nThat LLM you're calling *will* go down. That service *will* rate limit you. That database *will* unexpectedly slow down. You *will* get paged 💀\n\nI've been looking for a unicorn for a decade. I wanted the level of reliability of combining stuff like SQS / Kafka / microservices, and I absolutely did not want *that* at the same time 😂\n\nTruly reliable systems like that are notoriously difficult to reason about, to develop locally, to test, to simulate, to deploy… Workflow SDK solves that without compromises. \n\nWe're doing what Next.js did for the frontend, but for one of the most important problems of the new generation of backend applications. \n\nNotably, Workflow SDK has an incredible self-hosting and multi-cloud story from day 0. We've taken amazing lessons from Next.js and poured them into the many Worlds (adapters) you can deploy to.\n\nCongrats to Pranay and the Workflow team on a generational ship:",
+      "zh": "代理和后端最难的事情是持久性。 @workflowsdk 修复了这个问题。\n\n你所说的法学硕士*将会*下降。该服务*将*限制您的速率。该数据库*会*意外地变慢。你*将会*被传呼💀\n\n十年来我一直在寻找独角兽。我想要结合 SQS / Kafka / 微服务之类的东西的可靠性水平，但我绝对不希望同时*那个* 😂\n\n众所周知，像这样的真正可靠的系统很难推理、本地开发、测试、模拟、部署……Workflow SDK 毫不妥协地解决了这个问题。 \n\n我们正在做 Next.js 对前端所做的事情，但针对的是新一代后端应用程序最重要的问题之一。 \n\n值得注意的是，Workflow SDK 从第 0 天起就拥有令人难以置信的自托管和多云故事。我们从 Next.js 中汲取了令人惊叹的经验教训，并将它们注入到您可以部署到的许多世界（适配器）中。\n\n祝贺 Pranay 和工作流程团队登上了一艘世代之船："
+    },
+    "alexalbert__": {
+      "en": "Some of my favorite things in Opus 4.7:\n- Very good at async work and following instructions\n- Effort levels are far more predictable for token control (+ new xhigh level)\n- No more downscaling of high-res images\n- Noticeably more taste in UIs, slides, docs",
+      "zh": "Opus 4.7 中我最喜欢的一些内容：\n- 非常擅长异步工作并遵循指令\n- 代币控制的努力水平更加可预测（+新的 xhigh 水平）\n- 不再缩小高分辨率图像\n- 对用户界面、幻灯片、文档的品味明显提高"
+    },
+    "levie": {
+      "en": "The new Codex is another jump in what agents will look like for knowledge workers. Agents that can code, work with tools, and use computers, can begin to execute long running tasks in the background for all areas of work. \n\nThis can mean drafting reports, setting up data rooms for a merger, reviewing contracts, helping onboard clients, generating marketing assets, processing invoices, and more. \n\nWith the Box plugin inside of the new Codex, you can begin to automate almost any kind of work with enterprise content. And importantly, being able to work across multiple apps is a huge point of leverage because we can now far more easily connect our tools together.",
+      "zh": "新的 Codex 是知识工作者的代理形象的又一次飞跃。可以编码、使用工具和使用计算机的代理可以开始在后台执行所有工作领域的长时间运行的任务。 \n\n这可能意味着起草报告、为合并建立数据室、审查合同、帮助客户、生成营销资产、处理发票等等。 \n\n借助新 Codex 中的 Box 插件，您可以开始自动化几乎所有类型的企业内容工作。重要的是，能够跨多个应用程序工作是一个巨大的优势，因为我们现在可以更轻松地将我们的工具连接在一起。"
+    },
+    "ryolu_": {
+      "en": "i use opus 4.7 for planning\ncomposer 2 for building &amp; iterations\ncodex/gpt-5.4 for hard bugs\n\nall in @cursor_ai",
+      "zh": "我使用 opus 4.7 进行规划\n用于构建和迭代的作曲家 2\ncodex/gpt-5.4 针对硬错误\n\n全部在@cursor_ai"
+    },
+    "garrytan": {
+      "en": "My claw and I searched high and low for proper e2e Gemini Live tests and in the end we decided to do it ourselves\n\nComing to GBrain Voice, open source release soon.",
+      "zh": "我和我的爪子到处寻找合适的 e2e Gemini Live 测试，最后我们决定自己做\n\nGBrain Voice即将开源。"
+    },
+    "steipete": {
+      "en": "they: OpenClaw is so insecure look at all these GHSAs!\nreality: we are just an indicator of the coming storm",
+      "zh": "他们：OpenClaw 太不安全了，看看所有这些 GHSA！\n现实：我们只是即将到来的风暴的一个指标"
+    },
+    "danshipper": {
+      "en": "it would be incredible if the mythos announcement was a 4d chess move to make Trump keep the anthropic contracts\n\nbullish",
+      "zh": "如果神话的宣布是让特朗普遵守人择契约的第四步国际象棋棋步，那将是令人难以置信的\n\n看涨"
+    },
+    "adityaag": {
+      "en": "Oh god, am I going to have to rewrite all my code with 4.7 now????",
+      "zh": "天哪，我现在必须用 4.7 重写所有代码吗？？？"
+    },
+    "sama": {
+      "en": "Lots of major improvements to Codex!\n\nComputer use is a real update for me; it feels even more useful than I expected. It can use all of the apps on your Mac, in parallel and without interfering with your direct work.",
+      "zh": "Codex 的许多重大改进！\n\n电脑的使用对我来说是一次真正的更新；感觉比我想象的还要有用。它可以并行使用 Mac 上的所有应用程序，且不会干扰您的直接工作。"
+    },
+    "claudeai": {
+      "en": "Claude Opus 4.7 is available today on  the Claude Platform, and all major cloud platforms.  \n\nRead more:",
+      "zh": "Claude Opus 4.7 现已在 Claude 平台和所有主要云平台上发布。  \n\n阅读更多："
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Speaker 1 | 00:00 - 00:08\nBroadly speaking, I'm really bullish on CLIs. I'm still bullish on MCPs in a certain environment. I think it'd be really great for when you want, like, a narrow lightweight agent. I think\n\nSpeaker 2 | 00:08 - 00:10\nthere's definitely a lot of use cases where you\n\nSpeaker 1 | 00:10 - 00:24\ndon't want, like, a full coding agent with the compute runtime. And, also, you want it to be, like, more tightly permissioned. MCP inherently has a really strong permission model. Like...",
+      "zh": "演讲者 1 | 00:00 - 00:08\n总的来说，我非常看好 CLI。在一定的环境下我仍然看好MCP。我认为当你想要一个狭窄的轻量级代理时，这真的很棒。我认为\n\n扬声器 2 | 00:08 - 00:10\n肯定有很多用例\n\n演讲者 1 | 00:10 - 00:24\n不想要一个具有计算运行时的完整编码代理。而且，您还希望它得到更严格的许可。 MCP 本质上具有非常强大的权限模型。喜欢",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
