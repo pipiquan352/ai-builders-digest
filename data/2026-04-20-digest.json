@@ -1,0 +1,44 @@
+{
+  "x": {
+    "swyx": {
+      "en": "my guide",
+      "zh": "我的向导"
+    },
+    "petergyang": {
+      "en": "Went from having multiple terminals open to just two apps open :)",
+      "zh": "从打开多个终端到只打开两个应用程序:)"
+    },
+    "thenanyu": {
+      "en": "I’ve always felt this as well, but I couldn’t put it to words until I read this. \n\nIt’s like asking “should I get a red Lambo or a green Lambo?” expecting the correct answer to be “you shouldn’t buy a Lambo because that’s a poor financial decision.”",
+      "zh": "我也一直有这种感觉，但在读到这篇文章之前我无法用语言表达出来。 \n\n这就像问“我应该买一辆红色兰博还是绿色兰博？”期望正确的答案是“你不应该购买兰博基尼，因为这是一个糟糕的财务决定。”"
+    },
+    "rauchg": {
+      "en": "Here's my update to the broader community about the ongoing incident investigation. I want to give you the rundown of the situation directly.\n\nA Vercel employee got compromised via the breach of an AI platform customer called  that he was using. The details are being fully investigated.\n\nThrough a series of maneuvers that escalated from our colleague’s compromised Vercel Google Workspace account, the attacker got further access to Vercel environments.\n\nVercel stores all customer environment variables fully encrypted at rest. We have numerous defense-in-depth mechanisms to protect core systems and customer data. We do have a capability however to designate environment variables as “non-sensitive”. Unfortunately, the attacker got further access through their enumeration.\n\nWe believe the attacking group to be highly sophisticated and, I strongly suspect, significantly accelerated by AI. They moved with surprising velocity and in-depth understanding of Vercel.\n\nAt the moment, we believe the number of customers with security impact to be quite limited. We’ve reached out with utmost priority to the ones we have concerns about. All of our focus right now is on investigation, communication to customers, enhancement of security measures, and sanitization of our environments. We’ve deployed extensive protection measures and monitoring. We’ve analyzed our supply chain, ensuring Next.js, Turbopack, and our many open source projects remain safe for our community.\n\nThe recommendation for all Vercel customers is to follow the Security Bulletin closely ( My advice to everyone is to follow the best practices of security response: secret rotation, monitoring access to your Vercel environments and linked services, and ensuring the proper use of the sensitive env variables feature.\n\nIn response to this, and to aid in the improvement of all of our customers’ security postures, we’ve already rolled out new capabilities in the dashboard, including an overview page of environment variables, and a better user interface for sensitive env var creation and management. As always, I’m totally open to your feedback.\n\nWe’re working with elite cybersecurity firms, industry peers, and law enforcement. We’ve reached out to Context to assist in understanding the full scale of the incident, in an effort to protect other organizations and the broader internet. I also want to thank the Google Mandiant team for their active engagement and assistance.\n\nIt’s my mission to turn this attack into the most formidable security response imaginable. It’s always been a top priority for me. Vercel employs some of the most dedicated security researchers and security-minded engineers in the world. I commit to keeping you updated and rolling out extensive improvements and defenses so you, our customers and community, can have the peace of mind that Vercel always has your back.",
+      "zh": "以下是我向广大社区通报的有关正在进行的事件调查的最新情况。我想直接向您介绍一下情况。\n\n一名 Vercel 员工因他正在使用的一个名为客户的人工智能平台遭到破坏而受到损害。详细情况正在全面调查中。\n\n通过从我们同事受损的 Vercel Google Workspace 帐户升级的一系列操作，攻击者获得了对 Vercel 环境的进一步访问权限。\n\nVercel 静态存储完全加密的所有客户环境变量。我们拥有众多深度防御机制来保护核心系统和客户数据。然而，我们确实有能力将环境变量指定为“不敏感”。不幸的是，攻击者通过枚举获得了进一步的访问权限。\n\n我们认为攻击组织非常复杂，而且我强烈怀疑，人工智能显着加速了攻击过程。他们以惊人的速度前进，并对 Vercel 有了深入的了解。\n\n目前，我们认为受到安全影响的客户数量相当有限。我们已优先考虑我们所关心的问题。我们现在的重点是调查、与客户沟通、加强安全措施以及环境消毒。我们部署了广泛的保护措施和监控。我们分析了我们的供应链，确保 Next.js、Turbopack 和我们的许多开源项目对我们的社区保持安全。\n\n对所有 Vercel 客户的建议是密切关注安全公告（我对每个人的建议是遵循安全响应的最佳实践：秘密轮换、监控对 Vercel 环境和链接服务的访问，并确保正确使用敏感环境变量功能。\n\n为了应对这一问题，并帮助改善所有客户的安全状况，我们已经在仪表板中推出了新功能，包括环境变量的概述页面，以及用于敏感环境变量创建和管理的更好的用户界面。一如既往，我完全愿意接受您的反馈。\n\n我们正在与精英网络安全公司、行业同行和执法部门合作。我们已联系 Context，协助了解事件的全部规模，努力保护其他组织和更广泛的互联网。我还要感谢 Google Mandiant 团队的积极参与和帮助。\n\n我的使命是将这次攻击转变为可以想象的最强大的安全响应。这一直是我的首要任务。 Vercel 聘请了世界上一些最专注的安全研究人员和具有安全意识的工程师。我致力于让您随时了解最新情况，并推出广泛的改进和防御措施，以便您、我们的客户和社区可以放心，Vercel 始终为您提供支持。"
+    },
+    "levie": {
+      "en": "What gets missed with AI productivity gains is that by and large, most roles will continue to be as sophisticated as the tools allow. \n\nThis is why also thinking through “today’s jobs will be replaced with AI” is a fallacy. Everyone thinks the market is static, but it’s not.\n\nAs a result of everyone having access to the same technology which augments our work, then users of the tools will increasingly raise their level of output to the point where the prior definition of the job is no longer relevant. Thus, those that understand their particular field and grow in their skills will continue to be differentiated vs. others.\n\nIf you can do far more, then you start to tackle bigger and harder problems. If you do that, then the expertise still is required to get the job done fully. \n\nThe engineer with AI is going to be far more productive and capable with AI than the non-engineer trying to build the same piece of software. Building a lightweight app is no longer the definition of getting by in software development. Reviewing a contract will no longer be the definition of a paralegal. Splicing a video won’t be the definition of a video editor. Providing basic financial research won’t be the job of the financial analyst in the future.\n\nSimply put, AI will naturally cause most roles to actually grow in complexity rather than reduce in complexity, because we can do far more with the tools.",
+      "zh": "人工智能生产力的提高被忽视的是，总的来说，大多数角色将继续在工具允许的范围内变得复杂。 \n\n这就是为什么“今天的工作将被人工智能取代”的想法也是一个谬论。每个人都认为市场是静态的，但事实并非如此。\n\n由于每个人都可以使用相同的技术来增强我们的工作，因此工具的用户将越来越多地提高他们的产出水平，直到以前的工作定义不再相关。因此，那些了解自己特定领域并提高技能的人将继续与其他人区分开来。\n\n如果你能做得更多，那么你就可以开始解决更大、更难的问题。如果您这样做，那么仍然需要专业知识才能充分完成工作。 \n\n与尝试构建相同软件的非工程师相比，拥有人工智能的工程师在人工智能方面的生产力和能力要高得多。构建轻量级应用程序不再是软件开发中的简单定义。审查合同将不再是律师助理的定义。拼接视频不会是视频编辑器的定义。提供基础金融研究将不再是未来金融分析师的工作。\n\n简而言之，人工智能自然会导致大多数角色的复杂性实际上增加而不是降低，因为我们可以使用这些工具做更多的事情。"
+    },
+    "garrytan": {
+      "en": "When I run across needs inside my OpenClaw or in my regular usage, I just have Claude Code make it, and then I release it open source\n\nThis is GStack v1.4 - with a new /make-pdf skill \n\nIt works great with OpenClaw/Hermes as a tool.",
+      "zh": "当我在 OpenClaw 中或在日常使用中遇到需求时，我只需让 Claude Code 制作它，然后我将其开源\n\n这是 GStack v1.4 - 具有新的 /make-pdf 技能 \n\n它与 OpenClaw/Hermes 作为工具配合得很好。"
+    },
+    "mattturck": {
+      "en": "Yes VCs should do more due diligence but first software went serverless and now it’s becoming headless so there’s not much left to look at, really",
+      "zh": "是的，风投应该做更多的尽职调查，但第一个软件是无服务器的，现在它正在变得无头，所以没有太多可看的了，真的"
+    },
+    "nikunj": {
+      "en": "Cybersecurity companies are going to be worth a lot.. the pace of attacks is only going to increase as model capabilities improve. \n\nHumans will continue to be the primary vector of attack - and we haven’t seen anything yet.\n\nHugops to all the infra providers 🫡",
+      "zh": "网络安全公司将变得非常有价值……随着模型能力的提高，攻击的速度只会增加。 \n\n人类将继续成为主要的攻击媒介——但我们还没有看到任何迹象。\n\nHugops 致所有基础设施提供商🫡"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:09\nI definitely agree that continual learning is really the thing. It's really the thing that we're building, but I don't really think this is like a problem that's ignored and and off the path of what we're doing currently. Think it it is what we're working towards.\n\nSpeaker 2 | 00:09 - 00:13\nWhat are like the other research areas within alignment that you're paying attention to or that you think are promising?\n\nSpeaker 1 | 00:13 - 00:19\nA lot of the, like, longer term ch...",
+      "zh": "演讲者 1 | 00:00 - 00:09\n我绝对同意持续学习确实是最重要的。这确实是我们正在构建的东西，但我真的不认为这是一个被忽视的问题，并且脱离了我们当前正在做的事情的道路。认为这就是我们正在努力的方向。\n\n扬声器 2 | 00:09 - 00:13\n您正在关注或您认为有前途的其他研究领域有哪些？\n\n演讲者 1 | 00:13 - 00:19\n很多，比如，长期的变化",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
