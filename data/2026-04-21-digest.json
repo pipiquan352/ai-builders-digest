@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the Codex x @skybysoftware acquisition may have been one of the best @openai deals made in the last year.\n\nI've been waiting for \"real\" computer use since @romainhuet demoed the ChatGPT App with 4o Vision at AIEWF 2024... and only now it's really, actually rolling out in a usable fashion.",
+      "zh": "Codex x @skybysoftware 的收购可能是 @openai 去年最好的交易之一。\n\n自从 @romainhuet 在 AIEWF 2024 上使用 4o Vision 演示 ChatGPT 应用程序以来，我一直在等待“真正的”计算机使用……直到现在，它才真正以可用的方式推出。"
+    },
+    "joshwoodward": {
+      "en": "Welcome back Ben! Can’t wait to see what you build!",
+      "zh": "欢迎回来本！迫不及待地想看看你建造了什么！"
+    },
+    "petergyang": {
+      "en": "The only thing more fun than coding with agents is designing with agents",
+      "zh": "唯一比使用代理编码更有趣的是使用代理进行设计"
+    },
+    "thenanyu": {
+      "en": "When is Venmo gonna finally turn off that feature that lets me see when two of my mutual friends are hooking up?",
+      "zh": "Venmo 什么时候才能最终关闭让我看到我共同的两个朋友正在勾搭的功能？"
+    },
+    "amasad": {
+      "en": "Fairuz is the star of Kanye’s new album",
+      "zh": "Fairuz 是 Kanye 新专辑的明星"
+    },
+    "rauchg": {
+      "en": "I’m so encouraged by the way our team and industry peers have shown up to protect the internet.\n\nWe’ve now shipped over 20 product improvements across Dashboard and CLI to help your security posture.\n\nEasier to set up MFA, audit your Environment Variables, Activity logs and more",
+      "zh": "我们的团队和业界同行保护互联网的方式让我深受鼓舞。\n\n我们现在已经在仪表板和 CLI 上进行了 20 多项产品改进，以帮助您提高安全态势。\n\n更轻松地设置 MFA、审核环境变量、活动日志等"
+    },
+    "alexalbert__": {
+      "en": "Jack's young money blog had a big impact on me when I was in college and navigating what I wanted to do post-grad. \n\nIf you are in your teens/20s and trying to figure out how to think about life, this book will offer you some good ideas.",
+      "zh": "当我上大学并思考毕业后想做的事情时，杰克的年轻金钱博客对我产生了很大的影响。 \n\n如果你十几岁/二十多岁，正在试图弄清楚如何思考生活，这本书将为你提供一些好主意。"
+    },
+    "levie": {
+      "en": "The jump from working with a chatbot to having an agent that actually helps automate a process requires a real amount of work. \n\nMost companies will need to have dedicated people that are responsible for bringing automation to their teams, instead of leaving this up to every individual employee. Partly because the work is more technical than we imagine today, and partly because it’s just hard to do this as a side project.\n\nThe job spec is to map out new workflows with agents, implement new systems to deploy agents, make sure the agent has all the right (up to date) context to work with, wiring up internal systems to connect to the agents, creating evals for the agents, figuring out where the human is in the loop, managing the system when there are new upgrades, helping with the change management of the existing business process, and so on.\n\nThese jobs may come from IT or engineering, or live directly in the business function itself. They’ll be called different things depending on the company, and in some sense it’s the future of software engineering that you’ll see a huge growth of in non-tech companies.\n\nMost companies will have to be hiring for this now or in the future, and it’s another example of the kind of new jobs that will be created in AI.",
+      "zh": "从使用聊天机器人到拥有真正帮助流程自动化的代理需要大量的工作。 \n\n大多数公司都需要有专门的人员负责为团队带来自动化，而不是将其留给每个员工。部分是因为这项工作比我们今天想象的技术性更强，部分是因为很难将其作为一个副项目来完成。\n\n工作规范是与代理一起制定新的工作流程，实施新系统来部署代理，确保代理具有所有正确的（最新）上下文来工作，连接内部系统以连接到代理，为代理创建评估，找出人员在循环中的位置，在有新升级时管理系统，帮助现有业务流程的变更管理，等等。\n\n这些工作可能来自 IT 或工程部门，或者直接存在于业务职能部门本身。根据公司的不同，它们的名称也会有所不同，从某种意义上说，这是软件工程的未来，您将在非科技公司中看到巨大的增长。\n\n大多数公司现在或将来都必须为此招聘人才，这是人工智能将创造的新就业机会的另一个例子。"
+    },
+    "ryolu_": {
+      "en": "we love a clean start",
+      "zh": "我们喜欢干净的开始"
+    },
+    "garrytan": {
+      "en": "All of these people need to start startups at Y Combinator",
+      "zh": "所有这些人都需要在 Y Combinator 创业"
+    },
+    "mattturck": {
+      "en": "One head-scratching idea that gets repeated endlessly: the new TAM for AI is the size of the human labor market, dollar-for-dollar.  Many trillions!\n\nJust for like any labor automation technology in history, the price of AI services will be the marginal cost + a normal margin.",
+      "zh": "有一个令人头疼的想法不断被重复：人工智能的新 TAM 是人类劳动力市场的规模，按美元计算。  许多万亿！\n\n就像历史上任何劳动力自动化技术一样，人工智能服务的价格将是边际成本+正常利润。"
+    },
+    "nikunj": {
+      "en": "Every Indian in the US is T-3 hours away from their parents waking up, reading the news and messaging them “why are you not the ceo of Apple huh”",
+      "zh": "美国的每个印度人距离他们的父母醒来、阅读新闻并向他们发消息“你为什么不是苹果公司的首席执行官，哈哈”还有 3 小时的时间"
+    },
+    "steipete": {
+      "en": "Kudos to the folks from Tencent for working with us and providing evals to improve OpenClaw's harness performance!\n\nWe're also working with them to bring fixes/improvements back to the open source repo. \n\nGreat option for folks not comfortable with the terminal.",
+      "zh": "感谢来自腾讯的人员与我们合作并提供评估以提高 OpenClaw 的线束性能！\n\n我们还与他们合作，对开源存储库进行修复/改进。 \n\n对于那些对终端不熟悉的人来说是个不错的选择。"
+    },
+    "danshipper": {
+      "en": "two agents are better than one",
+      "zh": "两个代理比一个代理好"
+    },
+    "sama": {
+      "en": "Tim Cook is a legend.\n\nI am very thankful for everything he has done and I am very thankful for Apple.",
+      "zh": "蒂姆·库克是一个传奇人物。\n\n我非常感谢他所做的一切，也非常感谢苹果。"
+    },
+    "claudeai": {
+      "en": "In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files.\n\nOpen one any time and it refreshes with current data.",
+      "zh": "在 Cowork 中，Claude 现在可以构建实时工件：连接到您的应用程序和文件的仪表板和跟踪器。\n\n随时打开一个，它会刷新当前数据。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:19\nToday I know Priors, have Jeremy Allaire, the co founder and CEO of Circle. We'll be talking about cryptocurrency, AI, agentic payments, AI evolving on the blockchain, and a variety of other topics. Great. Well, thank you so much for joining us today. It's a pleasure to have you.\n\nSpeaker 2 | 00:19 - 00:22\nIt's great to be here. Thank you. So maybe we can start with\n\nSpeaker 1 | 00:22 - 00:36\nyou just giving a quick overview of Circle, what you do, how you approach the ...",
+      "zh": "演讲者 1 | 00:05 - 00:19\n今天我认识了 Priors，还有 Circle 的联合创始人兼首席执行官杰里米·阿莱尔 (Jeremy Allaire)。我们将讨论加密货币、人工智能、代理支付、区块链上发展的人工智能以及各种其他主题。伟大的。非常感谢您今天加入我们。很高兴有你。\n\n扬声器 2 | 00:19 - 00:22\n很高兴来到这里。谢谢。所以也许我们可以从\n\n演讲者 1 | 00:22 - 00:36\n您只是快速概述了 Circle、您做什么、如何处理",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
