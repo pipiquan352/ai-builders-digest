@@ -1,0 +1,417 @@
+{
+  "generatedAt": "2026-04-22T15:14:18.952Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2046791964759044504",
+          "text": "LS was the first podcast cursor ever did\n\nlisten back to baby @amanrsanger when they were 5 people and pre-PMF https://t.co/0tIvpIwjC4 https://t.co/yL7jesPT2X",
+          "createdAt": "2026-04-22T03:23:26.000Z",
+          "url": "https://x.com/swyx/status/2046791964759044504",
+          "likes": 25,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "1694018419996131569"
+        },
+        {
+          "id": "2046790380889272527",
+          "text": "jesus h christ that seed round https://t.co/KXsxpmJGqg",
+          "createdAt": "2026-04-22T03:17:08.000Z",
+          "url": "https://x.com/swyx/status/2046790380889272527",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2046735581661872575"
+        },
+        {
+          "id": "2046789506867614168",
+          "text": "https://t.co/cMdyu5O1R1",
+          "createdAt": "2026-04-22T03:13:40.000Z",
+          "url": "https://x.com/swyx/status/2046789506867614168",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2046742133890330981"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2046763674199794061",
+          "text": "Welcome to Europe, Pomelli!\n\nPomelli is one of our newer Labs experiments, and SMBs are running with it https://t.co/cQF0dYgd4Y",
+          "createdAt": "2026-04-22T01:31:01.000Z",
+          "url": "https://x.com/joshwoodward/status/2046763674199794061",
+          "likes": 74,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2046711232066150650"
+        },
+        {
+          "id": "2046754179499356594",
+          "text": "DESIGN.md is one of my favorite things that Stitch is doing! If you know, you know. https://t.co/aWI7GbrViB",
+          "createdAt": "2026-04-22T00:53:17.000Z",
+          "url": "https://x.com/joshwoodward/status/2046754179499356594",
+          "likes": 207,
+          "retweets": 12,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2046624729403142320"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2046791457479201007",
+          "text": "ChatGPT Images works great from the mobile app, but when I try to generate images on @ChatGPTapp web - it often forgets it has access to the image tool and start generating code instead, resulting in \"images\" like this lol\n\nSeems like a bug please fix. https://t.co/0a5STt0aCV",
+          "createdAt": "2026-04-22T03:21:25.000Z",
+          "url": "https://x.com/petergyang/status/2046791457479201007",
+          "likes": 22,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046788273138512069",
+          "text": "Done https://t.co/R6NeDr0SWc",
+          "createdAt": "2026-04-22T03:08:46.000Z",
+          "url": "https://x.com/petergyang/status/2046788273138512069",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046778557528170824",
+          "text": "Making a birthday party invite website with my soon to be 8 year old it's gonna be dope (thanks ChatGPT image) https://t.co/smRmUlf6Xf",
+          "createdAt": "2026-04-22T02:30:10.000Z",
+          "url": "https://x.com/petergyang/status/2046778557528170824",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2046741661599092830",
+          "text": "When you regain your will to power after a period of burnout or depression. https://t.co/C3QMNm7BbW",
+          "createdAt": "2026-04-22T00:03:33.000Z",
+          "url": "https://x.com/AmandaAskell/status/2046741661599092830",
+          "likes": 774,
+          "retweets": 26,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046654374248845675",
+          "text": "Not replying to messages is my love language.",
+          "createdAt": "2026-04-21T18:16:42.000Z",
+          "url": "https://x.com/AmandaAskell/status/2046654374248845675",
+          "likes": 659,
+          "retweets": 24,
+          "replies": 69,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "tweets": [
+        {
+          "id": "2046614372311798134",
+          "text": "one of my favorite quality of life features https://t.co/jccCHziIVK",
+          "createdAt": "2026-04-21T15:37:45.000Z",
+          "url": "https://x.com/trq212/status/2046614372311798134",
+          "likes": 1270,
+          "retweets": 36,
+          "replies": 100,
+          "isQuote": true,
+          "quotedTweetId": "2046613932518023259"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2046790326682333539",
+          "text": "Update on my lawsuit against Congressman Randy Fine.\n\nHe tried to weasel out of the case by unblocking me, but this isn’t just about me. It’s about Fine’s DISRESPECT for the 1st Amendment.\n\nWe will not stop until he’s forced to unblock all Americans and respect their rights. https://t.co/sTPhkbk8kH https://t.co/kYaTv5K656",
+          "createdAt": "2026-04-22T03:16:56.000Z",
+          "url": "https://x.com/amasad/status/2046790326682333539",
+          "likes": 1352,
+          "retweets": 132,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2046786015692497332"
+        },
+        {
+          "id": "2046763507639783745",
+          "text": "“Mum, can we have the SpaceX IDE?”\n\n“No we have a space IDE at home”\n\nSpace IDE at home: https://t.co/kRXv26iY3j",
+          "createdAt": "2026-04-22T01:30:21.000Z",
+          "url": "https://x.com/amasad/status/2046763507639783745",
+          "likes": 96,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046762468199071765",
+          "text": "Replit testified in support of the BASED Act: Stopping Big Tech from rigging software marketplaces (very unbased). https://t.co/ZZwIzxgAVb",
+          "createdAt": "2026-04-22T01:26:14.000Z",
+          "url": "https://x.com/amasad/status/2046762468199071765",
+          "likes": 124,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2046805326784319663",
+          "text": "If you read this and don’t understand why it’s happening it’s an opportunity to reset your understanding of how the real world works. \n\nThe real world will need a ton of help actually getting agents going in the enterprise. Companies have legacy tech stacks they need to modernize, data in tons of fragmented tools, knowledge that isn’t captured or digitized, and change management needed to actually utilize agents effectively. And they have to do all this while still running their business day-to-day, unlike startups.\n\nThis is why there is so much opportunity for companies (software or services) to actually deploy agents in specific domains and workflows. This remains a big opportunity for both existing services providers but also tons of new startups as well. Every new technology wave produces a new era of consulting firms that can deliver on that technology. \n\nIt’s also why the FDE model is going to be alive and well for a long time because companies will want to have their vendor actually help drive the change management and implementation for their new workflows. \n\nThe people aren’t going away. Far from it.",
+          "createdAt": "2026-04-22T04:16:32.000Z",
+          "url": "https://x.com/levie/status/2046805326784319663",
+          "likes": 1173,
+          "retweets": 102,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2046552923489140968"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2046846939535495238",
+          "text": "It's a lot of work to get GBrain to instruct your OpenClaw/Hermes to do the right thing, but it's worth it https://t.co/wB9ONJm07K",
+          "createdAt": "2026-04-22T07:01:53.000Z",
+          "url": "https://x.com/garrytan/status/2046846939535495238",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046827162695872680",
+          "text": "“The past was alterable. The past never had been altered.” —George Orwell, 1984 https://t.co/LGNflXuc02",
+          "createdAt": "2026-04-22T05:43:18.000Z",
+          "url": "https://x.com/garrytan/status/2046827162695872680",
+          "likes": 29,
+          "retweets": 4,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2046815805405573245"
+        },
+        {
+          "id": "2046804979160334433",
+          "text": "Here's a big upgrade to the capability of GBrain Minions, the job server I made for your agent https://t.co/TvK4wnraGP",
+          "createdAt": "2026-04-22T04:15:09.000Z",
+          "url": "https://x.com/garrytan/status/2046804979160334433",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2046821454143250636",
+          "text": "Double opt in is cool, but I highly highly recommend  giving 10-15 people you trust FULL blind intro privilege.\n\nIt’s the fastest way to maximize serendipity. \n\nIt’s the single best thing I’ve done to meet some of the most fascinating people!",
+          "createdAt": "2026-04-22T05:20:37.000Z",
+          "url": "https://x.com/nikunj/status/2046821454143250636",
+          "likes": 56,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2046803162590335240",
+          "text": "OpenClaw 2026.4.21 is live.\n\nSmall release, important fix: npm updates now repair bundled plugin runtime deps, with Docker E2E coverage so Telegram/Discord/Slack do not break after upgrade.\n\nAlso backports OpenAI Image 2 support.\n\nnpm i -g openclaw@latest",
+          "createdAt": "2026-04-22T04:07:56.000Z",
+          "url": "https://x.com/steipete/status/2046803162590335240",
+          "likes": 492,
+          "retweets": 17,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046787353906167992",
+          "text": "Did some work to get our CI times down from 8 to two minutes via some... parallelization. Kudos to the @useblacksmith folks for sponsoring + letting us melt their servers. https://t.co/CkrAuTDsK1",
+          "createdAt": "2026-04-22T03:05:07.000Z",
+          "url": "https://x.com/steipete/status/2046787353906167992",
+          "likes": 243,
+          "retweets": 8,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2046748122928263345",
+          "text": "discrawl 0.3.0 is out.\n\nThis release adds Git-backed archive sync, so a Discord archive can be published to a private repo and queried locally without every user needing bot credentials.\n\nAlso: auto-refresh, activity reports, field notes, faster imports. https://t.co/ZFGgZEFtFQ",
+          "createdAt": "2026-04-22T00:29:13.000Z",
+          "url": "https://x.com/steipete/status/2046748122928263345",
+          "likes": 147,
+          "retweets": 8,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2046717947125633268",
+          "text": "huge huge deal https://t.co/addvlAyON4",
+          "createdAt": "2026-04-21T22:29:19.000Z",
+          "url": "https://x.com/danshipper/status/2046717947125633268",
+          "likes": 123,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2046713419978453374"
+        },
+        {
+          "id": "2046709495435333709",
+          "text": "Okay this is sick but how does it avoid butterfly effect issues? https://t.co/VA0i4keiYy",
+          "createdAt": "2026-04-21T21:55:44.000Z",
+          "url": "https://x.com/danshipper/status/2046709495435333709",
+          "likes": 15,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2046557831902417264"
+        },
+        {
+          "id": "2046643173766697214",
+          "text": "Monologue Notes is live!\n\nRecord a note on a walk, in a meeting, or in the middle of the night. \n\nBuilt to be agent native: your agents can access your notes from anywhere https://t.co/maosJXtsrZ",
+          "createdAt": "2026-04-21T17:32:12.000Z",
+          "url": "https://x.com/danshipper/status/2046643173766697214",
+          "likes": 59,
+          "retweets": 10,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2046624117278085461"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2046752492093165708",
+          "text": "We want you to have a lot of AI! https://t.co/lv3RHCfYrd",
+          "createdAt": "2026-04-22T00:46:35.000Z",
+          "url": "https://x.com/sama/status/2046752492093165708",
+          "likes": 4084,
+          "retweets": 138,
+          "replies": 446,
+          "isQuote": true,
+          "quotedTweetId": "2046740759056162816"
+        },
+        {
+          "id": "2046682384251429279",
+          "text": "Gabe is incredibly talented and a great leader. Happy to see this, but not surprised. https://t.co/Wh65sQvkzw",
+          "createdAt": "2026-04-21T20:08:00.000Z",
+          "url": "https://x.com/sama/status/2046682384251429279",
+          "likes": 1947,
+          "retweets": 42,
+          "replies": 180,
+          "isQuote": true,
+          "quotedTweetId": "2046677524965707937"
+        },
+        {
+          "id": "2046672912833458597",
+          "text": "Here is a manga made by ChatGPT Images 2.0 of @gabeeegoooh and me looking for more GPUs: https://t.co/ek95JfUN5V",
+          "createdAt": "2026-04-21T19:30:22.000Z",
+          "url": "https://x.com/sama/status/2046672912833458597",
+          "likes": 3603,
+          "retweets": 209,
+          "replies": 531,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "We Gave Every Employee an AI Agent. Here's What Happened.",
+      "url": "https://www.youtube.com/watch?v=SRlTgIhESjw",
+      "publishedAt": "2026-04-08T15:00:00.000Z"
+    }
+  ]
+}

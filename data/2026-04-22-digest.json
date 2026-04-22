@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "LS was the first podcast cursor ever did\n\nlisten back to baby @amanrsanger when they were 5 people and pre-PMF",
+      "zh": "LS 是第一个播客光标\n\n听听宝贝 @amanrsanger 当他们只有 5 个人并且在 PMF 之前时的声音"
+    },
+    "joshwoodward": {
+      "en": "DESIGN.md is one of my favorite things that Stitch is doing! If you know, you know.",
+      "zh": "DESIGN.md 是 Stitch 所做的我最喜欢的事情之一！如果你知道，你就知道。"
+    },
+    "petergyang": {
+      "en": "ChatGPT Images works great from the mobile app, but when I try to generate images on @ChatGPTapp web - it often forgets it has access to the image tool and start generating code instead, resulting in \"images\" like this lol\n\nSeems like a bug please fix.",
+      "zh": "ChatGPT Images 在移动应用程序中工作得很好，但是当我尝试在 @ChatGPTapp web 上生成图像时 - 它经常忘记它可以访问图像工具并开始生成代码，从而导致像这样的“图像”哈哈\n\n看起来像一个错误，请修复。"
+    },
+    "AmandaAskell": {
+      "en": "When you regain your will to power after a period of burnout or depression.",
+      "zh": "当你在一段时间的倦怠或抑郁之后重新恢复权力意志时。"
+    },
+    "trq212": {
+      "en": "one of my favorite quality of life features",
+      "zh": "我最喜欢的生活质量功能之一"
+    },
+    "amasad": {
+      "en": "Update on my lawsuit against Congressman Randy Fine.\n\nHe tried to weasel out of the case by unblocking me, but this isn’t just about me. It’s about Fine’s DISRESPECT for the 1st Amendment.\n\nWe will not stop until he’s forced to unblock all Americans and respect their rights.",
+      "zh": "我对国会议员兰迪·法恩提起的诉讼的最新情况。\n\n他试图通过解锁我来逃避这个案子，但这不仅仅是关于我的。这是关于法恩对第一修正案的不尊重。\n\n在他被迫解除对所有美国人的封锁并尊重他们的权利之前，我们不会停止。"
+    },
+    "levie": {
+      "en": "If you read this and don’t understand why it’s happening it’s an opportunity to reset your understanding of how the real world works. \n\nThe real world will need a ton of help actually getting agents going in the enterprise. Companies have legacy tech stacks they need to modernize, data in tons of fragmented tools, knowledge that isn’t captured or digitized, and change management needed to actually utilize agents effectively. And they have to do all this while still running their business day-to-day, unlike startups.\n\nThis is why there is so much opportunity for companies (software or services) to actually deploy agents in specific domains and workflows. This remains a big opportunity for both existing services providers but also tons of new startups as well. Every new technology wave produces a new era of consulting firms that can deliver on that technology. \n\nIt’s also why the FDE model is going to be alive and well for a long time because companies will want to have their vendor actually help drive the change management and implementation for their new workflows. \n\nThe people aren’t going away. Far from it.",
+      "zh": "如果您阅读本文但不明白为什么会发生这种情况，那么这是一个重新认识现实世界如何运作的机会。 \n\n现实世界需要大量帮助才能真正让代理进入企业。公司拥有需要现代化的遗留技术堆栈、大量分散工具中的数据、未捕获或数字化的知识，以及实际有效利用代理所需的变更管理。与初创公司不同，他们必须在日常业务运营的同时完成所有这些工作。\n\n这就是为什么公司（软件或服务）有如此多的机会在特定领域和工作流程中实际部署代理。对于现有的服务提供商以及大量新的初创公司来说，这仍然是一个巨大的机会。每一次新技术浪潮都会催生能够提供该技术的咨询公司的新时代。 \n\n这也是 FDE 模型将长期存在且运行良好的原因，因为公司希望他们的供应商真正帮助推动其新工作流程的变更管理和实施。 \n\n人们不会消失。远非如此。"
+    },
+    "garrytan": {
+      "en": "“The past was alterable. The past never had been altered.” —George Orwell, 1984",
+      "zh": "“过去是可以改变的。过去从未改变过。” ——乔治·奥威尔，1984"
+    },
+    "nikunj": {
+      "en": "Double opt in is cool, but I highly highly recommend  giving 10-15 people you trust FULL blind intro privilege.\n\nIt’s the fastest way to maximize serendipity. \n\nIt’s the single best thing I’ve done to meet some of the most fascinating people!",
+      "zh": "双重选择加入很酷，但我强烈建议为您信任的 10-15 个人提供完全盲介绍特权。\n\n这是最大化偶然性的最快方法。 \n\n这是我为结识一些最迷人的人所做的最好的事情！"
+    },
+    "steipete": {
+      "en": "OpenClaw 2026.4.21 is live.\n\nSmall release, important fix: npm updates now repair bundled plugin runtime deps, with Docker E2E coverage so Telegram/Discord/Slack do not break after upgrade.\n\nAlso backports OpenAI Image 2 support.\n\nnpm i -g openclaw@latest",
+      "zh": "OpenClaw 2026年4月21日上线。\n\n小版本，重要修复：npm 更新现在修复捆绑的插件运行时依赖，并覆盖 Docker E2E，因此 Telegram/Discord/Slack 在升级后不会中断。\n\n还向后移植 OpenAI Image 2 支持。\n\nnpm i -g openclaw@最新"
+    },
+    "danshipper": {
+      "en": "huge huge deal",
+      "zh": "巨大的巨大的交易"
+    },
+    "sama": {
+      "en": "We want you to have a lot of AI!",
+      "zh": "我们希望您拥有大量的人工智能！"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:28\nClawed is not mine. Clawed is everybody's. A claw or a plus one is mine because you develop a personal relationship with your claw, and your claw can modify itself in response to talking to you. It becomes this reflection of you and who you are and your personality. If you're known for slaying inside of your org and you're using your claw publicly inside of Slack or Discord, your claw then becomes known for that same kind of thing and people trust it for that.\n\nSpeaker ...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n爪子不是我的。爪子是每个人的。爪子或加一是我的，因为你与你的爪子建立了个人关系，并且你的爪子可以根据与你的交谈而自我修改。它成为你、你是谁以及你的个性的反映。如果你因在组织内部杀人而闻名，并且你在 Slack 或 Discord 中公开使用你的爪子，那么你的爪子就会因同样的事情而闻名，并且人们会因此信任它。\n\n扬声器",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
