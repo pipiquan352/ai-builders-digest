@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw in talking to friends the best framing for how to discuss GPT-Image-2-Thinking taking multiple tens of mins for generation and being able to oneshot QR codes and diagrams and logos and foods and faces..\n\n...is that Image-2 is a new Image model, Image-2-Thinking is a new Image AGENT that basically has search and photoshop as a tool to use in an agent loop that can search and composite and review its own work.\n\nthe same way Gemini Flash Vision destroyed benchmarks by introducing an agentic loop for image-to-text, now Image-2-Thinking is doing it for text-to-image.",
+      "zh": "顺便说一句，在与朋友交谈时，如何讨论 GPT-Image-2-Thinking 的最佳框架需要花费数十分钟才能生成，并且能够一次性拍摄 QR 码、图表、徽标、食物和面孔。\n\n...Image-2 是一个新的图像模型，Image-2-Thinking 是一个新的图像代理，基本上将搜索和 Photoshop 作为在代理循环中使用的工具，可以搜索、合成和审查自己的工作。\n\n就像 Gemini Flash Vision 通过引入图像到文本的代理循环来破坏基准一样，现在 Image-2-Thinking 正在为文本到图像做同样的事情。"
+    },
+    "joshwoodward": {
+      "en": "✅ Papercut fixed: Conversation branching\n\nRolled out to 20% right now, ramping up!",
+      "zh": "✅ 修复剪纸问题：对话分支\n\n现在已推出至 20%，正在增加！"
+    },
+    "petergyang": {
+      "en": "Craft &gt; slop\n\nI love using AI to generate things too but craft is in that last 10% where you manually apply your taste to make something you can be proud of. \n\nMany people never bother.",
+      "zh": "工艺 > 斜坡\n\n我也喜欢使用人工智能来生成东西，但工艺是在最后 10% 中，你手动应用你的品味来制作一些你可以自豪的东西。 \n\n很多人从不打扰。"
+    },
+    "amasad": {
+      "en": "You don’t have access to Mythos 🫵🤭\n\nDoesn’t mean you can just sit around and wait.\n\nReplit published a whitepaper showing you can get significantly better performance from current gen LLMs (90%+ in some cases) by combining with static analysis tools.",
+      "zh": "您无权访问 Mythos 🫵🤭\n\n并不意味着您可以坐下来等待。\n\nReplit 发布了一份白皮书，表明通过与静态分析工具相结合，您可以从当前一代 LLM 获得显着更好的性能（在某些情况下 90% 以上）。"
+    },
+    "rauchg": {
+      "en": "I want to keep everyone updated on the details of the security investigation.\n\nThe team performed an in-depth analysis to search for root causes and to better understand the behavior of the threat actor.\n\nWe cast a very wide net, pulling and processing nearly a petabyte of logs of the entire Vercel Network and API, extending well beyond the initial Context[.]ai compromise.\n\nWe now understand that the threat actor has been active beyond that startup's compromise. Threat intel points to the distribution of malware to computers in search of valuable tokens like keys to Vercel accounts and other providers.\n\nOnce the attacker gets ahold of those keys, our logs show a repeated pattern: rapid and comprehensive API usage, with a focus on enumeration of non-sensitive environment variables.\n\nAs a result:\n◾We've deepened and widened our collaboration with partners across the industry, like Microsoft, AWS and Wiz, to further protect the broader internet.\n◾ We've notified other suspected victims of this threat actor, independent of this event, encouraging them to rotate credentials and adopt best practices.\n\nWe've also shipped a bunch more product enhancements. I'm extremely thankful to our team and industry partners for working around the clock. For more details on the ongoing investigation, refer to our security bulletin:",
+      "zh": "我想让大家了解安全调查的最新细节。\n\n该团队进行了深入分析，以寻找根本原因并更好地了解威胁行为者的行为。\n\n我们撒下了一张非常广泛的网，拉取和处理整个 Vercel 网络和 API 的近 PB 日志，远远超出了最初的 Context[.]ai 妥协。\n\n我们现在了解到，威胁行为者的活动超出了该初创公司的危害范围。威胁情报指出，恶意软件会向计算机分发，以寻找有价值的代币，例如 Vercel 帐户和其他提供商的密钥。\n\n一旦攻击者掌握了这些密钥，我们的日志就会显示出重复的模式：快速且全面的 API 使用，重点是非敏感环境变量的枚举。\n\n结果：\n◾我们深化并扩大了与 Microsoft、AWS 和 Wiz 等行业合作伙伴的合作，以进一步保护更广泛的互联网。\n◾ 我们已通知该威胁行为者的其他疑似受害者（与此事件无关），鼓励他们轮换凭证并采用最佳实践。\n\n我们还发布了更多产品增强功能。我非常感谢我们的团队和行业合作伙伴全天候工作。有关正在进行的调查的更多详细信息，请参阅我们的安全公告："
+    },
+    "levie": {
+      "en": "This is probably the biggest news yet in software going headless, and will bring knowledge work agents to the masses. The new ChatGPT agents have access to any of the tools and data you want to work with, with complete coding and tool use available to them. \n\nHere's an example of a custom sales assistant agent uses Box as a knowledge source for accessing enterprise content securely to answer questions and generate new content on the fly. The workflows can obviously vastly far more complex as the agent can use any of the tools within Box available via MCP and CLI.\n\nThis precisely what agents will start to look like for knowledge work. You'll be able to spin them up in the foreground or background to help augment work. Big opportunity right now for headless platforms, and for all the new builders and designers of these agents in the enterprise.",
+      "zh": "这可能是无头软件领域迄今为止最大的新闻，并将为大众带来知识工作代理。新的 ChatGPT 代理可以访问您想要使用的任何工具和数据，并提供完整的编码和工具使用。 \n\n下面是一个自定义销售助理代理使用 Box 作为知识源来安全地访问企业内容以回答问题并动态生成新内容的示例。工作流程显然要复杂得多，因为代理可以使用 Box 中通过 MCP 和 CLI 提供的任何工具。\n\n这正是知识工作的代理人的样子。您将能够在前台或后台旋转它们以帮助增强工作。对于无头平台以及企业中这些代理的所有新构建者和设计者来说，现在是一个巨大的机会。"
+    },
+    "ryolu_": {
+      "en": "overcooking\n\nyou've seen this: someone ships a dashboard that shows every number with a sparkline, every action has a confirmation modal, every empty state has an animated illustration and a tagline. individually each decision made sense to someone. together it feels like chaos. nothing is in focus.\n\nthat's overcooking. not one bad decision in isolation, but the accumulation of reasonable ones that no one said no to.\n\nAI makes this worse as the cost of adding dropped to near zero. it can build a feature, even a whole new concept in minutes. so people do. and then they do it again. the thing that started with a clear purpose slowly becomes a collection of additions that are each justifiable but collectively incoherent.\n\nthe root problem is that most \"new ideas\" aren't new. they're repackaging of something that already exists at a more fundamental level. a new sticker on an old concept. it feels like progress because something changed, with a new word and skin – but the thinking didn't go deeper, it just duplicated itself into confusion.\n\nthe whole has a core. you feel it once you understand the whole system. everything in it are related and balanced. when you overload it, that gravity weakens. not because any one thing is wrong – but because attention is finite and you force it everywhere.\n\nwhat we need aren't more tools that make more slop. it's seeing through the chaos, and returning to what the thing actually is, and cutting everything that doesn't serve that. that's harder now, not easier. because there's always something else you could add with one more prompt.",
+      "zh": "煮过头\n\n您已经看到过：有人发布了一个仪表板，其中用迷你图显示每个数字，每个操作都有一个确认模式，每个空状态都有一个动画插图和一个口号。就个人而言，每个决定对某人来说都是有意义的。在一起感觉就像一片混乱。没有什么是焦点。\n\n那是煮过头了。不是孤立的一个错误决定，而是没有人拒绝的合理决定的积累。\n\n人工智能使情况变得更糟，因为添加成本降至接近于零。它可以在几分钟内构建一个功能，甚至一个全新的概念。人们也是如此。然后他们又这样做了。从一个明确的目的开始的事情慢慢地变成了一个添加的集合，每个添加都是合理的，但总体上是不连贯的。\n\n根本问题是大多数“新想法”并不新鲜。他们正在对更基础层面上已经存在的东西进行重新包装。旧概念上的新贴纸。感觉像是进步，因为有些东西发生了变化，有了新的词和皮肤——但思考并没有深入，它只是重复了自己，陷入了混乱。\n\n整体有一个核心。一旦你了解了整个系统，你就会感觉到。其中的一切都是相关且平衡的。当你超载时，重力就会减弱。并不是因为任何一件事是错误的，而是因为注意力是有限的，而你却强迫它无处不在。\n\n我们需要的不是更多会产生更多污渍的工具。它是看透混乱，回归事物的本来面目，并砍掉一切无用的东西。现在更难了，而不是更容易。因为总有一些东西你可以通过再一个提示来添加。"
+    },
+    "garrytan": {
+      "en": "Man between this and CrabTrap from @pedroh96 I am going to have a busy week",
+      "zh": "伙计，在这个和 @pedroh96 的 CrabTrap 之间，我将度过忙碌的一周"
+    },
+    "nikunj": {
+      "en": "Every pixel will be generated in real time. It’s just a matter of when, not if. Demos like this show a view of what’s possible 👏",
+      "zh": "每个像素都会实时生成。这只是时间问题，而不是是否问题。像这样的演示展示了可能性👏"
+    },
+    "steipete": {
+      "en": "8 React components per line 😅",
+      "zh": "每行 8 个 React 组件 😅"
+    },
+    "danshipper": {
+      "en": "LLMs write better code than most human engineers. If code is handled, what's left for us?\n\nI chatted with @kieranklaassen, GM of @CoraComputerCora and creator of compound engineering, on @every's AI & I about where humans fit now that AI can generate high-quality code, copy, strategy, and design. His theory: We’re the bread.\n\nHumans are indispensable at the beginning and end of every process. At the beginning, to set the frame, and at the end to provide the final polish.\n\nThis turned into a wide-ranging conversation on the future of humans and AI in coding and beyond.\n\nWe get into:\n- Why AI work is a sandwich. The models are the filling, responsible for writing, testing, and iterating. Humans are the bread bookending the models: We frame the problem and judge whether the output feels right.\n- The four steps behind compound engineering: Plan, work, review, and compound. The last one—where learnings feed back into the repo so agents don't repeat their mistakes—is what allows one engineer to ship like a team of five.\n- Play to your strengths. Knowing when to step away and let the models execute lets you focus on areas that require human judgement, like approaching a problem from multiple angles.\n\nThis is a must-watch for anyone trying to figure out their role in the workplace now that the execution layer is largely solved.\n\nWatch below!\n\nTimestamps:\nIntroduction and the AI sandwich metaphor: 00:00:52\nWhat compound engineering is and how it’s evolved: 00:02:33\nThe \"work\" phase of agentic coding is essentially solved: 00:04:27\nWhy humans belong at the beginning and the end of an AI workflow: 00:06:27\nDan's argument for why agents can't change frames—and how this will keep us employed: 00:11:06\nFull automation remains a moving target: 00:16:51\nMusical composition as a model for human-AI collaboration: 00:23:21\nFind your place in an AI-accelerated world by leaning into what brings you joy: 00:26:39",
+      "zh": "法学硕士比大多数人类工程师写出更好的代码。如果代码被处理了，我们还剩下什么？\n\n我与@CoraComputerCora 的总经理兼复合工程的创建者@kierranklaassen 在@every's AI & I 上讨论了人类现在所处的位置，因为人工智能可以生成高质量的代码、副本、策略和设计。他的理论是：我们就是面包。\n\n在每个过程的开始和结束时，人类都是不可或缺的。首先，设置框架，最后进行最后的抛光。\n\n这变成了一场关于人类和人工智能在编码及其他领域的未来的广泛对话。\n\n我们进入：\n- 为什么人工智能工作是三明治。模型是填充，负责编写、测试和迭代。人类是模型的面包：我们构建问题并判断输出是否正确。\n- 复合工程背后的四个步骤：计划、工作、审查和复合。最后一个——学习反馈到存储库中，这样代理就不会重复他们的错误——允许一名工程师像五人团队一样进行交付。\n- 发挥你的优势。知道何时离开并让模型执行可以让您专注于需要人类判断的领域，例如从多个角度处理问题。\n\n既然执行层已经基本解决，那么对于任何试图弄清楚自己在工作场所中的角色的人来说，这是必须关注的。\n\n往下看！\n\n时间戳：\n简介和人工智能三明治隐喻：00:00:52\n什么是复合工程以及它是如何演变的：00:02:33\n代理编码的“工作”阶段已基本解决：00:04:27\n为什么人类属于人工智能工作流程的开始和结束：00:06:27\n丹关于为什么特工不能改变框架的论点——以及这将如何让我们继续就业：00:11:06\n完全自动化仍然是一个不断变化的目标：00:16:51\n音乐创作作为人类与人工智能协作的模型：00:23:21\n通过专注于给你带来快乐的事物，在人工智能加速的世界中找到自己的位置：00:26:39"
+    },
+    "adityaag": {
+      "en": "This is dope",
+      "zh": "这是毒品"
+    },
+    "sama": {
+      "en": "These are cool! I think most companies will want to use them.",
+      "zh": "这些很酷！我认为大多数公司都会想要使用它们。"
+    },
+    "claudeai": {
+      "en": "Interactive charts and diagrams are now in Claude Cowork.\n\nAvailable in beta on all paid plans.",
+      "zh": "交互式图表和图表现已在 Claude Cowork 中。\n\n所有付费计划均提供测试版。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:03\nHumans are the bread in the sandwich, and the AI is in the middle.\n\nSpeaker 2 | 00:03 - 00:24\nAI is whatever you put on your sandwich. If you ship something or do something, if you want it to be your own, you cannot fully automate everything. It's like art. If you want it your own, it needs to be from you or somehow be connected. So I believe it's so important to do things you enjoy and you love.\n\nSpeaker 2 | 00:25 - 00:40\nAnd it's very important to make it feel great b...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n人类是三明治中的面包，人工智能则处于中间。\n\n扬声器 2 | 00:03 - 00:24\n人工智能就是你放在三明治上的任何东西。如果你运送某物或做某事，如果你希望它是你自己的，你就无法完全自动化一切。这就像艺术。如果您想要自己拥有它，则它需要来自您或以某种方式连接。所以我相信做你喜欢和喜欢的事情非常重要。\n\n扬声器 2 | 00:25 - 00:40\n让它感觉很棒非常重要",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
