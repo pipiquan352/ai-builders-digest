@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i think the most underated part of today's launch is not GPT 5.5 at all",
+      "zh": "我认为今天发布的最被低估的部分根本不是 GPT 5.5"
+    },
+    "petergyang": {
+      "en": "Can 5.5 drop soon it's distracting to wait",
+      "zh": "5.5 很快就能降吗，等待太分散了"
+    },
+    "AmandaAskell": {
+      "en": "It's odd to be living through what feels like one of the most critical periods in human history and to feel all of the weight of it from the inside.",
+      "zh": "经历了人类历史上最关键的时期之一，并从内部感受到它的所有重量，这很奇怪。"
+    },
+    "_catwu": {
+      "en": "Thanks @lennysan for a great conversation about how Claude Code maintains product velocity, how the product management role is shifting in the AI era, and the future of work!",
+      "zh": "感谢 @lennysan 就 Claude Code 如何保持产品速度、人工智能时代产品管理角色如何转变以及工作的未来进行了精彩的对话！"
+    },
+    "amasad": {
+      "en": "While US politicians/lobbyists are scaremongering about “Chinese distillation,” Chinese scientists are actually sharing real AI breakthroughs in the open.\n\nThese kind of advances have nothing to do with data and benefit everyone, including small (and possibly big) US labs.",
+      "zh": "当美国政客/游说者危言耸听“中国蒸馏”时，中国科学家实际上正在公开分享真正的人工智能突破。\n\n这些进步与数据无关，但却使每个人受益，包括小型（也可能是大型）美国实验室。"
+    },
+    "levie": {
+      "en": "Sorry to anyone who thought AI would mean we’d work less (at least for now). AI makes it easy to explore more than you did before, and so you start doing far more as a result.\n\nI regularly have seemingly small things that end up quickly consuming 3 hours because the agent made it easy to get started, but you still have to do the rest of the work to complete the project.\n\nThis is work that I wouldn’t previously have handed out to anyone else, it’s just stuff that never got done because it took too long to do fully manually. And, counterintuitively, for some of these tasks as AI gets good enough at doing them, it even becomes economically worth it to hire someone to do it on an ongoing basis with agents. But until you could try doing them at a low cost you would never have tried.\n\nThis is why AI won’t automatically reduce work in the way we imagine because work isn’t static. Most companies have far more they can do than they have today, it was just hard to get started on it all because of the natural constraints of time and labor availability.",
+      "zh": "对于那些认为人工智能意味着我们会减少工作量的人（至少目前如此），我深表歉意。人工智能让你比以前更容易探索更多内容，因此你开始做更多的事情。\n\n我经常会遇到看似很小的事情，但最终很快就消耗了 3 个小时，因为代理让上手变得很容易，但你仍然需要完成其余的工作才能完成项目。\n\n这是我以前不会交给其他任何人的工作，它只是从未完成的事情，因为完全手动完成需要很长时间。而且，与直觉相反的是，对于其中一些任务，随着人工智能足够擅长完成这些任务，雇佣某人与代理一起持续完成这些任务在经济上甚至变得值得。但除非你能尝试以低成本做到这一点，否则你永远不会尝试。\n\n这就是为什么人工智能不会像我们想象的那样自动减少工作，因为工作不是静态的。大多数公司可以做的事情比今天多得多，但由于时间和劳动力可用性的自然限制，很难开始做这一切。"
+    },
+    "garrytan": {
+      "en": "Let's see... Ro Khanna is defending someone who incites murder, \"let the streets soak in their red-capitalist blood,\" and who said America deserved 9/11.  \n\nLike Saikat Chakrabarti, Ro Khanna is unfit for any job and should lose his seat in Congress to @ethanagarwal this year",
+      "zh": "让我们看看……罗·卡纳（Ro Khanna）正在为一个煽动谋杀的人辩护，“让街道浸透红色资本主义的血液”，并且他说美国活该9/11。  \n\n和 Saikat Chakrabarti 一样，Ro Khanna 不适合任何工作，今年应该将国会席位让给@ethanagarwal"
+    },
+    "mattturck": {
+      "en": "AI folks in NYC -- Data Driven NYC (#121) this Tuesday at 6pm.  \n\nCome meet fellow AI builders and our speakers:\n\n* @RampLabs has been cooking lately with a lot of agentic innovation; Alex Levinson will demo\n\n* @EstuaryDev provides unified data infra for AI - CEO @dyaffe \n\nRSVP:",
+      "zh": "纽约市的人工智能人士——数据驱动纽约市 (#121) 本周二下午 6 点。  \n\n欢迎来认识其他人工智能构建者和我们的演讲者：\n\n* @RampLabs 最近一直在进行大量代理创新；亚历克斯莱文森将演示\n\n* @EstuaryDev 为人工智能提供统一的数据基础设施 - CEO @dyaffe \n\n回复："
+    },
+    "nikunj": {
+      "en": "Even with all the model releases, this “stack” continues to be undefeated (for me)..\n\n- @claudeai Opus for planning and frontend design\n- @OpenAI codex for engineering\n- @conductor_build to orchestrate\n- @Railway to deploy\n\nIt’s never been more easy and fun to build!",
+      "zh": "即使发布了所有模型，这个“堆栈”仍然不败（对我来说）。\n\n- @claudeai Opus 用于规划和前端设计\n- @OpenAI 工程法典\n- @conductor_build 进行编排\n- @Railway 部署\n\n构建从未如此简单和有趣！"
+    },
+    "steipete": {
+      "en": "My favorite security advisories.",
+      "zh": "我最喜欢的安全建议。"
+    },
+    "danshipper": {
+      "en": "many models write a great plan and then get scared of it.\n\n@OpenAI's new GPT-5.5 just does the thing.\n\nhere's what changed 👇",
+      "zh": "许多模特写了一个很棒的计划，然后却害怕它。\n\n@OpenAI 的新 GPT-5.5 就可以做到这一点。\n\n这是改变的👇"
+    },
+    "adityaag": {
+      "en": "How does one make sense of SF?\n\nWe are living through the craziest computing revolution of the last 2 decades....and 95% of the value being created is within a 4-mile radius in SF (h/t @eladgil )\n\nIt's just hard to understand....why is the concentration so high?\n\nWhat is it about this place? There are good reasons that people will offer...good universities, great companies, talent networks, venture capital yada yada yada\n\nBut all of that is hard to emotionally understand.\n\nI tend to try to answer these questions through my own lived experience.\n\nTwo things happened this week that brought it home for me.\n\nOn Wed evening, two GOATS of the design world (@soleio  and @rsms ) did a design talk at SPC.\n\nI saw some other GOATS at the talk (@aaron_ , @benbarry )\n\nAnd you realize that these GOATS are just so curious about the world. They just want to build and learn. And give back. And with an air of humility and passion. It's so so cool and inspiring.\n\nAnd then this week we had someone release a mind-bendingly amazing demo of every pixel being generated.\n\n\n\nPeople were blown away but @eddiejiao_obj  and @zan2434  had been jamming creatively for a bunch of time @southpkcommons . \n\nAnd in that entire time, they were surrounded by a culture and environment and ecosystem that says \"that is crazy but my god, if it works, then what could happen\"\n\nThere is wonder, amazement and curiosity.\n\nAnd passion.\n\nI wish this city were cleaner and better governed (but Dan Lurie is crushing).\n\nWe are so lucky to be surrounded by weirdos who love to build.\n\nThis is why we are who we are.",
+      "zh": "如何理解 SF？\n\n我们正在经历过去 20 年里最疯狂的计算革命......所创造的价值的 95% 都在 SF 4 英里半径内 (h/t @eladgil )\n\n真是难以理解……为什么浓度这么高？\n\n这个地方到底是怎么回事？人们有充分的理由提供...好的大学、伟大的公司、人才网络、风险投资 yada yada yada\n\n但所有这些在情感上都很难理解。\n\n我倾向于尝试通过自己的生活经历来回答这些问题。\n\n这周发生的两件事让我想起了这一点。\n\n周三晚上，设计界的两位山羊（@soleio 和 @rsms）在 SPC 上进行了设计演讲。\n\n我在演讲中看到了其他一些山羊（@aaron_，@benbarry）\n\n你会发现这些山羊对这个世界非常好奇。他们只想构建和学习。并回馈。并且带着谦逊和热情的气息。这太酷了，太鼓舞人心了。\n\n然后本周，我们有人发布了一个令人费解的令人惊叹的演示，展示了正在生成的每个像素。\n\n\n\n人们被震撼了，但 @eddiejiao_obj 和 @zan2434 已经创造性地即兴创作了一段时间 @southpkcommons 。 \n\n在整个时间里，他们被一种文化、环境和生态系统所包围，这种文化、环境和生态系统说“这很疯狂，但我的上帝，如果它有效，那么会发生什么”\n\n有惊奇、惊奇和好奇。\n\n和激情。\n\n我希望这座城市更清洁、管理得更好（但丹·卢里（Dan Lurie）令人崩溃）。\n\n我们很幸运，周围都是热爱建造的怪人。\n\n这就是我们之所以成为现在这样的原因。"
+    },
+    "sama": {
+      "en": "We tried a new thing with NVIDIA to roll out Codex across a whole company and it was awesome to see it work.\n\nLet us know if you'd like to do it at your company!",
+      "zh": "我们与 NVIDIA 一起尝试了一项新举措，在整个公司范围内推出 Codex，看到它发挥作用真是太棒了。\n\n如果您想在您的公司这样做，请告诉我们！"
+    },
+    "claudeai": {
+      "en": "Memory on Claude Managed Agents is now in public beta.\n\nYour agents can now learn from every session, using an intelligence-optimized memory layer that balances performance with flexibility.",
+      "zh": "Claude Managed Agents 上的 Memory 现已推出公开测试版。\n\n您的代理现在可以使用智能优化的内存层来平衡性能与灵活性，从每个会话中学习。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:03\nIsn't that crazy? That number is just mind boggling.\n\nSpeaker 2 | 00:03 - 00:06\nWhat is the state of the AI coding wars today?\n\nSpeaker 1 | 00:06 - 00:16\nWe're in a phase of sort of, like, capability exploration. The general thesis that I have been pursuing now is that the same way that 2025 was a year of coding agents, 2026 is coding agents breaking containment, do everything else.\n\nSpeaker 2 | 00:16 - 00:21\nDo you worry about the foundation models just eating into a b...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n这不是很疯狂吗？这个数字简直令人难以置信。\n\n扬声器 2 | 00:03 - 00:06\n如今人工智能编码大战的现状如何？\n\n演讲者 1 | 00:06 - 00:16\n我们正处于一个类似能力探索的阶段。我现在一直在追求的总体论点是，就像 2025 年是编码特工的一年一样，2026 年也是编码特工突破遏制、做其他一切的一年。\n\n扬声器 2 | 00:16 - 00:21\n你担心基础模型会吃掉b吗？",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
