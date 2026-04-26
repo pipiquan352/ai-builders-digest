@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw we are cooking something with @hhua_ \n\n(not final yet but keep calendar open after ICML in Seoul)",
+      "zh": "顺便说一句，我们正在和@hhua_一起煮东西 \n\n（尚未最终确定，但在首尔 ICML 后保持日程开放）"
+    },
+    "petergyang": {
+      "en": "I often have to get Codex to fix my OpenClaw set up 🥲",
+      "zh": "我经常需要让 Codex 来修复我的 OpenClaw 设置 🥲"
+    },
+    "thenanyu": {
+      "en": "The problem with being on the very bleeding edge of adoption is you’re going to constantly be changing how you do things as the industry learns. \n\nThe sweet spot is just a couple steps behind. Whatever is relatively new, but survives all of the churn.",
+      "zh": "处于采用最前沿的问题是，随着行业的学习，您将不断改变您的做事方式。 \n\n最佳位置仅落后几步。无论是相对较新的东西，但都能经受住所有的考验。"
+    },
+    "AmandaAskell": {
+      "en": "What I'm learning from flight simulators is that it would be a bit boring to be an amateur cessna pilot but a lot of fun to be an amateur fighter jet pilot.",
+      "zh": "我从飞行模拟器中学到的是，作为一名业余塞斯纳飞行员有点无聊，但作为一名业余战斗机飞行员却很有趣。"
+    },
+    "amasad": {
+      "en": "2000s: every company is an internet company\n\n2010s: every company is a software company\n\n2020s: every company is an AI company\n\n2025+: every company is a cybersecurity company",
+      "zh": "2000年代：每家公司都是互联网公司\n\n2010年代：每家公司都是软件公司\n\n2020年代：每家公司都是人工智能公司\n\n2025+：每家公司都是网络安全公司"
+    },
+    "levie": {
+      "en": "Great read. AI lets you get tremendous leverage that wasn’t available before in almost any domain. \n\nThat means we’re at a unique moment in history where anyone with a high level of ambition and core skills in any area can overcome a lot of historical experience requirements for their role.\n\nThis can apply to anyone who’s junior or senior, but it’s pretty sweet that you can do far more than you could have accomplished as a newer employee than even a couple years ago. The people that take advantage of this will get ahead massively. \n\nAnd the companies that find this talent within or outside should put them in key positions to get as much out of them as possible. These people will seem strange and from the future, but they will help you figure out where things are going. Everyone company should be doing whatever they can to find them.",
+      "zh": "读得很好。人工智能可以让您获得巨大的影响力，这在几乎所有领域都是前所未有的。 \n\n这意味着我们正处于历史上一个独特的时刻，任何在任何领域具有高水平雄心和核心技能的人都可以克服其角色的许多历史经验要求。\n\n这适用于任何初级或高级人员，但令人高兴的是，你可以做的事情远远超过几年前作为新员工所能完成的事情。利用这一点的人将会取得巨大的进步。 \n\n那些在内部或外部发现此类人才的公司应该将他们安排在关键职位上，以尽可能地发挥他们的作用。这些人看起来很奇怪，而且来自未来，但他们会帮助你弄清楚事情的发展方向。每个公司都应该尽其所能来找到他们。"
+    },
+    "garrytan": {
+      "en": "Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GStack Browser, you can",
+      "zh": "您是否曾想与 Claude Code 一起控制您的浏览器？现在，借助 /open-gstack-browser 技能和 GStack 浏览器，您可以"
+    },
+    "nikunj": {
+      "en": "Brevity and clarity is what’s missing in most writing..\n\nI’ll go weeks without writing something publicly because I feel like I’m putting the onus of my muddy thoughts on the reader. \n\nThe best writing is able to communicate cleanly the crux of the matter and share a thread that’s simmering but not explored fully. \n\nWriting is still easier since you can edit and reframe anytime. I’m in awe of folks who are able to speak clearly and on the spot on any topic. \n\nOne day I hope to get there 🤞",
+      "zh": "简洁和清晰是大多数写作中所缺少的。\n\n我会几周不公开写东西，因为我觉得我把我的混乱想法的责任推给了读者。 \n\n最好的写作能够清晰地传达问题的关键，并分享一个酝酿但尚未充分探索的线索。 \n\n写作仍然更容易，因为您可以随时编辑和重新组织。我很敬畏那些能够在任何话题上当场清晰发言的人。 \n\n我希望有一天能到达那里🤞"
+    },
+    "steipete": {
+      "en": "GitHub folks are amazing while we melt their servers.",
+      "zh": "当我们融化他们的服务器时，GitHub 的人们真是太棒了。"
+    },
+    "danshipper": {
+      "en": "what we observe is never the model itself, only the model exposed to our method of questioning",
+      "zh": "我们观察到的从来都不是模型本身，而只是暴露于我们提问方法中的模型"
+    },
+    "sama": {
+      "en": "we still get looksmaxxed on frontend a little but we IQmog hard now",
+      "zh": "我们在前端的外观仍然有点夸张，但我们现在 IQmog 很努力"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:40\nThe cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times...",
+      "zh": "演讲者 1 | 00:00 - 00:40\n在人们谈论的 SaaS 灾难中，更换企业平台的成本是一笔巨大的开支。让我们考虑这个成本，然后让我们考虑与人力资本相关的成本，而不是其他事情，因为平台正在为你做这些工作。然后我们将 GPU 工厂的成本和将对其商业模式产生重大影响的代币相加。所以对于我们平台上的一个简单应用程序来说，这将是 10 倍",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
