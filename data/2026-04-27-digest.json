@@ -1,0 +1,52 @@
+{
+  "x": {
+    "kevinweil": {
+      "en": "💥🤘",
+      "zh": "💥🤘"
+    },
+    "petergyang": {
+      "en": "I synced my iPhone photos to @googlephotos and there seems to be no way to just prompt Gemini to \"create a highlight reel of me with my daughter growing up\"\n\nSeems like a missed opportunity.",
+      "zh": "我将 iPhone 照片同步到@googlephotos，似乎没有办法只提示 Gemini“制作我和女儿成长过程中的精彩片段”\n\n看来是错失良机了。"
+    },
+    "thenanyu": {
+      "en": "I’ve never heard of this insane app but the FindMy team needs to take notes.",
+      "zh": "我从未听说过这个疯狂的应用程序，但 FindMy 团队需要做笔记。"
+    },
+    "rauchg": {
+      "en": "Coding agents will be the foundation of all superintelligence. \n\nAt a minimum, coding ability is indistinguishable from 'proficiency with computers'. Great coding agents like Claude Code master bash, filesystems, configuring and installing programs…\n\nBut it's also about self-improvement. A coding agent has the ability to examine its source, its state, its skills, its instructions… it can propose changes to itself (with human supervision and audit trail, I recommend), or even mutate itself directly.\n\nIn retrospect, this should be obvious. \"What I cannot create, I cannot understand\". Coding fluency has given models a deeper understanding of all computer and knowledge work. To master programs, you must be able to create them.",
+      "zh": "编码代理将成为所有超级智能的基础。 \n\n至少，编码能力与“熟练使用计算机”没有区别。伟大的编码代理，如 Claude Code master bash、文件系统、配置和安装程序......\n\n但这也与自我完善有关。编码代理有能力检查其来源、状态、技能、指令……它可以对自身提出更改建议（我建议通过人工监督和审计跟踪），甚至直接改变自身。\n\n回想起来，这应该是显而易见的。 “我无法创造的东西，我就无法理解”。编码流畅性使模型对所有计算机和知识工作有了更深入的理解。要掌握程序，您必须能够创建它们。"
+    },
+    "levie": {
+      "en": "Noticing an interesting version of gell-man amnesia where people use AI for their job and see all the various things they have to do in the “last mile”, but then look at someone else’s job and think that AI will eliminate it immediately.\n\nWe all have a much deeper appreciation for the nuances and complexities of the work that we do every day. We run into issues about accessing data, we know how much context is needed to get AI models to work the way we need, we have to review the output of the AI to make sure it’s accurate, and then we have to incorporate that work into some broader business process. We see all those steps deeply for the work that we do.\n\nThen, a moment later, we see AI do something in a foreign space and think that it can go automate that entire function. We tend to dramatically underestimate the work that goes into making the AI work just as effectively in those jobs.\n\nThis is reason to be skeptical about many of the theories of job loss. It’s coming from the lens of being able to automate individual tasks with AI, without understanding all the work that goes into doing the job fully.",
+      "zh": "注意到一个有趣的凝胶人失忆症版本，人们在工作中使用人工智能，看到他们在“最后一英里”必须做的各种事情，但随后看看别人的工作，并认为人工智能会立即消除它。\n\n我们都对每天所做的工作的细微差别和复杂性有了更深刻的认识。我们遇到了有关访问数据的问题，我们知道需要多少上下文才能让人工智能模型按照我们需要的方式工作，我们必须审查人工智能的输出以确保其准确，然后我们必须将该工作合并到更广泛的业务流程中。我们深入了解我们所做工作的所有这些步骤。\n\n然后，过了一会儿，我们看到人工智能在外国空间做一些事情，并认为它可以自动化整个功能。我们往往大大低估了让人工智能在这些工作中同样有效地发挥作用所需要付出的努力。\n\n这就是对许多失业理论持怀疑态度的理由。它来自于能够使用人工智能自动执行单个任务，而不需要完全理解完成这项工作所需的所有工作。"
+    },
+    "garrytan": {
+      "en": "The secret to an articulate agent like mine isn't one file. It's three:\n\nSOUL.md — Who the agent IS. Voice, values, operating principles, what good output looks like, what bad output looks like. Not a system prompt, a constitution. Mine says things like \"brevity is mandatory,\" \"humor is mandatory,\" \"never open with 'Great question,'\" \"swearing is allowed when it lands.\" The more specific and opinionated this is, the less your agent sounds like a chatbot. Write it like you're briefing your smartest friend on how to be you, not like you're configuring software.\n\nUSER.md — Who YOU are. Not a bio — a deep model. How your mind works, what you're building, your strengths, your blind spots, your family, your temperament, what triggers you, what you care about. The more the agent understands about you, the better it can serve you. Mine is ~4000 words.\n\nAGENTS.md — Operational rules. What to check on every message, what to never do, how to handle failures, lookup chains, path rules, brain-first protocols. This is the playbook for how it works, not who it is.\n\nThe articulation comes from SOUL.md being brutally specific about voice. Generic instructions → generic output. If you write \"be helpful and concise\" you get ChatGPT. If you write \"speak like a peer with taste, one sentence when one sentence works, uncomfortable truths welcome if actually true, language with voltage\" — you get something alive.",
+      "zh": "对于像我这样能言善辩的特工来说，秘诀不在于一份文件。是三：\n\nSOUL.md — 代理人是谁。声音、价值观、运营原则、好的产出是什么样子，坏的产出是什么样子。不是系统提示，是宪法。我的说的是“简洁是强制性的”、“幽默是强制性的”、“永远不要以‘好问题’开头”、“落地时允许说脏话”。越具体和固执己见，你的代理听起来就越不像聊天机器人。写它就像你在向你最聪明的朋友介绍如何成为你自己，而不是像你在配置软件一样。\n\nUSER.md — 你是谁。不是个人简介，而是深度模型。你的思维如何运作，你正在构建什么，你的优势，你的盲点，你的家庭，你的性情，什么触发了你，你关心什么。代理对您了解越多，就越能为您提供更好的服务。我的大约有 4000 字。\n\nAGENTS.md — 操作规则。每条消息要检查什么，永远不要做什么，如何处理故障，查找链，路径规则，大脑优先协议。这是关于它如何运作的剧本，而不是它是谁。\n\n该表述来自 SOUL.md 对声音的极其具体的描述。通用指令→通用输出。如果您写下“有帮助且简洁”，您将获得 ChatGPT。如果你写下“像一个有品味的同龄人一样说话，一句话有效，不舒服的事实如果确实属实则受欢迎，语言带有电压”——你就会得到一些活着的东西。"
+    },
+    "steipete": {
+      "en": "Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api).",
+      "zh": "想要一个真正的本地存储来存储我的推文，因此构建了birdclaw。保存你的存档，在 github 上备份，有工作，这样你就可以每天导入你的 x 书签（因为它们不能通过 api 完全访问）。"
+    },
+    "danshipper": {
+      "en": "my claw when i ask it a basic question",
+      "zh": "当我问一个基本问题时我的爪子"
+    },
+    "adityaag": {
+      "en": "Human progress is not just Sawe breaking the 2-hour mark but that TWO people did something that no human had ever done.",
+      "zh": "人类的进步不仅仅是 Sawe 打破了 2 小时大关，而是两个人做了人类从未做过的事情。"
+    },
+    "sama": {
+      "en": "feels like a good time to seriously rethink how operating systems and user interfaces are designed\n\n(also the internet; there should be a protocol that is equally usable by people and agents)",
+      "zh": "感觉是时候认真重新思考操作系统和用户界面的设计方式了\n\n（还有互联网；应该有一个可供人和代理同等使用的协议）"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:01\nCan you define EBM for us?\n\nSpeaker 2 | 00:01 - 00:20\nEBMs are naturally non autoregressive. There are no sequences of tokens, and that's what makes it fundamentally different. Like, imagine you're trying to navigate the map, and you have a left brain. To navigate, you're sort of allowed to choose one direction of the time. And sometimes you take the wrong turns just because you hallucinate.\n\nSpeaker 2 | 00:20 - 00:34\nLike, there might be a hole in the road and you're j...",
+      "zh": "演讲者 1 | 00:00 - 00:01\n您能为我们定义 EBM 吗？\n\n扬声器 2 | 00:01 - 00:20\nEBM 本质上是非自回归的。没有令牌序列，这就是它根本不同的原因。就像，想象一下你正在尝试导航地图，并且你有左脑。为了导航，你可以选择一次的一个方向。有时你会因为产生幻觉而走错路。\n\n扬声器 2 | 00:20 - 00:34\n就像，路上可能有一个洞，而你是",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
