@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "ok we have a tiktok account now with some BTS",
+      "zh": "好的，我们现在有一个包含一些 BTS 的 tiktok 帐户"
+    },
+    "petergyang": {
+      "en": "My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:\n\n1. Charge money on day one.\n\nTibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no revenue and no stickiness in the revenue, it’s going to be very hard to build a successful business.” Free signups are easy to mistake for traction.\n\n2. Follow the signal when users surprise you.\n\nTibo acquired Typeframe ($2K MRR) as a product video tool, but noticed users were hacking it to stitch 5-second AI clips into longer videos with consistent characters and scenes. He pivoted the entire product to meet this need and rebranded it to Revid, which is now making $600K+ MRR.\n\n3. Price your AI SaaS at $50-100/month\n\nLow enough that customers don’t need a sales call and high enough to filter out tire-kickers. “I see so many people charging $10 / month and it puts you into the position of a cheap product.” Tibo picks his price point first, then shapes the product around it.\n\n4. Keep monthly churn below 20%.\n\nIf more than 20% of customers cancel each month, stop scaling acquisition and fix the product first. There’s a ceiling (max MRR) on your revenue based on churn vs. acquisition. At 40% churn, customers stay about 2 months and you’ll hit a wall no matter how much you spend.\n\n5. Build tool pages to rank on Google\n\nRevid has 100+ pages each targeting a specific Google search like “turn audio into video” and “YouTube to shorts.” Many AI founders follow a similar model.\n\n📌 Watch our full conversation for more practical tactics like the above:",
+      "zh": "我从@tibo_maker（一位每月收入超过 100 万美元的独立 AI 创始人）得到的 5 大收获：\n\n1.第一天就收费。\n\nTibo 的第一家创业公司失败了，因为他更关心显得成功（例如，我管理着一个 10 人的团队并筹集了 20 万美元），而不是验证付费客户的需求。 “如果没有收入，也没有收入粘性，就很难建立成功的企业。”免费注册很容易被误认为是吸引力。\n\n2. 当用户给你带来惊喜时，遵循信号。\n\nTibo 收购了 Typeframe（MRR 2000 美元）作为产品视频工具，但注意到用户正在破解它，将 5 秒的 AI 剪辑拼接成具有一致角色和场景的较长视频。他调整了整个产品以满足这一需求，并将其重新命名为 Revid，目前 MRR 收入超过 60 万美元。\n\n3. 将 AI SaaS 定价为 50-100 美元/月\n\n足够低，客户不需要销售电话，也足够高，可以过滤掉轮胎问题。 “我看到很多人每月收费 10 美元，这让你处于廉价产品的境地。”蒂博首先选择自己的价格点，然后围绕这个价格点设计产品。\n\n4. 将每月流失率控制在 20% 以下。\n\n如果每月有超过 20% 的客户取消，请停止扩展获取并首先修复产品。根据流失与收购，您的收入存在上限（最大 MRR）。在 40% 的流失率下，客户会停留大约 2 个月，无论你花多少钱，你都会遇到困难。\n\n5. 构建工具页面以在 Google 上排名\n\nRevid 有 100 多个页面，每个页面都针对特定的 Google 搜索，例如“将音频转为视频”和“YouTube 转短片”。许多人工智能创始人都遵循类似的模式。\n\n📌 观看我们的完整对话，了解上述更实用的策略："
+    },
+    "amasad": {
+      "en": "Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.\n\nThe benefits of a vertically integrated platform will continue to compound.",
+      "zh": "重新快速运行一年多前的所有这些知识，现在我们是唯一具有适当代理生产隔离的平台。\n\n垂直整合平台的优势将继续增强。"
+    },
+    "garrytan": {
+      "en": "GStack ships with Chromium that has Claude Code as the CLI and you can type /pair-agent from your real CC or the sidebar one\n\nAnd it'll give you a string to paste into your OpenClaw/Hermes so it can control your browser remotely, and you can log it into stuff and have it scrape",
+      "zh": "GStack 附带 Chromium，其中 Claude Code 作为 CLI，您可以从真实的 CC 或侧边栏输入 /pair-agent\n\n它会给你一个字符串粘贴到你的 OpenClaw/Hermes 中，这样它就可以远程控制你的浏览器，你可以将它登录到东西中并让它刮擦"
+    },
+    "mattturck": {
+      "en": "Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb\n\nGlobal 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary\n\nNever seen a gap this huge",
+      "zh": "硅谷：人工智能自我加速，代理人掌控一切，老人都是哑巴\n\nGlobal 2000：两年前我在你们的人工智能聊天上花了一大笔钱，但生产力为零；我的工程师喜欢人工智能编码，但没有人关心；代理人很可怕\n\n从未见过如此巨大的差距"
+    },
+    "nikunj": {
+      "en": "Introducing Dawn 🌅\n\n@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.\n\nSo, we decided to start one.\n\nDawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only.\n\nRegister at meetatdawn dot com",
+      "zh": "黎明介绍🌅\n\n@varadh、@trq212 和我最近一直在和很多前创始人交谈。创办公司的每个阶段都有一个社区。没有一个可以描述接下来发生的事情。\n\n所以，我们决定开始一个。\n\nDawn Vol I 是一顿小晚餐。 5月19日，旧金山。不记录。仅限前创始人。\n\n在 meetatdawn dot com 注册"
+    },
+    "steipete": {
+      "en": "Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work.",
+      "zh": "最终拥有用于 PR/问题管理、远程测试执行、用于测试的大规模 CI 基础设施的出色解决方案。简化了很多工作。"
+    },
+    "danshipper": {
+      "en": "here’s what ive read so far this year",
+      "zh": "这是我今年到目前为止读到的内容"
+    },
+    "adityaag": {
+      "en": "Before @RamaswmySridhar was CEO of @Snowflake, he was the guy who scaled Google's ads business from $1.5B to $ 100B. \n\nHe's coming by @southpkcommons next week. Join us.",
+      "zh": "在 @RamaswmySridhar 担任 @Snowflake 的首席执行官之前，他是将 Google 广告业务从 $1.5B 扩大到 $100B 的人。 \n\n他下周会来@southpkcommons。加入我们。"
+    },
+    "sama": {
+      "en": "we have updated our partnership with microsoft.\n\nmicrosoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.\n\nwill continue to provide them with models and products until 2032, and a revenue share through 2030.",
+      "zh": "我们更新了与微软的合作伙伴关系。\n\n微软仍将是我们的主要云合作伙伴，但我们现在能够在所有云上提供我们的产品和服务。\n\n将继续向他们提供模型和产品直到 2032 年，并在 2030 年之前分享收入。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:23\nWe've now reached a point in marketing where if your marketing team is not using agents, and in particular, ProFound agents, to do marketing, then you are failing. It's gone from a nice to have to a must have. And I think the big misconception with using agents to build marketing is that it's just a way to automate the work that we've been doing in the past. Yep. And the reality is quite different.\n\nSpeaker 1 | 00:23 - 00:30\nIt's that you can now, because of agents and ...",
+      "zh": "演讲者 1 | 00:00 - 00:23\n我们现在在营销方面已经到了这样一个阶段：如果你的营销团队不使用代理商，特别是 ProFound 代理商来进行营销，那么你就失败了。它已经从“必须有”变成了“必须有”。我认为使用代理建立营销的最大误解是，这只是我们过去一直在做的工作自动化的一种方式。是的。而现实却截然不同。\n\n演讲者 1 | 00:23 - 00:30\n现在你可以了，因为有了代理和",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
