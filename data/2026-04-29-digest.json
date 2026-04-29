@@ -1,0 +1,53 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "I have alot of respect for solo AI builders.\n\nThe world is their playground now.",
+      "zh": "我非常尊重独立的人工智能构建者。\n\n现在世界就是他们的游乐场。"
+    },
+    "thenanyu": {
+      "en": "The luxury of having excess compute",
+      "zh": "拥有多余计算能力的奢侈"
+    },
+    "trq212": {
+      "en": "we're doing a lot more of this, hunting down some of the most annoying bugs in Claude Code\n\nlet me know if you have any white whales",
+      "zh": "我们正在做更多这样的事情，寻找 Claude Code 中一些最烦人的错误\n\n如果您有白鲸，请告诉我"
+    },
+    "amasad": {
+      "en": "Thrilled to support the education GOAT as he reinvents education (again).",
+      "zh": "很高兴能够支持教育界的“山羊”，因为他（再次）重塑了教育。"
+    },
+    "rauchg": {
+      "en": "We're growing the Vercel Labs team. Our mission is to build the devtools of the AI era.\n\nWe used to build tools for humans, now we're building them for agents. @ctatedev & team have shipped the tools that agents love: 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜, 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚌𝚑𝚊𝚝, 𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑, 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛… 22.8M+ downloads to date.\n\nDream job. DMs open 😀",
+      "zh": "我们正在壮大 Vercel Labs 团队。我们的使命是打造人工智能时代的开发工具。\n\n我们曾经为人类构建工具，现在我们正在为智能体构建工具。 @ctatedev 和团队已经提供了代理商喜爱的工具：𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛、𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜、 𝚜𝚔𝚒𝚕𝚕𝚜、𝚌𝚑𝚊𝚝、𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑、 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛…迄今为止下载量超过 2280 万次。\n\n梦想的工作。 DM 开放😀"
+    },
+    "levie": {
+      "en": "Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build vastly more custom systems internally, great for domain experts that want to automate workflows or wire systems together, and absolutely fantastic for anyone curious to learn how to start coding. \n\nWhat it’s less great for is casually building complex software that you have to maintain on an ongoing basis and take on all the risk for. Upgrades, maintenance, keeping up to date with latest security issues, and so on, are taxes most knowledge workers aren’t familiar with or prepared for.\n\nNet net: we’re going to get 100X more software and vastly more software developers in the future. But that’s different from *everyone* rolling their own.",
+      "zh": "代理编码对于想要完成更多工作的软件开发人员来说是一个巨大的福音，对于 IT 人员在内部构建更多自定义系统来说非常有用，对于想要自动化工作流程或将系统连接在一起的领域专家来说非常有用，对于任何有兴趣学习如何开始编码的人来说绝对是很棒的。 \n\n它不太适合随意构建复杂的软件，您必须持续维护这些软件并承担所有风险。升级、维护、及时了解最新的安全问题等等，这些都是大多数知识工作者不熟悉或准备好的工作。\n\nNet net：未来我们将获得 100 倍的软件和更多的软件开发人员。但这与“每个人”自己推出不同。"
+    },
+    "garrytan": {
+      "en": "10 years since AlphaGo\nIncredible",
+      "zh": "AlphaGo 10 周年\n难以置信"
+    },
+    "nikunj": {
+      "en": "No one will believe me but this happened this morning..\n\nX (clearly a founder): I’m talking to all the Tier 1 VCs - and have second meetings. \n\nY (angel, friend maybe): You mean the neolab index funds?\n\n💀\n\n📌 Sightglass on 7th St",
+      "zh": "没有人会相信我，但这件事发生在今天早上..\n\nX（显然是创始人）：我正在与所有一级风险投资人交谈，并举行第二次会议。 \n\nY（天使，也许是朋友）：你是说 Neolab 指数基金吗？\n\n💀\n\n📌 第七街的视镜"
+    },
+    "steipete": {
+      "en": "I smell a leak.",
+      "zh": "我闻到有泄漏的味道。"
+    },
+    "danshipper": {
+      "en": "using posthog inside of codex\n\nit is SO MUCH better to browse posthog inside of codex—codex can write queries and see the results, and it makes our collaboration extremely seamless. codex can also kick off agents that write PRs or run production DB requests to back up insights it's finding\n\na browser inside your desktop coding orchestration tool > an agent in your browser",
+      "zh": "在 Codex 中使用 posthog\n\n在 codex 内部浏览 posthog 效果要好得多——codex 可以编写查询并查看结果，这使我们的协作变得非常无缝。 codex 还可以启动编写 PR 或运行生产数据库请求的代理，以支持其发现的见解\n\n桌面编码编排工具中的浏览器 > 浏览器中的代理"
+    },
+    "adityaag": {
+      "en": "I cannot explain how awesome this is.",
+      "zh": "我无法解释这有多棒。"
+    },
+    "claudeai": {
+      "en": "Claude now connects to the tools creative professionals already use.\n\nWith the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.",
+      "zh": "克劳德现在连接到创意专业人士已经使用的工具。\n\n借助新的 Blender 连接器，您可以直接从 Claude 调试场景、构建新工具或在每个对象上批量应用更改。"
+    }
+  },
+  "podcasts": {}
+}
