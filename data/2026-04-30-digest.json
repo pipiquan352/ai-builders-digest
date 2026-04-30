@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "> be me\n> \"the internet is polluted by ai slop, we need low-background tokens\"\n> \"wouldnt it be cool if we could time travel and see what our ancestors 100 years ago would say to us\"\n> all the existing vintage models are like <4B\n> we need a chat tuned 13B vintage model \n> assemble avengers of ML incl the GPT-1/2 guy\n> need vintage tokens\n> train new vintage OCR model for old books, newspapers, periodicals, scientific journals, patents, and case law\n> need vintage RLHF but cant use chat \n> synthesize RLHF pairs from historical texts with regular structure eg etiquette manuals, letter-writing manuals, cookbooks, dictionaries, encyclopedias, and poetry and fable collections, shove it into ChatML\n> train it\n> future knowledge still got in somehow\n> dammit.jpg\n> train new SOTA document-level n-gram-based anachronism classifier\n> meticulously curate hundreds of billions of pre-1931 tokens (public domain)\n> train it\n> ok! it checks out vs our FineWeb baseline!\n> release it\n> it's the most confidently racist model ever released by humankind\n> mfw",
+      "zh": "> 做我自己\n> “互联网被ai垃圾污染，我们需要低背景代币”\n> “如果我们能够穿越时空，看看 100 年前的祖先会对我们说些什么，那不是很酷吗”\n> 所有现有的复古模型都像<4B\n> 我们需要一个聊天调校的 13B 复古模型 \n> 组装 ML 复仇者联盟，包括 GPT-1/2 家伙\n> 需要复古代币\n> 为旧书、报纸、期刊、科学期刊、专利和判例法训练新的老式 OCR 模型\n> 需要老式 RLHF 但无法使用聊天功能 \n> 从具有规则结构的历史文本中合成RLHF对，例如礼仪手册、书信写作手册、食谱、词典、百科全书、诗歌寓言集，并将其推入ChatML\n> 训练它\n> 未来的知识仍然以某种方式进入\n> 该死的.jpg\n> 训练新的 SOTA 文档级基于 n-gram 的时代错误分类器\n> 精心策划 1931 年之前的数千亿代币（公共领域）\n> 训练它\n> 好的！它与我们的 FineWeb 基线进行了比较！\n> 释放它\n> 这是人类有史以来发布的最自信的种族主义模型\n> 制造商"
+    },
+    "joshwoodward": {
+      "en": "New in Gemini: Generate files and export them\n\nTell Gemini what you want to create and the format, and it now does the work for you.\n\nNow supporting:\n📄 Google Docs, Word (.docx) & PDFs\n📊 Google Sheets, Excel (.xlsx) & CSV\n🖥️ Google Slides\n🛠️ Markdown, LaTeX, TXT, RTF\n\nAvailable now on all surfaces globally!",
+      "zh": "Gemini 的新功能：生成文件并导出它们\n\n告诉 Gemini 您想要创建什么以及格式，它现在就会为您完成工作。\n\n现在支持：\n📄 Google 文档、Word (.docx) 和 PDF\n📊 Google 表格、Excel (.xlsx) 和 CSV\n🖥️ 谷歌幻灯片\n🛠️ Markdown、LaTeX、TXT、RTF\n\n现已在全球所有表面上推出！"
+    },
+    "kevinweil": {
+      "en": "It turns out, the job of a radiologist isn't to read x-rays. \n\nIt's to cure people. \n\nAnd if AI can help speed the process of understanding x-rays, radiologists can see and cure more people.",
+      "zh": "事实证明，放射科医生的工作不是阅读 X 光片。 \n\n是来给人治病的。 \n\n如果人工智能可以帮助加快理解 X 射线的过程，放射科医生就可以看到并治愈更多的人。"
+    },
+    "petergyang": {
+      "en": "Don't know what's going on with @claudeai but I find that I often now have to wait 3-5 seconds randomly for it to respond just using the basic web UI.",
+      "zh": "不知道 @claudeai 发生了什么，但我发现我现在经常需要随机等待 3-5 秒才能仅使用基本的 Web UI 来响应。"
+    },
+    "thenanyu": {
+      "en": "We are reinventing design to eng. handoff from first principles.",
+      "zh": "我们正在将设计重塑为工程。从第一原则开始的交接。"
+    },
+    "amasad": {
+      "en": "Free accounts for teachers, 50% off for students!",
+      "zh": "教师免费帐户，学生 50% 折扣！"
+    },
+    "levie": {
+      "en": "Starting to hire and retrain for new agent engineering roles for *internal* functions to help get more powerful agents working well on critical business processes. I expect this type of role to be a very big deal over time at Box and other companies.\n\nIt looks something like an internal FDE, whose job it is to wire up internal systems and get agents working with them effectively. The person will be extremely technical and capable of building secure, governed agents for internal workflows that connect to business systems (like Box, Salesforce, Workday, etc.), and codify workflows in skills.\n\nIn some cases this person may understand the business process well enough to do it fully, but in most cases I expect them to work with the business directly in an embedded fashion. Ironically, that may introduce another new role on the business side that is more akin to agent product management for internal processes. The key is that you need technical + process people that can span multiple teams or functions in an organization. It’s not about brining automation to a job, but bringing automation to a process.\n\nThis is going to be a very big trend in most companies going forward. Fun to watch the early innings of what this will look like.",
+      "zh": "开始为“内部”职能招聘和再培训新的代理工程角色，以帮助让更强大的代理在关键业务流程上顺利工作。我预计随着时间的推移，这种类型的角色将在 Box 和其他公司中发挥重要作用。\n\n它看起来有点像内部 FDE，其工作是连接内部系统并让代理有效地与其合作。此人技术精湛，能够为连接到业务系统（如 Box、Salesforce、Workday 等）的内部工作流程构建安全、受管理的代理，并以技能编纂工作流程。\n\n在某些情况下，这个人可能对业务流程有足够的了解，足以完全完成它，但在大多数情况下，我希望他们以嵌入式方式直接与业务合作。具有讽刺意味的是，这可能会在业务方面引入另一个新角色，该角色更类似于内部流程的代理产品管理。关键是您需要能够跨越组织中多个团队或职能的技术+流程人员。这不是将自动化带入工作，而是将自动化带入流程。\n\n这将成为大多数公司未来的一个非常大的趋势。观看比赛的前几局会是什么样子很有趣。"
+    },
+    "ryolu_": {
+      "en": "build your own agent systems with Cursor – the same multi-model harness, on local and cloud",
+      "zh": "使用 Cursor 构建您自己的代理系统 – 在本地和云端使用相同的多模型工具"
+    },
+    "garrytan": {
+      "en": "I'm that guy",
+      "zh": "我就是那个人"
+    },
+    "mattturck": {
+      "en": "You know you’re at a VC dinner when",
+      "zh": "你知道你正在参加一场风险投资晚宴"
+    },
+    "nikunj": {
+      "en": "Having my little “agent” touch grass for me 🌻",
+      "zh": "让我的小“代理人”为我摸草🌻"
+    },
+    "steipete": {
+      "en": "And people think tokens are expensive... this is @useblacksmith (they sponsor OpenClaw, 🫶🦞)",
+      "zh": "人们认为代币很昂贵......这是@useblacksmith（他们赞助 OpenClaw，🫶🦞）"
+    },
+    "danshipper": {
+      "en": "Agents who can buy, sell, and trade on our behalf are becoming a major part of the economy. But what exactly are they doing?\n\nStripe sees 2% of global GDP, so they’re the company with the best view of what’s going on in the earliest innings of the agent economy.\n\nThat’s why I had Emily Glassberg Sands, who leads data and AI at @stripe, on @every’s AI & I. We covered:\n- Most of us still don’t trust AI with larger online purchases. People are hesitant to let AI make expensive purchases like a vacation or a couch—just like the early days of online shopping. But a superhero outfit for a kid who needs one stat? Sure, let the agent handle it. \n- Fraud is moving up the stack. It used to mean stolen credit cards. Now attackers are stealing free-trial tokens and compute credits. Free-trial abuse has 4x-ed in the last six months..\n- AI is on both sides of fraud. Fraudsters are using it to scale attacks, while Stripe is using it to detect them. They’re blocking 250,000 fraudulent free trials a week for one large customer.\n- AI companies are growing faster than any cohort Stripe has ever tracked. Top companies hit $30M ARR in 18 months—3x faster than the 2018 SaaS class. So far, it’s net new spend instead of cannibalized software budgets.\n\nIf you want to understand how AI is reshaping online commerce, this one deserves your time.\n\nTimestamps\nIntroduction: 00:00:45\nNew rules for an agent-driven economy: 00:01:27\nCompute theft is the new payment fraud: 00:03:57\nHow Stripe expanded fraud detection from checkout to the full customer lifecycle: 00:10:00\nWhy AI companies are scaling way faster than top SaaS companies: 00:19:48\nOutcome-based billing is replacing seat-based pricing: 00:23:27\nWhere AI spending is coming from: 00:29:57\nHow the developer experience changes when agents are the builders: 00:36:45\nThe agentic commerce spectrum, from assisted buying to autonomous purchasing: 00:41:00\nMeet Link, a consumer wallet for delegated agent purchases: 00:51:06",
+      "zh": "可以代表我们进行买卖和交易的代理商正在成为经济的重要组成部分。但他们到底在做什么？\n\nStripe 占全球 GDP 的 2%，因此他们是最了解代理经济早期发展趋势的公司。\n\n这就是为什么我请来了 Emily Glassberg Sands，她在 @stripe 负责数据和人工智能，在 @every 的 AI & I 上。我们涵盖了：\n- 我们大多数人仍然不相信人工智能可以进行更大规模的在线购物。人们对于让人工智能进行昂贵的购买（例如度假或沙发）犹豫不决，就像早期的网上购物一样。但是，为需要一项统计数据的孩子准备一套超级英雄服装呢？当然可以，让agent来处理吧。 \n- 欺诈正在不断上升。它曾经意味着被盗的信用卡。现在，攻击者正在窃取免费试用代币和计算积分。免费试用滥用在过去六个月中增加了 4 倍。\n- 人工智能是欺诈的双方。欺诈者使用它来扩大攻击规模，而 Stripe 则使用它来检测攻击。他们每周为一位大客户阻止 250,000 次欺诈性免费试用。\n- 人工智能公司的增长速度比 Stripe 追踪的任何同类公司都要快。顶级公司在 18 个月内实现了 3000 万美元的 ARR，比 2018 年 SaaS 类别快了 3 倍。到目前为止，这是净新支出，而不是蚕食软件预算。\n\n如果你想了解人工智能如何重塑在线商务，那么这篇文章值得你花时间。\n\n时间戳\n简介：00:00:45\n代理驱动经济的新规则：00:01:27\n计算盗窃是新的支付欺诈：00:03:57\nStripe 如何将欺诈检测从结账扩展到整个客户生命周期：00:10:00\n为什么人工智能公司的扩张速度比顶级 SaaS 公司快得多：00:19:48\n基于结果的计费正在取代基于座位的定价：00:23:27\n人工智能支出从何而来：00:29:57\n当代理成为构建者时，开发人员的体验会发生怎样的变化：00:36:45\n代理商务范围，从辅助购买到自主购买：00:41:00\nMeet Link，用于委托代理购买的消费者钱包：00:51:06"
+    },
+    "adityaag": {
+      "en": "Some observations on agents from a lot of time spent installing, using, debugging and building things with OpenClaw, Hermes, etc.\n\n- Most people who rave about OpenClaw, HermesAgent etc. have not actually used it. Facts.\n\n- Agents are developer products today. They are so so so far from being consumer grade in terms of delight, simplicity, reliability etc.\n\n- I wish the agents generated more dynamic interfaces. Don't give me chat. Give me interactive, dynamic apps/webpages. I suspect this will be a next big vector of innovation.\n\n- The agents are ultimately a wrapper to code-generation and tool-calling....not to \"generative AI\". This is important to grok. These agents are doing most of their \"work\" through iterative tool calling.\n\n- Once you understand the core loop behind agentic AI, old school \"chat AI\" doesn't make sense. The idea of an \"always-on\" agent that actually adapts, learns and maintains state is a LOT more compelling than a one-off chat prompt. The latter feels much more like a search query.\n\n- So much of mangling with agents today is basically setting it up to use browsers and/or your computer. And there are so many constraints!\n\n- Installing and running openclaw feels a lot like running Linux in the early 2000s. You spend a lot of time compiling device drivers, setting up configurations etc. You feel a real sense of accomplishment from jerry-rigging everything together but it is a LOT of work to get to the point of utility",
+      "zh": "通过花费大量时间安装、使用、调试和使用 OpenClaw、Hermes 等构建东西，对代理进行了一些观察。\n\n- 大多数热衷于 OpenClaw、HermesAgent 等的人并没有真正使用过它。事实。\n\n- 代理如今已成为开发者产品。它们在愉悦性、简单性、可靠性等方面还远未达到消费级。\n\n- 我希望代理生成更多动态界面。别跟我聊天。给我交互式、动态的应用程序/网页。我怀疑这将是下一个重要的创新载体。\n\n- 代理最终是代码生成和工具调用的包装器......而不是“生成人工智能”。这对 grok 来说很重要。这些代理通过迭代工具调用来完成大部分“工作”。\n\n- 一旦你了解了代理人工智能背后的核心循环，老派的“聊天人工智能”就没有意义了。真正适应、学习和维护状态的“永远在线”代理的想法比一次性聊天提示更引人注目。后者感觉更像是搜索查询。\n\n- 今天对代理的大部分修改基本上都是将其设置为使用浏览器和/或您的计算机。而且还有很多限制！\n\n- 安装和运行 openclaw 感觉很像 2000 年代初期运行 Linux。你花费大量时间编译设备驱动程序、设置配置等​​。你会因为偷工减料而感到真正的成就感，但要达到实用的目的需要做很多工作"
+    },
+    "sama": {
+      "en": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days.\n\nwe will work with the entire ecosystem and the government to figure out trusted access for cyber; we want to rapidly help secure companies/infrastructure.",
+      "zh": "我们将在接下来的几天内开始向关键网络防御者推出 GPT-5.5-Cyber​​，这是一种前沿网络安全模型。\n\n我们将与整个生态系统和政府合作，找出可信的网络访问方式；我们希望快速帮助确保公司/基础设施的安全。"
+    },
+    "claudeai": {
+      "en": "\"Keep Thinking\" Prize: MaestrIA by Benjamin Torralbo from Chile\n\nA home repair tool that photographs damage, returns a diagnosis, prices parts at local stores, and drafts a message to a nearby tradesperson. Built by a carpenter’s son.",
+      "zh": "“不断思考”奖：MaestrIA，作者：来自智利的 Benjamin Torralbo\n\n一种家庭维修工具，可以拍摄损坏情况，返回诊断结果，在当地商店为零件定价，并起草一条消息给附近的商人。由木匠的儿子建造。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:29\nThe Internet has this new kind of actor on it. Over time, this actor, these agents will become the predominant actors on the Internet. These AI companies are just growing from a revenue perspective faster than any previous cohort we've seen. LLM traffic to Stripe Docs is up 10 x year over year. And that's just a useful signal that machines are becoming users of developer infrastructure too, including Stripe's developer infrastructure.\n\nSpeaker 1 | 00:33 - 00:33\nSignal\n\n...",
+      "zh": "演讲者 1 | 00:00 - 00:29\n互联网上出现了这种新的演员。随着时间的推移，这个演员、这些代理人将成为互联网上的主要演员。从收入角度来看，这些人工智能公司的增长速度比我们之前见过的任何同类公司都要快。 Stripe Docs 的 LLM 流量同比增长 10 倍。这只是一个有用的信号，表明机器也正在成为开发人员基础设施的用户，包括 Stripe 的开发人员基础设施。\n\n演讲者 1 | 00:33 - 00:33\n信号",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
