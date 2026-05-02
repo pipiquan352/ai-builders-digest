@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "request for chrome extension that augments all image input boxes on the web:\n\n- lets me generate a simple word text thing (no ai)  OR \n- draw something with @tldraw (no ai) OR\n- use either words or drawings to generate something of the required proportions\n\n@devinai do it pls",
+      "zh": "请求 chrome 扩展来增强网络上的所有图像输入框：\n\n- 让我生成一个简单的文字文本（无人工智能）或 \n- 用@tldraw画一些东西（没有ai）或者\n- 使用文字或图画来生成所需比例的东西\n\n@devinai 请这样做"
+    },
+    "petergyang": {
+      "en": "I spent close to $3,000 for a Macbook Pro so that I can try running local models.\n\nAt least, that was my excuse. In reality, I am running...😅",
+      "zh": "我花了近 3,000 美元买了一台 Macbook Pro，这样我就可以尝试运行本地模型。\n\n至少，这是我的借口。事实上，我正在跑步......😅"
+    },
+    "amasad": {
+      "en": "Replit, turned 10 🎂\n\nTo celebrate we’re making it totally free for 24 hours starting at 5am PT.\n\nBut our work—to make coding accessible for all—goes back to 2011.\n\nWatch the highlights from the journey:\n\nIt’s been an honor to help millions learn &amp; ship. Here is to the next 10!",
+      "zh": "重制版，10 岁了🎂\n\n为了庆祝，我们从太平洋时间凌晨 5 点开始 24 小时内完全免费。\n\n但我们的工作——让所有人都能接触到编程——可以追溯到 2011 年。\n\n观看旅程的亮点：\n\n帮助数百万人学习和传播是我的荣幸。这是接下来的 10 个！"
+    },
+    "levie": {
+      "en": "Atlassian’s results surprised Wall Street, but it shouldn’t be a surprise. The simple heuristic for the future of software is that when there are 100X more agents than people, which parts of software will grow because agents are doing more work that the underlying software is tied to.\n\nIf the world generates more code, generates more leads, reviews more contracts, processes more invoices, creates more designs, transacts with more payments, and so on, what are the underlying systems that are managing that work? That will give you a hint as to what happens next.\n\nThese agents still need guardrails, security, compliance, workflows to be tied to, data stored, and so on. Those parts of the system of record ecosystem will only go up over time in a world of 100X more untrusted (and trusted) agents used in your workflows.",
+      "zh": "Atlassian 的业绩让华尔街感到惊讶，但这并不令人意外。对于软件未来的简单启发是，当代理数量比人多 100 倍时，软件的哪些部分将会增长，因为代理正在做更多与底层软件相关的工作。\n\n如果世界生成更多的代码、产生更多的销售线索、审查更多的合同、处理更多的发票、创建更多的设计、进行更多的付款交易等等，那么管理这些工作的底层系统是什么？这会给你一个关于接下来会发生什么的提示。\n\n这些代理仍然需要护栏、安全性、合规性、要绑定的工作流程、存储的数据等等。随着时间的推移，在工作流程中使用的不可信（和可信）代理数量会增加 100 倍，记录系统生态系统的这些部分只会不断增加。"
+    },
+    "garrytan": {
+      "en": "How to drive the billionaires out and ruin the California tax base in one fell swoop: propose asset seizure measures\n\nMake it make sense! Middle class taxpayers will take on all the billions in tax revenue lost",
+      "zh": "如何一举赶走亿万富翁并毁掉加州税基：提出资产扣押措施\n\n让它有意义！中产阶级纳税人将承担全部数十亿美元的税收损失"
+    },
+    "nikunj": {
+      "en": "Look Ma, I'm at $36,500 in ARR 💀",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "The new /goal feature in codex slaps.",
+      "zh": "Codex slaps 中的新 /goal 功能。"
+    },
+    "danshipper": {
+      "en": "this is correct and the reason is simple:\n\nmodels know more than any individual human. but any individual human learns faster than models do",
+      "zh": "这是正确的，原因很简单：\n\n模型比任何人类个体都懂得更多。但任何个人的学习速度都比模型快"
+    },
+    "adityaag": {
+      "en": "The best way to kill your company? Focus on everything except the product.",
+      "zh": "杀死你公司的最好方法是什么？专注于除产品之外的一切。"
+    },
+    "sama": {
+      "en": "man its good to be back on twitter\n\nthere is comfort in the skills of a wasted youth",
+      "zh": "伙计，很高兴回到推特上\n\n浪费青春的技能令人感到安慰"
+    },
+    "claudeai": {
+      "en": "Code with Claude, our developer conference, returns next week.\n\nWhether you're just getting started with Claude Code or you've been building for a while, there's a session for you.\n\nRegister for the livestream:",
+      "zh": "我们的开发者大会 Code with Claude 将于下周回归。\n\n无论您是刚刚开始使用 Claude Code 还是已经构建了一段时间，总有适合您的课程。\n\n注册直播："
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:28\nHi, listeners. Today, Elad and I are here with Tuhin Srivastava, the founder and CEO of Base10, inference cloud. We're here to talk about capacity constraints for AI compute, why inference is the last market, how the workload is changing, the open source and perhaps multi chip future, and what 30x scale in a year looks like. Tuhin, welcome back.\n\nSpeaker 2 | 00:28 - 00:30\nHi. Good to see you.\n\nSpeaker 3 | 00:30 - 00:31\nThanks for having me.\n\nSpeaker 1 | 00:31 - 00:41\nAl...",
+      "zh": "演讲者 1 | 00:05 - 00:28\n嗨，听众们。今天，我和 Elad 与推理云 Base10 的创始人兼首席执行官 Tuhin Srivastava 一起来到这里。我们在这里讨论人工智能计算的容量限制、为什么推理是最后一个市场、工作负载如何变化、开源和多芯片的未来，以及一年内 30 倍的规模是什么样子。图欣，欢迎回来。\n\n扬声器 2 | 00:28 - 00:30\n嗨。很高兴见到你。\n\n扬声器 3 | 00:30 - 00:31\n谢谢你有我。\n\n演讲者 1 | 00:31 - 00:41\n铝",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
