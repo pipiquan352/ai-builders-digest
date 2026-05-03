@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still living on as an open source project.\n\n\"Everyone who is making money is doing 2 things: selling to enterprise, and reselling tokens. We were doing neither.\" \n\nsurprisingly not the first company to shutter at AIE but there's a lot to learn from the process and the software engineering retrospective from 2021-2025 will stick in my mind!",
+      "zh": "非常感谢@tokengobbler，他在 AIE Europe 的舞台上关闭了 Vibe-kanban - 仍然拥有 30,000 MAU，并且仍然作为一个开源项目存在。\n\n“每个赚钱的人都在做两件事：卖给企业，以及转售代币。我们两者都没有做。” \n\n令人惊讶的是，这不是第一家在 AIE 关闭的公司，但从这个过程中可以学到很多东西，2021 年至 2025 年的软件工程回顾将留在我的脑海中！"
+    },
+    "petergyang": {
+      "en": "It's very satisfying to get Codex or Claude Code to \"marie kondo\" your local files and Google Drive.\n\nI give these apps full access to my computer and gws (google workspace cli), then prompt things like:\n\n\"Tell me what apps load on computer bootup. Give me a plan to clean this up.\"\n\n\"Look at my downloads folder. Give me a plan to clean up and organize it.\"\n\n\"Help me organize my Google Drive. Let's review your plan first before doing anything.\"\n\nNote that I always ask it for a plan first. These are semi-dangerous operations so try them at your own risk.\n\nAnyway, my files and Drive now spark joy 🤣",
+      "zh": "将 Codex 或 Claude Code 获取到“marie kondo”您的本地文件和 Google Drive 是非常令人满意的。\n\n我给这些应用程序完全访问我的计算机和 gws（谷歌工作区 cli）的权限，然后提示如下内容：\n\n“告诉我计算机启动时会加载哪些应用程序。给我一个清理这个问题的计划。”\n\n“看看我的下载文件夹。给我一个清理和整理它的计划。”\n\n“帮我整理一下我的 Google 云端硬盘。在做任何事情之前，我们先回顾一下您的计划。”\n\n请注意，我总是先要求它提供一个计划。这些是半危险的操作，因此尝试它们需要您自担风险。\n\n不管怎样，我的文件和云端硬盘现在充满了欢乐 🤣"
+    },
+    "amasad": {
+      "en": "“Prompt” took on an entirely new meaning but somehow many things stayed the same.",
+      "zh": "“提示”有了全新的含义，但不知何故，许多事情保持不变。"
+    },
+    "levie": {
+      "en": "If you think AI replaces software engineers, here’s a quick thought experiment. \n\nImagine you’re a life sciences company. 10 years ago you want to invest heavily in lab automation, processing data at scale, and other software. You look at the cost of doing so and realize you can’t compete with tech for as many engineers as you need, so you pare down your goals and do what you can. Every new software project has a fixed cost of a certain sized team, so you can only do so much given budgets, ability to compete for talent, and other trade offs.\n\nNow, AI comes along. And all of a sudden you have the *exact same* output tokens as the best tech companies in the world. Your engineers are using the same AI models as the tech industry, which means you have just boosted your engineering team by a some meaningful amount, while also neutralizing your differences with tech. \n\nDo you continue with your pared down approach, or do you start to hire more engineers because each engineer is 2X or 5X more capable than before? In almost every company I’m talking to, they’re doing the latter.\n\nNow extrapolate this to every bank, manufacturer, industrial company, retailer, and on and on. And extrapolate it not to just large enterprises, but also every SMB up and down the stack of these value chains. Oh, and also extrapolate this to other job functions, not just engineers. Resource scarce domains in marketing, legal, finance, design, and so on. \n\nIf you’re wondering why new jobs show up because of AI this is the reason. Any other view of what happens doesn’t contemplate the variety of unmet needs there are in the economy.",
+      "zh": "如果您认为人工智能取代了软件工程师，这里有一个快速的思想实验。 \n\n假设您是一家生命科学公司。 10 年前，您希望大力投资实验室自动化、大规模数据处理和其他软件。您考虑了这样做的成本，并意识到您无法与技术竞争以提供所需的尽可能多的工程师，因此您降低了目标并尽力而为。每个新的软件项目都有一定规模团队的固定成本，因此在给定预算、人才竞争能力和其他权衡的情况下，你只能做这么多。\n\n现在，人工智能出现了。突然之间，你就拥有了与世界上最好的科技公司“完全相同”的输出代币。您的工程师正在使用与科技行业相同的人工智能模型，这意味着您刚刚大幅增强了工程团队的实力，同时也消除了您与技术之间的差异。 \n\n您会继续采用精简方法，还是开始雇用更多工程师，因为每个工程师的能力比以前高 2 倍或 5 倍？在我接触过的几乎每家公司中，他们都在做后者。\n\n现在将这一点推断到每家银行、制造商、工业公司、零售商等等。不仅可以推断大型企业，还可以推断这些价值链上下游的每个中小企业。哦，还要将此推断到其他工作职能，而不仅仅是工程师。营销、法律、金融、设计等资源稀缺领域。 \n\n如果你想知道为什么人工智能会带来新的工作机会，这就是原因。对所发生情况的任何其他看法都没有考虑到经济中存在的各种未满足的需求。"
+    },
+    "garrytan": {
+      "en": "Oakland has highest taxes per capita among similar cities while services are among the worst. 44% of Measure E revenue goes to pre-approved union raises.\n\nThe pattern: wrap dysfunction in moral language, attack anyone who asks where the money went",
+      "zh": "奥克兰的人均税收是同类城市中最高的，而服务业却是最差的。措施 E 收入的 44% 用于预先批准的工会加薪。\n\n模式：用道德语言包装功能障碍，攻击任何询问钱去向的人"
+    },
+    "nikunj": {
+      "en": "Too many funds are capping downside right now, instead of maximizing upside..\n\nI’ll often ask the GP/partner on why they did the deal and on my fifth why the real reason comes out which is “well at least big token factory will acquire them so our downside is capped”\n\nI haven’t done this for many years but I don’t think history shows that’s how you return a 5-10x fund?\n\nMaybe, the incentives have really simply shifted to AUM-maxxing and so the sentiment is deploy baby deploy. But, sigh, that just seems so incredibly short sighted. \n\nMaybe, it’s been a long day and I just want to rant but time is the only thing you don’t get back. Use it very wisely to work on things that matter and with people who won’t treat you as an option call 🫡",
+      "zh": "现在太多的基金正在限制下行空间，而不是最大化上行空间。\n\n我经常会问普通合伙人/合作伙伴他们为什么要做这笔交易，而在我第五次询问时，真正的原因是“至少大型代币工厂会收购它们，这样我们的下行空间就受到限制”\n\n我已经很多年没有这样做了，但我不认为历史表明这就是你回报 5-10 倍基金的方式？\n\n也许，激励措施实际上已经简单地转向了 AUM 最大化，因此人们的情绪是部署婴儿部署。但是，叹息，这似乎太短视了。 \n\n也许，这是漫长的一天，我只是想咆哮，但时间是你唯一回不去的东西。非常明智地使用它来处理重要的事情，并与那些不会将您视为可选项的人一起工作 🫡"
+    },
+    "steipete": {
+      "en": "🦀 Crabbox 0.3.0 is out.\nRemote Linux runs for dirty worktrees\n\n🔐 GitHub browser login\n🧰 Blacksmith Testbox wrap\n📡 crabbox attach for live run replay\n📜 Durable run events\n☁️ AWS image create\n🛡️ Cloudflare Access\n\nbrew upgrade openclaw/tap/crabbox",
+      "zh": "🦀 Crabbox 0.3.0 已发布。\n远程 Linux 运行脏工作树\n\n🔐 GitHub 浏览器登录\n🧰 铁匠测试盒包装\n📡 附有螃蟹盒以进行现场运行重播\n📜 持久跑步活动\n☁️ AWS 镜像创建\n🛡️ Cloudflare 访问\n\n酿造升级openclaw/tap/crabbox"
+    },
+    "danshipper": {
+      "en": "clear that this is how we'll be doing most of our work for the next 10 years:\n\nagent running continuously on the left, application that you + the agent use on the right",
+      "zh": "明确这就是我们未来 10 年大部分工作的方式：\n\n代理在左侧持续运行，您+代理使用的应用程序在右侧"
+    },
+    "adityaag": {
+      "en": "If you get out of the console and terminal, you will start to see that there is a lot of hard tech being built in America.\n\nIt is deeply deeply inspiring and exciting.\n\nLet’s shoot things into space ✅",
+      "zh": "如果你离开控制台和终端，你会开始看到美国正在建造大量的硬技术。\n\n这是非常鼓舞人心和令人兴奋的。\n\n让我们把东西射入太空吧✅"
+    },
+    "sama": {
+      "en": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter\n\nbut it seems that just being smarter is still the most important thing",
+      "zh": "我一直在想，我希望模型更便宜/更快，而不是让它们更聪明\n\n但似乎变得更聪明仍然是最重要的"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:02 - 00:24\nSo Greg, thank you for coming back here. I don't think we ever charge you for rent. So maybe I'll send you an invoice later. But Greg, you've been part of like two really spectacular companies, Stripe as employee number four and then the first CTO. I just recently heard that they process 1,600,000,000, sorry, 1.6% of the global GDP.\n\nSpeaker 1 | 00:24 - 00:25\nYou must be proud of that.\n\nSpeaker 2 | 00:25 - 00:26\nThat's amazing.\n\nSpeaker 1 | 00:26 - 00:34\nYou must be eve...",
+      "zh": "演讲者 1 | 00:02 - 00:24\n格雷格，谢谢你回到这里。我认为我们从来没有向您收取租金。所以也许我稍后会给你寄一张发票。但是 Greg，你曾在两家非常出色的公司工作过，Stripe 是第四号员工，然后是第一位首席技术官。我最近听说他们处理了 1,600,000,000，抱歉，占全球 GDP 的 1.6%。\n\n演讲者 1 | 00:24 - 00:25\n你一定为此感到自豪。\n\n扬声器 2 | 00:25 - 00:26\n太棒了。\n\n演讲者 1 | 00:26 - 00:34\n你一定是除夕",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
