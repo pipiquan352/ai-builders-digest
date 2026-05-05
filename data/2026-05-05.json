@@ -1,0 +1,384 @@
+{
+  "generatedAt": "2026-05-05T15:57:31.287Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2051440392722391180",
+          "text": "OAI 850B valuation, ~30B ARR now \nAnt ~900B valuation, ~44B* ARR now  \n\n*revenue recognized differently, per Denise Dresser its probably closer to 8-10B lower if using OAI methodology\n\nchart reconstructed from wsj by me https://t.co/6NJhYWD7OR",
+          "createdAt": "2026-05-04T23:14:38.000Z",
+          "url": "https://x.com/swyx/status/2051440392722391180",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051329419860758932",
+          "text": "see the talk version, out now thanks to @steveruizok \nhttps://t.co/yWBLXGh5Od",
+          "createdAt": "2026-05-04T15:53:40.000Z",
+          "url": "https://x.com/swyx/status/2051329419860758932",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2050243598676013312"
+        },
+        {
+          "id": "2051329252344369626",
+          "text": "this one is doing v well btw if you want the popular vote filter on the firehose of all the things\n\n@patrickdebois was one of the track keynotes i gave a \"blank check\" to based on his sincere support since our very earliest days + when in europe we must feature the DevOps guy. he didnt disappoint!",
+          "createdAt": "2026-05-04T15:53:00.000Z",
+          "url": "https://x.com/swyx/status/2051329252344369626",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2051065645610017222"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Kevin Weil",
+      "handle": "kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "tweets": [
+        {
+          "id": "2051464436066721798",
+          "text": "👇👇👇 https://t.co/0VtIN5LVNa",
+          "createdAt": "2026-05-05T00:50:10.000Z",
+          "url": "https://x.com/kevinweil/status/2051464436066721798",
+          "likes": 22,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2051413373632610491"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2051508988936937764",
+          "text": "Coding is the first frontier.\nKnowledge work is the second one.\nPersonal agents are the third.",
+          "createdAt": "2026-05-05T03:47:12.000Z",
+          "url": "https://x.com/petergyang/status/2051508988936937764",
+          "likes": 121,
+          "retweets": 11,
+          "replies": 29,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051505589055070594",
+          "text": "Met the demo god himself today @romainhuet https://t.co/9znPEAkgXP",
+          "createdAt": "2026-05-05T03:33:42.000Z",
+          "url": "https://x.com/petergyang/status/2051505589055070594",
+          "likes": 63,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051459299860533483",
+          "text": "I want to get my 8 year old to start building stuff with agents that she actually can share with her class and teachers. Any ideas? \n\nMaybe she can make her first dollar online too.",
+          "createdAt": "2026-05-05T00:29:46.000Z",
+          "url": "https://x.com/petergyang/status/2051459299860533483",
+          "likes": 75,
+          "retweets": 1,
+          "replies": 58,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2051511694040744139",
+          "text": "Replit helped an entrepreneur find investors and land meetings! https://t.co/XBY3YWATyx",
+          "createdAt": "2026-05-05T03:57:57.000Z",
+          "url": "https://x.com/amasad/status/2051511694040744139",
+          "likes": 25,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2051506464426955179"
+        },
+        {
+          "id": "2051406536443035922",
+          "text": "Great use of AI for education: multi-modal learning platform for deaf students. https://t.co/RAmiVqbtgD",
+          "createdAt": "2026-05-04T21:00:06.000Z",
+          "url": "https://x.com/amasad/status/2051406536443035922",
+          "likes": 124,
+          "retweets": 11,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2050960499479654772"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2051386798899888539",
+          "text": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌\n\nWe're introducing an open-source agent orchestrator for deep security reviews.\n\nWe built it for internal use, and after running it against some major OSS projects, we gained conviction to share it with the world.\n\nCoding agents can now find critical vulnerabilities in minutes that would take teams of people months (if they can spot them at all). Since 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 is optimized to work with Vercel Sandbox, you can effectively harness the power of thousands of agents scrutinizing your codebase in parallel.\n\nI encourage you to try this on your repositories. BTW: If you run an OSS project and want us to sponsor a run, my DMs are open.",
+          "createdAt": "2026-05-04T19:41:40.000Z",
+          "url": "https://x.com/rauchg/status/2051386798899888539",
+          "likes": 1229,
+          "retweets": 86,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2051381241283539255"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2051344780328858040",
+          "text": "Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This is a trend that’s early but going to get very big fast.\n\nAs agents enter knowledge work beyond coding, there is very real work to upgrade IT systems, get agents the context they need, modernize the workflows to work with agents, figure out the human-agent relationship in the workflow, drive adoption and do change management, and much more. \n\nWhile AI models have an incredible amount of capability packed into them, there’s no shortcut to getting that intelligence applied to a business process in a stable way. This is creating tons of opportunities across the market for new jobs and firms, and the labs are equally recognizing the criticality here.",
+          "createdAt": "2026-05-04T16:54:42.000Z",
+          "url": "https://x.com/levie/status/2051344780328858040",
+          "likes": 836,
+          "retweets": 110,
+          "replies": 124,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2051536806932566406",
+          "text": "Also I’m a psycho about testing https://t.co/nL37rPCOjI",
+          "createdAt": "2026-05-05T05:37:45.000Z",
+          "url": "https://x.com/garrytan/status/2051536806932566406",
+          "likes": 19,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051525161380364315",
+          "text": "What makes gbrain genuinely different? \n\nIt's not a memory layer OR a code tool OR a search engine. It's all three unified under one graph with one query interface. Nobody else has that.\n\nAnd I use it all day with my 100k markdown file OpenClaw+Hermes Agent setup.",
+          "createdAt": "2026-05-05T04:51:28.000Z",
+          "url": "https://x.com/garrytan/status/2051525161380364315",
+          "likes": 308,
+          "retweets": 10,
+          "replies": 68,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051517574589116510",
+          "text": "GBrain v0.27 just dropped - as promised, you asked for support for lots of other non-Anthropic and non-OpenAI embeddings and LLM support, so here it is. \n\nMulti-modal embeddings and deep photo OCR, description, and EXIF extraction coming shortly after that. https://t.co/wONjyvVGPR",
+          "createdAt": "2026-05-05T04:21:19.000Z",
+          "url": "https://x.com/garrytan/status/2051517574589116510",
+          "likes": 118,
+          "retweets": 8,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2051382629681828306",
+          "text": "VCs need to start following the literal description naming trend:\n\nThe Capital Deployment Company of San Francisco\nThe Check Writing Company of New York\nThe Bridge Round Partnership of Brooklyn\nThe Ghosting Company \nThe Liquidated Preference Firm of Miami https://t.co/re4lweksYF",
+          "createdAt": "2026-05-04T19:25:06.000Z",
+          "url": "https://x.com/mattturck/status/2051382629681828306",
+          "likes": 32,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2051288106641281360"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2051454796264263727",
+          "text": "In NY next week - Tuesday and Wednesday. \n\nWho should I meet? 👀",
+          "createdAt": "2026-05-05T00:11:52.000Z",
+          "url": "https://x.com/nikunj/status/2051454796264263727",
+          "likes": 38,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051349526171287930",
+          "text": "Apparently, this is a hot take..\n\nStartup vintage of 2023-2025 is slowly realizing that fancy launch videos & focusing just on distribution MIGHT lead to VC funding, but still leads to money being lit on fire when you should have been spending equal (if not longer) time on retention.\n\nMomentum (in lieu of anything else) has ceased to be a moat. It never was in the first place, and the numbers (seed -> series A gap) are starting to show this. We'll see acquihires at a much faster clip than we've seen before.",
+          "createdAt": "2026-05-04T17:13:33.000Z",
+          "url": "https://x.com/nikunj/status/2051349526171287930",
+          "likes": 262,
+          "retweets": 2,
+          "replies": 36,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051321911741972900",
+          "text": "It’s criminal how cheap and how good Gemini Flash is.. that too with 1M context windows and structured outputs. \n\nProbably, my most used model in production workloads. \n\nSeparately their new live voice model is mindblowingly good if you haven’t tried it yet!",
+          "createdAt": "2026-05-04T15:23:50.000Z",
+          "url": "https://x.com/nikunj/status/2051321911741972900",
+          "likes": 252,
+          "retweets": 10,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2051557150040711425",
+          "text": "We can now reproduce issues directly in empheral crabboxes with WebVNC (Linux/Windows/macOS).\n\nAgents set up the exact state to test + fix and post videos on the PR.\n\nWorking hard to level up our QA. https://t.co/SEj2XRpaD1 https://t.co/o4sfuHuY31",
+          "createdAt": "2026-05-05T06:58:35.000Z",
+          "url": "https://x.com/steipete/status/2051557150040711425",
+          "likes": 119,
+          "retweets": 3,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051485798613111116",
+          "text": "Crabbox 0.5.0 is live 🦀\n\n🖥️ Desktop/browser leases\n🧑‍💻 VNC + authenticated WebVNC\n🪟 AWS Windows + WSL2\n📸 Screenshots + app launch\n\nRemote CI boxes, now suspiciously usable.\nhttps://t.co/4CmPYGC3qz",
+          "createdAt": "2026-05-05T02:15:03.000Z",
+          "url": "https://x.com/steipete/status/2051485798613111116",
+          "likes": 260,
+          "retweets": 18,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051341022731407365",
+          "text": "Do I have anyone from @discord in my timeline? Our @openclaw guild is down the whole day and idk what's going on.",
+          "createdAt": "2026-05-04T16:39:46.000Z",
+          "url": "https://x.com/steipete/status/2051341022731407365",
+          "likes": 532,
+          "retweets": 13,
+          "replies": 36,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2051330205902581842",
+          "text": "We have never desired to be an accelerator.\n\nVelocity is not interesting without a grounding towards true north. https://t.co/Tu8NFvoe12",
+          "createdAt": "2026-05-04T15:56:47.000Z",
+          "url": "https://x.com/adityaag/status/2051330205902581842",
+          "likes": 65,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2051318759496012263"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2051464865634742334",
+          "text": "pretty excited for voice models to get great\n\nits interesting to watch how people are already starting to change the way they interface with AI",
+          "createdAt": "2026-05-05T00:51:52.000Z",
+          "url": "https://x.com/sama/status/2051464865634742334",
+          "likes": 4451,
+          "retweets": 162,
+          "replies": 696,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051464155094507902",
+          "text": "we love you too! https://t.co/oTcQCHiAKt",
+          "createdAt": "2026-05-05T00:49:03.000Z",
+          "url": "https://x.com/sama/status/2051464155094507902",
+          "likes": 1747,
+          "retweets": 42,
+          "replies": 265,
+          "isQuote": true,
+          "quotedTweetId": "2051461012306493762"
+        },
+        {
+          "id": "2051318922805436896",
+          "text": "we are gonna do something nice for everyone who applied for the GPT-5.5 party and that we didn't have space for. hope you enjoy!",
+          "createdAt": "2026-05-04T15:11:57.000Z",
+          "url": "https://x.com/sama/status/2051318922805436896",
+          "likes": 7348,
+          "retweets": 162,
+          "replies": 1182,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-05-04T20:05:00.000Z"
+    }
+  ]
+}
