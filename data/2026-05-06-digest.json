@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "this one is doing v well btw if you want the popular vote filter on the firehose of all the things\n\n@patrickdebois was one of the track keynotes i gave a \"blank check\" to based on his sincere support since our very earliest days + when in europe we must feature the DevOps guy. he didnt disappoint!",
+      "zh": "顺便说一句，如果你想在所有事情的消防水带上进行大众投票过滤器，这个做得很好\n\n@patrickdebois 是我给了我一张“空白支票”的赛道主题演讲之一，因为他从我们最早的时候起就给予了真诚的支持+当在欧洲时我们必须以 DevOps 人员为特色。他没有让人失望！"
+    },
+    "kevinweil": {
+      "en": "👇👇👇",
+      "zh": "👇👇👇"
+    },
+    "petergyang": {
+      "en": "Coding is the first frontier.\nKnowledge work is the second one.\nPersonal agents are the third.",
+      "zh": "编码是第一个领域。\n知识工作是第二个。\n个人代理人是第三个。"
+    },
+    "amasad": {
+      "en": "Great use of AI for education: multi-modal learning platform for deaf students.",
+      "zh": "人工智能在教育中的充分利用：聋哑学生的多模式学习平台。"
+    },
+    "rauchg": {
+      "en": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌\n\nWe're introducing an open-source agent orchestrator for deep security reviews.\n\nWe built it for internal use, and after running it against some major OSS projects, we gained conviction to share it with the world.\n\nCoding agents can now find critical vulnerabilities in minutes that would take teams of people months (if they can spot them at all). Since 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 is optimized to work with Vercel Sandbox, you can effectively harness the power of thousands of agents scrutinizing your codebase in parallel.\n\nI encourage you to try this on your repositories. BTW: If you run an OSS project and want us to sponsor a run, my DMs are open.",
+      "zh": "𝚗𝚙𝚡𝚍𝚎𝚎𝚙𝚜𝚎𝚌\n\n我们正在引入一个开源代理协调器来进行深入的安全审查。\n\n我们构建它供内部使用，并在一些主要的 OSS 项目上运行它之后，我们确信与世界分享它。\n\n编码代理现在可以在几分钟内找到关键漏洞，而这需要团队花费数月的时间（如果他们能够发现它们的话）。由于 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 已针对与 Vercel Sandbox 配合使用进行了优化，因此您可以有效地利用数千个代理并行检查您的代码库的能力。\n\n我鼓励您在您的存储库上尝试这个。顺便说一句：如果您运行 OSS 项目并希望我们赞助运行，我的 DM 是开放的。"
+    },
+    "levie": {
+      "en": "Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This is a trend that’s early but going to get very big fast.\n\nAs agents enter knowledge work beyond coding, there is very real work to upgrade IT systems, get agents the context they need, modernize the workflows to work with agents, figure out the human-agent relationship in the workflow, drive adoption and do change management, and much more. \n\nWhile AI models have an incredible amount of capability packed into them, there’s no shortcut to getting that intelligence applied to a business process in a stable way. This is creating tons of opportunities across the market for new jobs and firms, and the labs are equally recognizing the criticality here.",
+      "zh": "Anthropic 和 OpenAI 都有新举措来帮助企业在其组织内部署人工智能代理。这是一个早期的趋势，但很快就会变得非常大。\n\n随着座席进入编码以外的知识工作，升级 IT 系统、为座席提供所需的上下文、现代化工作流程以与座席合作、弄清楚工作流程中的人与座席关系、推动采用和进行变更管理等等都是非常实际的工作。 \n\n虽然人工智能模型具有令人难以置信的强大功能，但要以稳定的方式将智能应用于业务流程并没有捷径。这为整个市场创造了大量的新就业机会和新公司机会，实验室也同样认识到了这一点的重要性。"
+    },
+    "garrytan": {
+      "en": "What makes gbrain genuinely different? \n\nIt's not a memory layer OR a code tool OR a search engine. It's all three unified under one graph with one query interface. Nobody else has that.\n\nAnd I use it all day with my 100k markdown file OpenClaw+Hermes Agent setup.",
+      "zh": "是什么让 gbrain 真正与众不同？ \n\n它不是存储层、代码工具或搜索引擎。这三者统一在一个图表下，并具有一个查询界面。其他人都没有这个。\n\n我一整天都将它与我的 100k markdown 文件 OpenClaw+Hermes Agent 设置一起使用。"
+    },
+    "mattturck": {
+      "en": "VCs need to start following the literal description naming trend:\n\nThe Capital Deployment Company of San Francisco\nThe Check Writing Company of New York\nThe Bridge Round Partnership of Brooklyn\nThe Ghosting Company \nThe Liquidated Preference Firm of Miami",
+      "zh": "风险投资公司需要开始遵循字面描述命名趋势：\n\n旧金山资本部署公司\n纽约支票书写公司\n布鲁克林桥轮合作伙伴\n幽灵公司 \n迈阿密清算优先股公司"
+    },
+    "nikunj": {
+      "en": "Apparently, this is a hot take..\n\nStartup vintage of 2023-2025 is slowly realizing that fancy launch videos & focusing just on distribution MIGHT lead to VC funding, but still leads to money being lit on fire when you should have been spending equal (if not longer) time on retention.\n\nMomentum (in lieu of anything else) has ceased to be a moat. It never was in the first place, and the numbers (seed -> series A gap) are starting to show this. We'll see acquihires at a much faster clip than we've seen before.",
+      "zh": "显然，这是一个热门话题..\n\n2023-2025 年的初创企业正在慢慢意识到，精美的发布视频和只专注于分销可能会带来风险投资，但当你本应该花费同等（如果不是更长）的时间来保留时，仍然会导致资金被点燃。\n\n势头（代替其他任何东西）已不再是护城河。它从来都不是第一位的，而且数字（种子 -> A 轮差距）开始表明这一点。我们将会以比以前更快的速度看到收购者。"
+    },
+    "steipete": {
+      "en": "Do I have anyone from @discord in my timeline? Our @openclaw guild is down the whole day and idk what's going on.",
+      "zh": "我的时间线中有来自 @discord 的人吗？我们的@openclaw 公会一整天都在宕机，不知道发生了什么。"
+    },
+    "adityaag": {
+      "en": "We have never desired to be an accelerator.\n\nVelocity is not interesting without a grounding towards true north.",
+      "zh": "我们从来没有想过成为加速器。\n\n如果没有正北方向的基础，速度就没有意义。"
+    },
+    "sama": {
+      "en": "we are gonna do something nice for everyone who applied for the GPT-5.5 party and that we didn't have space for. hope you enjoy!",
+      "zh": "我们将为所有申请 GPT-5.5 聚会但我们没有空间的人做一些好事。希望你喜欢！"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:02 - 00:17\nWe have an unbelievable treat next. A founder who's touching a ton of lives and who's been at it for a very long time. How many people here have been in a Waymo? Okay. Well, that's a relief.\n\nSpeaker 1 | 00:17 - 00:20\nThe chef eats his own food.\n\nSpeaker 2 | 00:20 - 00:21\nI do. I do a lot of it.\n\nSpeaker 1 | 00:21 - 00:29\nAlright. And how many people love the Waymo experience? Rock on. I'm a daily active now. It's incredible.\n\nSpeaker 2 | 00:29 - 00:30\nExcellent. Thank\n...",
+      "zh": "演讲者 1 | 00:02 - 00:17\n接下来我们有一个令人难以置信的款待。一位影响了很多人生活并且已经从事此行业很长时间的创始人。这里有多少人乘坐过 Waymo？好的。嗯，这真是一种解脱。\n\n演讲者 1 | 00:17 - 00:20\n厨师吃的是他自己做的菜。\n\n扬声器 2 | 00:20 - 00:21\n我愿意。我做了很多。\n\n演讲者 1 | 00:21 - 00:29\n好吧。有多少人喜欢 Waymo 体验？继续摇滚。我现在每天都很活跃。太不可思议了。\n\n扬声器 2 | 00:29 - 00:30\n太棒了。感谢",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
