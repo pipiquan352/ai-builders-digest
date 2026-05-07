@@ -1,0 +1,32 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "Dario: “We saw 80x growth earlier this year on usage and revenue” \n\n“That’s why we are going to keep acquiring as much compute as we can”",
+      "zh": "Dario：“今年早些时候，我们的使用量和收入增长了 80 倍” \n\n“这就是为什么我们要继续尽可能多地获取计算能力”"
+    },
+    "trq212": {
+      "en": "\"everyday we're trying to obtain more compute to pass on to you, we're sorry if it takes sometime but we're going to acquire as much as we can\"\n\nyou heard the man",
+      "zh": "“我们每天都在努力获得更多的计算资源来传递给您，如果这需要一些时间，我们很抱歉，但我们将尽可能多地获得计算资源”\n\n你听到那个男人的声音"
+    },
+    "garrytan": {
+      "en": "Lulu is like \"The Wolf\" from Pulp Fiction",
+      "zh": "露露就像低俗小说中的“狼”"
+    },
+    "danshipper": {
+      "en": "I’ll be at Code with Claude today with @kieranklaassen and @tedescau \n\nCome say hi!",
+      "zh": "今天我将与 Claude 一起参加 Code，与 @kierranklaassen 和 @tedescau \n\n过来打个招呼吧！"
+    },
+    "claudeai": {
+      "en": "Dreaming reviews your agent's past sessions, extracts patterns, and curates memories so your agents learn over time.\n\nRequest access:",
+      "zh": "Dreaming 会回顾您的代理过去的会话、提取模式并整理记忆，以便您的代理能够随着时间的推移不断学习。\n\n请求访问："
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:01 - 00:10\nOkay. I'm excited to introduce our next speaker. Show of hands, who here uses Claude Code? Okay. Show of hands, who here has Claude Code psychosis?\n\nSpeaker 1 | 00:11 - 00:20\nCome on, guys. It's okay. It's okay. My my team lovingly says I have Claude Code psychosis, which may or may not be true. We are delighted to have Boris Cerny with us today.\n\nSpeaker 1 | 00:20 - 00:45\nBoris is the creator, the father of Claude Code, and in the process of doing that, has just had a ...",
+      "zh": "演讲者 1 | 00:01 - 00:10\n好的。我很高兴介绍我们的下一位演讲者。举手，谁用克劳德代码？好的。举手，这里谁有克劳德·科德精神病？\n\n演讲者 1 | 00:11 - 00:20\n来吧，伙计们。没关系。没关系。我的团队亲切地说我患有克劳德·科德精神病，这可能是真的，也可能不是真的。我们很高兴今天有鲍里斯·塞尔尼与我们在一起。\n\n演讲者 1 | 00:20 - 00:45\n鲍里斯是克劳德代码的创造者、之父，在这样做的过程中，他刚刚经历了一次",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

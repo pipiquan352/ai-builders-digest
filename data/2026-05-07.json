@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-05-07T16:06:13.858Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2052123472583864780",
+          "text": "Some nice quotes from Dario and Daniela from this session:\n\n“I’ve been training these models since 2015, they were really dumb.”\n\n\"Build for the exponential. There are products that are not possible with the current model but could work with later models. This puts a premium on internal experimentation. You have to just try it with the model to see if it works.\"\n\n“Products reach their saturation when models get too good. The ways in which we are making models smarter today are much more evident in agentic and Claude Code workflows than chatbots. You have to think about what the next big thing is.”\n\n“Models are evolving from coding to software engineering to just growing a business.”\n\n“It’s easy to accumulate an extraordinary amount of internal tech debt when you ship that fast. But the models can also help you pay down this debt.\"",
+          "createdAt": "2026-05-06T20:28:57.000Z",
+          "url": "https://x.com/petergyang/status/2052123472583864780",
+          "likes": 100,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2052117599744672195"
+        },
+        {
+          "id": "2052117599744672195",
+          "text": "Dario: “We saw 80x growth earlier this year on usage and revenue” \n\n“That’s why we are going to keep acquiring as much compute as we can” https://t.co/Hwj18IV7KB",
+          "createdAt": "2026-05-06T20:05:36.000Z",
+          "url": "https://x.com/petergyang/status/2052117599744672195",
+          "likes": 149,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2052250816720056604",
+          "text": "\"everyday we're trying to obtain more compute to pass on to you, we're sorry if it takes sometime but we're going to acquire as much as we can\"\n\nyou heard the man https://t.co/VyfKia1gN7",
+          "createdAt": "2026-05-07T04:54:58.000Z",
+          "url": "https://x.com/trq212/status/2052250816720056604",
+          "likes": 1319,
+          "retweets": 45,
+          "replies": 89,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2052007711601291602",
+          "text": "Lulu is like \"The Wolf\" from Pulp Fiction https://t.co/n3lBWxBd3S",
+          "createdAt": "2026-05-06T12:48:57.000Z",
+          "url": "https://x.com/garrytan/status/2052007711601291602",
+          "likes": 165,
+          "retweets": 9,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2051740965485113473"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2052050161388634197",
+          "text": "I’ll be at Code with Claude today with @kieranklaassen and @tedescau \n\nCome say hi!",
+          "createdAt": "2026-05-06T15:37:38.000Z",
+          "url": "https://x.com/danshipper/status/2052050161388634197",
+          "likes": 73,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2052067403228455419",
+          "text": "Outcomes lets you set the bar for quality. You write a rubric, a separate grader checks the output, and the agent iterates until it gets there.\n\nSubscribe to webhooks to get notified when it's done.",
+          "createdAt": "2026-05-06T16:46:09.000Z",
+          "url": "https://x.com/claudeai/status/2052067403228455419",
+          "likes": 580,
+          "retweets": 12,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2052067400690851842",
+          "text": "Dreaming reviews your agent's past sessions, extracts patterns, and curates memories so your agents learn over time.\n\nRequest access: https://t.co/MY2soiuUl3 https://t.co/5q0ZZhKSt1",
+          "createdAt": "2026-05-06T16:46:08.000Z",
+          "url": "https://x.com/claudeai/status/2052067400690851842",
+          "likes": 1124,
+          "retweets": 52,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Anthropic's Boris Cherny: Coding's Printing Press Moment",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-05-05T09:00:00.000Z"
+    }
+  ]
+}
