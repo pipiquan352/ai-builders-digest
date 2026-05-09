@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "@nikitabier @business bloomberg being suddenly interested in your take on developer experience and ai coding tools is the new \"sexy singles in your area\"",
+      "zh": "@nikitabier @business Bloomberg 突然对您对开发人员经验和人工智能编码工具的看法感兴趣，这是新的“您所在地区的性感单身人士”"
+    },
+    "AmandaAskell": {
+      "en": "Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models and honest and positive vision for what AI models can be and why. I'm excited about the future of this work.",
+      "zh": "一致性研究通常必须集中于避免相关行为，但我认为这种培训的积极愿景是我们可以提供模型以及诚实和积极的愿景来了解人工智能模型可以是什么以及为什么。我对这项工作的未来感到兴奋。"
+    },
+    "trq212": {
+      "en": "HTML is the new markdown. \n\nI've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me. This is why.",
+      "zh": "HTML 是新的 Markdown。 \n\n我已经停止为几乎所有内容编写 Markdown 文件，并转而使用 Claude Code 为我生成 HTML。这就是原因。"
+    },
+    "alexalbert__": {
+      "en": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on their 80% success rate benchmark",
+      "zh": "我们向 METR 提供的早期 Claude Mythos 预览快照的时间范围是其 80% 成功率基准上次佳模型的 2 倍以上"
+    },
+    "levie": {
+      "en": "A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more long running tasks, and thus take vastly more compute, allocation of tokens across teams becomes a very real thing in the enterprise.\n\nCompanies spend a meaningful amount of time deciding how much to spend on talent, marketing campaigns, events, laptop setups, and even the cost of lunches. Tokens will be no different.\n\nTokens will similarly need to be excruciatingly well-managed because you’ll need to ensure you don’t blow up your budget, and you’ll need to ensure that the tokens are flowing to the highest and most useful parts of work. You don’t want to find out you burned your monthly budget on something relatively low value and then be blocked on the much higher value task later. \n\nDoing this at large company scale is extremely hard as you have layers of abstraction on data and visibility into the digital work being done by agents in any central way. This is going to mean that agentic spend will increasingly will expand beyond the confines of the IT budget, and end up in organizational budgets like other expenses. \n\nUltimately team and org leaders will have to be given budgets for this, but even they don’t have adequate visibility and controls in most cases. We’ll need all new software just to solve this problem, and it’s probably an opportunity for startups in its own right.\n\nGoing to be an all new era of enterprise resource allocation, especially while we compute constrained.",
+      "zh": "大型企业中出现的一个共同趋势是象征性预算作为一个主要话题。由于代理可以执行越来越多的长时间运行的任务，从而需要更多的计算，跨团队分配代币在企业中变得非常现实。\n\n公司花费大量时间来决定在人才、营销活动、活动、笔记本电脑设置甚至午餐费用上花费多少钱。代币也不会有什么不同。\n\n同样，代币也需要得到极其良好的管理，因为您需要确保不会超出预算，并且需要确保代币流向工作中最高和最有用的部分。您不想发现自己在价值相对较低的任务上消耗了每月的预算，然后在价值更高的任务上却受阻。 \n\n在大公司范围内做到这一点非常困难，因为您对数据有抽象层，并且对代理以任何集中方式完成的数字工作具有可见性。这意味着代理支出将越来越超出 IT 预算的范围，并最终像其他支出一样进入组织预算。 \n\n最终，团队和组织领导者必须为此获得预算，但即使他们在大多数情况下也没有足够的可见性和控制力。我们需要所有新软件来解决这个问题，这对于初创公司来说可能是一个机会。\n\n这将是企业资源分配的全新时代，尤其是在我们计算受限的情况下。"
+    },
+    "garrytan": {
+      "en": "Downloading now... 1M token context window with supposedly usable coding agent capability all on a 128GB Macbook Pro is 🤯",
+      "zh": "立即下载... 1M 令牌上下文窗口，具有据称可用的编码代理功能，全部在 128GB Macbook Pro 上是 🤯"
+    },
+    "mattturck": {
+      "en": "The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based\n\nToken costs matter... but enterprise agents may need identities, roles, auth, budgets, audit logs etc\n\nThat sounds oddly seat-like? just not human-seat-like",
+      "zh": "我对人工智能代理的思考越多，就越不明显地发现定价纯粹基于消费\n\n代币成本很重要……但企业代理可能需要身份、角色、身份验证、预算、审计日志等\n\n这听起来很奇怪吗？只是不像人座"
+    },
+    "nikunj": {
+      "en": "True wealth 🥭",
+      "zh": "真正的财富🥭"
+    },
+    "steipete": {
+      "en": "The more skills you give codex, the less you have to prompt.",
+      "zh": "你给予法典的技能越多，你需要提示的就越少。"
+    },
+    "danshipper": {
+      "en": "Evidence that everyone at Milken is 3-4 months behind",
+      "zh": "有证据表明米尔肯的每个人都落后了 3-4 个月"
+    },
+    "sama": {
+      "en": "call me maybe",
+      "zh": "打电话给我，可能的话"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:03\nA year from now, where do you think the platform will be?\n\nSpeaker 2 | 00:03 - 00:18\nWe wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.\n\nSpeaker 3 | 00:18 - 00:26\nI...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n一年后，您认为这个平台会在哪里？\n\n扬声器 2 | 00:03 - 00:18\n我们想要尝试一些方向，让云真正能够很好地理解自己。它会确定您应该使用什么模型。它计算出如何启动所有子代理。你不必过多考虑有什么样的架构，因为 Claude 实际上能够充分理解自己，它可以即时编写自己。\n\n扬声器 3 | 00:18 - 00:26\n我",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
