@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official\n\nMY HOME COUNTRY'S MINISTER OF FOREIGN AFFAIRS (equiv to Secretary of State) IS A HUGE NANOCLAW FAN (check @VivianBala, that's really him, not an intern) AND WILL BE KEYNOTING @AIDOTENGINEER SINGAPORE (with NanoClaw creator @Gavriel_Cohen right after) NEXT WEEK\n\nUsecases like his are what I have been hoping to promote with the international AIE partnerships and @agrimsingh and @SherryYanJiang crushed it with this one.\n\ngovernments waking up to AI and joining @aiDotEngineer:\n\nUK: Chief AI Officer\nSingapore: Cabinet Minister\n\nwho's next??",
+      "zh": "好吧，我太兴奋了，我整个星期都几乎无法保守这个秘密，它终于正式了\n\n我祖国的外交部长（相当于国务卿）是 NanoClaw 的超级粉丝（看看@VivianBala，那真的是他，不是实习生），下周他将在@AIDOTENGINEER SINGAPORE 发表主题演讲（随后还有 NanoClaw 的创建者 @Gavriel_Cohen）\n\n像他这样的用例是我一直希望通过国际 AIE 合作伙伴关系来推广的用例，而 @agrimsingh 和 @SherryYanJiang 用这个用例粉碎了它。\n\n各国政府开始关注人工智能并加入@aiDotEngineer：\n\n英国：首席人工智能官\n新加坡：内阁部长\n\n下一个是谁？"
+    },
+    "kevinweil": {
+      "en": "This a matter of extreme importance (and some of the best writing ever)",
+      "zh": "这是一个极其重要的问题（也是一些有史以来最好的写作）"
+    },
+    "petergyang": {
+      "en": "Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's still working or not. Wish it communicated more.",
+      "zh": "有时，当我向 Claude Code 发送消息时，它只会挂起 3 分钟，而且我不知道它是否仍在工作。希望多多交流。"
+    },
+    "rauchg": {
+      "en": "🌞",
+      "zh": "🌞"
+    },
+    "levie": {
+      "en": "For everything we’ve seen about agents so far, it’s clear that they will make it far easier for people to get into previously extremely complicated fields. That will most certainly mean far more people will build software, explore creative work, research spaces they couldn’t do before, and so on. \n\nYet, equally, we’ve seen that people with experience in every one of those fields have a huge edge with the right judgment and historical context to leverage these tools in ways that exceed the output of the novices (if they choose to). They know when the agents are making catastrophic mistakes, can give the agents the right context to do the job better than they otherwise would have, and so on. \n\nThe combination of these two facts essentially means that we will continue to get the same lift as we’ve seen in any other technological revolution. More democratization, but similarly greater output from the experts. This then makes the experts continue to be in higher demand because over time our expectation for what we can get out of any field will just go up.\n\nThis is going to be true in essentially every important field. You’ll trust a lawyer using an agent for legal advice over someone who’s never had to experience how well a contract holds up. You’ll trust an engineer developing and running software over someone who’s never seen a production system. You’ll rely on the important instincts of a designer using agents over the average prompter.\n\nThe quality and volume of output we expect from these functions will certainly go up meaningfully, but the person with experience will always have a leg up, which is why the jobs don’t go away.",
+      "zh": "到目前为止我们所看到的关于代理的一切，很明显它们将使人们更容易进入以前极其复杂的领域。这肯定意味着更多的人将构建软件、探索创造性工作、研究他们以前无法做到的空间等等。 \n\n然而，同样，我们也看到，在每个领域都有经验的人都拥有巨大的优势，他们拥有正确的判断和历史背景，能够以超越新手（如果他们选择的话）的方式利用这些工具。他们知道代理何时犯下灾难性错误，可以为代理提供正确的环境，使他们比其他情况下更好地完成工作，等等。 \n\n这两个事实的结合本质上意味着我们将继续获得与任何其他技术革命相同的提升。民主化程度更高，但专家的产出也同样更高。这使得对专家的需求继续增加，因为随着时间的推移，我们对从任何领域能够获得的知识的期望都会上升。\n\n基本上在每个重要领域都是如此。您会信任使用代理人提供法律建议的律师，而不是从未体验过合同的效力的人。您会信任开发和运行软件的工程师，而不是从未见过生产系统的工程师。您将依赖设计师使用代理而不是普通提示器的重要直觉。\n\n我们期望从这些职能中获得的产出质量和数量肯定会显着提高，但有经验的人总是会占据优势，这就是为什么工作不会消失。"
+    },
+    "garrytan": {
+      "en": "GBrain v0.31.1 just shipped real MCP thin client support. So basically you can run ONE \"home GBrain server\" and everything else can just connect to it via MCP and it'll work pretty close to as well as running it locally.\n\nGBrain just went client-server.",
+      "zh": "GBrain v0.31.1 刚刚提供了真正的 MCP 瘦客户端支持。所以基本上你可以运行一台“家庭 GBrain 服务器”，其他所有东西都可以通过 MCP 连接到它，它的工作方式非常接近本地运行。\n\nGBrain 刚刚转向客户端-服务器。"
+    },
+    "nikunj": {
+      "en": "Every founder I meet: man, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. \n\nEvery VC I meet: dude, the bar is so low to be a good VC. Just do what you say, and you’re already top decile. \n\nSomething has to give 😂",
+      "zh": "我遇到的每一位创始人都会说：伙计，成为一名优秀风险投资家的门槛太低了。只要按照你说的去做，你就已经是前十分之一了。 \n\n我遇到的每一位 VC 都会说：老兄，成为一名优秀 VC 的门槛太低了。只要按照你说的去做，你就已经是前十分之一了。 \n\n必须付出点什么😂"
+    },
+    "steipete": {
+      "en": "Latest spogo (Spotify cli) is much faster, codex is my dj now.\n\n\nIf you wanna play YouTube to Sonos, check out",
+      "zh": "最新的 spogo (Spotify cli) 速度更快，Codex 现在是我的 DJ。\n\n\n如果您想在 Sonos 上播放 YouTube，请查看"
+    },
+    "danshipper": {
+      "en": "Knives Can Blind You When You Stick Them in Your Eye\nsubmitted 17 Apr 2026",
+      "zh": "当你把刀刺进眼睛时，它们会致盲\n2026 年 4 月 17 日提交"
+    },
+    "sama": {
+      "en": "5.5 is an autistic genius with very strange taste in naming\n\nshocking that we would make such a thing",
+      "zh": "5.5是一个自闭症天才，命名品味很奇怪\n\n令人震惊的是我们会做出这样的事情"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:02 - 00:21\nSo I love line charts and bar graphs as much as the next guy, probably more. The story of eleven Labs is also interesting from a human perspective, because you started a company with a childhood friend. So maybe take us back to 2022 or earlier and just tell the the human side of the eleven Labs story to start.\n\nSpeaker 2 | 00:22 - 00:46\nThe I have the I have the most luck in the story of eleven Labs because well, it started in 2022. It feels like it started seventeen ye...",
+      "zh": "演讲者 1 | 00:02 - 00:21\n所以我和下一个人一样喜欢折线图和条形图，甚至可能更喜欢。从人类的角度来看，十一个实验室的故事也很有趣，因为你和一个儿时的朋友创办了一家公司。因此，也许可以让我们回到 2022 年或更早，从讲述 11 个实验室故事中人性的一面开始。\n\n扬声器 2 | 00:22 - 00:46\n我有 11 个实验室的故事中我最幸运，因为它开始于 2022 年。感觉就像是 17 个实验室开始的",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
