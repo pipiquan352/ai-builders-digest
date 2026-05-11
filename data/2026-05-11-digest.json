@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "on build vs buy saas\n\ncc @levie for corrections",
+      "zh": "构建与购买 SaaS\n\n抄送@levie进行更正"
+    },
+    "petergyang": {
+      "en": "Pretty unexpected - what’s the reason?",
+      "zh": "非常出乎意料——原因是什么？"
+    },
+    "trq212": {
+      "en": "Jarred tried rewriting Bun in Rust and it passes 99.8% of the existing test suite\n\nwe're not being ambitious enough",
+      "zh": "Jarred 尝试用 Rust 重写 Bun，它通过了 99.8% 的现有测试套件\n\n我们不够雄心勃勃"
+    },
+    "rauchg": {
+      "en": "SF calisthenics club",
+      "zh": "SF健美操俱乐部"
+    },
+    "levie": {
+      "en": "As advanced agents move from coding to the rest of knowledge work, it takes a real amount of work and know-how to get right.\n\nYou need to ensure agents have the right context and data to work with, wire up systems to agents in a safe and secure way, ensure that the agents are producing quality output, design the end-state workflow where and how humans will be in the loop, maintain the agents when there are model and system upgrades, and more. \n\nThis isn’t a side project or something you can just do on nights and weekends. You need to design and develop robust agents that will be used in mission critical workflows. It’s a highly technical job, very much akin to a forward deployed engineer for internal functions. \n\nThis is why, at Box, we’re starting to hire for AI automation engineering roles. This a technical role that will partner with the business directly and help augment how they work to drive even more output, and deliver better experiences for employees and ultimately customers. \n\nThis is just one example of the kind of role that AI will start to open up in the future. I expect most companies will have many flavors of this going forward.",
+      "zh": "随着高级代理从编码转向其余的知识工作，需要大量的工作和专业知识才能正确进行。\n\n您需要确保代理拥有正确的上下文和数据来使用，以安全可靠的方式将系统连接到代理，确保代理产生高质量的输出，设计最终状态工作流程，人员将在哪里以及如何参与循环，在模型和系统升级时维护代理等等。 \n\n这不是一个业余项目，也不是你可以在晚上和周末做的事情。您需要设计和开发将在任务关键型工作流程中使用的强大代理。这是一项技术性很强的工作，非常类似于内部职能的前沿部署工程师。 \n\n这就是为什么在 Box，我们开始招聘人工智能自动化工程职位。这是一个技术角色，将直接与企业合作，帮助增强他们的工作方式，以推动更多产出，并为员工和最终客户提供更好的体验。 \n\n这只是人工智能未来将开始发挥的作用的一个例子。我预计大多数公司未来都会有很多这样的风格。"
+    },
+    "ryolu_": {
+      "en": "ryOS now has a IRC bridge to @levelsio’s retro PC\n\nlet the worlds connect 🌎",
+      "zh": "ryOS 现在有一个通往 @levelsio 复古 PC 的 IRC 桥\n\n让世界相连🌎"
+    },
+    "garrytan": {
+      "en": "The highest and most important form of design is actually pure transmutation of human pain and suffering.",
+      "zh": "设计的最高和最重要的形式实际上是人类痛苦和磨难的纯粹转化。"
+    },
+    "nikunj": {
+      "en": "pre-kids: red eyes are the worst - why would anyone take them??\n\npost-kids: red eyes are honestly the best. i can tuck my kids in bed and wake up in a new city and get going right away. \n\n(typing this from a red eye headed to NYC rn)",
+      "zh": "学龄前儿童：红眼睛是最糟糕的 - 为什么有人会接受它们？\n\n后儿童：红眼睛确实是最好的。我可以给我的孩子盖好被子，在一个新的城市醒来，然后立即出发。 \n\n（在前往纽约的红眼中输入此内容）"
+    },
+    "steipete": {
+      "en": "Birdclaw has my complete twitter archive, so I can ask Codex for any old weird tweet I ever favorited or bookmarked.",
+      "zh": "Birdclaw 拥有我完整的 Twitter 档案，因此我可以向 Codex 询问我曾经收藏过或添加过书签的任何旧的奇怪推文。"
+    },
+    "danshipper": {
+      "en": "we hired someone new to help out with social and YouTube and she’s finding INSANE A/B test uplifts like this",
+      "zh": "我们聘请了新人来帮助处理社交和 YouTube，她发现了像这样疯狂的 A/B 测试提升"
+    },
+    "sama": {
+      "en": "what if we name the next model \"goblin\"\n\nalmost worth it to make you all happy...",
+      "zh": "如果我们将下一个模型命名为“goblin”会怎么样\n\n为了让大家开心几乎值得..."
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:28\nHi, listeners. Today, Elad and I are here with Tuhin Srivastava, the founder and CEO of Base10, inference cloud. We're here to talk about capacity constraints for AI compute, why inference is the last market, how the workload is changing, the open source and perhaps multi chip future, and what 30x scale in a year looks like. Tuhin, welcome back.\n\nSpeaker 2 | 00:28 - 00:30\nHi. Good to see you.\n\nSpeaker 3 | 00:30 - 00:31\nThanks for having me.\n\nSpeaker 1 | 00:31 - 00:41\nAl...",
+      "zh": "演讲者 1 | 00:05 - 00:28\n嗨，听众们。今天，我和 Elad 与推理云 Base10 的创始人兼首席执行官 Tuhin Srivastava 一起来到这里。我们在这里讨论人工智能计算的容量限制、为什么推理是最后一个市场、工作负载如何变化、开源和多芯片的未来，以及一年内 30 倍的规模是什么样子。图欣，欢迎回来。\n\n扬声器 2 | 00:28 - 00:30\n嗨。很高兴见到你。\n\n扬声器 3 | 00:30 - 00:31\n谢谢你有我。\n\n演讲者 1 | 00:31 - 00:41\n铝",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
