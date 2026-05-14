@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-05-14T16:09:59.285Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2054569893060809151",
+          "text": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
+          "createdAt": "2026-05-13T14:30:09.000Z",
+          "url": "https://x.com/petergyang/status/2054569893060809151",
+          "likes": 60,
+          "retweets": 3,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2054778575988093249",
+          "text": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
+          "createdAt": "2026-05-14T04:19:23.000Z",
+          "url": "https://x.com/garrytan/status/2054778575988093249",
+          "likes": 53,
+          "retweets": 9,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2054608069515174048"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2054599845214650442",
+          "text": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
+          "createdAt": "2026-05-13T16:29:10.000Z",
+          "url": "https://x.com/nikunj/status/2054599845214650442",
+          "likes": 159,
+          "retweets": 3,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2054348743361839553"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
+      "url": "https://www.youtube.com/watch?v=Jq3BIGz4vXQ",
+      "publishedAt": "2026-05-13T18:55:00.000Z"
+    }
+  ]
+}
