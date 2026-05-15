@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Blogs die when they come from \"the ____ team\" instead of named individuals\n\nWith great ownership comes great accountability",
+      "zh": "当博客来自“____团队”而不是指定个人时，它们就会消亡\n\n伟大的主人翁精神伴随着伟大的责任"
+    },
+    "petergyang": {
+      "en": "How do people even do AI hackathons these days you're just sitting around waiting for the agents half of the time?",
+      "zh": "现在人们如何进行人工智能黑客马拉松，而你一半的时间只是坐着等待代理？"
+    },
+    "amasad": {
+      "en": "You vibecoded a website somewhere other than Replit?\n\nThat’s not wise, but okay… we’re going to let you import it and get a free mobile app.\n\nYes, FREE MOBILE APP!",
+      "zh": "您在 Replit 以外的地方对网站进行了 Vivicode 编码吗？\n\n这并不明智，但是好吧......我们将让您导入它并获得免费的移动应用程序。\n\n是的，免费的移动应用程序！"
+    },
+    "rauchg": {
+      "en": "This city is glorious. Nothing like it",
+      "zh": "这座城市是辉煌的。没有什么喜欢的"
+    },
+    "levie": {
+      "en": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete.",
+      "zh": "他只花了一年的时间为他的特工安全带搭建脚手架。现在发布一个新的模型更新，使所有这些都过时。"
+    },
+    "garrytan": {
+      "en": "I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say \"hur dur datacenters are bad for energy/water/jobs/loud\"",
+      "zh": "我认为这篇文章被不知情的人蜂拥而至，所以真的，如果您在这里说“数据中心对能源/水/就业/大声不利”，请看一下这篇文章"
+    },
+    "mattturck": {
+      "en": "Alright it’s now official - barely 9 months old and @GradiumAI is already trouncing the entire voice AI field on third party TTS benchmarks\n\nBetter than OpenAI\nBetter than Eleven Labs\nBetter than Cartesia\nBetter than Deepgram \n…",
+      "zh": "好吧，现在已经正式发布了 - 仅仅 9 个月的时间，@GradiumAI 就已经在第三方 TTS 基准测试中击败了整个语音 AI 领域\n\n比 OpenAI 更好\n比十一个实验室更好\n比笛卡尔更好\n比 Deepgram 更好 \n……"
+    },
+    "nikunj": {
+      "en": "Every single large company with data walls realizing it’s time to go headless (or essentially die)..\n\nIt’s the right call too since the market/usage for agents will be 100x larger than humans. \n\nIf you gatekeep your systems for humans, you’ll most likely be 100x less valuable!",
+      "zh": "每一个拥有数据墙的大公司都意识到是时候去无头（或者本质上消亡）了。\n\n这也是正确的选择，因为代理的市场/使用量将比人类大 100 倍。 \n\n如果你为人类把守你的系统，你的价值很可能会降低 100 倍！"
+    },
+    "steipete": {
+      "en": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill...",
+      "zh": "在 discrawl（存储媒体）中内置了一个新功能，codex 说它已经完成，然后我使用了我的 codex 审查技能......"
+    },
+    "danshipper": {
+      "en": "Gabbing with my barber about Codex and he’s telling me about how he’s using Claude to run a crypto trading strategy and Gemini + nano banana to learn jiu jitsu moves\n\nGuy in the chair next to me leans over and says his company just bought 1,300 Claude seats\n\n2026 is wild",
+      "zh": "和我的理发师闲聊 Codex，他告诉我他如何使用 Claude 来运行加密货币交易策略，以及如何使用 Gemini + 纳米香蕉来学习柔术动作\n\n我旁边椅子上的人靠过来说他的公司刚刚购买了 1,300 个克劳德座位\n\n2026 年是狂野的"
+    },
+    "sama": {
+      "en": "Codex in the ChatGPT mobile app!",
+      "zh": "ChatGPT 移动应用程序中的 Codex！"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:18\nWe are a part of this like super cycle right now and the super cycle does not last forever. And so if you're gonna pause by the super cycle, you are speeding market. Like that is what you're doing. I would ask Claude, can you go fetch the data from our bank? And then it was like, oh yeah, just log in and give me access.\n\nSpeaker 1 | 00:18 - 00:36\nI'm like, log in and give me a no. I will not give you access. Right away fundamentally for me that was like broke the entire...",
+      "zh": "演讲者 1 | 00:00 - 00:18\n我们现在是超级周期的一部分，而超级周期不会永远持续下去。因此，如果你要在超级周期中停下来，那么你就是在加速市场。就像你正在做的那样。我想问克劳德，你能去我们银行取一下数据吗？然后就好像，哦，是的，只需登录并授予我访问权限即可。\n\n演讲者 1 | 00:18 - 00:36\n我想，登录并给我一个不。我不会给你访问权限。从根本上说，对我来说，这就像打破了整个",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
