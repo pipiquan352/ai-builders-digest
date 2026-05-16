@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-05-16T14:57:21.333Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2055494400252481687",
+          "text": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
+          "createdAt": "2026-05-16T03:43:48.000Z",
+          "url": "https://x.com/swyx/status/2055494400252481687",
+          "likes": 35,
+          "retweets": 1,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2055467498888118647"
+        },
+        {
+          "id": "2055470634331750588",
+          "text": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2 years and is building a national MCP gateway @dsp_ https://t.co/glAGn6jTmd",
+          "createdAt": "2026-05-16T02:09:22.000Z",
+          "url": "https://x.com/swyx/status/2055470634331750588",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055467498888118647",
+          "text": "@Gavriel_Cohen and @thsottiaux casually dropping some hints on the Codex roadmap in his keynote!\n\nhttps://t.co/sEkVYhq7KO https://t.co/OQ0g1JgXgJ",
+          "createdAt": "2026-05-16T01:56:55.000Z",
+          "url": "https://x.com/swyx/status/2055467498888118647",
+          "likes": 21,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2055464399805272335"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2055450577094738018",
+          "text": "This is a really great update.\n\nI just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off\n\nDoesn't appear there's a \"Use for ad targeting\" toggle  here so I'll assume the same toggle applies to both. https://t.co/B02JrJyT4M https://t.co/b32SthsYmC",
+          "createdAt": "2026-05-16T00:49:40.000Z",
+          "url": "https://x.com/petergyang/status/2055450577094738018",
+          "likes": 74,
+          "retweets": 0,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2055317612687675545"
+        },
+        {
+          "id": "2055436179643019395",
+          "text": "lol this is why he’s the best https://t.co/G1K5lbHDUL",
+          "createdAt": "2026-05-15T23:52:28.000Z",
+          "url": "https://x.com/petergyang/status/2055436179643019395",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2055335575633219763"
+        },
+        {
+          "id": "2055396161910194395",
+          "text": "ChatGPT Finances is pretty awesome. AI still has trouble classifying transactions correctly though. https://t.co/sceyzaZouz",
+          "createdAt": "2026-05-15T21:13:27.000Z",
+          "url": "https://x.com/petergyang/status/2055396161910194395",
+          "likes": 36,
+          "retweets": 2,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Product Leader at Google - Gemini, Veo, Nano Banana. All opinions mine.",
+      "tweets": [
+        {
+          "id": "2055414865146327088",
+          "text": "A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them.\n\nFor two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain.\n\nThat made a lot of PM work dry and mechanical. But for a long time, it was enough to build a career.\n\nIt’s also why so much software feels the same.\n\nPMs need to be inventors now, not framework executors. There are no stable playbooks to repurpose.\n\nYou can’t A/B test your way to a breakthrough AI product.\n\nDoable. But PMs need to unlearn.",
+          "createdAt": "2026-05-15T22:27:46.000Z",
+          "url": "https://x.com/realmadhuguru/status/2055414865146327088",
+          "likes": 26,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2055491454307582454",
+          "text": "Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.\n\nWatch this creative coding website be generated with Grok and hosted seamlessly on Vercel ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
+          "createdAt": "2026-05-16T03:32:06.000Z",
+          "url": "https://x.com/rauchg/status/2055491454307582454",
+          "likes": 853,
+          "retweets": 131,
+          "replies": 154,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055440326765244742",
+          "text": "Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet' of apps generated with @v0, Codex, Claude, etc.\n\nIt's all fun and games until your agent gets 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 from the deployment *it just made* though 😂\n\nThe solution: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚞𝚛𝚕. By just prefixing 𝚟𝚎𝚛𝚌𝚎𝚕 or 𝚟𝚌 you unblock your agent and yourself to easily 𝚌𝚞𝚛𝚕 any URL you have access to within the Vercel ecosystem.",
+          "createdAt": "2026-05-16T00:08:56.000Z",
+          "url": "https://x.com/rauchg/status/2055440326765244742",
+          "likes": 150,
+          "retweets": 3,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2055430831972446578"
+        },
+        {
+          "id": "2055278852931530784",
+          "text": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
+          "createdAt": "2026-05-15T13:27:18.000Z",
+          "url": "https://x.com/rauchg/status/2055278852931530784",
+          "likes": 1863,
+          "retweets": 111,
+          "replies": 106,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2055501840419328286",
+          "text": "I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification). \n\nIn AI, you’re delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.\n\nFor this reason it’s far more logical that one vendor can share best practices across thousands of companies more efficiently than every single company can learn and manage these best practices themselves. Further, the learnings from those customers should go right back into the core product as a result.\n\nAs we go from chat systems to anyone can relatively easily adopt to agentic systems that require more meaningful efforts to manage and update, the FDE model (or equivalent) essentially becomes a core competency for anyone deploying AI at scale.",
+          "createdAt": "2026-05-16T04:13:22.000Z",
+          "url": "https://x.com/levie/status/2055501840419328286",
+          "likes": 220,
+          "retweets": 18,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2055464878002032675"
+        },
+        {
+          "id": "2055357619888595271",
+          "text": "Headless software is the future https://t.co/c4w018JXro",
+          "createdAt": "2026-05-15T18:40:17.000Z",
+          "url": "https://x.com/levie/status/2055357619888595271",
+          "likes": 251,
+          "retweets": 17,
+          "replies": 34,
+          "isQuote": true,
+          "quotedTweetId": "2055332476365443381"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2055446378596474891",
+          "text": "The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as the CA asset seizure tax by SEIU. \n\nBad anti-business policy that makes our cities and states poorer. https://t.co/HKDRT1Sf1P https://t.co/nmB3MXZHfT",
+          "createdAt": "2026-05-16T00:32:59.000Z",
+          "url": "https://x.com/garrytan/status/2055446378596474891",
+          "likes": 187,
+          "retweets": 17,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2055359644185383374"
+        },
+        {
+          "id": "2055384351307858390",
+          "text": "It's time to vote in California elections and here is my voter guide. \n\nThere are a lot of things to get right here. Please tell your friends this is one resource they can use and trust. https://t.co/6ptPnEKJoz",
+          "createdAt": "2026-05-15T20:26:31.000Z",
+          "url": "https://x.com/garrytan/status/2055384351307858390",
+          "likes": 87,
+          "retweets": 7,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2053915088466174098"
+        },
+        {
+          "id": "2055320066577891415",
+          "text": "Many such cases https://t.co/9ThA8cXvgl",
+          "createdAt": "2026-05-15T16:11:04.000Z",
+          "url": "https://x.com/garrytan/status/2055320066577891415",
+          "likes": 55,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2054938901106540986"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2055404881024848056",
+          "text": "Some personal news: He slid into my DMs, don't say prayers don't work y'all https://t.co/aOIpCELX3i",
+          "createdAt": "2026-05-15T21:48:05.000Z",
+          "url": "https://x.com/mattturck/status/2055404881024848056",
+          "likes": 18,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2055428193398780296",
+          "text": "For folks who don't believe me, this is the second phase and it's still going.. parents are going to be excited for this side project. https://t.co/opYMmQgHXJ",
+          "createdAt": "2026-05-15T23:20:43.000Z",
+          "url": "https://x.com/nikunj/status/2055428193398780296",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055426430654439485",
+          "text": "Man, /goal is just AGI if given the right tools.. \n\nLike what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs caused by different images, the descriptions, used browser harness to get real-time info from the web, used web search for fact checking, wrote scripts for all the work you did for the future.. and ran for 2 hours while I met founders for coffee. \n\nI'm just shook 😅",
+          "createdAt": "2026-05-15T23:13:43.000Z",
+          "url": "https://x.com/nikunj/status/2055426430654439485",
+          "likes": 304,
+          "retweets": 8,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055288369958289536",
+          "text": "You are missing out on reading essays from the better writer in our family.. https://t.co/XeyIMhooSY https://t.co/uqQ6XzVnja",
+          "createdAt": "2026-05-15T14:05:07.000Z",
+          "url": "https://x.com/nikunj/status/2055288369958289536",
+          "likes": 28,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2055405041843052792",
+          "text": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral https://t.co/Q1NRXLemEy machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build https://t.co/bmA1XnoB7P to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
+          "createdAt": "2026-05-15T21:48:44.000Z",
+          "url": "https://x.com/steipete/status/2055405041843052792",
+          "likes": 3727,
+          "retweets": 209,
+          "replies": 293,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055402519841411165",
+          "text": "Been using @sveltejs for a few projects lately, it's quite a nice alternative to React, fewer gotchas and complexity and Codex handles it really well. https://t.co/b2KdDvrpLD",
+          "createdAt": "2026-05-15T21:38:42.000Z",
+          "url": "https://x.com/steipete/status/2055402519841411165",
+          "likes": 530,
+          "retweets": 33,
+          "replies": 55,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2055364630709448970",
+          "text": "🩹 clawpatch 0.1.0 is live:\n\nClawpatch maps codebases into semantic feature slices, reviews them for bugs and quality issues, and records explicit fix attempts with validation.\n\nYou'll be surprised how much this will find.\nnpm install -g clawpatch\nhttps://t.co/8xIcXuojse",
+          "createdAt": "2026-05-15T19:08:09.000Z",
+          "url": "https://x.com/steipete/status/2055364630709448970",
+          "likes": 942,
+          "retweets": 69,
+          "replies": 58,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2055451869841965154",
+          "text": "Codex-native apps are the future. https://t.co/hBlkSfNn9Z",
+          "createdAt": "2026-05-16T00:54:48.000Z",
+          "url": "https://x.com/danshipper/status/2055451869841965154",
+          "likes": 284,
+          "retweets": 12,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2055364115560878480"
+        },
+        {
+          "id": "2055412891910586516",
+          "text": "This is the future https://t.co/ZiZ6aZDtBn",
+          "createdAt": "2026-05-15T22:19:55.000Z",
+          "url": "https://x.com/danshipper/status/2055412891910586516",
+          "likes": 67,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2055406176771449322"
+        },
+        {
+          "id": "2055347527457886336",
+          "text": "our full deep-dive on trying to launch an agent-as-a-service platform built on openclaw! my two bigs ones:\n\n1. OpenClaw is awesome but it's EXTREMELY hard to build on it as a platform. it moves super fast, there are tons of regressions, it's not great to be the layer in between OpenClaw and a user\n\n2. One super agent for a company beats 1-1 agents for everyone. I do think we're going to get there over time, but for now agents actually require a lot of work (often technical) to keep working well. And people with jobs don't want to be messing with the internals of the agent all day. \n\nHowever if you give everyone an agent that works really well and make it someone's job to make it good for the whole company...lots of good stuff ensues\n\nstay tuned we'll have more on this @every!",
+          "createdAt": "2026-05-15T18:00:11.000Z",
+          "url": "https://x.com/danshipper/status/2055347527457886336",
+          "likes": 131,
+          "retweets": 5,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2055344651767337226"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2055356452286640630",
+          "text": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please') https://t.co/O6Ws2zQyGN",
+          "createdAt": "2026-05-15T18:35:39.000Z",
+          "url": "https://x.com/sama/status/2055356452286640630",
+          "likes": 3274,
+          "retweets": 89,
+          "replies": 561,
+          "isQuote": true,
+          "quotedTweetId": "2055316274394300829"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, &amp; Why Hinton is Wrong",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-05-15T12:50:21.000Z"
+    }
+  ]
+}

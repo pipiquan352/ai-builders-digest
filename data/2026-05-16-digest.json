@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac”",
+      "zh": "不得不说，从 3 个月前开始，Codex 已经完全无法识别了。伙计们在这件事上采取了极端的创始人模式\n\n@gabrielchua 正在演示这个，我当时就想“你们在 mac 上有agentic excel”"
+    },
+    "petergyang": {
+      "en": "This is a really great update.\n\nI just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off\n\nDoesn't appear there's a \"Use for ad targeting\" toggle  here so I'll assume the same toggle applies to both.",
+      "zh": "这是一次非常棒的更新。\n\n我只是不想让我的财务数据被用来训练模型或获得有针对性的广告，所以我关闭了“为每个人改进模型”\n\n这里似乎没有“用于广告定位”切换，因此我假设相同的切换适用于两者。"
+    },
+    "realmadhuguru": {
+      "en": "A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them.\n\nFor two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain.\n\nThat made a lot of PM work dry and mechanical. But for a long time, it was enough to build a career.\n\nIt’s also why so much software feels the same.\n\nPMs need to be inventors now, not framework executors. There are no stable playbooks to repurpose.\n\nYou can’t A/B test your way to a breakthrough AI product.\n\nDoable. But PMs need to unlearn.",
+      "zh": "一代产品经理正在努力适应人工智能，因为他们接受过执行剧本的培训。人工智能需要发明它们。\n\n二十年来，一些团队发明了产品模式。其他人都将它们重新调整到自己的领域。\n\n这使得很多项目经理的工作枯燥而机械。但在很长一段时间里，这足以成就一番事业。\n\n这也是为什么这么多软件给人的感觉都是一样的。\n\nPM 现在需要成为发明者，而不是框架执行者。没有稳定的剧本可以重新利用。\n\n你无法通过 A/B 测试来获得突破性的人工智能产品。\n\n可行的。但产品经理需要忘掉所学的东西。"
+    },
+    "rauchg": {
+      "en": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
+      "zh": "如果您在管理代理方面变得出色，而且对基本原理的理解也非常出色，那么您将势不可挡。\n\n我们都喜欢与他们的工艺大师一起工作。新动态：您不能错过放大剂对您输出的影响"
+    },
+    "levie": {
+      "en": "Headless software is the future",
+      "zh": "无头软件是未来"
+    },
+    "garrytan": {
+      "en": "The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as the CA asset seizure tax by SEIU. \n\nBad anti-business policy that makes our cities and states poorer.",
+      "zh": "薪酬过高的首席执行官税不会对薪酬过高的首席执行官征税，它所做的只是将更高的总收入税转嫁给消费者，这将导致该市的收入大幅下降，就像 SEIU 征收的加州资产扣押税一样。 \n\n糟糕的反商业政策使我们的城市和州变得更加贫穷。"
+    },
+    "mattturck": {
+      "en": "Some personal news: He slid into my DMs, don't say prayers don't work y'all",
+      "zh": "一些个人新闻：他溜进了我的私信，别说祈祷不起作用，你们大家"
+    },
+    "nikunj": {
+      "en": "Man, /goal is just AGI if given the right tools.. \n\nLike what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs caused by different images, the descriptions, used browser harness to get real-time info from the web, used web search for fact checking, wrote scripts for all the work you did for the future.. and ran for 2 hours while I met founders for coffee. \n\nI'm just shook 😅",
+      "zh": "伙计，如果有合适的工具，/goal 就是 AGI。 \n\n就像你的意思是，你浏览了 2k+ 行项目的整个数据库，修复了所有产品图像、由不同图像引起的前端错误、描述，使用浏览器工具从网络获取实时信息，使用网络搜索进行事实检查，为你未来所做的所有工作编写脚本......并在我与创始人喝咖啡时运行了 2 个小时。 \n\n我只是震惊了😅"
+    },
+    "steipete": {
+      "en": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral  machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build  to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
+      "zh": "人们对我的人工智能支出感到恐惧。没有人看到的：在 OpenClaw 上工作让我如此兴奋的部分原因是我试图回答这个问题：\n\n如果代币不重要，我们将来如何构建软件？\n\n我们不断在云端运行约 100 个 Codex，审查每个 PR、每个问题。如果在主要土地上进行修复，@clawsweeper 最终会发现 6 个月前的问题并用准确的参考将其关闭。\n\n我们对每次提交都运行法典以审查安全问题（因为它太容易被错过）。\n\n我们运行 codex 来消除重复问题并查找集群并发送最紧迫问题的报告。\n\n我们的代理可以重新创建复杂的设置、启动临时机器、登录例如Telegram、在修复 PR 之前/之后制作视频并发布。\n\n有一个 Codex 可以观察新问题，如果它很符合我们记录的愿景，就会自动创建一个 PR。 （然后另一个法典评论）\n\n我们正在运行法典，可以扫描评论中的垃圾邮件并阻止人们。\n\n我们运行 Codex 实例来验证性能基准并向 Discord 报告回归情况。\n\n我们有代理听取我们的会议并主动开始工作，例如当我们在讨论新功能时创建 PR。\n\n我们将所有项目拆分为功能单元，以审查和查找错误和回归。\n\n我们对 Vercel 的 deepsec 和 Codex Security 进行同样的安全划分，以查找回归和漏洞。\n\n所有这些自动化使我们能够极其精简地运行这个项目。"
+    },
+    "danshipper": {
+      "en": "Codex-native apps are the future.",
+      "zh": "Codex 原生应用程序是未来。"
+    },
+    "sama": {
+      "en": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please')",
+      "zh": "我很欣赏团队总是认真对待这些报告（即使答案是“我已经习惯了当前的魔法水平，现在我想要更多”）"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:03\nYou're one of the godfathers of AI. What's your kind of view of the path of progress here?\n\nSpeaker 2 | 00:03 - 00:11\nFive years complete world domination. The best way to get breakthrough research is you hire the best people, and you get the fuck out of the way. Pardon my French.\n\nSpeaker 1 | 00:11 - 00:14\nYou shared the Turing Award with two others. When did your views start diverging?\n\nSpeaker 2 | 00:14 - 00:15\nIn 2023.\n\nSpeaker 1 | 00:15 - 00:16\nHow you do know it\n\n...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n您是人工智能教父之一。您对这里的进步之路有何看法？\n\n扬声器 2 | 00:03 - 00:11\n五年完成世界统治。获得突破性研究的最好方法是雇佣最优秀的人才，然后你就可以了。请原谅我的法语。\n\n演讲者 1 | 00:11 - 00:14\n您与另外两人分享了图灵奖。你们的观点什么时候开始出现分歧？\n\n扬声器 2 | 00:14 - 00:15\n2023年。\n\n演讲者 1 | 00:15 - 00:16\n你怎么知道的",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
