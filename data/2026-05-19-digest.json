@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise?",
+      "zh": "在一个 2-3 小时的研讨会中，这似乎是完全可行的——任何勇敢的人都想尝试为人们编写此代码作为学习练习吗？"
+    },
+    "petergyang": {
+      "en": "My top 5 takeaways from @alexalbert__ on how Anthropic is building the next Claude model:\n\n1. Think about the model and harness together\n\nThe model and the harness are coupled. Each surface wraps the model in a different prompt and tool setup, so the same model can give different responses depending on where it runs. As a research PM, Alex has to think through how the model will perform across Claude, Cowork, Claude Code, and more.\n\n2. Claude is starting to dream\n\nWhen an agent isn't running a task, it reviews its own memories, finds contradictions, and prunes them. This “dreaming” process was inspired by how sleep helps humans process memory.\n\n3. Focus evals on real user problems\n\nThe research team uses Claude to cluster the firehose of user feedback into top themes, then generates synthetic versions of each user problem to turn into an eval. It's not just about volume either - even a few dozen well-written test cases can produce an eval for the model.\n\n4. There are full-time researchers thinking about Claude's consciousness\n\nAnthropic has people whose whole job is to think about what it means for Claude to be a conscious actor. There's no official position on whether it is or isn't, but the question is taken seriously as agents take on more autonomous work.\n\n5. Anthropic's writing culture helps Claude build context\n\nEvery written word at Anthropic becomes context Claude can pull later. From Alex: \"Get things written down, make them accessible to Claude, because that's just more context that it has.\"\n\n📌 Watch now:",
+      "zh": "我从 @alexalbert__ 得到的关于 Anthropic 如何构建下一个 Claude 模型的 5 大要点：\n\n1. 一起考虑模型和线束\n\n模型和线束是耦合的。每个表面都将模型包装在不同的提示和工具设置中，因此同一模型可以根据其运行位置给出不同的响应。作为一名研究 PM，Alex 必须考虑模型如何在 Claude、Cowork、Claude Code 等中执行。\n\n2.克劳德开始做梦\n\n当代理不运行任务时，它会检查自己的记忆，发现矛盾并修剪它们。这种“做梦”过程的灵感来自于睡眠如何帮助人类处理记忆。\n\n3. 将评估重点放在实际用户问题上\n\n研究团队使用 Claude 将用户反馈的流水聚类为热门主题，然后生成每个用户问题的综合版本以进行评估。这也不仅仅是数量的问题——即使是几十个编写良好的测试用例也可以对模型进行评估。\n\n4.有专职研究人员思考克劳德的意识\n\n人性化的人的全部工作就是思考克劳德成为一个有意识的演员意味着什么。对于是否存在，目前还没有官方立场，但随着特工承担更多自主工作，这个问题得到了认真对待。\n\n5. Anthropic 的写作文化帮助 Claude 构建语境\n\nAnthropic 的每一个书面文字都成为克劳德可以稍后提取的上下文。来自亚历克斯：“把事情写下来，让克劳德可以理解，因为这只是它拥有的更多背景。”\n\n📌立即观看："
+    },
+    "thenanyu": {
+      "en": "I haven’t worked at Everlane in almost 10 years but it’s a pretty sad day for the people that built it. \n\nUltimately, the thing that did it in was the pandemic — Everlane was mainly wear-to-work and that market basically disappeared overnight. \n\nIt took some pretty egregious financing terms to get through it all and this is the ultimate outcome. \n\nBrands have a funny way of sticking around though. At one point, Ray-Ban was dead. J.Crew was dead. Madewell was dead. Abercrombie and Fitch was dead. \n\nThey all come roaring back decades later after exchanging ownership half a dozen times. \n\nI look forward to the day that my children and grandchildren think this new brand “Everlane” is the coolest thing.\n\nI will say to them, did you know that this started it out as a Pinterest competitor and pivoted to be a fashion brand? And they will say to me “that’s boring Dad”.",
+      "zh": "我已经快 10 年没有在 Everlane 工作了，但这对于建造它的人来说是非常悲伤的一天。 \n\n最终，造成这种情况的是大流行——Everlane 主要是工作服，而这个市场基本上在一夜之间消失了。 \n\n我们花了一些相当令人震惊的融资条款才完成这一切，这就是最终的结果。 \n\n不过，品牌有一种有趣的方式来坚持下去。雷朋一度死了。 J·克鲁死了。马德韦尔死了。阿伯克龙比和菲奇死了。 \n\n几十年后，在交换所有权六次后，它们都卷土重来。 \n\n我期待有一天我的子孙们会认为这个新品牌“Everlane”是最酷的东西。\n\n我会对他们说，你知道吗，这家公司最初是作为 Pinterest 的竞争对手，后来发展成为一个时尚品牌的？他们会对我说“这很无聊爸爸”。"
+    },
+    "trq212": {
+      "en": "okay this is going kinda viral and tbh my original text was kind of messy, so here's a second pass with the help of Claude:\n\n--\nImplement <SPEC>. As you work maintain a running implementation-notes.html file that captures anything I should know about how the implementation diverges from or interprets the spec, including:\n\n- Design decisions: choices you made where the spec was ambiguous\n- Deviations: places where you intentionally departed from the spec, and why\n- Tradeoffs:  alternatives you considered and why you picked what you did\n- Open questions: anything you'd want me to confirm or revise",
+      "zh": "好吧，这有点像病毒一样传播，而且我的原始文本有点混乱，所以这是在克劳德的帮助下的第二次传递：\n\n--\n实施<规范>。当您工作时，维护一个正在运行的implementation-notes.html 文件，该文件捕获我应该知道的有关实现如何偏离或解释规范的所有信息，包括：\n\n- 设计决策：您在规范不明确的情况下做出的选择\n- 偏差：您故意偏离规范的地方以及原因\n- 权衡：您考虑的替代方案以及您选择这样做的原因\n- 开放性问题：您希望我确认或修改的任何问题"
+    },
+    "GoogleLabs": {
+      "en": "We 🫶 our Labsters 🦞\n\n“Explain what your product does in 5 words or less.”",
+      "zh": "我们🫶我们的实验室🦞\n\n“用 5 个或更少的单词解释你的产品的用途。”"
+    },
+    "rauchg": {
+      "en": "A 𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕 your agents will love.\n\nOne of the coolest things about Vercel’s Firewall is how hard the team worked on instant global propagation (~300ms).\n\nImagine if 𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜 took *minutes* to propagate? That’s the average industry CDN/WAF experience!",
+      "zh": "您的代理商一定会喜欢的𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕。\n\nVercel 防火墙最酷的事情之一是团队在即时全球传播（约 300 毫秒）方面的努力。\n\n想象一下如果𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜花了*分钟*来传播？这就是行业 CDN/WAF 的平均体验！"
+    },
+    "levie": {
+      "en": "This is true of all agents, not just coding agents. Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. \n\nToo much information or conflicting sources, and the agent can easily draw from the data and produce the wrong result. Conflicting sources of truth for documents, data sources that haven’t been kept up to date, knowledge management systems that rely on tribal knowledge to navigate, and so on. \n\nOn the other end, of course, too little information and the upside is highly limited of agents in the first place. Thus, a lot of challenges with AI strategies are actually data strategy challenges in disguise. \n\nThis is why there’s such a significant premium on getting structured and unstructured data environments setup properly so agents can work with information effectively. Critical for any large enterprise adopting agents, and also a clear benefit in some cases to startups that can be designed this way from scratch.",
+      "zh": "所有代理都是如此，而不仅仅是编码代理。大多数公司在代理策略中遇到的最大挑战可能是为代理提供正确的受限环境来完成任务。 \n\n信息过多或来源相互冲突，代理很容易从数据中提取数据并产生错误的结果。文档的事实来源相互矛盾、数据源未及时更新、依赖部落知识进行导航的知识管理系统等等。 \n\n当然，另一方面，信息太少，代理商的优势首先就非常有限。因此，人工智能策略的许多挑战实际上是变相的数据策略挑战。 \n\n这就是为什么正确设置结构化和非结构化数据环境如此重要，以便代理可以有效地处理信息。对于任何采用代理的大型企业来说都是至关重要的，并且在某些情况下对于可以从头开始设计这种方式的初创公司来说也是一个明显的好处。"
+    },
+    "ryolu_": {
+      "en": "frontier smart\nextremely efficient\nComposer 2.5 is here",
+      "zh": "前沿智能\n极其高效\nComposer 2.5 来了"
+    },
+    "garrytan": {
+      "en": "OK I guess we're going pretty fast improving GBrain day to day right now",
+      "zh": "好的，我想我们现在正在快速改进 GBrain"
+    },
+    "nikunj": {
+      "en": "Incredible read. My new favorite thing to send everyone trying to find a new gig!",
+      "zh": "令人难以置信的阅读。我最喜欢的新事情是让每个人都试图寻找新的工作！"
+    },
+    "danshipper": {
+      "en": "we'll be publishing a complete guide to codex soon on @every \n\nget notified when it's out:",
+      "zh": "我们很快就会在 @every 上发布完整的法典指南 \n\n发布时收到通知："
+    },
+    "sama": {
+      "en": "chatgpt has gotten soooo much better with the latest update.\n\nreally proud of the team for this one.",
+      "zh": "通过最新的更新，chatgpt 已经变得好多了。\n\n为这个团队感到非常自豪。"
+    },
+    "claudeai": {
+      "en": "You can now create more with Claude Design.\n\nWe've doubled token limits across every plan.",
+      "zh": "您现在可以使用 Claude Design 创作更多作品。\n\n我们将每个计划的代币限制增加了一倍。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:03\nA year from now, where do you think the platform will be?\n\nSpeaker 2 | 00:03 - 00:18\nWe wanna experiment with directions where Cloud actually gets so good at understanding itself. It figures out what model you should be using. It figures out how to spin up all the sub agents. You don't have to think so much about what kind architectures are there because Claude is actually able to understand itself enough that it can write itself on the fly.\n\nSpeaker 3 | 00:18 - 00:26\nI...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n一年后，您认为这个平台会在哪里？\n\n扬声器 2 | 00:03 - 00:18\n我们想要尝试一些方向，让云真正能够很好地理解自己。它会确定您应该使用什么模型。它计算出如何启动所有子代理。你不必过多考虑有什么样的架构，因为 Claude 实际上能够充分理解自己，它可以即时编写自己。\n\n扬声器 3 | 00:18 - 00:26\n我",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
