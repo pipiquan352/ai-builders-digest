@@ -1,0 +1,80 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.",
+      "zh": "个人更新：我已加入 Anthropic。我认为法学硕士前沿的未来几年将尤其具有影响力。我很高兴能加入这里的团队并回到研发部门。我仍然对教育充满热情，并计划及时恢复我的工作。"
+    },
+    "swyx": {
+      "en": "rsi is here. jesus",
+      "zh": "rsi 在这里。耶稣"
+    },
+    "joshwoodward": {
+      "en": "Introducing Gemini Spark!\n\nOur 24/7 personal AI agent designed to proactively manage tasks and help you navigate your digital life, all under your direction.\n\nComing to trusted testers this week, and as a Beta for US Google AI Ultra subscribers next week!",
+      "zh": "介绍双子座火花！\n\n我们的 24/7 个人人工智能代理旨在主动管理任务并帮助您驾驭数字生活，一切都在您的指导下。\n\n本周将向值得信赖的测试人员开放，下周将作为美国 Google AI Ultra 用户的测试版！"
+    },
+    "petergyang": {
+      "en": "Talking to the Head of Gemini app in 5 min at Google, what should I ask him?",
+      "zh": "与 Google 的 Gemini 应用程序负责人进行 5 分钟交谈，我应该问他什么？"
+    },
+    "thenanyu": {
+      "en": "Alternate take",
+      "zh": "替代拍摄"
+    },
+    "trq212": {
+      "en": "the future is bright, lets get to work",
+      "zh": "未来是光明的，让我们开始工作吧"
+    },
+    "GoogleLabs": {
+      "en": "Have you explored Project Genie yet? 🌎 We just launched a huge set of updates! You can now simulate worlds grounded in @GoogleMaps Street View, manage your creations in a new library, and share them externally. Let's dive in:\n\n1️⃣ Street View Grounding: You can now generate worlds starting from real places! Just tap the Maps pin to choose a location in the US and you can pick a style like \"Desert Sands\" or \"Ocean World.\" Describe your character, and Genie ties your starting location to real-world imagery.\n\n2️⃣ Library: You can now store and organize your generated worlds. Easily explore past creations or remix your favorites to iterate on your ideas.\n\n3️⃣ External sharing: You can now share your generated worlds. Anyone can watch a video preview of your world, and Ultra subscribers can explore or remix them. Check out a shared world here: \n\n✨ And now, Project Genie is gradually rolling out to all eligible Google AI Ultra subscribers globally (18+). Jump in and start creating today!",
+      "zh": "您探索过 Project Genie 了吗？ 🌎 我们刚刚推出了大量更新！您现在可以模拟基于 @GoogleMaps Street View 的世界，在新库中管理您的创作，并在外部共享它们。让我们深入探讨：\n\n1️⃣ 街景基础：您现在可以从真实的地方开始生成世界！只需点击地图图钉即可选择美国的位置，然后您就可以选择“沙漠金沙”或“海洋世界”等样式。描述您的角色，Genie 会将您的起始位置与现实世界的图像联系起来。\n\n2️⃣ 图书馆：您现在可以存储和组织您生成的世界。轻松探索过去的创作或重新混合您最喜欢的作品以迭代您的想法。\n\n3️⃣ 外部共享：您现在可以共享您生成的世界。任何人都可以观看您的世界的视频预览，Ultra 订阅者可以探索或重新混合它们。在这里查看共享世界： \n\n✨ 现在，Project Genie 正在逐步向全球所有符合条件的 Google AI Ultra 订阅者（18 岁以上）推出。今天就加入并开始创作吧！"
+    },
+    "rauchg": {
+      "en": "This is so cool: rerun​.io\nStack: @sveltejs / @threejs / @vercel",
+      "zh": "这太酷了：rerun​.io\n堆栈：@sveltejs / @ Threejs / @vercel"
+    },
+    "levie": {
+      "en": "Token costs will become a dominant topic in enterprises going forward with AI. Just got out of a dinner with many Fortune 500 enterprise CIOs and this was the most heated topic. \n\nA mix of strategies are being employed, but basically no one feels like they have the right solution. A mix of: figuring out how to prioritize workloads to different models, giving out access to better or worse agents by user type, setting different spend caps by team, having teams justify AI by their use-case, and some just having unfettered access.\n\nEveryone is trying to figure out a semi/predictable model right now in a world where the underlying tech and cost models are constantly evolving.",
+      "zh": "代币成本将成为企业推进人工智能的主要话题。刚和众多世界500强企业的CIO吃完饭，这是最热门的话题。 \n\n人们正在采用多种策略，但基本上没有人觉得自己拥有正确的解决方案。包括：弄清楚如何对不同模型的工作负载进行优先级排序，根据用户类型授予更好或更差代理的访问权限，按团队设置不同的支出上限，让团队根据其用例证明人工智能的合理性，以及一些团队拥有不受限制的访问权限。\n\n现在，在底层技术和成本模型不断发展的世界中，每个人都在试图找出一个半/可预测的模型。"
+    },
+    "ryolu_": {
+      "en": "i now use:\nComposer 2.5 for planning\nComposer 2.5 for building &amp; iterations\nComposer 2.5 for debugging\n\na great all-rounder, especially for UI work – gets you in flow with Design Mode in Cursor",
+      "zh": "我现在使用：\nComposer 2.5 用于规划\n用于构建和迭代的 Composer 2.5\n用于调试的 Composer 2.5\n\n一个伟大的多面手，特别是对于 UI 工作 - 让您在光标设计模式中流畅"
+    },
+    "garrytan": {
+      "en": "Tokenmaxxing confirmed",
+      "zh": "Tokenmaxxing已确认"
+    },
+    "mattturck": {
+      "en": "Genuinely impressive release by Google today (remember when they were behind?)\n\nGemini 3.5 Flash perf:\n* Building on prior strengths (83.6% of MMMU-Pro for multimodal), \n* big jump on agentic coding (76.2% on Terminal-Bench for agentic coding and 56.5% on Toolathon for real world tasks)\n* progress and expert tasks (57.9% on Finance Agent 2... we are cooked)\n* leading scores across SWE-Bench, OSWorld etc. \n\n(also, elegant to bold the top scores in the chart below even if when it's not Google leading)\n\nOfc, just benchmarks, and also not cheap  (~$9/M output), but Google is cookin'... we are all so spoiled to have the 3 labs compete",
+      "zh": "谷歌今天发布了令人印象深刻的版本（还记得他们落后的时候吗？）\n\nGemini 3.5 闪存性能：\n* 建立在先前的优势之上（多式联运的 MMMU-Pro 为 83.6%）， \n* 代理编码的大幅跃升（代理编码的 Terminal-Bench 为 76.2%，现实世界任务的 Toolathon 为 56.5%）\n* 进度和专家任务（财务代理 2 上 57.9%...我们已经熟了）\n* 在 SWE-Bench、OSWorld 等方面的领先分数 \n\n（另外，即使不是谷歌领先，也可以优雅地将下表中的最高分加粗）\n\nOfc，只是基准测试，而且也不便宜（~$9/M 产出），但 Google 正在烹饪……我们都太喜欢让 3 个实验室竞争了"
+    },
+    "nikunj": {
+      "en": "Even in the AI pilled crowd of the Bay Area, I think VERY few people have priced in the fact that we have already gone from assistant -> coworker -> and soon entering autonomous workers.. \n\nYes, \"autonomy\" truly doesn't work yet, but the harnesses and the model capabilities are going to get us there within this area for a large faction of jobs.  \n\nThis is quite evident from a) labs desire to collect long horizon task data in RL environments b) these model harnesses allowing longer and longer tasks (see /goal or Droid Missions) and c) how good these models are able to recursively correct its mistakes. \n\nAI has officially entered the diffusion era (not diffusion models) where models just need to be diffused in everything they do. And that will take the next 10-20 years or as I call it the last mile of the last mile.",
+      "zh": "即使在湾区的人工智能人群中，我认为也很少有人考虑到我们已经从助理 -> 同事 -> 很快进入自主工作者这一事实。 \n\n是的，“自主性”确实还行不通，但线束和模型功能将使我们在这一领域完成大量工作。  \n\n这从 a) 实验室希望在 RL 环境中收集长期任务数据 b) 这些模型利用允许越来越长的任务（参见 /goal 或 Droid Missions）以及 c) 这些模型能够递归地纠正其错误的能力来看，这一点非常明显。 \n\n人工智能已经正式进入扩散时代（不是扩散模型），模型只需要在它们所做的一切中扩散。这将需要未来 10-20 年的时间，或者我称之为最后一英里的最后一英里。"
+    },
+    "danshipper": {
+      "en": "what did karpathy see",
+      "zh": "卡帕蒂看到了什么"
+    },
+    "adityaag": {
+      "en": "The future is bright. \n\nWe will have amazing things at the intersection of AI+Atoms.",
+      "zh": "未来是光明的。 \n\n在人工智能+原子的交叉点上，我们将会创造出令人惊奇的事物。"
+    },
+    "sama": {
+      "en": "customers are increasingly asking us for certainty on capacity. as models get better, we expect that the world will be capacity-constrained for some time.\n\nwe are offering discounted tokens for 1-3 year commits.\n\n(it also helps us plan, so hopefully a big win-win.)",
+      "zh": "客户越来越多地要求我们确定容量。随着模型变得更好，我们预计世界将在一段时间内受到容量限制。\n\n我们为 1-3 年承诺提供折扣代币。\n\n（它也有助于我们制定计划，因此希望能实现双赢。）"
+    },
+    "claudeai": {
+      "en": "Scott Wu (@ScottWu46) runs @cognition, the team behind Devin, an AI software engineer built on Claude. \n\nHe wants to make building software 10x faster for every engineering team:",
+      "zh": "Scott Wu (@ScottWu46) 运营着 @cognition，该团队是 Devin 背后的团队，Devin 是一位基于 Claude 的人工智能软件工程师。 \n\n他希望每个工程团队的软件构建速度提高 10 倍："
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:18\nYou know, I think that there's always a gap between the idealized vision of what you think your job's gonna be and then what your job actually is. Yeah. I think it's true for every profession. You you idealize, and kids do this the most, right, when they're like, wanna be a firefighter and astronaut, what that job looks like. And then and then you get in that job and you realize, oh, there's there's actually a lot in this that I don't like.\n\nSpeaker 1 | 00:19 - 00:26\nAn...",
+      "zh": "演讲者 1 | 00:00 - 00:18\n你知道，我认为你对工作的理想化愿景与你的实际工作之间总是存在差距。是的。我认为对于每个职业来说都是如此。你理想化了，孩子们最常这样做，对吧，当他们想成为一名消防员和宇航员时，那份工作是什么样的。然后当你进入那份工作时，你会意识到，哦，实际上有很多我不喜欢的地方。\n\n演讲者 1 | 00:19 - 00:26\n安",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
