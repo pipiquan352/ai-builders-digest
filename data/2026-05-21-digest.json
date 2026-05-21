@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol. \n\nso proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear",
+      "zh": "顺便说一句，我们对 Exa 与竞争对手进行了比较，团队花了 1.5 小时才一致同意 exa lol。 \n\n很自豪地看到我的前房东粉碎了它 - 时间旅行回到去年并听听 pre pmf @WilliamBryk 以了解如何在代际撕裂中发现公司"
+    },
+    "joshwoodward": {
+      "en": "Glad you're liking it!",
+      "zh": "很高兴你喜欢它！"
+    },
+    "kevinweil": {
+      "en": "The next in a series of firsts for AI and mathematics!",
+      "zh": "人工智能和数学的一系列第一中的下一个！"
+    },
+    "petergyang": {
+      "en": "Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health.",
+      "zh": "也许不在一家每隔几个月就会进行裁员和 PSC 的公司工作更有利于心理健康。"
+    },
+    "GoogleLabs": {
+      "en": "From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒\n\nSee Genie in action at this year's Google I/O sandbox:",
+      "zh": "从玩游戏到设计游戏只需几分钟。只需选择您的角色，设置场景，然后让 Project Genie 完成剩下的工作。转变太疯狂了🦒\n\n查看 Genie 在今年的 Google I/O 沙盒中的实际应用："
+    },
+    "rauchg": {
+      "en": "This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio).",
+      "zh": "这将使人工智能占据网络的 42%。每个模型、每个提供商、每个模式（文本、图像、视频、音频）。"
+    },
+    "levie": {
+      "en": "Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. \n\nPeople often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. \n\nBecause something like cloud adoption affected a fairly concentrated set of users (developers and IT), and generally didn’t require a fundamental change to the workflows of employees to get the benefits of the new service being delivered on the cloud. At best you went to one training session and you were done. \n\nWith agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there’s a ton of technical work and change management that comes with it.\n\nFurther, the pace of change of cloud wasn’t nearly as quick, so there was a lot more time for best practices to propagate. Now, every model change means either something new can be done that wasn’t possible before, or some piece of scaffolding is now redundant or holding you back. \n\nThis is why it’s commonly easier for a vendor or partner that’s seen the implementation hundreds or thousands of times help do the work, even with internal support from the customer.\n\nSo, this job isn’t going away any time soon, and will be a great path for a lot of technical talent, especially early career.",
+      "zh": "关于 FDE 的精彩帖子。如果您对此工作类别感兴趣，每个人都应该阅读它。只要人工智能不断快速变化，这项工作就会存在，而且这是不可避免的。 \n\n人们常常想知道为什么这不像过去部署其他形式的技术，比如云。 \n\n因为像云采用这样的事情影响了相当集中的用户（开发人员和 IT），并且通常不需要对员工的工作流程进行根本性的改变即可获得在云上提供的新服务的好处。最好的情况是，你参加了一次培训课程就完成了。 \n\n对于代理来说，实现它们的工作不仅技术性很强，而且直接影响人们参与的底层工作流程。这意味着随之而来的是大量的技术工作和变更管理。\n\n此外，云的变化速度并没有那么快，因此有更多的时间来传播最佳实践。现在，每次模型更改都意味着要么可以完成以前不可能完成的新任务，要么某些脚手架现在变得多余或阻碍您。 \n\n这就是为什么对于已经看到数百次或数千次实施帮助完成工作的供应商或合作伙伴来说，即使有客户的内部支持，通常也会更容易。\n\n因此，这项工作不会很快消失，对于很多技术人才来说，尤其是职业生涯早期，这将是一条很好的道路。"
+    },
+    "garrytan": {
+      "en": "Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete. \n\nWhen your agents need to search the web, accept no substitutes.",
+      "zh": "Exa 是我对所有代理商的信任。我们在 YC 使用它。我们在所有 OpenClaw 和 Hermes Agent 中都使用它。没有其他选项可以如此快速、如此可靠和如此完整。 \n\n当您的代理需要搜索网络时，不要接受替代品。"
+    },
+    "mattturck": {
+      "en": "When Kendall buys Vaulter",
+      "zh": "当肯德尔购买 Vaulter 时"
+    },
+    "nikunj": {
+      "en": "Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves \"is it really worth it\". \n\nStarting a company is so glorified - but building, scaling and maintaining one is a different story. This is why it's so important to do this for the right reasons - solve problems you are deeply passionate about and one you'll do even if the world is against you. At least there will be light at the end of the tunnel that's constantly drawing you in on those days when you are questioning your motivation. \n\nI have never had the courage to personally start a company for this reason. Just wanted to say to the ones going through this - I see you, I salute you and I admire you 🫡",
+      "zh": "作为一名创始人真是太辛苦了……每天都嚼玻璃。如果你失败了，没有人在乎。如果你成功了，你就会遇到更多的问题。有时候我真的想知道有多少创始人早上醒来会问自己“这真的值得吗”。 \n\n创办一家公司固然光荣，但建立、扩展和维护一家公司却是另一回事了。这就是为什么出于正确的原因去做这件事如此重要——解决你非常热衷的问题，即使全世界都反对你，你也会这样做。至少在你质疑自己动机的那些日子里，隧道尽头会有光明不断地吸引你。 \n\n为此我一直没有勇气亲自创办一家公司。只是想对那些正在经历这一切的人说 - 我看到你，我向你致敬，我钦佩你🫡"
+    },
+    "steipete": {
+      "en": "Can't recommend @cotypist  enough. Autocomplete everywhere.",
+      "zh": "强烈推荐@cotypist。自动完成无处不在。"
+    },
+    "danshipper": {
+      "en": "Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.\n\nBack in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI & I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure: I’m a small investor in the company.) After Monday's news, the conversation lands differently—in it, Alex essentially walks me through the design thinking for building APIs, SDKs, and MCP servers that Anthropic paid a reported $300 million for.\n\nOn @every's AI & I, we get into MCP and the future of the AI-native internet.\n\nHighlights include:\n- Design MCP servers to be lean and precise. Alex's best practices for building reliable MCP servers start with keeping the toolset small, giving each tool a precise name and description, and minimizing the inputs and outputs the model has to handle. At Stainless, they also often add a JSON filter on top to strip out unnecessary data.\n- Make complex APIs manageable with dynamic mode. To solve the problem of how an AI figures out which tool to use in larger APIs, Stainless switches to \"dynamic mode,\" where the model gets only three tools: List the endpoints, pick one and learn about it, and then execute it.\n- MCP servers as business copilots. At Stainless, Alex uses MCP servers to connect tools like @NotionHQ and @HubSpot, so he can ask questions like, \"Which customers signed up last week?\" The system queries multiple databases and returns a summary that would've otherwise taken multiple logins and searches.\n- Create a \"brain\" for your company with Claude Code. Alex built a shared company brain at Stainless by keeping Claude Code running on his system and asking it to save useful inputs—like customer feedback and SQL queries—into GitHub. Over time, this creates a curated archive his team can query easily.\n- The future of MCP is code execution. Instead of giving models hundreds of tools, Alex believes the most powerful setup will be a simple code execution tool and a doc search tool. The AI writes code against an API's SDK, runs it on a server, and checks the docs when it gets stuck.\n\nThis is a must-watch for anyone who wants to understand MCP—and learn how to use them as a competitive edge.\n\nWatch below!\n\nTimestamps\nIntroduction: 00:01:15\nAPIs and MCP, the connectors of the new internet: 00:05:09\nWhy MCP exists: 00:11:00\nWhy MCP servers are hard to get right: 00:17:15\nDesign principles for reliable MCP servers: 00:20:24\nUsing MCP for business ops at Stainless: 00:25:06\nAlex’s take on the security model for MCP: 00:40:57\nHow one-off AI actions become permanent production software: 00:44:42",
+      "zh": "Anthropic 刚刚收购了开发者工具初创公司 @StainlessAPI，其最大的客户是 OpenAI 和 Google。\n\n早在 10 月份，Stainless 首席执行官兼创始人 Alex Rattray (@RattrayAlex) 在 AI & I 上谈论了 MCP 服务器以及使 AI 代理实际工作的单调管道。 （披露：我是该公司的小投资者。）周一的新闻发布后，谈话的内容有所不同——其中，Alex 基本上向我介绍了构建 API、SDK 和 MCP 服务器的设计思维，据报道 Anthropic 为此支付了 3 亿美元。\n\n在 @every 的 AI & I 中，我们探讨了 MCP 和 AI 原生互联网的未来。\n\n亮点包括：\n- 将 MCP 服务器设计得精简且精确。 Alex 构建可靠的 MCP 服务器的最佳实践首先是保持工具集较小，为每个工具提供精确的名称和描述，并最大限度地减少模型必须处理的输入和输出。在不锈钢，他们还经常在顶部添加一个 JSON 过滤器来删除不必要的数据。\n- 通过动态模式使复杂的 API 变得易于管理。为了解决人工智能如何确定在较大的 API 中使用哪个工具的问题，Stainless 切换到“动态模式”，其中模型仅获得三种工具：列出端点，选择一个并了解它，然后执行它。\n- MCP 服务器作为业务副驾驶。在Stainless，Alex 使用 MCP 服务器连接 @NotionHQ 和 @HubSpot 等工具，这样他就可以提出诸如“哪些客户上周注册了？”之类的问题。系统查询多个数据库并返回一个摘要，否则需要多次登录和搜索。\n- 使用 Claude Code 为您的公司打造“大脑”。 Alex 通过让 Claude Code 在他的系统上运行并要求其将有用的输入（例如客户反馈和 SQL 查询）保存到 GitHub 中，在不锈钢中建立了一个共享的公司大脑。随着时间的推移，这将创建一个他的团队可以轻松查询的精选档案。\n- MCP 的未来是代码执行。 Alex 认为，最强大的设置将是一个简单的代码执行工具和一个文档搜索工具，而不是为模型提供数百种工具。 AI 根据 API 的 SDK 编写代码，在服务器上运行它，并在遇到问题时检查文档。\n\n对于想要了解 MCP 并学习如何利用它们作为竞争优势的人来说，这是必看的内容。\n\n往下看！\n\n时间戳\n简介：00:01:15\nAPI 和 MCP，新互联网的连接器：00:05:09\n为什么 MCP 存在：00:11:00\n为什么 MCP 服务器很难正确使用：00:17:15\n可靠的 MCP 服务器的设计原则：00:20:24\n在不锈钢中使用 MCP 进行业务运营：00:25:06\nAlex 对 MCP 安全模型的看法：00:40:57\n一次性人工智能操作如何成为永久性的生产软件：00:44:42"
+    },
+    "adityaag": {
+      "en": "It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.\n\nVery proud of the progress the company has made.\n\nLots to build!",
+      "zh": "让 Feross 完成他的 -1 旅程@southpkcommons 并成为早期合作伙伴真是太棒了。\n\n对公司所取得的进步感到非常自豪。\n\n很多需要建造！"
+    },
+    "sama": {
+      "en": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are offering to invest $2M in openai credits into every YC company.\n\nnow we need to increase our efforts on the third!",
+      "zh": "我们最兴奋的三件事：\n\n1. AGI加速研究\n2.AGI加速企业\n3.个人AGI加速每个人实现他们的目标\n\n今天很高兴宣布单位距离结果。\n\n昨天，我们很高兴地宣布，我们将向每家 YC 公司投资 200 万美元的 openai 积分。\n\n现在我们需要在第三项上加大努力！"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:31\nThe internet runs on computers talking to each other, but its entire architecture was built for a pre AI world. Now we're trying to hook AI up to the internet with MCP, Model Context Protocol, which turns any website or web service into a set of tools that an AI can use natively to get worked on. And the software companies that learn how to do MCP well are going to win over the next decade. That's why I brought Alex Rattray, the founder and CEO of Stainless, onto the sh...",
+      "zh": "演讲者 1 | 00:00 - 00:31\n互联网运行在相互通信的计算机上，但其整个架构是为前人工智能世界而构建的。现在，我们正尝试通过 MCP（模型上下文协议）将 AI 连接到互联网，该协议将任何网站或 Web 服务转变为 AI 可以本地使用的一组工具。学会如何做好 MCP 的软件公司将在未来十年取得胜利。这就是为什么我将不锈钢的创始人兼首席执行官亚历克斯·拉特雷 (Alex Rattray) 带到了公司。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
