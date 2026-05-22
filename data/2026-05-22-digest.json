@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i think this stack has won the localfirst battle btw. maybe more chapters to this story but i think this is it if you are building fast apps fast",
+      "zh": "顺便说一句，我认为这个堆栈赢得了本地第一场战斗。也许这个故事还有更多章节，但我认为如果你正在快速构建快速应用程序，这就是了"
+    },
+    "joshwoodward": {
+      "en": "♥️ ♥️♥️\n\niOS, Android, and Web - so fun to see people loving the new Neural Expressive design!",
+      "zh": "♥️♥️♥️\n\niOS、Android 和 Web - 看到人们喜欢新的 Neural Expressive 设计真是太有趣了！"
+    },
+    "GoogleLabs": {
+      "en": "(3/5) A vibe-designed website from @StitchbyGoogle ft. our Labs experiments as mini games, and our very own 8-bit “Labster.”",
+      "zh": "(3/5) 来自 @StitchbyGoogle 的氛围设计网站。我们的实验室实验是迷你游戏，还有我们自己的 8 位“Labster”。"
+    },
+    "amasad": {
+      "en": "We’re always excited to talk to customers but you shouldn’t be forced to talk to us to buy the product.",
+      "zh": "我们总是很高兴与客户交谈，但您不应该被迫与我们交谈才能购买产品。"
+    },
+    "levie": {
+      "en": "What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they’re that much better.\n\nThis has compounded far faster than most realized (unless you were paying close attention at the middle or end of last year, which many here were), and the dollars flowing in now are much more real. \n\nWhat follows is a continued march of AI capability that will continue to be used by anyone with a frontier use-case (like coding, sciences, finance, consulting) and then a peeling off of tasks to lower cost models that are capable enough for the job. Whereas we thought the cost of AI might converge on a single low price per token before, it’s clear the stratification is only widening based on the task you need performed. \n\nThis will be yet another component that has to be figured out for broad AI diffusion. Enterprises will need to put in programs, new finance teams, and technology solutions to manage this all. The labs and platforms that can ensure customers can price optimize for the task at hand will be in the best position.",
+      "zh": "所发生的情况是，我们从相对便宜且上下文窗口较小的人工智能聊天工具，转向了具有巨大上下文窗口、能够跟踪长时间运行的工作的人工智能代理，以及推理成本高出一个数量级的模型，因为它们要好得多。\n\n这种情况的复合速度比大多数人意识到的要快得多（除非你在去年年中或年底密切关注，就像这里的许多人一样），而且现在流入的美元更加真实。 \n\n接下来是人工智能功能的持续发展，任何拥有前沿用例（如编码、科学、金融、咨询）的人都将继续使用人工智能功能，然后将任务剥离到足以胜任工作的低成本模型。虽然我们之前认为人工智能的成本可能会集中在每个代币的单一低价上，但很明显，分层只会根据您需要执行的任务而扩大。 \n\n这将是人工智能广泛传播必须解决的另一个组成部分。企业需要投入项目、新的财务团队和技术解决方案来管理这一切。能够确保客户能够针对手头的任务进行价格优化的实验室和平台将处于最佳位置。"
+    },
+    "ryolu_": {
+      "en": "building software is more fun together\n\ntry our new model, interface, sdk, automations with your team",
+      "zh": "一起构建软件会更有趣\n\n与您的团队一起尝试我们的新模型、界面、sdk、自动化"
+    },
+    "garrytan": {
+      "en": "San Francisco is safer because of Flock Safety. Every city can be safer. We don't have to choose a world where people are unsafe. It is a choice, though.",
+      "zh": "旧金山因鸡群安全而变得更加安全。每个城市都可以变得更安全。我们不必选择一个人们不安全的世界。不过，这是一个选择。"
+    },
+    "mattturck": {
+      "en": "Why AI Progress Suddenly Feels Real - my conversation with @yanndubs, who co-leads the Post-Training Frontiers team at @OpenAI \n\n00:00 - Intro \n\n01:30 - Why recent AI progress feels like a step function\n\n04:13 - Model reliability & the emotional rollercoaster of shipping GPT-5.5\n\n07:33 - How OpenAI structures vertical and horizontal teams\n\n09:49 - Improving model efficiency and test-time compute\n\n12:32 - Yann's journey from Switzerland to OpenAI\n\n15:37 - Reasoning in 2026: Real-world utility vs verifiable rewards\n\n18:34 - GPT-5.5 Thinking vs Pro: Scaling test-time compute\n\n20:09 - How reasoning models become more efficient\n\n23:23 - Pre-training scaling and overcoming the data wall\n\n27:03 - Multimodal data, synthetic data, and embodied AI\n\n31:05 - Demystifying mid-training and post-training\n\n37:21 - Does RL create new capabilities in AI?\n\n38:53 - The challenges and frontier of scaling RL\n\n43:09 - Is building AI models a craft or a strict science\n\n48:21 - How AI models generalize across different domains\n\n54:18 - How reinforcement learning cures AI hallucinations\n\n56:04 - Negative generalization and conflicting instructions\n\n58:05 - Can RL scale to law, medicine, and the broader economy?\n\n1:00:19 - The evaluation bottleneck and Model as a Judge\n\n1:04:21 - Continuous AI progress & continual learning\n\n1:08:49 - Will foundation models eat the agent harness\n\n1:11:23 - Why startups should focus on the last mile of AI",
+      "zh": "为什么 AI 进步突然感觉真实 - 我与 @yanndubs 的对话，他是 @OpenAI 训练后前沿团队的共同领导者 \n\n00:00 - 介绍 \n\n01:30 - 为什么最近的人工智能进展感觉像是一个阶跃函数\n\n04:13 - 模型可靠性和运输 GPT-5.5 的情绪过山车\n\n07:33 - OpenAI 如何构建垂直和水平团队\n\n09:49 - 提高模型效率和测试时计算\n\n12:32 - Yann 从瑞士到 OpenAI 的旅程\n\n15:37 - 2026 年推理：现实世界的效用与可验证的奖励\n\n18:34 - GPT-5.5 Thinking 与 Pro：扩展测试时计算\n\n20:09 - 推理模型如何变得更加高效\n\n23:23 - 预训练扩展和克服数据墙\n\n27:03 - 多模式数据、合成数据和具体人工智能\n\n31:05 - 揭秘训练中和训练后\n\n37:21 - 强化学习是否会在人工智能领域创造新的能力？\n\n38:53 - 扩展强化学习的挑战和前沿\n\n43:09 - 构建人工智能模型是一门手艺还是一门严格的科学\n\n48:21 - 人工智能模型如何跨不同领域推广\n\n54:18 - 强化学习如何治愈人工智能幻觉\n\n56:04 - 负面概括和相互矛盾的指令\n\n58:05 - 强化学习能否扩展到法律、医学和更广泛的经济领域？\n\n1:00:19 - 评估瓶颈和模型作为法官\n\n1:04:21 - 持续的人工智能进步和持续学习\n\n1:08:49 - 基金会模特会吃掉特工的安全带吗\n\n1:11:23 - 为什么初创公司应该关注人工智能的最后一英里"
+    },
+    "nikunj": {
+      "en": "ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others). \n\nif you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event!",
+      "zh": "前创始人是帮助扩大一些最具标志性公司规模的驱动力（@tryramp、@mercor_ai、@figma、@AnthropicAI、@cognition 等）。 \n\n如果您是一位前创始人，想要与杰出的同行团体一起出去玩，请报名参加我们的下一次活动！"
+    },
+    "danshipper": {
+      "en": "~20 years ago I submitted a story that made it to the top of @digg \n\nFeels good to be back!",
+      "zh": "大约 20 年前，我提交了一个故事，该故事登上了@digg 的榜首 \n\n回来的感觉真好！"
+    },
+    "adityaag": {
+      "en": "4 thoughts on early-stage hiring:\n\n1/ If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --> stop talking to them immediately. They are clearly not ready for a startup.\n\n2/ If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --> stop talking to them immediately. They will be unhappy/stressed.\n\n3/ You learn a lot about a candidate during the negotiation/closing process. Do not be afraid to walk away if you get new information. \n\n4/ Startups have zero work-life balance. If you are not willing to put in the hours, you are not in the right headspace to grind.",
+      "zh": "关于早期招聘的 4 个想法：\n\n1/ 如果工程师试图在 B 轮融资前的公司和 BigCo/BigLab 之间做出选择 --> 立即停止与他们交谈。他们显然还没有准备好创业。\n\n2/ 如果有人不愿意接受 70% 的现金减薪（相对于 BigCo/BigLab） --> 立即停止与他们交谈。他们会不高兴/有压力。\n\n3/ 在谈判/结束过程中，您可以了解很多关于候选人的信息。如果您获得新信息，请不要害怕走开。 \n\n4/ 初创公司的工作与生活平衡为零。如果你不愿意投入时间，那么你就没有合适的空间去磨练。"
+    },
+    "sama": {
+      "en": "the attack at the mosque in san diego is one of the most chilling i have seen.\n\nmy deepest condolences to the victims, families, and community.",
+      "zh": "圣地亚哥清真寺的袭击是我见过的最令人毛骨悚然的袭击之一。\n\n我向受害者、家人和社区表示最深切的哀悼。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:26\nYou need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing. The last few months have been pretty wild. We moved from like competitions to usefulness to users and that's what we are feeling right now. I think most of the time the Bionic is the last mile.\n\nSpeaker 1 | 00:26 - 00:34\nTher...",
+      "zh": "演讲者 1 | 00:00 - 00:26\n你需要达到这种可靠性水平才能真正使这些人工智能工具变得非常有用，我认为我们可能在去年 12 月就跨过了这个水平，至少在 OpenAI 是这样。现在我们可以相信这些模型可以完成我们正在做的许多工作。过去的几个月非常疯狂。我们从同类竞争转向对用户有用，这就是我们现在的感受。我认为大多数时候仿生是最后一英里。\n\n演讲者 1 | 00:26 - 00:34\n瑟尔",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

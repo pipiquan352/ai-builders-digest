@@ -1,0 +1,466 @@
+{
+  "generatedAt": "2026-05-22T16:26:17.866Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2057700807576043825",
+          "text": "more here https://t.co/gW0xMn7dcI",
+          "createdAt": "2026-05-22T05:51:17.000Z",
+          "url": "https://x.com/swyx/status/2057700807576043825",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057633220221624596",
+          "text": "—dangerously-skip-git",
+          "createdAt": "2026-05-22T01:22:43.000Z",
+          "url": "https://x.com/swyx/status/2057633220221624596",
+          "likes": 15,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057576893621150020",
+          "text": "i think this stack has won the localfirst battle btw. maybe more chapters to this story but i think this is it if you are building fast apps fast https://t.co/j6SadqAMpj",
+          "createdAt": "2026-05-21T21:38:54.000Z",
+          "url": "https://x.com/swyx/status/2057576893621150020",
+          "likes": 79,
+          "retweets": 5,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "1940505700486336732"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2057564491064483930",
+          "text": "What a ride for @GoogleLabs at IO! Hope you're enjoying lots of the new stuff! https://t.co/LiXkqwjTpr",
+          "createdAt": "2026-05-21T20:49:37.000Z",
+          "url": "https://x.com/joshwoodward/status/2057564491064483930",
+          "likes": 106,
+          "retweets": 2,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2057492236124963072"
+        },
+        {
+          "id": "2057559267952214073",
+          "text": "♥️ ♥️♥️\n\niOS, Android, and Web - so fun to see people loving the new Neural Expressive design! https://t.co/KjetFYo934",
+          "createdAt": "2026-05-21T20:28:51.000Z",
+          "url": "https://x.com/joshwoodward/status/2057559267952214073",
+          "likes": 331,
+          "retweets": 15,
+          "replies": 34,
+          "isQuote": true,
+          "quotedTweetId": "2057506948657131697"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2057674020481593710",
+          "text": "Game changer Codex automation 🙂 https://t.co/XUR4q6gI7v",
+          "createdAt": "2026-05-22T04:04:50.000Z",
+          "url": "https://x.com/petergyang/status/2057674020481593710",
+          "likes": 69,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057608633333199096",
+          "text": "https://t.co/bG91sDpe2g",
+          "createdAt": "2026-05-21T23:45:01.000Z",
+          "url": "https://x.com/petergyang/status/2057608633333199096",
+          "likes": 115,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057527562642071792",
+          "text": "Ok trying this out https://t.co/JZCScTHVCr",
+          "createdAt": "2026-05-21T18:22:52.000Z",
+          "url": "https://x.com/petergyang/status/2057527562642071792",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2057492242911404443",
+          "text": "(5/5) Discover our latest experiments and help shape the future of AI technology at https://t.co/a8Phv40FhH\n\nShare what you create! We want to see!",
+          "createdAt": "2026-05-21T16:02:31.000Z",
+          "url": "https://x.com/GoogleLabs/status/2057492242911404443",
+          "likes": 21,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057492241472729543",
+          "text": "(4/5) And then, we took our Labster to the Grand Canyon with Project Genie. https://t.co/3xM2bePwMQ",
+          "createdAt": "2026-05-21T16:02:31.000Z",
+          "url": "https://x.com/GoogleLabs/status/2057492241472729543",
+          "likes": 25,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057492239656562792",
+          "text": "(3/5) A vibe-designed website from @StitchbyGoogle ft. our Labs experiments as mini games, and our very own 8-bit “Labster.” https://t.co/pJ1U0l6LLU",
+          "createdAt": "2026-05-21T16:02:30.000Z",
+          "url": "https://x.com/GoogleLabs/status/2057492239656562792",
+          "likes": 45,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2057616724757827826",
+          "text": "Monetize your apps and we’ll give you credit rewards. https://t.co/rV70dbQyiH",
+          "createdAt": "2026-05-22T00:17:10.000Z",
+          "url": "https://x.com/amasad/status/2057616724757827826",
+          "likes": 153,
+          "retweets": 3,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2057525148455231975"
+        },
+        {
+          "id": "2057504360217891018",
+          "text": "We’re always excited to talk to customers but you shouldn’t be forced to talk to us to buy the product. https://t.co/LbpQnALHx0",
+          "createdAt": "2026-05-21T16:50:40.000Z",
+          "url": "https://x.com/amasad/status/2057504360217891018",
+          "likes": 259,
+          "retweets": 11,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2057491954825674942"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2057663408376516703",
+          "text": "What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they’re that much better.\n\nThis has compounded far faster than most realized (unless you were paying close attention at the middle or end of last year, which many here were), and the dollars flowing in now are much more real. \n\nWhat follows is a continued march of AI capability that will continue to be used by anyone with a frontier use-case (like coding, sciences, finance, consulting) and then a peeling off of tasks to lower cost models that are capable enough for the job. Whereas we thought the cost of AI might converge on a single low price per token before, it’s clear the stratification is only widening based on the task you need performed. \n\nThis will be yet another component that has to be figured out for broad AI diffusion. Enterprises will need to put in programs, new finance teams, and technology solutions to manage this all. The labs and platforms that can ensure customers can price optimize for the task at hand will be in the best position.",
+          "createdAt": "2026-05-22T03:22:40.000Z",
+          "url": "https://x.com/levie/status/2057663408376516703",
+          "likes": 474,
+          "retweets": 48,
+          "replies": 67,
+          "isQuote": true,
+          "quotedTweetId": "2057531661785628841"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2057500107235557675",
+          "text": "building software is more fun together\n\ntry our new model, interface, sdk, automations with your team https://t.co/jNEoKqrrfe",
+          "createdAt": "2026-05-21T16:33:46.000Z",
+          "url": "https://x.com/ryolu_/status/2057500107235557675",
+          "likes": 171,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2057490314143932846"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2057701084031004928",
+          "text": "How does one engineer become a 1000x founder? @sdianahu and I give you the real goods here\n\nThanks @AnjneyMidha for having us!\n\nhttps://t.co/tDh7kr0EKi https://t.co/C2HjO9TrE4",
+          "createdAt": "2026-05-22T05:52:23.000Z",
+          "url": "https://x.com/garrytan/status/2057701084031004928",
+          "likes": 76,
+          "retweets": 4,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057639198782521837",
+          "text": "San Francisco is safer because of Flock Safety. Every city can be safer. We don't have to choose a world where people are unsafe. It is a choice, though. https://t.co/e2lWEbFHUu https://t.co/g3JrMqxwtm",
+          "createdAt": "2026-05-22T01:46:28.000Z",
+          "url": "https://x.com/garrytan/status/2057639198782521837",
+          "likes": 328,
+          "retweets": 26,
+          "replies": 51,
+          "isQuote": true,
+          "quotedTweetId": "2057466578283938295"
+        },
+        {
+          "id": "2057636167525498961",
+          "text": "Everyone should have an agent with a GBrain https://t.co/xl2r77u1Q6",
+          "createdAt": "2026-05-22T01:34:26.000Z",
+          "url": "https://x.com/garrytan/status/2057636167525498961",
+          "likes": 228,
+          "retweets": 5,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2057503935402033396"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2057498135300039068",
+          "text": "This fantastic conversation with @yanndubs is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):\n\nhttps://t.co/QxwJ56Xlh8",
+          "createdAt": "2026-05-21T16:25:56.000Z",
+          "url": "https://x.com/mattturck/status/2057498135300039068",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057498130795385188",
+          "text": "Why AI Progress Suddenly Feels Real - my conversation with @yanndubs, who co-leads the Post-Training Frontiers team at @OpenAI \n\n00:00 - Intro \n\n01:30 - Why recent AI progress feels like a step function\n\n04:13 - Model reliability & the emotional rollercoaster of shipping GPT-5.5\n\n07:33 - How OpenAI structures vertical and horizontal teams\n\n09:49 - Improving model efficiency and test-time compute\n\n12:32 - Yann's journey from Switzerland to OpenAI\n\n15:37 - Reasoning in 2026: Real-world utility vs verifiable rewards\n\n18:34 - GPT-5.5 Thinking vs Pro: Scaling test-time compute\n\n20:09 - How reasoning models become more efficient\n\n23:23 - Pre-training scaling and overcoming the data wall\n\n27:03 - Multimodal data, synthetic data, and embodied AI\n\n31:05 - Demystifying mid-training and post-training\n\n37:21 - Does RL create new capabilities in AI?\n\n38:53 - The challenges and frontier of scaling RL\n\n43:09 - Is building AI models a craft or a strict science\n\n48:21 - How AI models generalize across different domains\n\n54:18 - How reinforcement learning cures AI hallucinations\n\n56:04 - Negative generalization and conflicting instructions\n\n58:05 - Can RL scale to law, medicine, and the broader economy?\n\n1:00:19 - The evaluation bottleneck and Model as a Judge\n\n1:04:21 - Continuous AI progress & continual learning\n\n1:08:49 - Will foundation models eat the agent harness\n\n1:11:23 - Why startups should focus on the last mile of AI",
+          "createdAt": "2026-05-21T16:25:55.000Z",
+          "url": "https://x.com/mattturck/status/2057498130795385188",
+          "likes": 18,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2057614845739229385",
+          "text": "https://t.co/Gu7QVoCtKg",
+          "createdAt": "2026-05-22T00:09:42.000Z",
+          "url": "https://x.com/nikunj/status/2057614845739229385",
+          "likes": 18,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057462304149778588",
+          "text": "ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others). \n\nif you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event! https://t.co/frSUq0rgf2",
+          "createdAt": "2026-05-21T14:03:33.000Z",
+          "url": "https://x.com/nikunj/status/2057462304149778588",
+          "likes": 53,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2057282301466386647"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2057631479052517507",
+          "text": "~20 years ago I submitted a story that made it to the top of @digg \n\nFeels good to be back! https://t.co/mF2M6AVxey",
+          "createdAt": "2026-05-22T01:15:48.000Z",
+          "url": "https://x.com/danshipper/status/2057631479052517507",
+          "likes": 51,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2057502381038846306",
+          "text": "4 thoughts on early-stage hiring:\n\n1/ If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --> stop talking to them immediately. They are clearly not ready for a startup.\n\n2/ If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --> stop talking to them immediately. They will be unhappy/stressed.\n\n3/ You learn a lot about a candidate during the negotiation/closing process. Do not be afraid to walk away if you get new information. \n\n4/ Startups have zero work-life balance. If you are not willing to put in the hours, you are not in the right headspace to grind.",
+          "createdAt": "2026-05-21T16:42:48.000Z",
+          "url": "https://x.com/adityaag/status/2057502381038846306",
+          "likes": 403,
+          "retweets": 16,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057485028095828189",
+          "text": "Two of my favorite people (sorry @rsanghvi)  on stage together. https://t.co/QjrpZy6QXa",
+          "createdAt": "2026-05-21T15:33:51.000Z",
+          "url": "https://x.com/adityaag/status/2057485028095828189",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2057484402096267702"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2057614780727480741",
+          "text": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+          "createdAt": "2026-05-22T00:09:27.000Z",
+          "url": "https://x.com/sama/status/2057614780727480741",
+          "likes": 7462,
+          "retweets": 420,
+          "replies": 10018,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057559714788258003",
+          "text": "new codex ships today! https://t.co/7P6g6SiGsl",
+          "createdAt": "2026-05-21T20:30:38.000Z",
+          "url": "https://x.com/sama/status/2057559714788258003",
+          "likes": 2524,
+          "retweets": 115,
+          "replies": 339,
+          "isQuote": true,
+          "quotedTweetId": "2057530207976989179"
+        },
+        {
+          "id": "2057515035472380237",
+          "text": "the attack at the mosque in san diego is one of the most chilling i have seen.\n\nmy deepest condolences to the victims, families, and community.",
+          "createdAt": "2026-05-21T17:33:05.000Z",
+          "url": "https://x.com/sama/status/2057515035472380237",
+          "likes": 13266,
+          "retweets": 635,
+          "replies": 868,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2057487475983929388",
+          "text": "What are you making with Claude Design?",
+          "createdAt": "2026-05-21T15:43:35.000Z",
+          "url": "https://x.com/claudeai/status/2057487475983929388",
+          "likes": 115,
+          "retweets": 4,
+          "replies": 49,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057487474117546089",
+          "text": "https://t.co/gFnVB1QeWx",
+          "createdAt": "2026-05-21T15:43:34.000Z",
+          "url": "https://x.com/claudeai/status/2057487474117546089",
+          "likes": 148,
+          "retweets": 7,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2045521996533154105"
+        },
+        {
+          "id": "2057487471617683852",
+          "text": "https://t.co/14CICBjq4p",
+          "createdAt": "2026-05-21T15:43:34.000Z",
+          "url": "https://x.com/claudeai/status/2057487471617683852",
+          "likes": 87,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2045797049069633636"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real",
+      "url": "https://www.youtube.com/watch?v=DhD1zZ8w8Mw",
+      "publishedAt": "2026-05-21T11:30:00.000Z"
+    }
+  ]
+}
