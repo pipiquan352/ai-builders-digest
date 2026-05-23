@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Kakuna: skills with checklists that only know how to harden your codebase\n\n/plan with it then let it /goal for a day, it comes back with same functionality but all the boring stuff done for you + an audit of its own work. \n\nfocus on subagent parallelism and encodes strong opinions on how AI engineers should design apps for human and agent access/devops/product mgmt.\n\ninstead of dark factory, go \"mullet factory\" - party in front (ship unique lovable features), dark in the back (timeless production principles). basically its the antientropy/antislop part of symphony broken out as its own thing\n\nnot gonna go psychosis further than this but extend as you will. link below",
+      "zh": "Kakuna：带有清单的技能，只知道如何强化代码库\n\n/计划它，然后让它/目标一天，它回来时具有相同的功能，但为您完成了所有无聊的事情+对其自身工作的审核。 \n\n专注于子代理并行性，并就人工智能工程师应如何设计用于人类和代理访问/devops/产品管理的应用程序编写了强烈的意见。\n\n不要去黑暗工厂，而去“鲻鱼工厂”——前面有派对（船独特的可爱功能），后面有黑暗（永恒的生产原则）。基本上它是交响乐的反熵/反倾斜部分作为它自己的东西\n\n不会比这更进一步的精神病，但可以随意扩展。链接如下"
+    },
+    "kevinweil": {
+      "en": "A friend shared this with me, and I love it so much. Make no little plans.",
+      "zh": "一位朋友与我分享了这个，我非常喜欢它。不要制定小计划。"
+    },
+    "petergyang": {
+      "en": "I hate seeing all the mass layoffs. Here are 6 things you can do as an employee to take back control:\n\n1. Read the signals\n\nIf business growth is stagnant and leadership is suddenly obsessed with \"flatter orgs\" or \"restructuring for the agentic era,\" you already know what's coming.\n\n2. Learn Codex or Claude Code\n\nThese apps are the best training grounds for working with AI agents. Tell them about your job and ask them what you can build. If your company doesn’t let you use these tools, use them for your personal projects.\n\n3. Build side projects\n\nShip a small product or make an open-source contribution. If you work at a large company, your builder skills have probably atrophied. It’s time to bring them back.\n\n4. Develop a GitHub history\n\nIf you do step 3 consistently, you’ll develop a body of work on GitHub over time. My friend @zarazhangrui is a great example — she built a frontend-slides skill that now has 16K GitHub stars and has been shipping non-stop since.\n\n5. Become top 10% at your craft\n\nAI gets people to average really fast. But that just means customers are willing to pay more for human craft and taste. Pick one skill you genuinely enjoy working on and put in the reps until you’re in the top 10% at it.\n\n6. Let the market determine your value\n\nBuild in public, solve real user problems, and craft great products. That’s how you’ll get noticed by great employers, not by submitting 100s of resumes. And if all else fails, consider becoming a founder. I think entrepreneurship is the safest job in the AI era anyway.",
+      "zh": "我讨厌看到大规模裁员。作为员工，您可以采取以下 6 件事来夺回控制权：\n\n1. 读取信号\n\n如果业务增长停滞，领导层突然沉迷于“扁平化组织”或“代理时代重组”，那么你已经知道会发生什么。\n\n2. 学习 Codex 或 Claude Code\n\n这些应用程序是与人工智能代理合作的最佳训练场。告诉他们您的工作并询问他们您可以构建什么。如果您的公司不允许您使用这些工具，请将它们用于您的个人项目。\n\n3. 建立副业项目\n\n发布一个小产品或做出开源贡献。如果您在一家大公司工作，您的构建技能可能已经退化。是时候把他们带回来了。\n\n4. 开发 GitHub 历史记录\n\n如果您始终如一地执行步骤 3，随着时间的推移，您将在 GitHub 上开发出大量工作。我的朋友 @zarazhangrui 就是一个很好的例子 - 她开发了一种前端幻灯片技能，该技能现在拥有 16K GitHub 星，并且从那时起就一直在不停地发布。\n\n5. 在你的领域成为前 10%\n\n人工智能让人们很快达到平均水平。但这仅仅意味着客户愿意为人类工艺和品味支付更多费用。选择一项你真正喜欢的技能并进行练习，直到你在该技能上名列前 10%。\n\n6.让市场决定你的价值\n\n公开构建、解决实际用户问题并打造出色的产品。这就是你被优秀雇主注意到的方式，而不是通过提交数百份简历。如果一切都失败了，请考虑成为一名创始人。我认为无论如何，创业是AI时代最安全的工作。"
+    },
+    "GoogleLabs": {
+      "en": "Take a quick break from scrolling and check out  👀 We had a bit of a refresh! Our goal was simply to make sure you can easily find the latest and greatest innovations from the Lab, including those we just announced at I/O.\n\nExplore our portfolio, test a few experiments out, learn more about Google Labs, and help us shape what’s next. 🚀",
+      "zh": "从滚动中休息一下，看看👀 我们焕然一新！我们的目标只是确保您可以轻松地从实验室找到最新、最伟大的创新，包括我们刚刚在 I/O 上宣布的创新。\n\n探索我们的产品组合，测试一些实验，了解有关 Google 实验室的更多信息，并帮助我们制定下一步计划。 🚀"
+    },
+    "levie": {
+      "en": "Here’s a key line in this mythos update. This is precisely an example of why engineers don’t go away, ever. \n\nWe’ve made it far easier to create and find security issues, which means the new bottleneck is our ability to actually review, respond to, and fix the issues. \n\nFar from AI magically solving all of this, there still is major triage work and human judgment required to do the follow on work to actually protect systems. As a result, we’re about to enter a security engineer boom.\n\nJevons paradox all over again.",
+      "zh": "这是这个神话更新中的一条关键线。这正是工程师永远不会消失的一个例子。 \n\n我们使创建和发现安全问题变得更加容易，这意味着新的瓶颈是我们实际审查、响应和解决问题的能力。 \n\n人工智能远非神奇地解决所有这些问题，仍然需要进行大量的分类工作和人类判断来进行后续工作以真正保护系统。因此，我们即将进入安全工程师热潮。\n\n杰文斯悖论再次出现。"
+    },
+    "garrytan": {
+      "en": "GBrain just shipped v0.40.0 gives your OpenClaw/Hermes Agent + GBrain a voice agent. \n\nIt's based on Gemini Live. (Thanks @demishassabis it's amazing) Large context, great tool use, full brain access.\n\nMars is a friend, Venus is your EA.\n\nMy open source gift to you.",
+      "zh": "GBrain 刚刚发布的 v0.40.0 为您的 OpenClaw/Hermes Agent + GBrain 提供了语音代理。 \n\n它基于 Gemini Live。 （感谢@demishassabis，这太棒了）大背景，伟大的工具使用，全脑访问。\n\n火星是你的朋友，金星是你的 EA。\n\n我给你的开源礼物。"
+    },
+    "mattturck": {
+      "en": "AI progress has been pretty wild over the last few months but behind the scenes at @OpenAI, it's continuous progress compounding - @yanndubs",
+      "zh": "在过去的几个月里，人工智能的进步相当疯狂，但在 @OpenAI 的幕后，它的进步不断复合 - @yanndubs"
+    },
+    "nikunj": {
+      "en": "Docs signed, wire released, excited to lead the Series A of a special company.. \n\nPerfect way to start the weekend 🙏🕺\n\nPS: It's not AI",
+      "zh": "文件签署，电报发布，很高兴能够领导一家特殊公司的 A 轮融资。 \n\n开始周末的完美方式🙏🕺\n\nPS：这不是AI"
+    },
+    "steipete": {
+      "en": "We used bots so far to enforce a 10PR per “person” limit. Great to see GitHub shipping that natively!",
+      "zh": "到目前为止，我们使用机器人来强制执行每“人”10PR 的限制。很高兴看到 GitHub 原生地提供了它！"
+    },
+    "danshipper": {
+      "en": "so fun to speak at this!",
+      "zh": "谈论这个很有趣！"
+    },
+    "claudeai": {
+      "en": "Kay Zhu is the co-founder and CTO of @genspark_ai, the all-in-one AI workspace built on Claude.\n\nIn a market moving this fast, where anyone can build, he thinks the team is what makes the difference:",
+      "zh": "Kay Zhu 是@genspark_ai 的联合创始人兼首席技术官，@genspark_ai 是一个基于 Claude 构建的一体化人工智能工作区。\n\n在一个快速发展的市场中，任何人都可以构建，他认为团队是重要的因素："
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:28\nOriol Vinyals is the co lead of Gemini alongside Noam Shazir and Jeff Dean. He's had an incredible career in AI, pioneering many of the breakthroughs in deep learning in the last decade, and it was a ton of fun to get to sit down with him after Google IO. If you've been following Google IO, they basically shipped a bunch of products across a a ton of interesting surface areas throughout AI. And so Oriel and I hit all of them. We talked about what's required for further ...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n奥里奥尔·维尼亚尔斯 (Oriol Vinyals) 与诺姆·沙齐尔 (Noam Shazir) 和杰夫·迪恩 (Jeff Dean) 共同主演《Gemini》。他在人工智能领域拥有令人难以置信的职业生涯，在过去十年中开创了深度学习领域的许多突破，在 Google IO 之后与他坐下来交谈非常有趣。如果您一直关注 Google IO，您会发现他们基本上在人工智能领域的大量有趣领域发布了一堆产品。所以奥里尔和我把所有的球都击中了。我们讨论了进一步需要什么",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
