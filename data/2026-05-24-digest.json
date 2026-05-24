@@ -1,0 +1,44 @@
+{
+  "x": {
+    "trq212": {
+      "en": "every now and then I remember you can run the \"please save me money\" prompt and it will actually work",
+      "zh": "我时不时地记得你可以运行“请帮我省钱”提示，它实际上会起作用"
+    },
+    "amasad": {
+      "en": "“I built my first three apps using Cursor and thought that was fast, but trying Replit for Dial completely blew me away. I built the MVP over a single weekend, and it actually got approved by Apple on the very first try—which has never happened to me before.”",
+      "zh": "“我使用 Cursor 构建了前三个应用程序，并认为速度很快，但尝试 Replit for Dial 完全让我大吃一惊。我在一个周末内构建了 MVP，而且它实际上在第一次尝试时就获得了 Apple 的批准 - 这在我身上从未发生过。”"
+    },
+    "rauchg": {
+      "en": "Show me the thing you’ve built with AI you’re most proud of. Reply with a working product URL and what model / agent you primarily used.",
+      "zh": "告诉我你用人工智能构建的最令你自豪的东西。回复可用产品 URL 以及您主要使用的型号/代理。"
+    },
+    "levie": {
+      "en": "This is a fantastic post about why jobs aren’t going away in the way some predict. We are constantly making the mistake of confusing task completion with AI with being able to eliminate the whole job. \n\nEven as we can automate one or many tasks within a job, the definition of the job almost inevitably just expands to do vastly more of those tasks, do them at a higher quality, or move on to the type of task that hasn’t been automated yet. \n\nAnd as a result of being able to do more of the tasks or at a higher quality level, the job becomes valuable in a new way. And in many cases for now an entirely new audience as well. \n\nThis will be true for coding, legal work, sales, or marketing. The small business or non-tech company that wants to now take on larger software projects finally can, and they’ll hire to do so. The small business that couldn’t afford a full marketing agency can hire or contract out to a marketer that can do as much as an agency did before now with agents. And so on.\n\nDon’t fall into the trap of confusing tasks with jobs.",
+      "zh": "这是一篇精彩的文章，讲述了为什么工作岗位不会像某些人预测的那样消失。我们经常犯这样的错误：将人工智能的任务完成与能够消除整个工作混为一谈。 \n\n即使我们可以自动化一项工作中的一项或多项任务，工作的定义几乎不可避免地会扩展到执行更多的这些任务，以更高的质量完成这些任务，或者转向尚未自动化的任务类型。 \n\n由于能够完成更多任务或以更高的质量水平，这项工作以新的方式变得有价值。在许多情况下，现在也有全新的受众。 \n\n对于编码、法律工作、销售或营销来说都是如此。现在想要承担更大软件项目的小型企业或非科技公司终于可以做到了，而且他们会雇佣这样做的人。无力承担完整营销代理费用的小企业可以聘请或外包给营销人员，该营销人员可以像以前的代理机构对代理商所做的那样。等等。\n\n不要陷入将任务与工作混淆的陷阱。"
+    },
+    "garrytan": {
+      "en": "Thinking Machines is impressive. In a couple hours I just fine tuned my own Qwen3.5-397B model this afternoon. \n\nFast usable multimodal is also going to enable very mind-blowing personal AI.",
+      "zh": "思维机器令人印象深刻。今天下午，几个小时后我刚刚微调了我自己的 Qwen3.5-397B 模型。 \n\n快速可用的多模式也将实现令人兴奋的个人人工智能。"
+    },
+    "nikunj": {
+      "en": "Wrote this almost a year ago, and finally starting to see more B2B companies wake up to this opportunity.. \n\nDon’t wait another year. Narratives and vibes are extremely important to stand out amongst the slop 🪄",
+      "zh": "写这篇文章差不多一年前了，终于开始看到更多的 B2B 公司意识到了这个机会。 \n\n别再等一年了。叙事和氛围对于在人群中脱颖而出非常重要🪄"
+    },
+    "steipete": {
+      "en": "I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release.\n\nSo I built one for everyone.",
+      "zh": "我一直想要一个 GitHub 仪表板：查看我的存储库、打开的问题/PR、我上次发布的版本、自上次发布以来的提交次数。\n\n所以我为每个人建立了一个。"
+    },
+    "adityaag": {
+      "en": "Can you imagine that we lived in a world 6 months (Nov 2025) ago when we would mostly just chat with LLMs and would be so happy about AI??\n\nIt's May 2026 and these LLMs now have produced more code than we have written over all time.",
+      "zh": "你能想象我们生活在 6 个月（2025 年 11 月）前的世界，那时我们大多只是与法学硕士聊天，并对人工智能感到非常高兴吗？\n\n现在是 2026 年 5 月，这些法学硕士现在编写的代码比我们一直以来编写的代码还要多。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:12\nNetflix used to deliver DVDs and envelopes. And when the Internet got fast, they became a movie studio. Right? It opened up an entirely new business, something fundamentally different. That's what happens with speed.\n\nSpeaker 1 | 00:12 - 00:30\nAnd I think that's what fast AI does. Right now, we're replacing things that everybody can see, like coding, design, the SaaS tools. But once we start sort of fundamentally reorganizing around this, you're gonna see this sort of n...",
+      "zh": "演讲者 1 | 00:00 - 00:12\nNetflix 曾经提供 DVD 和信封。当互联网变得快速时，他们变成了电影制片厂。正确的？它开辟了一种全新的业务，一种根本不同的东西。这就是速度所发生的情况。\n\n演讲者 1 | 00:12 - 00:30\n我认为这就是快速人工智能所做的事情。现在，我们正在取代每个人都能看到的东西，比如编码、设计、SaaS 工具。但是一旦我们开始围绕这个从根本上进行重组，你就会看到这种n",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

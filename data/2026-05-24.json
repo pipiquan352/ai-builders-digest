@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-05-24T15:05:09.945Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2058380417716125966",
+          "text": "this is me cleaning up some leftover services for my old startup @OMMultiverse \n\nwe have a huge legacy codebase and a community that still uses it but I haven't had any time to actually look into cost saving measures myself",
+          "createdAt": "2026-05-24T02:51:49.000Z",
+          "url": "https://x.com/trq212/status/2058380417716125966",
+          "likes": 29,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058377974882210096",
+          "text": "every now and then I remember you can run the \"please save me money\" prompt and it will actually work https://t.co/5gXnHAwOE8",
+          "createdAt": "2026-05-24T02:42:06.000Z",
+          "url": "https://x.com/trq212/status/2058377974882210096",
+          "likes": 463,
+          "retweets": 11,
+          "replies": 42,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2058418731840159953",
+          "text": "“I built my first three apps using Cursor and thought that was fast, but trying Replit for Dial completely blew me away. I built the MVP over a single weekend, and it actually got approved by Apple on the very first try—which has never happened to me before.” https://t.co/meAR1zAPLx",
+          "createdAt": "2026-05-24T05:24:03.000Z",
+          "url": "https://x.com/amasad/status/2058418731840159953",
+          "likes": 100,
+          "retweets": 10,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2058203513520361528"
+        },
+        {
+          "id": "2058417703958773965",
+          "text": "100% https://t.co/9hsvgTgudJ",
+          "createdAt": "2026-05-24T05:19:58.000Z",
+          "url": "https://x.com/amasad/status/2058417703958773965",
+          "likes": 22,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2058190845225189399"
+        },
+        {
+          "id": "2058292230700372356",
+          "text": "It’s going to be epic! https://t.co/CtSXbyTRfX",
+          "createdAt": "2026-05-23T21:01:23.000Z",
+          "url": "https://x.com/amasad/status/2058292230700372356",
+          "likes": 69,
+          "retweets": 3,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2058292007160750138"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2058353051073970416",
+          "text": "Processed 1400 replies\n◾ OpenAI is catching up to Anthropic \n◾ 'Codex' got more mentions than 'Claude Code'\n◾ However, by model mentions, A\\ is mogging https://t.co/BjtqVGmlUg https://t.co/74j8QbxuLX",
+          "createdAt": "2026-05-24T01:03:04.000Z",
+          "url": "https://x.com/rauchg/status/2058353051073970416",
+          "likes": 211,
+          "retweets": 8,
+          "replies": 43,
+          "isQuote": true,
+          "quotedTweetId": "2058245330836271263"
+        },
+        {
+          "id": "2058245330836271263",
+          "text": "Show me the thing you’ve built with AI you’re most proud of. Reply with a working product URL and what model / agent you primarily used.",
+          "createdAt": "2026-05-23T17:55:01.000Z",
+          "url": "https://x.com/rauchg/status/2058245330836271263",
+          "likes": 2195,
+          "retweets": 102,
+          "replies": 1558,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058239837195628941",
+          "text": "gm 🏃‍♂️ https://t.co/VI6wkRSrTV",
+          "createdAt": "2026-05-23T17:33:12.000Z",
+          "url": "https://x.com/rauchg/status/2058239837195628941",
+          "likes": 385,
+          "retweets": 1,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2058223867815227756",
+          "text": "This is a fantastic post about why jobs aren’t going away in the way some predict. We are constantly making the mistake of confusing task completion with AI with being able to eliminate the whole job. \n\nEven as we can automate one or many tasks within a job, the definition of the job almost inevitably just expands to do vastly more of those tasks, do them at a higher quality, or move on to the type of task that hasn’t been automated yet. \n\nAnd as a result of being able to do more of the tasks or at a higher quality level, the job becomes valuable in a new way. And in many cases for now an entirely new audience as well. \n\nThis will be true for coding, legal work, sales, or marketing. The small business or non-tech company that wants to now take on larger software projects finally can, and they’ll hire to do so. The small business that couldn’t afford a full marketing agency can hire or contract out to a marketer that can do as much as an agency did before now with agents. And so on.\n\nDon’t fall into the trap of confusing tasks with jobs.",
+          "createdAt": "2026-05-23T16:29:44.000Z",
+          "url": "https://x.com/levie/status/2058223867815227756",
+          "likes": 627,
+          "retweets": 84,
+          "replies": 67,
+          "isQuote": true,
+          "quotedTweetId": "2057514494960513272"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2058448209027141709",
+          "text": "My newest gbrain-evals just dropped - this is how gbrain does vs other options. https://t.co/yRWm72QEgf is SOTA for reranking and embedding cost, speed, and retrieval success.\n\nGBrain beats MemPalace by 1% on LongMemEval and beats Vector RAG by 38%\n\nhttps://t.co/nIk93HFTHb https://t.co/RIzXFkfFp8",
+          "createdAt": "2026-05-24T07:21:11.000Z",
+          "url": "https://x.com/garrytan/status/2058448209027141709",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058378310254793013",
+          "text": "Thinking Machines is impressive. In a couple hours I just fine tuned my own Qwen3.5-397B model this afternoon. \n\nFast usable multimodal is also going to enable very mind-blowing personal AI. https://t.co/mm3laZb766",
+          "createdAt": "2026-05-24T02:43:26.000Z",
+          "url": "https://x.com/garrytan/status/2058378310254793013",
+          "likes": 996,
+          "retweets": 56,
+          "replies": 63,
+          "isQuote": true,
+          "quotedTweetId": "2053938892152435174"
+        },
+        {
+          "id": "2058251537298980992",
+          "text": "We should fight the people who want to stop startups from staying in San Francisco. We want more startups and more prosperity. \n\nI'm fighting back through Garry's List Action, I'm in for $50K, I need 9 more people to match me. Are you in?\n\nhttps://t.co/dDMINuepyc",
+          "createdAt": "2026-05-23T18:19:41.000Z",
+          "url": "https://x.com/garrytan/status/2058251537298980992",
+          "likes": 121,
+          "retweets": 6,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2058338294191227247",
+          "text": "Love spring https://t.co/oLDofrvDmA",
+          "createdAt": "2026-05-24T00:04:26.000Z",
+          "url": "https://x.com/nikunj/status/2058338294191227247",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058203594672021769",
+          "text": "Wrote this almost a year ago, and finally starting to see more B2B companies wake up to this opportunity.. \n\nDon’t wait another year. Narratives and vibes are extremely important to stand out amongst the slop 🪄 https://t.co/Hcu1kTqo9H",
+          "createdAt": "2026-05-23T15:09:11.000Z",
+          "url": "https://x.com/nikunj/status/2058203594672021769",
+          "likes": 132,
+          "retweets": 8,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "1948884719887667623"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2058381186884411473",
+          "text": "I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release.\n\nSo I built one for everyone.\nhttps://t.co/GWCP5wcrDQ https://t.co/DRvjenlVMi",
+          "createdAt": "2026-05-24T02:54:52.000Z",
+          "url": "https://x.com/steipete/status/2058381186884411473",
+          "likes": 676,
+          "retweets": 43,
+          "replies": 58,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058332234247987379",
+          "text": "codex... made a smiley? :) https://t.co/UJc4X4A8q1",
+          "createdAt": "2026-05-23T23:40:21.000Z",
+          "url": "https://x.com/steipete/status/2058332234247987379",
+          "likes": 275,
+          "retweets": 5,
+          "replies": 47,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058308112134635528",
+          "text": "Tell codex to maintain a scratch-log while it works on bigger refactors with decisions it had to make, tradeoffs, review fixes, so later on you can read through which tradeoffs the agent made, what you forgot to specify etc.",
+          "createdAt": "2026-05-23T22:04:30.000Z",
+          "url": "https://x.com/steipete/status/2058308112134635528",
+          "likes": 158,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2058233900464238801",
+          "text": "Can you imagine that we lived in a world 6 months (Nov 2025) ago when we would mostly just chat with LLMs and would be so happy about AI??\n\nIt's May 2026 and these LLMs now have produced more code than we have written over all time.",
+          "createdAt": "2026-05-23T17:09:36.000Z",
+          "url": "https://x.com/adityaag/status/2058233900464238801",
+          "likes": 108,
+          "retweets": 6,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman",
+      "url": "https://www.youtube.com/watch?v=jeop9wfb9jU",
+      "publishedAt": "2026-05-21T07:00:00.000Z"
+    }
+  ]
+}
