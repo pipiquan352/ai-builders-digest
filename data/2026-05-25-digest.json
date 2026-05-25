@@ -1,0 +1,48 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "\"We used to say build the MVP. Now you should build the system that builds the MVP first.\"\n\nHere's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:\n\n✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach\n\n✅ Codex and Devin as his AI eng team to ship features while he sleeps\n\nSome quotes from Ryan:\n\n\"Spend a lot of time upfront setting up your skills + documentation. Then you've suddenly unlocked the work of 10 people.\"\n\n\"Treat your agent like a real employee. Give it a real email address, calendar access, and GitHub account.\"\n\n\"Pay a designer to set up your design system and brand. After that, you can use AI to generate on-brand assets.\"\n\n📌 Watch now: \n\nThanks to our sponsors:\n\n@WisprFlow: Don't type, just speak \n\n@linear: The AI agent platform for modern teams",
+      "zh": "“我们过去常说打造 MVP。现在你应该先打造一个能打造 MVP 的系统。”\n\n这是我与 @ryancarson 的新一集，他分享了他如何与人工智能代理单独运营他的初创公司：\n\n✅ OpenClaw 作为他的人工智能幕僚长，负责分类电子邮件、预订会议和进行销售推广\n\n✅ Codex 和 Devin 作为他的 AI 工程团队，在他睡觉时发布功能\n\n瑞安的一些引述：\n\n“花大量时间预先设置你的技能和文档。然后你突然就解锁了 10 个人的工作。”\n\n“像对待真正的员工一样对待您的代理。为其提供真实的电子邮件地址、日历访问权限和 GitHub 帐户。”\n\n“付钱给设计师来建立你的设计系统和品牌。之后，你可以使用人工智能来生成品牌资产。”\n\n📌立即观看： \n\n感谢我们的赞助商：\n\n@WisprFlow：不要打字，只需说话 \n\n@线性：现代团队的人工智能代理平台"
+    },
+    "realmadhuguru": {
+      "en": "CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.\n\nSo they set sweeping, imprecise AI mandates for their company.\n\nThis leads to performative, low-effort demos from employees trying to meet the coarse goals.\n\nNext thing you know it’s been two years with no real progress and a startup with hands-on leadership is disrupting you.",
+      "zh": "首席执行官们对人工智能感到害怕，但他们中的许多人和他们的副手已经习惯了保持距离的领导方式，并且缺乏动手实践人工智能的能力。\n\n因此，他们为公司制定了全面、不精确的人工智能指令。\n\n这会导致员工在尝试实现粗略目标时进行高效、省力的演示。\n\n接下来你会知道，两年过去了，没有任何真正的进展，而一家拥有实际领导力的初创公司正在扰乱你。"
+    },
+    "trq212": {
+      "en": "my main takeaway from the Bun rewrite is that legacy codebases will be incredibly valuable as a source for \"distilling\" code into new forms\n\nevery game should be crossplatform, all legacy software should work on the web, we don't need COBOL anymore",
+      "zh": "我从 Bun 重写中得到的主要收获是，遗留代码库作为将代码“提炼”成新形式的来源将非常有价值\n\n每个游戏都应该是跨平台的，所有遗留软件都应该在网络上运行，我们不再需要 COBOL"
+    },
+    "rauchg": {
+      "en": "How do you build a great brand? Build a great product",
+      "zh": "如何打造一个伟大的品牌？打造出色的产品"
+    },
+    "levie": {
+      "en": "CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.\n\nSo when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sustainable results from agents. \n\n“Look I made this awesome product prototype”. Yes but you didn’t have to review the code before it went into production and fix a bunch of issues.\n\n“Look I generated a contract”. Yes but you didn’t verify all the terms before it goes out to the counterparty and didn’t have to wire up all the past contracts to work with.\n\nThe best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.",
+      "zh": "首席执行官特别容易患上人工智能精神病，因为他们距离最后一英里的工作还很远，而最后一英里的工作仍然需要通过人工智能产生最大的价值。\n\n因此，当他们使用人工智能时，他们会看到快乐路径的结果，通常不会考虑接下来必须发生的 10 或 20 件事才能从代理那里获得可持续的结果。 \n\n“看我制作了这个很棒的产品原型”。是的，但您不必在代码投入生产之前检查代码并修复一堆问题。\n\n“看我生成了一份合同”。是的，但在发送给交易对手之前，您没有验证所有条款，也不必将所有过去的合同连接起来。\n\n作为首席执行官，你能做的最好的事情就是大量使用人工智能来弄清楚代理对企业的真正影响，并从另一方面欣赏他们的好处和真正的工作。"
+    },
+    "garrytan": {
+      "en": "High agency high taste is the unlock these days",
+      "zh": "高代理高品味是当今的解锁"
+    },
+    "mattturck": {
+      "en": "Is AGI already here?\n\n \"I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain\" - @yanndubs of @OpenAI",
+      "zh": "AGI已经来了吗？\n\n “我认为，如果我们冻结我们现在拥有的模型，并且您确实在安全带上进行了工作，也许我们还花了更多时间使用出色的安全带进行训练，我认为人们会真正感受到每个领域的 AGI” - @OpenAI 的 @yanndubs"
+    },
+    "nikunj": {
+      "en": "Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks.. \n\nSO many websites are impossible to navigate \"deterministically\" via the DOM (or through screenshots).\n\nSo, I just point Claude Code to use browser_harness by @browser_use (or vanilla playwright) and ask it to sniff network requests on the pages that I'm trying to get info on. \n\nAnd, I just keep clicking around on the sections of data that I want. And, then Claude Code is generally able to go through the logs to figure out what is the right structure for these APIs and what kind of auth do they need (most are cookie based). We also determine what kind of rate limits exist based on trial and error. \n\nI'm able to use that to construct jobs that allow me to get that data programmatically. There are many use cases for this besides scraping. I use this for random side projects (like the travel CLI), for monitoring websites (for intel), and for many many other use cases. \n\nEvery website will soon need to be headless, and we'll need to figure out mechanisms for how we have our agents pay these websites programmatically as well. \n\nJust as we have llms.txt for data and structure, we'll soon need tools.txt for agents to determine what tools exist that can be leveraged.",
+      "zh": "通过网络请求对 API 进行逆向工程是使用 Claude Code 自动化任务可以做的最有趣的事情之一。 \n\n许多网站无法通过 DOM（或通过屏幕截图）“确定性”导航。\n\n因此，我只是指出 Claude Code 使用 @browser_use （或普通剧作家）的 browser_harness 并要求它嗅探我试图获取信息的页面上的网络请求。 \n\n而且，我只是不断点击我想要的数据部分。而且，Claude Code 通常能够通过日志来找出这些 API 的正确结构以及它们需要什么样的身份验证（大多数是基于 cookie 的）。我们还根据反复试验确定存在何种速率限制。 \n\n我可以使用它来构建允许我以编程方式获取数据的作业。除了抓取之外，还有很多用例。我将其用于随机的副项目（如旅行 CLI）、监控网站（用于英特尔）以及许多其他用例。 \n\n每个网站很快都需要无头，我们需要找出让我们的代理以编程方式向这些网站付款的机制。 \n\n正如我们有用于数据和结构的 llms.txt 一样，我们很快将需要用于代理的 tools.txt 来确定存在哪些可以利用的工具。"
+    },
+    "danshipper": {
+      "en": "Fantastic breakdown of After Automation in today’s AI Daily Brief\n\nThanks for such a thoughtful episode @nlw!",
+      "zh": "今天的 AI 每日简报对 After Automation 进行了精彩分解\n\n感谢 @nlw 带来如此深思熟虑的一集！"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:03\nYou're one of the godfathers of AI. What's your kind of view of the path of progress here?\n\nSpeaker 2 | 00:03 - 00:11\nFive years complete world domination. The best way to get breakthrough research is you hire the best people, and you get the fuck out of the way. Pardon my French.\n\nSpeaker 1 | 00:11 - 00:14\nYou shared the Turing Award with two others. When did your views start diverging?\n\nSpeaker 2 | 00:14 - 00:15\nIn 2023.\n\nSpeaker 1 | 00:15 - 00:16\nHow you do know it\n\n...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n您是人工智能教父之一。您对这里的进步之路有何看法？\n\n扬声器 2 | 00:03 - 00:11\n五年完成世界统治。获得突破性研究的最好方法是雇佣最优秀的人才，然后你就可以了。请原谅我的法语。\n\n演讲者 1 | 00:11 - 00:14\n您与另外两人分享了图灵奖。你们的观点什么时候开始出现分歧？\n\n扬声器 2 | 00:14 - 00:15\n2023年。\n\n演讲者 1 | 00:15 - 00:16\n你怎么知道的",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
