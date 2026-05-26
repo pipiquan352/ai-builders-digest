@@ -1,0 +1,283 @@
+{
+  "generatedAt": "2026-05-26T17:27:02.064Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2059099566377693305",
+          "text": "Codex is very good. I'm especially impressed by how it uses the browse to test its own work.\n\nBut any design related / frontend tasks, Claude still wins.",
+          "createdAt": "2026-05-26T02:29:27.000Z",
+          "url": "https://x.com/petergyang/status/2059099566377693305",
+          "likes": 239,
+          "retweets": 8,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2059070818798465330",
+          "text": "You have to think of tokenmaxxing as eating crab legs at the buffet.\n\nThe buffet (all you can eat AI plans) is not going to last forever so you better eat all the crab legs while you still can.",
+          "createdAt": "2026-05-26T00:35:13.000Z",
+          "url": "https://x.com/petergyang/status/2059070818798465330",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2059029752858775581",
+          "text": "What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.\n\nMy number 1 lesson from @ryancarson:\n\n\"We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.\n\nYou have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.\"\n\n📌 I asked Ryan how he ships 10 PRs a day, here's his answer: https://t.co/8jMGNSdHmu",
+          "createdAt": "2026-05-25T21:52:02.000Z",
+          "url": "https://x.com/petergyang/status/2059029752858775581",
+          "likes": 32,
+          "retweets": 7,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2058555226479866312"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2058994218484338726",
+          "text": "I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.",
+          "createdAt": "2026-05-25T19:30:50.000Z",
+          "url": "https://x.com/AmandaAskell/status/2058994218484338726",
+          "likes": 497,
+          "retweets": 10,
+          "replies": 44,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2059025559896883489",
+          "text": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. \n\nIf you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there’d be no jobs left.\n\nWhat happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service. Because some players in the market decides to do more with the automation, and it raises everyone’s expectations. So those that don’t respond can’t compete.\n\nWe get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings. We get better software in niches we never thought we could automate. Our healthcare providers offer more tests and deeper medical advice. This just goes on and on.\n\nWhen you move from believing the world is static and you’ll have a better view of how jobs evolve due to AI.",
+          "createdAt": "2026-05-25T21:35:22.000Z",
+          "url": "https://x.com/levie/status/2059025559896883489",
+          "likes": 530,
+          "retweets": 55,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2058930760946741620"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2059155926939299968",
+          "text": "This is going to be common from here\n\nBrave new world\n\nPrompters of the world unite https://t.co/rtuwOGiEzQ",
+          "createdAt": "2026-05-26T06:13:24.000Z",
+          "url": "https://x.com/garrytan/status/2059155926939299968",
+          "likes": 52,
+          "retweets": 2,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2058941342638813431"
+        },
+        {
+          "id": "2059151927011909800",
+          "text": "Ultimately the golden age of abundance will be this kind of tech built and deployed 1000x https://t.co/ezuSdcjE3w",
+          "createdAt": "2026-05-26T05:57:31.000Z",
+          "url": "https://x.com/garrytan/status/2059151927011909800",
+          "likes": 91,
+          "retweets": 14,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2059096096929153471"
+        },
+        {
+          "id": "2059148823403082154",
+          "text": "By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? \n\nRun this a few times and you will be surprised how fast it gets astonishingly better\n\nAnd since it is in a skill file plus code with evals (LLM as judge) and unit tests, it stays better forever",
+          "createdAt": "2026-05-26T05:45:11.000Z",
+          "url": "https://x.com/garrytan/status/2059148823403082154",
+          "likes": 26,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2058957711396544752",
+          "text": "Member of Technical Staff https://t.co/84YZZWhB5G",
+          "createdAt": "2026-05-25T17:05:46.000Z",
+          "url": "https://x.com/mattturck/status/2058957711396544752",
+          "likes": 34,
+          "retweets": 4,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2058927145519562867",
+          "text": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..\n\nBrother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.  \n\nIt’s also SO much fun to explore the edges of these models and discover new capabilities that haven’t been documented yet. \n\nI also find it absurd that how can you NOT be curious and redo how you do work. We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it’s comfortable? \n\nAutomate or get automated is the bitter lesson we all need to learn. And have a lot of fun along the way :)",
+          "createdAt": "2026-05-25T15:04:19.000Z",
+          "url": "https://x.com/nikunj/status/2058927145519562867",
+          "likes": 134,
+          "retweets": 2,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2058922222790525272",
+          "text": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP",
+          "createdAt": "2026-05-25T14:44:45.000Z",
+          "url": "https://x.com/steipete/status/2058922222790525272",
+          "likes": 883,
+          "retweets": 32,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058917897590673525",
+          "text": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
+          "createdAt": "2026-05-25T14:27:34.000Z",
+          "url": "https://x.com/steipete/status/2058917897590673525",
+          "likes": 3921,
+          "retweets": 294,
+          "replies": 146,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058884046940225918",
+          "text": "There's security, and there's clankers. https://t.co/TLA07uIEZB",
+          "createdAt": "2026-05-25T12:13:03.000Z",
+          "url": "https://x.com/steipete/status/2058884046940225918",
+          "likes": 967,
+          "retweets": 24,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2058658244328124562"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2059014616059879501",
+          "text": "Good counterpoint from inside @every to After Automation: https://t.co/o5h1PTYUTg",
+          "createdAt": "2026-05-25T20:51:53.000Z",
+          "url": "https://x.com/danshipper/status/2059014616059879501",
+          "likes": 38,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2059011863250145600"
+        },
+        {
+          "id": "2058962146684215602",
+          "text": "https://t.co/I91v9v14Ma",
+          "createdAt": "2026-05-25T17:23:24.000Z",
+          "url": "https://x.com/danshipper/status/2058962146684215602",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058962119287038145",
+          "text": "\"Humanity, created by God in all its grandeur is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together.\"\n\nThe Pope has obviously been reading @every from 2024: https://t.co/TxmwICvJ77",
+          "createdAt": "2026-05-25T17:23:17.000Z",
+          "url": "https://x.com/danshipper/status/2058962119287038145",
+          "likes": 50,
+          "retweets": 3,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2059135918808981617",
+          "text": "https://t.co/6AxtdQkx4O",
+          "createdAt": "2026-05-26T04:53:54.000Z",
+          "url": "https://x.com/adityaag/status/2059135918808981617",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2059135917122838705",
+          "text": "It's not everyday you get to host someone who's been to space.\n\nI'll be chatting with Group Captain Shubhanshu Shukla @gagan_shux at @spc_india.\n\nFighter Pilot. Astronaut. First Indian on the ISS. Incredible guest. Register to attend, BLR, May 28. https://t.co/D0fUyBRgfZ",
+          "createdAt": "2026-05-26T04:53:54.000Z",
+          "url": "https://x.com/adityaag/status/2059135917122838705",
+          "likes": 20,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Why AWS and Azure Cannot Run Autonomous AI – Ivan Burazin (Daytona)",
+      "url": "https://www.youtube.com/watch?v=kMXJrzAa5fM",
+      "publishedAt": "2026-05-14T11:30:00.000Z"
+    }
+  ]
+}
