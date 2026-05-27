@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "ai infra is going VERTICAL",
+      "zh": "人工智能基础设施将走向垂直化"
+    },
+    "petergyang": {
+      "en": "This is pretty annoying",
+      "zh": "这很烦人"
+    },
+    "trq212": {
+      "en": "the basic trick to using Claude Code for non-technical work is to put a bunch of files in a folder and tell it can write scripts + make HTML",
+      "zh": "使用 Claude Code 进行非技术工作的基本技巧是将一堆文件放在一个文件夹中，并告诉它可以编写脚本 + 制作 HTML"
+    },
+    "amasad": {
+      "en": "Back in Jordan doing my favorite thing — drifting! First time in a pro drift car.",
+      "zh": "回到约旦做我最喜欢的事情——漂流！第一次驾驶专业漂移车。"
+    },
+    "rauchg": {
+      "en": "Feedback is a gift. Critical feedback doubly so.",
+      "zh": "反馈是一份礼物。批评性的反馈更是如此。"
+    },
+    "levie": {
+      "en": "A meaningful portion of enterprises I talk to outside of Silicon Valley generally are looking to hire while also adopting agents. \n\nThere’s a huge wave of technical and engineering talent needed inside originations, building software or acting as FDEs for agents. And as AI drives efficiency in areas like the customer lifecycle, companies are leaning in even more heavily to client-facing jobs.\n\nIn a world where AI did everything for you with no human oversight needed, maybe we’d be having a different conversation. But that’s not how AI works. \n\nEven for the areas that have the most automation potential, agents are automating tasks, not whole jobs. As they automate tasks, the agents need to be steered, their work reviewed, the outputs incorporated and more. All of this is requiring people to do the work.\n\nAnd for the areas that have less automation potential, companies are freeing up dollars from efficiency gains elsewhere to hire in those areas now. \n\nYes, maybe AI lets you respond to front line support tickets automatically, but the companies (instead of just dropping the profit to the bottom line) will go and invest in new areas of sales and customer success that will add more differentiation for clients.\n\nCompanies don’t remain static. They automating tasks where they can and free up dollars to move onto the next thing that matters.",
+      "zh": "我采访过的硅谷以外的企业中，有相当一部分企业通常在寻求招聘的同时也采用代理商。 \n\n起源内部需要大量技术和工程人才，为代理商构建软件或充当 FDE。随着人工智能在客户生命周期等领域提高效率，公司更加倾向于面向客户的工作。\n\n在一个人工智能为你做一切事情而无需人类监督的世界里，也许我们会有不同的对话。但这不是人工智能的工作原理。 \n\n即使对于最具自动化潜力的领域，代理也正在自动化任务，而不是整个工作。当他们自动化任务时，需要指导代理、审查他们的工作、整合输出等等。这一切都需要人们去做工作。\n\n对于自动化潜力较小的领域，公司现在正在从其他地方提高效率中释放资金，用于在这些领域进行招聘。 \n\n是的，也许人工智能可以让你自动响应前线支持请求，但公司（而不是仅仅将利润降至底线）将投资于新的销售和客户成功领域，这将为客户带来更多差异化。\n\n公司不会保持静止。他们尽可能地自动化任务，并腾出资金来处理下一件重要的事情。"
+    },
+    "garrytan": {
+      "en": "Founders must stop trying to building 2010-era businesses with 2026-era technology. \n\nDon't try to rebuild Foursquare or Yelp. \n\nDon't try to recreate Basecamp by 37 Signals with $10/mo SaaS pricing. \n\nDon't underprice! If it works it's worth a lot more.\n\nDon't be tempted to become \"Tech enabled PE\" with revenue tricks. \n\nThe rules of tech changed with AI. Play the new game.",
+      "zh": "创始人必须停止尝试用 2026 时代的技术打造 2010 时代的企业。 \n\n不要尝试重建 Foursquare 或 Yelp。 \n\n不要尝试通过 37 Signals 以 10 美元/月 SaaS 定价重新创建 Basecamp。 \n\n请勿低价！如果它有效的话，它的价值会更高。\n\n不要试图通过盈利技巧成为“科技型私募股权公司”。 \n\n科技规则随着人工智能而改变。玩新游戏。"
+    },
+    "mattturck": {
+      "en": "The biggest mindf*ck scenario in AI: things don’t change that much.  Both doomers and accelerationists turn out to be wrong.  We are all more productive.  Agents deliver automation in the enterprise.  Some important scientific discoveries are made.  All great.  But that’s it.",
+      "zh": "人工智能中最令人费解的场景是：事情并没有改变那么多。  事实证明，厄运论者和加速论者都是错误的。  我们都更有生产力。  代理在企业中提供自动化。  取得了一些重要的科学发现。  一切都很棒。  但就是这样。"
+    },
+    "nikunj": {
+      "en": "Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both. \n\nIf not, find a way to quickly get there.",
+      "zh": "每个风险投资支持的应用程序公司本质上都需要成为一家数据公司和/或一家金融科技公司。最好两者兼而有之。 \n\n如果没有，就想办法快速到达那里。"
+    },
+    "steipete": {
+      "en": "autoreview is the most impactful skill I've added to my stack (next to  It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.",
+      "zh": "自动审查是我添加到我的堆栈中的最有影响力的技能（旁边它会在获得 PR 之前自动审查您的代码。\n\n发现很多边缘情况。\n有时它会运行几个小时。"
+    },
+    "danshipper": {
+      "en": "we're having people over at the @every brownstone during NYC Tech Week\n\nai-pilled readers, builders, and writers—and our team\n\ncan't wait to see everyone\n\ncome hang:",
+      "zh": "纽约科技周期间，我们将邀请人们来到 @every Brownstone\n\n人工智能丸的读者、建设者和作家——以及我们的团队\n\n迫不及待地想见到大家\n\n来挂："
+    },
+    "adityaag": {
+      "en": "Legendary run my dear friend.\n\nProud to have played a part in the journey.\n\nI cannot wait to see what you do next.",
+      "zh": "传奇奔跑我亲爱的朋友。\n\n很自豪能够参与这段旅程。\n\n我迫不及待地想看看你接下来会做什么。"
+    },
+    "sama": {
+      "en": "🛫",
+      "zh": "🛫"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:20\nYou need all the infrastructure to run these environments that have to mimic as closely as possible with a user as a computer would look like. And it's very important as closely as possible because sometimes the model can actually figure out when it's being run-in like a fake environment or not a real one, and it has like different behaviors during RL than in production.\n\nSpeaker 2 | 00:20 - 00:26\nAre you seeing it being conscious that it's being it's in a fake environm...",
+      "zh": "演讲者 1 | 00:00 - 00:20\n您需要所有基础设施来运行这些环境，这些环境必须尽可能模仿用户，就像计算机的外观一样。尽可能接近这一点非常重要，因为有时模型实际上可以弄清楚它何时像假环境一样运行或不是真实环境，并且它在 RL 期间的行为与生产中的行为不同。\n\n扬声器 2 | 00:20 - 00:26\n你是否看到它意识到它处于一个虚假的环境中",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
