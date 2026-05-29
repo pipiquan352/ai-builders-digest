@@ -1,0 +1,11 @@
+{
+  "x": {},
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:32\nLet's just say you took GBT 5.5 or Opus, and you just snap the line right now. You could probably do this diffusion in, like, two years or three years, and we could probably all do the change management, like, collectively as an ecosystem. The problem is is the breakthroughs keep happening faster than the customer can implement any kind of standard architecture. And those breakthroughs oftentimes make obsolete the last thing you implemented. It's this really bittersweet...",
+      "zh": "演讲者 1 | 00:00 - 00:32\n假设您使用了 GBT 5.5 或 Opus，并且您现在就挂断电话。你可能会在两年或三年内完成这种扩散，我们可能都可以进行变革管理，就像作为一个生态系统共同进行。问题是突破发生的速度比客户实施任何类型的标准架构的速度都要快。这些突破常常会让你最后实施的事情变得过时。这真的是苦乐参半",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
