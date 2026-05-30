@@ -1,0 +1,44 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Multilingual is now \"ridiculously easy\":",
+      "zh": "多语言现在“简单得可笑”："
+    },
+    "bcherny": {
+      "en": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out.\n\nA migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
+      "zh": "Salesforce 发布了一篇关于使用 Claude Code 进行代理的详细文章。有几件事跳了出来。\n\n他们定范围为 231 天的迁移在 13 天内交付。一个 PR 以 100% 的测试覆盖率交付了 21 个端点。"
+    },
+    "thsottiaux": {
+      "en": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀\n\nThanks to everyone who keeps adopting codex. We are still early. So early.",
+      "zh": "今天我在 Codex 仪表板上看到了一个数字，这让我很高兴。有关该号码的更多消息很快就会公布。 👀\n\n感谢所有不断采用 Codex 的人。我们还早。这么早。"
+    },
+    "levie": {
+      "en": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software.",
+      "zh": "对于应用程序层来说，没有比一家公司花费 5 亿美元构建自己的版本更好的广告了。显然，这里有很多细微差别无法在标题中体现出来，但这应该让您非常看好软件。"
+    },
+    "garrytan": {
+      "en": "A founder kept saying \"if only we had money we'd do X.\"\n\nMoney is not the fire. Money is gasoline you pour on a fire that already exists.\n\nYou don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+      "zh": "一位创始人一直说“只要我们有钱，我们就会做X”。\n\n钱不是火。金钱是你浇在已经存在的火上的汽油。\n\n你没有资金问题。你有一个“人们还不想要它”的问题。去生第一把火吧。"
+    },
+    "nikunj": {
+      "en": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. \n\nSO happy for this kid, and excited to meet the upcoming batch!",
+      "zh": "看到某人经历@ycombinator 面试过程总是很有趣。 \n\n为这个孩子感到高兴，并很高兴见到即将到来的一批！"
+    },
+    "steipete": {
+      "en": "I smell a takedown in 3...2...1",
+      "zh": "我在 3...2...1 闻到了被击垮的味道"
+    },
+    "danshipper": {
+      "en": "extremely sick",
+      "zh": "病得很重"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:38\nAs you're exponentially doing more things with the eyes, you're going to start having really bad actions happen. And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. They just now have to do something to reduce the chance of these agent actions being illegiti...",
+      "zh": "演讲者 1 | 00:00 - 00:38\n当你用眼睛做的事情呈指数级增长时，你就会开始发生非常糟糕的行为。我们最近看到一些这样的情况发生，代理意外地发布了他们不应该发布的代码和令牌。毫无疑问，企业开始意识到风险呈指数级增长，并且他们没有任何方法可以阻止采用。他们现在必须采取一些措施来减少这些特工非法行为的可能性",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

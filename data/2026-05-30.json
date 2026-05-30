@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-05-30T15:07:26.090Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2060443095527989413",
+          "text": "Turn your car into a Lamborghini:\nhttps://t.co/P02mdWU4Km",
+          "createdAt": "2026-05-29T19:28:09.000Z",
+          "url": "https://x.com/joshwoodward/status/2060443095527989413",
+          "likes": 25,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2059875894991466867"
+        },
+        {
+          "id": "2060443093825094091",
+          "text": "Multilingual is now \"ridiculously easy\":\nhttps://t.co/UHrcm4Fxg6",
+          "createdAt": "2026-05-29T19:28:09.000Z",
+          "url": "https://x.com/joshwoodward/status/2060443093825094091",
+          "likes": 70,
+          "retweets": 6,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2059966959270211622"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2060390855383400729",
+          "text": "The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end. Great to see Salesforce go this deep. Shoutout to Srini, @Benioff & team.\n\nFull writeup: https://t.co/3Rbdj9K8YN",
+          "createdAt": "2026-05-29T16:00:34.000Z",
+          "url": "https://x.com/bcherny/status/2060390855383400729",
+          "likes": 450,
+          "retweets": 35,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060390853835726946",
+          "text": "Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardrails and quality standards into the agentic workflow itself.\n\nProductivity vs quality is sometimes framed as a tradeoff. They're not seeing it.",
+          "createdAt": "2026-05-29T16:00:34.000Z",
+          "url": "https://x.com/bcherny/status/2060390853835726946",
+          "likes": 411,
+          "retweets": 7,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060390852619272526",
+          "text": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out.\n\nA migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
+          "createdAt": "2026-05-29T16:00:34.000Z",
+          "url": "https://x.com/bcherny/status/2060390852619272526",
+          "likes": 2789,
+          "retweets": 137,
+          "replies": 108,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2060565265906290786",
+          "text": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀\n\nThanks to everyone who keeps adopting codex. We are still early. So early.",
+          "createdAt": "2026-05-30T03:33:37.000Z",
+          "url": "https://x.com/thsottiaux/status/2060565265906290786",
+          "likes": 1690,
+          "retweets": 39,
+          "replies": 193,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060563528596287874",
+          "text": "Do you still trust benchmarks or do you just listen to your friends? What makes you try a new model?",
+          "createdAt": "2026-05-30T03:26:43.000Z",
+          "url": "https://x.com/thsottiaux/status/2060563528596287874",
+          "likes": 939,
+          "retweets": 16,
+          "replies": 545,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060529970523603099",
+          "text": "The world is more fun with codex glasses https://t.co/HYgxSCdaks",
+          "createdAt": "2026-05-30T01:13:22.000Z",
+          "url": "https://x.com/thsottiaux/status/2060529970523603099",
+          "likes": 833,
+          "retweets": 17,
+          "replies": 102,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2060525104384418271",
+          "text": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
+          "createdAt": "2026-05-30T00:54:02.000Z",
+          "url": "https://x.com/levie/status/2060525104384418271",
+          "likes": 348,
+          "retweets": 18,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2059861227757768954"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2060600088079356292",
+          "text": "A founder kept saying \"if only we had money we'd do X.\"\n\nMoney is not the fire. Money is gasoline you pour on a fire that already exists.\n\nYou don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+          "createdAt": "2026-05-30T05:51:59.000Z",
+          "url": "https://x.com/garrytan/status/2060600088079356292",
+          "likes": 346,
+          "retweets": 23,
+          "replies": 69,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060586945491931202",
+          "text": "Virtue signalers who don’t actually care about the outcomes for the students of the UC system really should have had no part in the UC Regents\n\nUnfortunately they have damaged beautiful institution and their names should be remembered for it https://t.co/F7XWMfYDiM",
+          "createdAt": "2026-05-30T04:59:46.000Z",
+          "url": "https://x.com/garrytan/status/2060586945491931202",
+          "likes": 67,
+          "retweets": 5,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2060533892030030197"
+        },
+        {
+          "id": "2060582680216084925",
+          "text": "Anti Asian racism alive and well in University of California admissions https://t.co/iZuW7HE9nl",
+          "createdAt": "2026-05-30T04:42:49.000Z",
+          "url": "https://x.com/garrytan/status/2060582680216084925",
+          "likes": 159,
+          "retweets": 18,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2060403981827088676"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2060580468781953169",
+          "text": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. \n\nSO happy for this kid, and excited to meet the upcoming batch! https://t.co/bHQExvHD4Q",
+          "createdAt": "2026-05-30T04:34:02.000Z",
+          "url": "https://x.com/nikunj/status/2060580468781953169",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2060306947035832628",
+          "text": "Couldn’t be more excited to have Vince on board. 🦞 \n\nVery few people understand the new ways, how software is built. He gets it. https://t.co/6MmfCVHGLW",
+          "createdAt": "2026-05-29T10:27:09.000Z",
+          "url": "https://x.com/steipete/status/2060306947035832628",
+          "likes": 1295,
+          "retweets": 41,
+          "replies": 46,
+          "isQuote": true,
+          "quotedTweetId": "2060303276000608481"
+        },
+        {
+          "id": "2060294413377519808",
+          "text": "I smell a takedown in 3...2...1 https://t.co/KfxM4Dp0Qh",
+          "createdAt": "2026-05-29T09:37:21.000Z",
+          "url": "https://x.com/steipete/status/2060294413377519808",
+          "likes": 2774,
+          "retweets": 190,
+          "replies": 173,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2060487621915152571",
+          "text": "extremely sick https://t.co/aV3SISsMbv",
+          "createdAt": "2026-05-29T22:25:05.000Z",
+          "url": "https://x.com/danshipper/status/2060487621915152571",
+          "likes": 229,
+          "retweets": 5,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2060464235868836235"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
+      "publishedAt": "2026-05-28T10:00:00.000Z"
+    }
+  ]
+}
