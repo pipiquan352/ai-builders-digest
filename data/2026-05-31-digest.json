@@ -1,0 +1,52 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet.\n\nA simple strategy that we would like to continue.",
+      "zh": "当我们从 GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5 时，数字的增加伴随着功能和令牌效率的改进（这转化为速度的提升）。 GPT-5.5 是我们迄今为止最好的模型。\n\n我们希望继续实施一个简单的策略。"
+    },
+    "petergyang": {
+      "en": "Just spent an hour with daughter learning CS 101 from @brilliantorg \n\nShe doesn’t want to give up until she beats Joyce B 🔥",
+      "zh": "刚刚和女儿一起花了一个小时从 @brilliantorg 学习 CS 101 \n\n她不想放弃，直到她击败Joyce B 🔥"
+    },
+    "rauchg": {
+      "en": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
+      "zh": "运送最好的产品。使用大量人工智能，一些人工智能，也许不使用人工智能。成为最好的。"
+    },
+    "levie": {
+      "en": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.).\n\nDavid Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week. The AI boom is both creating all new jobs in the build out of AI systems and the implementation across sectors, but also freeing up dollars to invest in areas that have been underfunded or have more demand now because of AI. \n\nMost businesses have been constrained by how much software they can produce at a given cost, how many sales reps they can hire, how many marketing campaigns they can run, how they can do outbound customer success motions with enough tailoring, how they can find more risk in their business and prevent it, and 100s of other things. \n\nWhen AI makes it possible to do more of this, investment goes back into the business. The companies that better serve their customers win over the long run, and those that just try and find savings end up doing worse.",
+      "zh": "再说一次，这可能违反直觉，但在我与大型企业的首席信息官、首席技术官和首席执行官的大多数对话中，他们要么因人工智能而成长（在 FDE、工程等新工作职能中），要么至少将效率节约重新投资到新领域（销售、营销等）的业务中。\n\n高盛首席执行官大卫·所罗门（David Solomon）上周在《纽约时报》专栏文章中完美阐述了这一点。人工智能的繁荣不仅在人工智能系统的构建和跨部门的实施中创造了所有新的就业机会，而且还释放出资金来投资那些因人工智能而资金不足或现在需求增加的领域。 \n\n大多数企业都受到以下因素的限制：在给定成本下可以生产多少软件、可以雇用多少销售代表、可以开展多少营销活动、如何通过足够的定制来开展外向客户成功活动、如何在业务中发现更多风险并预防风险，以及数百种其他因素。 \n\n当人工智能能够做更多这样的事情时，投资就会重新投入到业务中。从长远来看，能够更好地为客户服务的公司会赢得胜利，而那些只是试图节省成本的公司最终会做得更糟。"
+    },
+    "ryolu_": {
+      "en": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things",
+      "zh": "我喜欢自动审查的原因：光标解释了命令和风险，使新程序员更容易学习和做事"
+    },
+    "garrytan": {
+      "en": "Don’t forget to vote by June 2. \n\nUse my guide to see how we can fix California \n\ngarrysguide dot org",
+      "zh": "不要忘记在 6 月 2 日之前投票。 \n\n使用我的指南来了解我们如何修复加州 \n\ngarrysguide 点组织"
+    },
+    "nikunj": {
+      "en": "Time is a flat circle. A reminder since it’s in the discourse again 🙏",
+      "zh": "时间是一个扁平的圆。再次出现在讨论中，提醒一下🙏"
+    },
+    "steipete": {
+      "en": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher.\n\nYielding agents is a skill.",
+      "zh": "借助 GPT 5.5、/goal、autoreview 和crabbox，我的提示从约 30-60 分钟变为通常需要 4-10 小时的任务，而且我对它已准备就绪的信心要高得多。\n\n产生代理是一种技能。"
+    },
+    "danshipper": {
+      "en": "business insider 2013 vs. 2026",
+      "zh": "商业内幕 2013 年与 2026 年"
+    },
+    "adityaag": {
+      "en": "Most people I talk to in India have 1 child. Some have 2.\n\nWhen I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\".\n\nThe main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
+      "zh": "我在印度采访的大多数人都有 1 个孩子。有的有2个。\n\n当我告诉他们我有三个时，他们的第一反应是完全惊讶，然后是“好吧，意外发生了”。\n\n主要原因之一是？抚养孩子真的很困难，尤其是对于城市里的核心家庭来说。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:28\nOriol Vinyals is the co lead of Gemini alongside Noam Shazir and Jeff Dean. He's had an incredible career in AI, pioneering many of the breakthroughs in deep learning in the last decade, and it was a ton of fun to get to sit down with him after Google IO. If you've been following Google IO, they basically shipped a bunch of products across a a ton of interesting surface areas throughout AI. And so Oriel and I hit all of them. We talked about what's required for further ...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n奥里奥尔·维尼亚尔斯 (Oriol Vinyals) 与诺姆·沙齐尔 (Noam Shazir) 和杰夫·迪恩 (Jeff Dean) 共同主演《Gemini》。他在人工智能领域拥有令人难以置信的职业生涯，在过去十年中开创了深度学习领域的许多突破，在 Google IO 之后与他坐下来交谈非常有趣。如果您一直关注 Google IO，您会发现他们基本上在人工智能领域的大量有趣领域发布了一堆产品。所以奥里尔和我把所有的球都击中了。我们讨论了进一步需要什么",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

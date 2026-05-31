@@ -1,0 +1,324 @@
+{
+  "generatedAt": "2026-05-31T15:17:27.416Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2060964284117782996",
+          "text": "Five million users would agree. Resetting the limits tomorrow morning to celebrate.\n\nTime to go /fast https://t.co/MdRBfp8Od0",
+          "createdAt": "2026-05-31T05:59:10.000Z",
+          "url": "https://x.com/thsottiaux/status/2060964284117782996",
+          "likes": 2185,
+          "retweets": 113,
+          "replies": 232,
+          "isQuote": true,
+          "quotedTweetId": "2060920535245324479"
+        },
+        {
+          "id": "2060960564676034726",
+          "text": "What’s something we haven’t fixed in codex for a while and that’s plain annoying?",
+          "createdAt": "2026-05-31T05:44:24.000Z",
+          "url": "https://x.com/thsottiaux/status/2060960564676034726",
+          "likes": 552,
+          "retweets": 4,
+          "replies": 816,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060627747760984429",
+          "text": "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet.\n\nA simple strategy that we would like to continue.",
+          "createdAt": "2026-05-30T07:41:54.000Z",
+          "url": "https://x.com/thsottiaux/status/2060627747760984429",
+          "likes": 3842,
+          "retweets": 89,
+          "replies": 397,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2060930599565811774",
+          "text": "Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at the same time",
+          "createdAt": "2026-05-31T03:45:19.000Z",
+          "url": "https://x.com/petergyang/status/2060930599565811774",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060930334620053998",
+          "text": "My guess is:\n- OpenAI Codex dank memes\n- Anthropic essays https://t.co/tSoVhzeBLA",
+          "createdAt": "2026-05-31T03:44:16.000Z",
+          "url": "https://x.com/petergyang/status/2060930334620053998",
+          "likes": 45,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2060881323909103686"
+        },
+        {
+          "id": "2060928818383355907",
+          "text": "Just spent an hour with daughter learning CS 101 from @brilliantorg \n\nShe doesn’t want to give up until she beats Joyce B 🔥 https://t.co/Eq3kNxXsGn",
+          "createdAt": "2026-05-31T03:38:15.000Z",
+          "url": "https://x.com/petergyang/status/2060928818383355907",
+          "likes": 96,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2060803480823193840",
+          "text": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
+          "createdAt": "2026-05-30T19:20:12.000Z",
+          "url": "https://x.com/rauchg/status/2060803480823193840",
+          "likes": 2599,
+          "retweets": 236,
+          "replies": 179,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060787704166776927",
+          "text": "Per-API Key spend caps on AI Gateway https://t.co/CsS7jWilg2",
+          "createdAt": "2026-05-30T18:17:30.000Z",
+          "url": "https://x.com/rauchg/status/2060787704166776927",
+          "likes": 123,
+          "retweets": 11,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2060667173643616392"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2060923684295221390",
+          "text": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.).\n\nDavid Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week. The AI boom is both creating all new jobs in the build out of AI systems and the implementation across sectors, but also freeing up dollars to invest in areas that have been underfunded or have more demand now because of AI. \n\nMost businesses have been constrained by how much software they can produce at a given cost, how many sales reps they can hire, how many marketing campaigns they can run, how they can do outbound customer success motions with enough tailoring, how they can find more risk in their business and prevent it, and 100s of other things. \n\nWhen AI makes it possible to do more of this, investment goes back into the business. The companies that better serve their customers win over the long run, and those that just try and find savings end up doing worse.",
+          "createdAt": "2026-05-31T03:17:51.000Z",
+          "url": "https://x.com/levie/status/2060923684295221390",
+          "likes": 154,
+          "retweets": 19,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2060895086859407406"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2060766674203353190",
+          "text": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq",
+          "createdAt": "2026-05-30T16:53:56.000Z",
+          "url": "https://x.com/ryolu_/status/2060766674203353190",
+          "likes": 222,
+          "retweets": 7,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2060406013098897765"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2060949003790176667",
+          "text": "Unfortunately the building boom has not hit San Francisco yet and that's not a good thing https://t.co/5XDHdlbTQQ",
+          "createdAt": "2026-05-31T04:58:27.000Z",
+          "url": "https://x.com/garrytan/status/2060949003790176667",
+          "likes": 136,
+          "retweets": 3,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2060818150598266887"
+        },
+        {
+          "id": "2060850157978325119",
+          "text": "Don’t forget to vote by June 2. \n\nUse my guide to see how we can fix California \n\ngarrysguide dot org  https://t.co/wOdYdOtco8",
+          "createdAt": "2026-05-30T22:25:41.000Z",
+          "url": "https://x.com/garrytan/status/2060850157978325119",
+          "likes": 129,
+          "retweets": 11,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060759463997636947",
+          "text": "This is the Wolff we need on our side\n\nVote Patrick Wolff for insurance commissioner https://t.co/niE1W4sNpa",
+          "createdAt": "2026-05-30T16:25:17.000Z",
+          "url": "https://x.com/garrytan/status/2060759463997636947",
+          "likes": 70,
+          "retweets": 7,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2060392674310664501"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2060948669164347448",
+          "text": "Time is a flat circle. A reminder since it’s in the discourse again 🙏 https://t.co/qKYCFktX6s",
+          "createdAt": "2026-05-31T04:57:07.000Z",
+          "url": "https://x.com/nikunj/status/2060948669164347448",
+          "likes": 18,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "1970266472644780369"
+        },
+        {
+          "id": "2060823433819439292",
+          "text": "This might be just Grok’s way of gassing me up - but it makes me unreasonably happy ⚽️ https://t.co/An35dnHkdS https://t.co/nFfVpg3Qy5",
+          "createdAt": "2026-05-30T20:39:29.000Z",
+          "url": "https://x.com/nikunj/status/2060823433819439292",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2060598377675641034"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2060691552486175041",
+          "text": "Autoreview: https://t.co/zbUjIS2e1i\n\ncrabbox: https://t.co/SEj2XRpaD1",
+          "createdAt": "2026-05-30T11:55:26.000Z",
+          "url": "https://x.com/steipete/status/2060691552486175041",
+          "likes": 191,
+          "retweets": 8,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060678430031597696",
+          "text": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher.\n\nYielding agents is a skill.",
+          "createdAt": "2026-05-30T11:03:17.000Z",
+          "url": "https://x.com/steipete/status/2060678430031597696",
+          "likes": 2905,
+          "retweets": 103,
+          "replies": 145,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060672154727825718",
+          "text": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I",
+          "createdAt": "2026-05-30T10:38:21.000Z",
+          "url": "https://x.com/steipete/status/2060672154727825718",
+          "likes": 2698,
+          "retweets": 131,
+          "replies": 112,
+          "isQuote": true,
+          "quotedTweetId": "2060375796204605586"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2060861670184870225",
+          "text": "business insider 2013 vs. 2026 https://t.co/DVCelvXlgK",
+          "createdAt": "2026-05-30T23:11:25.000Z",
+          "url": "https://x.com/danshipper/status/2060861670184870225",
+          "likes": 172,
+          "retweets": 0,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060771279280513362",
+          "text": "38b tokens and a 56h longest task\n\n41 day current streak\n\nlfg codex https://t.co/FpIkhoyJTP",
+          "createdAt": "2026-05-30T17:12:14.000Z",
+          "url": "https://x.com/danshipper/status/2060771279280513362",
+          "likes": 169,
+          "retweets": 2,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2060644549408739621",
+          "text": "Most people I talk to in India have 1 child. Some have 2.\n\nWhen I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\".\n\nThe main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
+          "createdAt": "2026-05-30T08:48:40.000Z",
+          "url": "https://x.com/adityaag/status/2060644549408739621",
+          "likes": 217,
+          "retweets": 3,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 87: Gemini Co-Lead on World Models, RL&apos;s Next Domains &amp; Continual Learning",
+      "url": "https://www.youtube.com/watch?v=NQczevdpxq0",
+      "publishedAt": "2026-05-22T12:50:04.000Z"
+    }
+  ]
+}
