@@ -1,0 +1,332 @@
+{
+  "generatedAt": "2026-06-01T19:20:02.148Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2061257183250313256",
+          "text": "@soumithchintala @pewdiepie @opencode https://t.co/Z6FYBkoe8U",
+          "createdAt": "2026-06-01T01:23:03.000Z",
+          "url": "https://x.com/swyx/status/2061257183250313256",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061256096719970337",
+          "text": "just a small zoom out on the vibe shift:\n\nin Feb 2025 @soumithchintala was talking about his dream of personal, local, private agents, most people didn't believe him.\n\nit's June 2026 and @pewdiepie has just released his vibecoded @opencode wrapper that is a complete personal AI productivity suite including email, docs, and calendar. top of HN, easily >1m views, >10k stars in a day.\n\nif your Knowledge Work Agents startup can't beat pewdiepie you might as well pack up and go home at this point, his is the benchmark for what you can DIY.",
+          "createdAt": "2026-06-01T01:18:44.000Z",
+          "url": "https://x.com/swyx/status/2061256096719970337",
+          "likes": 137,
+          "retweets": 5,
+          "replies": 27,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061206120233054327",
+          "text": "every evals/analytics startup is going through a onetime generational upgrade into a continual learning platform in 2026\n\nmany will fail but as always the tasteful ones win",
+          "createdAt": "2026-05-31T22:00:09.000Z",
+          "url": "https://x.com/swyx/status/2061206120233054327",
+          "likes": 245,
+          "retweets": 8,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2061106703446450392",
+          "text": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.\n\nLet the tokens do incredible things today and have fun. https://t.co/e7iJcJ1iHy",
+          "createdAt": "2026-05-31T15:25:06.000Z",
+          "url": "https://x.com/thsottiaux/status/2061106703446450392",
+          "likes": 6064,
+          "retweets": 313,
+          "replies": 666,
+          "isQuote": true,
+          "quotedTweetId": "2060964284117782996"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2061277577785000203",
+          "text": "Ok is there any difference between Codex automations and Claude Code routines? Which one is better? \n\nI want to consolidate all my cron jobs in one list.",
+          "createdAt": "2026-06-01T02:44:05.000Z",
+          "url": "https://x.com/petergyang/status/2061277577785000203",
+          "likes": 75,
+          "retweets": 1,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061175114184736792",
+          "text": "You all just don't get it. \n\nIf you want to win and I mean really win you have to:\n\n1. Work 997 \n996 is for losers\n\n2. Tokenmax \nIf you're not spending more on tokens than your company's entire human headcount budget, are you even AI native?\n\n3. Sleep in the office\nThink about how many more agents you can spin up with that $4,000 monthly SF rent.\n\n4. Be on Forbes 30 under 30\nIf you're over 30 and didn't make this list, I hate to say it but it's over for you.\n\n5. Try not to end up in jail\nMight be hard if you do 4.",
+          "createdAt": "2026-05-31T19:56:56.000Z",
+          "url": "https://x.com/petergyang/status/2061175114184736792",
+          "likes": 37,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2060736248004710452"
+        },
+        {
+          "id": "2061173405366571251",
+          "text": "@Shpigford \"Pretend your worst enemy wrote this code.\"\n\n\"That person who always leaves smug PR comments? Be them.\"\n\n😂",
+          "createdAt": "2026-05-31T19:50:09.000Z",
+          "url": "https://x.com/petergyang/status/2061173405366571251",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2061135404942974982",
+          "text": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents.\n\nI have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel.\n\n“Dream accounts” that we always wanted to work with, where in the past the C-suite would hardly understand the infrastructure until much later in the game.\n\nCoding agents are the ultimate PLG-fication of the enterprise. Bad, legacy software can’t hide anymore. The stack that works is self-evident to the entire organization, from intern to CEO.",
+          "createdAt": "2026-05-31T17:19:09.000Z",
+          "url": "https://x.com/rauchg/status/2061135404942974982",
+          "likes": 1226,
+          "retweets": 69,
+          "replies": 157,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2061247380897579500",
+          "text": "This is effectively the #1 problem for AI agents in the enterprise. \n\nAs we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem becomes much more acute.\n\nWe see this every day with customers at Box. For existing digital knowledge, it’s often fragmented across legacy systems or environments that don’t play nice with agents, and have access controls that don’t map to the real work that needs to be done, which become a huge hurdle for getting agents the context they need. This has to all get moved to modern, secure cloud environments.\n\nBut also, companies often haven’t captured and digitized some of the critical context that agents need to work with. Decisions, processes, and workflows often live in people’s heads and tribal knowledge that need to get turned into unstructured data for agents.\n\nThis is actually one of the biggest points of leverage for applied AI companies, because they can work to specialize in getting agents exactly the information and domain expertise they need. But it’s also one of the reasons why FDEs and new system integrator plays will also work so well right now. \n\nThe companies that figure this out will be able to get the most out of AI going forward.",
+          "createdAt": "2026-06-01T00:44:06.000Z",
+          "url": "https://x.com/levie/status/2061247380897579500",
+          "likes": 479,
+          "retweets": 54,
+          "replies": 65,
+          "isQuote": true,
+          "quotedTweetId": "2060806313001746792"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2061251376802599397",
+          "text": "We have 16 partners funding 40 to 60 companies per year, usually amounting to more than 50 to 200 new SF residents per partner per year (depending on how many cofounders and how many already live here, but multiply by 16 and it’s a lot!) https://t.co/Yq7Y8CZpyq",
+          "createdAt": "2026-06-01T00:59:59.000Z",
+          "url": "https://x.com/garrytan/status/2061251376802599397",
+          "likes": 284,
+          "retweets": 5,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2061247589324906770"
+        },
+        {
+          "id": "2061176075288453333",
+          "text": "This sounds like a small thing but it's big. Platforms need to stay open and it shouldn't require a lot of work to get your data. \n\nBecause where the AI harness wars are going... someone else's harness is just going to be you sharecropping someone else's AI ecosystem. https://t.co/mQBVLsyjdL",
+          "createdAt": "2026-05-31T20:00:45.000Z",
+          "url": "https://x.com/garrytan/status/2061176075288453333",
+          "likes": 300,
+          "retweets": 15,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2061158636311958005"
+        },
+        {
+          "id": "2061174413513678941",
+          "text": "You should want to control and host your own memory\n\nIt’s the one thing that you should be able to take to any platform\n\nWatch for this to be a defining battle in the new browser war: the AI harness wars of 2027 https://t.co/yb8IPzuc09",
+          "createdAt": "2026-05-31T19:54:09.000Z",
+          "url": "https://x.com/garrytan/status/2061174413513678941",
+          "likes": 1423,
+          "retweets": 122,
+          "replies": 110,
+          "isQuote": true,
+          "quotedTweetId": "2061091767030825003"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2061115431528943775",
+          "text": "Does anyone have good studies for what jobs AI has *meaningfully* replaced?\n\nLooking for a statistical analysis of historical data, present openings and forward looking statements for roles. \n\nI know it’s early but still want to read more. \n\nBroadly, we’re seeing every startup claim outcomes, model company revenues booming and companies laying people off - but I think the risk of the permanent underclass seems wildly overblown.",
+          "createdAt": "2026-05-31T15:59:47.000Z",
+          "url": "https://x.com/nikunj/status/2061115431528943775",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2061208638027395490",
+          "text": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would.\n\nThis runs in the background and opens PRs with fixes. https://t.co/xGcKgjyf7F",
+          "createdAt": "2026-05-31T22:10:09.000Z",
+          "url": "https://x.com/steipete/status/2061208638027395490",
+          "likes": 1008,
+          "retweets": 59,
+          "replies": 46,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061115471760441692",
+          "text": "Haven't seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.",
+          "createdAt": "2026-05-31T15:59:56.000Z",
+          "url": "https://x.com/steipete/status/2061115471760441692",
+          "likes": 297,
+          "retweets": 10,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061072753998856696",
+          "text": "The idea of OpenClaw is always that it should be yours. \n\nIt's modular and lean, only add what you need. Fewer skills, fewer tools = your agent can work more efficiently. https://t.co/vUoBvQw2sN",
+          "createdAt": "2026-05-31T13:10:12.000Z",
+          "url": "https://x.com/steipete/status/2061072753998856696",
+          "likes": 428,
+          "retweets": 20,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2061069595138494897"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2061234578610585677",
+          "text": "if you're comparing your startup to the manhattan project and you're not rocking this every day .... ngmi https://t.co/uv4VXrw8Db",
+          "createdAt": "2026-05-31T23:53:14.000Z",
+          "url": "https://x.com/danshipper/status/2061234578610585677",
+          "likes": 98,
+          "retweets": 6,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061216715262906449",
+          "text": "this will happen with AI too in about a decade https://t.co/idtwKdvJ0T",
+          "createdAt": "2026-05-31T22:42:15.000Z",
+          "url": "https://x.com/danshipper/status/2061216715262906449",
+          "likes": 55,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2061312610172051900",
+          "text": "Indian Dynamism.\n \n@arctusaerospace https://t.co/BlqExiWYMp",
+          "createdAt": "2026-06-01T05:03:18.000Z",
+          "url": "https://x.com/adityaag/status/2061312610172051900",
+          "likes": 826,
+          "retweets": 37,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2061117302528188712",
+          "text": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com",
+          "createdAt": "2026-05-31T16:07:13.000Z",
+          "url": "https://x.com/sama/status/2061117302528188712",
+          "likes": 11049,
+          "retweets": 840,
+          "replies": 958,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2061101875303530871",
+          "text": "We want to help the world get a head start on biodefense:\n\nhttps://t.co/gDQfOZrLA4",
+          "createdAt": "2026-05-31T15:05:55.000Z",
+          "url": "https://x.com/sama/status/2061101875303530871",
+          "likes": 1397,
+          "retweets": 159,
+          "replies": 283,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real",
+      "url": "https://www.youtube.com/watch?v=DhD1zZ8w8Mw",
+      "publishedAt": "2026-05-21T11:30:00.000Z"
+    }
+  ]
+}

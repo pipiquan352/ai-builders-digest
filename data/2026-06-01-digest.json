@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "every evals/analytics startup is going through a onetime generational upgrade into a continual learning platform in 2026\n\nmany will fail but as always the tasteful ones win",
+      "zh": "每家评估/分析初创公司都将在 2026 年经历一次性升级，成为持续学习平台\n\n许多人会失败，但一如既往，有品味的人会获胜"
+    },
+    "thsottiaux": {
+      "en": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.\n\nLet the tokens do incredible things today and have fun.",
+      "zh": "所有付费 ChatGPT 订阅的 Codex 使用限制均已重置。您应该恢复到 100% 每周限制和 100% 每小时限制。\n\n今天让代币做一些不可思议的事情并享受乐趣。"
+    },
+    "petergyang": {
+      "en": "Ok is there any difference between Codex automations and Claude Code routines? Which one is better? \n\nI want to consolidate all my cron jobs in one list.",
+      "zh": "好的 Codex 自动化和 Claude Code 例程之间有什么区别吗？哪一个更好？ \n\n我想将所有 cron 作业合并到一个列表中。"
+    },
+    "rauchg": {
+      "en": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents.\n\nI have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel.\n\n“Dream accounts” that we always wanted to work with, where in the past the C-suite would hardly understand the infrastructure until much later in the game.\n\nCoding agents are the ultimate PLG-fication of the enterprise. Bad, legacy software can’t hide anymore. The stack that works is self-evident to the entire organization, from intern to CEO.",
+      "zh": "尚不清楚这是否是一种持久的趋势，但由于编码代理的帮助，首席执行官和首席技术官们又开始愤怒地编码。\n\n上市公司的首席执行官们经常在我的私信（和“InMail”）中告诉我，感谢 Claude Code 和 Vercel，他们再次爱上了运输软件。\n\n我们一直想与“梦想账户”合作，而在过去，高管们直到游戏后期才了解基础设施。\n\n编码代理是企业最终的PLG化。糟糕的是，遗留软件无法再隐藏了。对于整个组织（从实习生到首席执行官）来说，有效的堆栈是不言而喻的。"
+    },
+    "levie": {
+      "en": "This is effectively the #1 problem for AI agents in the enterprise. \n\nAs we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem becomes much more acute.\n\nWe see this every day with customers at Box. For existing digital knowledge, it’s often fragmented across legacy systems or environments that don’t play nice with agents, and have access controls that don’t map to the real work that needs to be done, which become a huge hurdle for getting agents the context they need. This has to all get moved to modern, secure cloud environments.\n\nBut also, companies often haven’t captured and digitized some of the critical context that agents need to work with. Decisions, processes, and workflows often live in people’s heads and tribal knowledge that need to get turned into unstructured data for agents.\n\nThis is actually one of the biggest points of leverage for applied AI companies, because they can work to specialize in getting agents exactly the information and domain expertise they need. But it’s also one of the reasons why FDEs and new system integrator plays will also work so well right now. \n\nThe companies that figure this out will be able to get the most out of AI going forward.",
+      "zh": "这实际上是企业中人工智能代理的第一个问题。 \n\n当我们从代理编码（大量上下文位于代码库中，并且用户有足够的技术能力可以轻松地将其余内容交给代理）转向知识工作代理的世界时，上下文问题变得更加尖锐。\n\n我们每天都会在 Box 的客户中看到这一点。对于现有的数字知识，它通常分散在遗留系统或环境中，与代理不能很好地配合，并且具有无法映射到需要完成的实际工作的访问控制，这成为让代理获得他们所需的上下文的巨大障碍。这一切都必须转移到现代、安全的云环境中。\n\n而且，公司通常没有捕获和数字化代理需要处理的一些关键环境。决策、流程和工作流程通常存在于人们的头脑和部落知识中，需要将其转化为代理的非结构化数据。\n\n这实际上是应用人工智能公司的最大优势之一，因为他们可以专门为代理商提供他们所需的信息和领域专业知识。但这也是 FDE 和新的系统集成商业务目前也能发挥如此良好作用的原因之一。 \n\n弄清楚这一点的公司将能够在未来充分利用人工智能。"
+    },
+    "garrytan": {
+      "en": "You should want to control and host your own memory\n\nIt’s the one thing that you should be able to take to any platform\n\nWatch for this to be a defining battle in the new browser war: the AI harness wars of 2027",
+      "zh": "你应该想要控制和托管你自己的内存\n\n这是您应该能够带到任何平台的一件事\n\n敬请期待这将是新浏览器战争中的一场决定性的战斗：2027 年的人工智能利用战争"
+    },
+    "nikunj": {
+      "en": "Does anyone have good studies for what jobs AI has *meaningfully* replaced?\n\nLooking for a statistical analysis of historical data, present openings and forward looking statements for roles. \n\nI know it’s early but still want to read more. \n\nBroadly, we’re seeing every startup claim outcomes, model company revenues booming and companies laying people off - but I think the risk of the permanent underclass seems wildly overblown.",
+      "zh": "有人对人工智能“有意义地”取代了哪些工作有很好的研究吗？\n\n寻找历史数据的统计分析、当前职位空缺和职位的前瞻性陈述。 \n\n我知道现在还早，但还是想读更多。 \n\n总的来说，我们看到每家初创公司都声称取得了成果，模范公司收入蓬勃发展，公司裁员——但我认为永久下层阶级的风险似乎被过分夸大了。"
+    },
+    "steipete": {
+      "en": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would.\n\nThis runs in the background and opens PRs with fixes.",
+      "zh": "一直在教 Codex 作为我的 QA 助手。对于每次提交，它都会创建一个用户测试场景，并使用 webVNC (crabbox)、计算机/浏览器使用 (peekaboo/mcporter) 来像用户/QA 人员一样测试 OpenClaw。\n\n它在后台运行并打开带有修复的 PR。"
+    },
+    "danshipper": {
+      "en": "if you're comparing your startup to the manhattan project and you're not rocking this every day .... ngmi",
+      "zh": "如果你将你的初创公司与曼哈顿项目进行比较，并且你不是每天都在摇摆......ngmi"
+    },
+    "adityaag": {
+      "en": "Indian Dynamism.\n \n@arctusaerospace",
+      "zh": "印度活力。\n \n@arctusaerospace"
+    },
+    "sama": {
+      "en": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com",
+      "zh": "OpenAI Robotics 正在招聘优秀的全栈硬件、操作、系统和机器学习工程师，以帮助我们编程和制造对社会有用的机器人。\n\n人工智能应该能够帮助现实世界中的人们。短期内，我们的重点是机器人来支持技术工人建设我们未来的基础设施；从长远来看，我们想象每个人都有一个个人机器人来做他们需要做的任何事情。\n\n我们的世界模拟研究项目由 Aditya Ramesh (@model_mechanic) 领导，在过去一年中已发展成为 OpenAI Robotics。进展迅速，并且基于机器人硬件和机器学习研究之间的协同设计基础。\n\n如果您喜欢在机器人技术堆栈中亲自动手工作并希望构建未来，请考虑加入我们。将包含您的背景和杰出成就证据的电子邮件发送至：robots-recruiting@openai.com"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:26\nYou need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing. The last few months have been pretty wild. We moved from like competitions to usefulness to users and that's what we are feeling right now. I think most of the time the Bionic is the last mile.\n\nSpeaker 1 | 00:26 - 00:34\nTher...",
+      "zh": "演讲者 1 | 00:00 - 00:26\n你需要达到这种可靠性水平才能真正使这些人工智能工具变得非常有用，我认为我们可能在去年 12 月就跨越了这个水平，至少在 OpenAI 是这样。现在我们可以相信这些模型可以完成我们正在做的许多工作。过去的几个月非常疯狂。我们从同类竞争转向对用户有用，这就是我们现在的感受。我认为大多数时候仿生是最后一英里。\n\n演讲者 1 | 00:26 - 00:34\n瑟尔",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
