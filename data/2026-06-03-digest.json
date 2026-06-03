@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "probably the best reward function for reasoning efficiency i've seen",
+      "zh": "可能是我见过的推理效率最好的奖励函数"
+    },
+    "joshwoodward": {
+      "en": "✅ Papercut fixed: Thinking Levels are now available on Gemini across Web, iOS, and Android.",
+      "zh": "✅ 修复 Papercut：Thinking Levels 现在可在 Web、iOS 和 Android 上的 Gemini 上使用。"
+    },
+    "thsottiaux": {
+      "en": "Tons of goodies for use of codex for day to day work. \n\nIf you are on a business plan you can now host and share websites, we launched vastly improved plugins and skills for broad roles and you can give feedback to your agent through visual annotations in docs, slides, sheets and more.",
+      "zh": "Codex 提供了大量用于日常工作的好东西。 \n\n如果您正在制定商业计划，您现在可以托管和共享网站，我们针对广泛的角色推出了大大改进的插件和技能，您可以通过文档、幻灯片、表格等中的视觉注释向您的代理提供反馈。"
+    },
+    "petergyang": {
+      "en": "Matt's guide is great but this line is pretty funny: \n\n\"They're so lit up by being able to build anything that they don't do anything else. Then they launch and there are no users.\" 😆",
+      "zh": "马特的指南很棒，但是这句话很有趣： \n\n“他们因为能够构建任何东西而感到如此兴奋，以至于他们不做任何其他事情。然后他们发布了，但没有用户。” 😆"
+    },
+    "amasad": {
+      "en": "Excited to partner with @Microsoft to enable everyone in the enterprise to build and deploy safe &amp; secure Fabric data apps.\n\nThis is possible thanks to Microsoft's new Rayfin SDK.",
+      "zh": "很高兴与 @Microsoft 合作，使企业中的每个人都能够构建和部署安全可靠的 Fabric 数据应用程序。\n\n这要归功于微软新的 Rayfin SDK。"
+    },
+    "rauchg": {
+      "en": "This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap. Much like an SDK has a set of function definitions, human language is the new API to the world.\n\nIt also always has been… there's never been an expert in any field without mastery over its language. The distinction is that English alone could not produce tangible things. You had to translate it into machine instruction, through learning or delegation to others. You can now go direct.",
+      "zh": "这就是人工智能时代的教育。从语言开始：语言表面就是你的路线图。就像 SDK 有一组函数定义一样，人类语言是世界的新 API。\n\n它也一直是……任何领域的专家都无法掌握其语言。区别在于，仅靠英语无法产生有形的东西。你必须通过学习或委托给他人，将其转化为机器指令。现在你可以直接去。"
+    },
+    "levie": {
+      "en": "As token budgets take on a larger part of operating expenses over time, model routing is the inevitable conclusion. This is also one of the biggest areas of differentiation for the applied AI layer over time. \n\nBy understanding the different work patterns in your domain, and having strong evals for that domain, you’ll be able to cost/performance optimize effectively.\n\nWe’re still likely at the point where most use-cases will need frontier performance for the foreseeable future; but soon you will be able to peel off individual use-cases and send them to lower cost models once the quality is sufficient for the task.\n\nEnterprises individually trying to figure this out themselves at scale will likely not be possible, so the products that can intelligently route these workflows to the right tier of model will be in a strong position to aggregate more demand.",
+      "zh": "随着时间的推移，代币预算在运营支出中占据很大一部分，模型路由是不可避免的结论。随着时间的推移，这也是应用人工智能层最大的差异化领域之一。 \n\n通过了解您所在领域的不同工作模式，并对该领域进行强有力的评估，您将能够有效地优化成本/性能。\n\n在可预见的未来，我们仍然可能处于大多数用例都需要前沿性能的阶段；但很快，一旦质量足以完成任务，您将能够剥离单个用例并将其发送到成本较低的模型。\n\n企业单独尝试大规模地自行解决这一问题可能是不可能的，因此能够智能地将这些工作流程路由到正确模型层的产品将处于聚合更多需求的有利位置。"
+    },
+    "garrytan": {
+      "en": "GBrain is the agentic swiss army knife for retrieval and memory",
+      "zh": "GBrain 是用于检索和记忆的瑞士军刀"
+    },
+    "nikunj": {
+      "en": "The best founders treat the following as a necessary component of their business but NOT the entire business..\n\n> AI / timing / why now\n> Funding\n> Distribution / hype\n> Market\n> Product\n> Revenue\n\nI’m seeing too many pitches that are touting only one of these as the core reason to invest. \n\nThe bar has frankly never been higher (see the seed - A gap) and you really need to be able to explain how you’re capturing at least multiple of these in a unique way that’ll be hard for others to copy. \n\nEspecially in overcrowded categories. Otherwise, it gets very hard for the other side (aka VC) to make a case for their own partners to write the check. \n\nAnd, founders often get frustrated because their businesses are strong. Stronger than they have ever been in the past. Why can’t people just write the check? Like why do I need to waste time fundraising? It’s because like it or not the levels do keep going up. Narrative matters, ambition matters and try to understand the opportunity cost has also never been higher on the other side. If you’re profitable and don’t need capital, then who cares. And you don’t need to optimize for VCs but you DO need to give them a reason to believe. \n\nSo, keep your bar high. Find a capital partner that still has conviction and deserves equity in your company. But, please take those ten extra minutes to communicate your long term ambition, because that might be the only small difference between you and the next round.",
+      "zh": "最好的创始人将以下内容视为其业务的必要组成部分，而不是整个业务。\n\n> 人工智能/时机/为什么是现在\n> 资金\n> 发行/炒作\n> 市场\n> 产品展示\n> 收入\n\n我看到太多的宣传只宣传其中之一作为投资的核心原因。 \n\n坦率地说，门槛从未如此高过（参见种子 - 差距），您确实需要能够解释如何以独特的方式捕获至少其中的多个，而其他人很难复制。 \n\n尤其是在过于拥挤的类别中。否则，另一方（又名 VC）很难为自己的合作伙伴开出支票。 \n\n而且，创始人经常会因为他们的业务强劲而感到沮丧。他们比过去任何时候都更强大。为什么人们不能直接写支票？比如我为什么需要浪费时间筹款？这是因为无论你喜欢与否，水平确实在不断上升。叙事很重要，雄心很重要，并试图理解对方的机会成本也从未如此之高。如果你盈利并且不需要资金，那谁在乎呢。你不需要针对风投进行优化，但你确实需要给他们一个相信的理由。 \n\n所以，保持高标准。寻找一个仍然有信念并值得在您的公司拥有股权的资本合作伙伴。但是，请多花十分钟来表达您的长期抱负，因为这可能是您与下一轮之间唯一的细微差别。"
+    },
+    "steipete": {
+      "en": "Such a privilege to work with Microsoft to bring claws to enterprises!",
+      "zh": "很荣幸能与微软合作，为企业带来利爪！"
+    },
+    "danshipper": {
+      "en": "people internally are freaking out about this, worth paying attention:",
+      "zh": "内部人士对此感到恐慌，值得关注："
+    },
+    "sama": {
+      "en": "one of the quotes i find most inspiring on a hard day:\n\n\"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom\"\n\nEcclesiastes 9:10",
+      "zh": "在艰难的一天里，我发现最鼓舞人心的名言之一：\n\n“无论你的手做什么，都要尽全力去做，因为在你要去的死者王国里，既没有工作，也没有计划，也没有知识和智慧。”\n\n传道书 9:10"
+    },
+    "claudeai": {
+      "en": "Interpreting law is one of the oldest jobs in the world. @MaxJunestrand, co-founder and CEO of @WeAreLegora, is bringing it into its next era with Claude.\n\nHis bet: every new model release raises the tide, and Legora is building the boats for everyone else.",
+      "zh": "解释法律是世界上最古老的工作之一。 @MaxJunestrand，@WeAreLegora 的联合创始人兼首席执行官，正在与 Claude 一起将其带入下一个时代。\n\n他的赌注是：每一个新型号的发布都会引发潮流，而 Legora 正在为其他人建造船只。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:27\nOur goal is to get to a billion people in our audience and then to be able to stratify and know what exactly is this person an expert on. And it might be, you know, even something like sneakers. You have some people who are influencers and kind of early adopters. And if you're able to find that audience and interview them first, the insights are much more valuable. And we can learn across all of the interviews that we do.\n\nSpeaker 1 | 00:27 - 00:34\nWe build profiles of ...",
+      "zh": "演讲者 1 | 00:00 - 00:27\n我们的目标是吸引 10 亿观众，然后能够进行分层并了解这个人到底是哪方面的专家。你知道，它甚至可能是运动鞋之类的东西。有些人是有影响力的人，也是早期采用者。如果您能够找到受众并首先采访他们，那么这些见解就会更有价值。我们可以通过我们所做的所有采访来学习。\n\n演讲者 1 | 00:27 - 00:34\n我们建立档案",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
