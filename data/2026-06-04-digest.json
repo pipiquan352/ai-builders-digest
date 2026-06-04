@@ -1,0 +1,80 @@
+{
+  "x": {
+    "swyx": {
+      "en": "you guys know where this is going right",
+      "zh": "你们知道这是怎么回事吗？"
+    },
+    "joshwoodward": {
+      "en": "A short backstory on this one:\n\nA small Google Labs team had an idea to make an app designed to connect you with what matters, without the endless scroll. \"Hope scrolling, not doom scrolling\" was the hallway pitch. \"Go for it.\"\n\nAnd today, that little experiment is rolling out. \n\nMeet Dreambeans, a daily dose of inspiration, brewed fresh for you. We're excited to see what you think!",
+      "zh": "关于这个的一个简短的背景故事：\n\nGoogle 实验室的一个小型团队提出了一个想法，即制作一款应用程序，旨在将您与重要的事情联系起来，而无需无休止的滚动。走廊里的宣传语是“希望滚动，而不是厄运滚动”。 “大胆试试吧。”\n\n今天，这个小实验正在推出。 \n\n来认识一下 Dreambeans，每天为您新鲜酿造的灵感。我们很高兴看到您的想法！"
+    },
+    "thsottiaux": {
+      "en": "Hi. Over the last 24 hours we had three separate small incidents that affected Codex reliability. Those are three too many and we are taking active steps for them to not reproduce.\n\nI have reset usage limits for Codex across all paid plans. May the tokens flow again.",
+      "zh": "你好。在过去 24 小时内，我们发生了三起独立的小事件，影响了法典的可靠性。这三个太多了，我们正在采取积极措施，防止它们繁殖。\n\n我已重置所有付费计划中 Codex 的使用限制。愿代币再次流动。"
+    },
+    "petergyang": {
+      "en": "Codex is absolutely killing it this afternoon for editing spreadsheets for me.",
+      "zh": "Codex 今天下午为我编辑电子表格真是太棒了。"
+    },
+    "_catwu": {
+      "en": "Excited to share how Anthropic's data team has automated 95% of business analytics queries with Claude. Blog post covers how we approach evals, ablations, and online validation!",
+      "zh": "很高兴与 Claude 分享 Anthropic 的数据团队如何自动化 95% 的业务分析查询。博客文章介绍了我们如何进行评估、消融和在线验证！"
+    },
+    "trq212": {
+      "en": "If this prompt feels well written to you, it's because Suzanne is a writer in her little spare time! \n\nYou can read her short story, Mall of America here: \n\nIt's one of my favorite short stories about the human condition that happens to involve AI.",
+      "zh": "如果您觉得这个提示写得很好，那是因为苏珊娜在她的业余时间里是一名作家！ \n\n您可以在这里阅读她的短篇小说《美国购物中心》： \n\n这是我最喜欢的关于人类状况的短篇故事之一，而这个故事恰好涉及人工智能。"
+    },
+    "GoogleLabs": {
+      "en": "🚨 NEW EXPERIMENT 🚨\n\nDreambeans is a new, experimental mobile app that uses Personal Intelligence to connect to your Google apps. Every day, it delivers collections of personalized stories, surfacing things you might otherwise miss, alongside topics that are relevant to you, to help you dive deeper into the things you care about most.\n\nAvailable starting today for eligible US-based Google AI Ultra users (+18), with an open waitlist found on our website below!\n\nLearn more at",
+      "zh": "🚨新实验🚨\n\nDreambeans 是一款新的实验性移动应用程序，它使用 Personal Intelligence 连接到您的 Google 应用程序。每天，它都会提供一系列个性化故事，展示您可能会错过的事情以及与您相关的主题，以帮助您更深入地了解您最关心的事情。\n\n从今天开始，符合条件的美国 Google AI Ultra 用户 (+18) 即可使用，并可在下面的网站上找到开放的候补名单！\n\n了解更多信息，请访问"
+    },
+    "amasad": {
+      "en": "You can run but you can’t hide from B2B SaaS",
+      "zh": "您可以运行，但无法躲避 B2B SaaS"
+    },
+    "rauchg": {
+      "en": "You know what to do 🗽",
+      "zh": "你知道该怎么做🗽"
+    },
+    "levie": {
+      "en": "The jobs data coming out continues to suggest the opposite of what a lot of people had thought would happen. \n\nJust take engineering, as the prime example of the area with greatest AI impact (and perceived risk). Most companies now have far more software projects than ever before because of AI, and effectively only engineers are going to be the ones doing that work. \n\nYou can get by for a while by being non-technical building software, but eventually someone has to understand what the thing is that got built, has to maintain it, has to fix security issues that come up, upgrade the systems beneath it, and so on. That’s all jobs.\n\nNow apply that to a number of other job functions. AI is going to cause companies to hire more in sales because agents can let them process more leads and do more customer research. AI will cause an explosion of new marketing roles because of how much more efficient it is to launch campaigns and target. The list goes on.\n\nAI is going to have the opposite effect that lots of people thought on jobs.",
+      "zh": "公布的就业数据继续表明，情况与许多人的预期相反。 \n\n以工程为例，它是人工智能影响最大（和感知风险）的领域的主要例子。由于人工智能，大多数公司现在拥​​有比以往任何时候都多的软件项目，而且实际上只有工程师才能完成这项工作。 \n\n你可以通过非技术性的构建软件来度过一段时间，但最终必须有人理解所构建的东西是什么，必须维护它，必须解决出现的安全问题，升级它下面的系统，等等。这就是所有的工作。\n\n现在将其应用到许多其他工作职能中。人工智能将促使公司雇用更多的销售人员，因为代理商可以让他们处理更多的潜在客户并进行更多的客户研究。人工智能将导致新的营销角色激增，因为它可以更高效地发起营销活动和目标。这样的例子还在继续。\n\n人工智能将产生与许多人对工作的看法相反的影响。"
+    },
+    "ryolu_": {
+      "en": "Cursor is hiring design engineers.\n\nlooking for people with taste, systems thinking, and deep care for fast, polished experiences – especially folks excited to build the tools that help designers, engineers, and agents ship quality code.\n\nknow someone? tag them or DM me 📧",
+      "zh": "Cursor 正在招聘设计工程师。\n\n寻找有品味、有系统思维、对快速、精致体验深切关注的人才——尤其是那些热衷于构建帮助设计师、工程师和代理商交付高质量代码的工具的人才。\n\n认识某人吗？标记他们或DM我📧"
+    },
+    "garrytan": {
+      "en": "San Francisco is healing. We don't fall for this type of ridiculous gaslighting anymore.",
+      "zh": "旧金山正在康复。我们不再陷入这种荒谬的煤气灯操纵之中。"
+    },
+    "nikunj": {
+      "en": "Getting on this Fitbit Air hype train. Professional at the top, monitoring at the bottom.. \n\nNow just need Google Health API, write capabilities to Apple Health and a nice band and we’re all set!",
+      "zh": "登上这趟 Fitbit Air 宣传列车。专业在上，监控在下。 \n\n现在只需要 Google Health API、向 Apple Health 写入功能和一个漂亮的手环，我们就准备好了！"
+    },
+    "steipete": {
+      "en": "We never had more npm downloads than this week on @openclaw - comined with Docker, GitHub, company-internal deployments and the numerous forks, real number is more in the 10-20 million downloads/week.",
+      "zh": "我们在 @openclaw 上的 npm 下载量从来没有比这周多 - 加上 Docker、GitHub、公司内部部署和众多的分叉，实际数字是每周 10-2000 万次下载。"
+    },
+    "danshipper": {
+      "en": "I bought Figma stock during the SaaSpocalypse panic. Talking to @mcolyer, Figma's director of product management for developers, made me wish I'd bought more.\n\nHe joined me on @every's AI & I to make the case for a SaaS resurgence—and to explain why chat-based tools are the wrong interface for design. We get into:\n\n- Why running your own agents makes you more willing to pay for SaaS, not less\n- How Figma's MCP server allows you to approach design work from two directions: Take a live web page and reconstruct it on the Figma canvas, or hand a Figma design over to an agent so it can makes changes via pull request\n- The inherent limits of chat-based design, a format that isn’t equipped to generate lots of new ideas\n-Why review is the next bottleneck, and potential solutions for helping teams scale evaluations\n\nWatch below!\n\nTimestamps\n0:01:03 - Introduction\n0:02:15 - The SaaSpocalypse narrative has it backwards\n0:05:27 - Matt’s email-agent origin story\n0:13:21 - Divergent vs. convergent design thinking\n0:17:39 - Figma’s MCP server\n0:19:45 - Why design agents need personalization\n0:22:09 - Every problem is a context problem\n0:25:12 - Apple and Google as the reigning kings of context\n0:28:18 - Why review is the new bottleneck",
+      "zh": "我在 SaaSpocalypse 恐慌期间购买了 Figma 股票。与Figma 开发者产品管理总监@mcolyer 交谈后，我希望自己能买更多。\n\n他和我一起参与了 @every 的 AI & I，为 SaaS 的复兴提供了理由，并解释了为什么基于聊天的工具是错误的设计界面。我们进入：\n\n- 为什么运行自己的代理会让您更愿意为 SaaS 付费，而不是更少\n- Figma 的 MCP 服务器如何让您从两个方向进行设计工作：获取实时网页并在 Figma 画布上重建它，或者将 Figma 设计交给代理，以便它可以通过拉取请求进行更改\n- 基于聊天的设计的固有局限性，这种格式无法产生大量新想法\n-为什么审核是下一个瓶颈，以及帮助团队扩展评估的潜在解决方案\n\n往下看！\n\n时间戳\n0:01:03 - 简介\n0:02:15 - SaaSpocalypse 的叙述颠倒了\n0:05:27 - Matt 的电子邮件代理起源故事\n0:13:21 - 发散与趋同的设计思维\n0:17:39 - Figma 的 MCP 服务器\n0:19:45 - 为什么设计代理需要个性化\n0:22:09 - 每个问题都是上下文问题\n0:25:12 - 苹果和谷歌作为上下文之王\n0:28:18 - 为什么审核是新的瓶颈"
+    },
+    "adityaag": {
+      "en": "Very excited to welcome Harshit Madan and Rohan Choudhary to the team!",
+      "zh": "非常高兴欢迎 Harshit Madan 和 Rohan Choudhary 加入团队！"
+    },
+    "claudeai": {
+      "en": "To build the typewriter terminal, he intercepted the keyboard signals and re-routed them to an Arduino. In the back, a Raspberry Pi Zero acts as the ‘brains.’",
+      "zh": "为了构建打字机终端，他拦截了键盘信号并将其重新路由到 Arduino。在后面，Raspberry Pi Zero 充当“大脑”。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:16\nThe world is gonna be very skeptical of tech and tech companies that say, trust us. We've got it. The future is gonna be glorious. You kinda have to deliver tangible benefits because it's too important this time around. It's too much of the economy for it not to be the case.\n\nSpeaker 1 | 00:16 - 00:30\nTrue ambition is about making the impossible possible. I take great inspiration from sort of the people who were managing the Azure network. We built in the last fifteen m...",
+      "zh": "演讲者 1 | 00:00 - 00:16\n世界将对那些说“相信我们”的科技和科技公司持非常怀疑的态度。我们已经做到了。未来一定会很辉煌。你必须提供切实的好处，因为这一次太重要了。经济的影响太大了，不可能不是这样。\n\n演讲者 1 | 00:16 - 00:30\n真正的野心是让不可能成为可能。我从管理 Azure 网络的人那里得到了很大的启发。我们在最后十五米内建造",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
