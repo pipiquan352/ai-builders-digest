@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "a smarter alternative to \"always use plan mode\": \n\nalways frame your task as a question, so that the model is invited to push back and rate the quality of the idea/suggest alternatives, rather than blindly execute what you SAID to do \n\n(which is often not precisely what you MEANT)\n\nliterally just appending \"?\" to the end of your prompt often does it",
+      "zh": "“始终使用计划模式”的更智能替代方案： \n\n始终将您的任务视为一个问题，以便模型被邀请推翻并评估想法/建议替代方案的质量，而不是盲目执行您所说的事情 \n\n（这通常不完全是你的意思）\n\n从字面上看只是附加“？”到提示结束时通常会这样做"
+    },
+    "bcherny": {
+      "en": "We doubled Claude Cowork usage limits for the next month. This applies to your 5-hr rate limits. If you’ve been saving up a big messy project, now’s the time.",
+      "zh": "我们将下个月的 Claude Cowork 使用限制增加了一倍。这适用于您的 5 小时费率限制。如果你一直在攒一个大而混乱的项目，现在就是时候了。"
+    },
+    "thsottiaux": {
+      "en": "Better memory = Shorter prompts = More utility per token",
+      "zh": "更好的记忆 = 更短的提示 = 每个令牌更多的实用性"
+    },
+    "petergyang": {
+      "en": "How to build AI skills that check their own work and improve over time:\n\n1. Give it context\n\nAsk AI: \"Create a skill for this [repeated task]. Here are examples of good output so it knows what good looks like.\"\n\n2. Make it easy to trigger\n\n“Write a clear skill description using this pattern: Use when the user wants to [do this].”\n\n3. Add evals\n\n\"Create an evals md with 10 pass/fail checks for common errors in the skill's output.\"\n\n4. Add memory\n\n\"Create a memory md to capture one-sentence learnings from past chats using this skill.\"\n\n5. Build a skill to edit skills\n\n\"Create a skill that cleans up other skills by removing duplicate or stale instructions, vague rules, and AI slop.\"\n\n📌 Watch my full walkthrough here:",
+      "zh": "如何培养人工智能技能来检查自己的工作并随着时间的推移而提高：\n\n1. 给出背景\n\n询问人工智能：“为此[重复任务]创建一项技能。以下是良好输出的示例，因此它知道什么是良好的。”\n\n2、让触发变得容易\n\n“使用此模式编写清晰的技能描述：当用户想要[执行此操作]时使用。”\n\n3.添加评估\n\n“创建一个 evals md，对技能输出中的常见错误进行 10 次通过/失败检查。”\n\n4.添加内存\n\n“使用此技能创建一个记忆 MD，以捕获从过去的聊天中学到的一句话。”\n\n5.建立编辑技能的技能\n\n“创建一项技能，通过删除重复或陈旧的指令、模糊的规则和人工智能废话来清理其他技能。”\n\n📌 在这里观看我的完整演练："
+    },
+    "realmadhuguru": {
+      "en": "One of the most common mistakes I see enterprise AI teams make is building for today’s model capabilities and price points.\n\nThink 6 months out. Models will be way smarter and cheaper.\n\nScaffold around today’s model weaknesses to push the frontier. Bet that the next generation of models will natively solve for the scaffold. Push the frontier again.\n\nBuild for the slope.\n\nOver time, that ability to repeatedly identify and bridge model gaps becomes a moat of its own.",
+      "zh": "我看到企业人工智能团队最常犯的错误之一是针对当今的模型功能和价格点进行构建。\n\n想想6个月后。模型将变得更加智能、更加便宜。\n\n围绕当今模型的弱点搭建支架，推动前沿发展。打赌下一代模型将原生解决脚手架问题。再次突破边界。\n\n为斜坡建造。\n\n随着时间的推移，这种反复识别和弥合模型差距的能力就会成为自己的护城河。"
+    },
+    "amasad": {
+      "en": "I hear a version of this almost daily.",
+      "zh": "我几乎每天都会听到这样的版本。"
+    },
+    "rauchg": {
+      "en": "Use the Skills API to make all your agents and platforms smarter.\n\nThink of it as the npm registry for agent capabilities and extensibility. Free and open.",
+      "zh": "使用技能 API 使您的所有代理和平台变得更加智能。\n\n将其视为代理功能和可扩展性的 npm 注册表。免费且开放。"
+    },
+    "levie": {
+      "en": "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective.\n\nThe AI models are trained on an incredible amount of sophisticated code. The users are highly technical and can use the latest tools quickly. The work is “verifiable” because you can test an app. The outcomes are often removed from the quality of the code (you can have sloppy code but the app can still work). And the context for the agent is often already digitized and sitting in the codebase. \n\nThat’s an incredible amount of benefits that AI coding agents get to work with. Some of those apply to knowledge work, but most don’t in areas where the work needs to be fully reviewed to be useful, or where data isn’t as abundantly digitized. This makes the job for agents in knowledge work more complicated.\n\nSo if with all of that, engineers still remain in very high demand, the risks are going to be less than what’s perceived for other areas of knowledge work. Agents will let people do far more than they did before, but the people don’t go away.",
+      "zh": "编码基本上是人工智能合理自动化的顶峰，但我们仍然需要人类工程师来监督代理以使其有效。\n\n人工智能模型接受了大量复杂代码的训练。用户技术含量高，可以快速使用最新的工具。该工作是“可验证的”，因为您可以测试应用程序。结果通常与代码的质量无关（您可能有草率的代码，但应用程序仍然可以运行）。代理的上下文通常已经数字化并位于代码库中。 \n\n人工智能编码代理可以享受到令人难以置信的好处。其中一些适用于知识工作，但大多数不适用于需要充分审查工作才能发挥作用的领域，或者数据没有充分数字化的领域。这使得知识工作代理人的工作变得更加复杂。\n\n因此，如果尽管如此，工程师的需求仍然非常高，那么风险将低于其他知识工作领域的风险。特工会让人们做比以前更多的事情，但人们不会离开。"
+    },
+    "ryolu_": {
+      "en": "designing in code is now as easy as:\nclick, chat, hold shift to multi-select.\n\nworks best with Composer 2.5",
+      "zh": "现在，代码设计非常简单：\n单击、聊天、按住 Shift 进行多选。\n\n与 Composer 2.5 配合使用效果最佳"
+    },
+    "garrytan": {
+      "en": "You can now finally try one of those big projects I was teasing that I started working on a few months ago. \n\nWe want this to over time get better at helping you learn the best techniques to build better software, faster.",
+      "zh": "现在你终于可以尝试我几个月前开始从事的那些大项目之一了。 \n\n我们希望随着时间的推移，它能够更好地帮助您学习最佳技术，更快地构建更好的软件。"
+    },
+    "mattturck": {
+      "en": "Ok bad stories about VCs are spreading on X right now, but VCs have horror stories about founders too \n\nLike, that one time when a founder decided to take another term sheet with a higher valuation despite our obvious ability to add value, thought leadership and vendor discounts",
+      "zh": "好吧，关于风投的坏故事现在正在 X 上传播，但风投也有关于创始人的恐怖故事 \n\n就像有一次，尽管我们有明显的增值能力、思想领导力和供应商折扣，但一位创始人还是决定采用另一份估值更高的投资意向书"
+    },
+    "nikunj": {
+      "en": "QED. The quote tweets in this thread just show we HAVE to do better. Evergreen reminder that without founders, there are no VCs!",
+      "zh": "量子ED。该帖子中引用的推文只是表明我们必须做得更好。常青提醒，没有创始人就没有VC！"
+    },
+    "danshipper": {
+      "en": "go Knicks!!",
+      "zh": "去尼克斯！！"
+    },
+    "adityaag": {
+      "en": "Sometimes speed is just impatience disguised as ambition.",
+      "zh": "有时，速度只是伪装成野心的不耐烦。"
+    },
+    "claudeai": {
+      "en": "We've doubled usage limits in Claude Cowork for the next month.\n\nDelegate bigger, more complex tasks to Claude.",
+      "zh": "我们将下个月 Claude Cowork 的使用限制增加了一倍。\n\n将更大、更复杂的任务委托给克劳德。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:27\nThe SaaS apocalypse or the next era of software, if you will. I'm really excited about it, and I think Figma and a lot of other SaaS businesses are too. Because, like, I've worked in developer tools for a long time, and maybe five, ten years ago, the estimate of, like, number of developers worldwide was, like, 25,000,000, 30,000,000, 40,000,000, give or take. I think what's most exciting about this time is that I think it's gonna be, like, a billion, maybe even more tha...",
+      "zh": "演讲者 1 | 00:00 - 00:27\n如果您愿意的话，SaaS 启示录或下一个软件时代。我对此感到非常兴奋，我认为 Figma 和许多其他 SaaS 企业也是如此。因为，我在开发人员工具领域工作了很长时间，也许五年、十年前，全球开发人员的数量估计是 25,000,000、30,000,000、40,000,000，或多或少。我认为这次最令人兴奋的是，我认为它将是十亿，甚至可能更多",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
