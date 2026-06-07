@@ -1,0 +1,44 @@
+{
+  "x": {
+    "swyx": {
+      "en": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained\n\ncalifornia non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined\n\n*btw this is a motivator for me to set up @aidotengineer as a product-centric industry conference to complement the paper-centric research conferences",
+      "zh": "一种流行的理论是，研究论文 alpha* 和实验室出版 ~ 消亡，因为研究人员意识到，他们不必与营销部门抗争，只需走出门，就可以获得超过 1 亿美元的受法律保护的隐性知识\n\n加州非竞争性组织对知识传播的影响比 github、arxiv 和 Huggingface 的总和还要大\n\n*顺便说一句，这是我建立@aidotengineer 作为以产品为中心的行业会议的动力，以补充以论文为中心的研究会议"
+    },
+    "petergyang": {
+      "en": "this agentic coding crack is more addictive than video games smh",
+      "zh": "这种代理编码破解比电子游戏 SMH 更容易上瘾"
+    },
+    "realmadhuguru": {
+      "en": "Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the quality/cost trade-off. \n\nAnd there is an opportunity in that difficulty.\n\nHere is the progression I saw with enterprises while on Gemini.\n\nPhase 1 (2024): Default to the \"it\" model. Everybody used GPT regardless of task, because it was the shiny new thing.\n\nPhase 2 (early 2025): Over-optimize. Teams over-corrected, looking for the smallest/cheapest model for their task, but did not have evals sophisticated enough to map tasks to models. They ended up burning cycles and shipping slower.\n\nPhase 3: Nuanced routing. The industry’s eval muscle and model diversity got to a point where the most sophisticated AI-native startups succeeded in breaking their product into sub-agents and routed each task to the right model - e.g. hardest reasoning to Claude, simplest to Gemini Flash-Lite or open-weight models.\n\nAnd like most product patterns, enterprises followed the AI-native builders 6-9 months later.",
+      "zh": "路由到模型确实很困难。这意味着将每个任务映射到正确的模型 - 这需要根据产品的特定任务对模型进行基准测试，并进行质量/成本权衡。 \n\n在这种困难中也蕴藏着机会。\n\n这是我在双子座上看到的企业进展。\n\n第一阶段（2024 年）：默认为“it”模型。无论什么任务，每个人都使用 GPT，因为它是闪亮的新事物。\n\n第 2 阶段（2025 年初）：过度优化。团队过度纠正，为他们的任务寻找最小/最便宜的模型，但没有足够复杂的评估来将任务映射到模型。他们最终导致了燃烧周期和运输速度变慢。\n\n第三阶段：细致入微的路由。该行业的评估能力和模型多样性已经达到了这样的程度：最先进的人工智能原生初创公司成功地将其产品分解为子代理，并将每个任务路由到正确的模型 - 例如对 Claude 来说最难的推理，对 Gemini Flash-Lite 或开放重量模型来说最简单。\n\n与大多数产品模式一样，企业在 6-9 个月后追随了 AI 原生构建者。"
+    },
+    "amasad": {
+      "en": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too.\n\nMany of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile.\n\nThe best way to avoid sociopaths is to have them self select out of your life by standing for your beliefs.",
+      "zh": "当我公开反对加沙种族灭绝时，一群助产士风险投资家在公开场合联合起来攻击我，私下里也试图伤害我。\n\n许多支持我的人也是风险投资家。只是更好的。无论是道德上还是回报上。\n\n避免反社会者的最好方法是让他们通过坚持你的信仰而自我选择退出你的生活。"
+    },
+    "levie": {
+      "en": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. \n\nIt also gives way to another form of differentiation that will emerge for the applied AI layer, which is model routing.\n\nAs tokens take on a significant amount of the cost of any given workflow, then companies will inevitably want to ensure that their dollars go into the most efficient use of tokens for the particular job at hand. \n\nFrontier intelligence will always be relevant at the high end of tasks, like coding, legal and financial analysis, healthcare, and more. And dollars spent here will only go up over time. But, equally, you can peel off individual tasks to lower cost models (whether they’re from open weights vendors or the major labs) and deliver a more efficient end outcome. \n\nTo do this effectively, the applied AI layer needs to understand the workflows in their domain better than anyone else, and be able to mix and match models to different jobs. If you’re doing document extraction, you need to know which models perform better or worse for any given document type. If you’re legal analysis, you want to know which models perform various types of tasks best. And so on.\n\nThis will become one of the bigger differentiation points over time. The companies with the best evals, the best ability to route the workloads, and those that have business models directly aligned to customers financial goals, will be in a great position.",
+      "zh": "对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的。 \n\n它还让位于应用人工智能层将出现的另一种差异化形式，即模型路由。\n\n由于代币在任何给定工作流程中占据大量成本，因此公司将不可避免地希望确保他们的资金用于最有效地使用代币来完成手头的特定工作。 \n\n前沿情报始终与高端任务相关，例如编码、法律和财务分析、医疗保健等。随着时间的推移，花在这里的钱只会增加。但同样，您可以将单个任务剥离为成本更低的模型（无论它们来自开放权重供应商还是主要实验室），并提供更高效的最终结果。 \n\n为了有效地做到这一点，应用人工智能层需要比其他人更好地理解其领域的工作流程，并能够将模型混合和匹配到不同的工作。如果您正在进行文档提取，您需要知道哪些模型对于任何给定的文档类型表现更好或更差。如果您从事法律分析，您想知道哪些模型最能执行各种类型的任务。等等。\n\n随着时间的推移，这将成为更大的差异点之一。拥有最佳评估、最有能力安排工作负载的公司，以及那些拥有与客户财务目标直接一致的业务模式的公司，将处于有利地位。"
+    },
+    "garrytan": {
+      "en": "I also want to help people become more legit with Paxel",
+      "zh": "我还想通过 Paxel 帮助人们变得更加合法"
+    },
+    "nikunj": {
+      "en": "A Walk In The Park (part II) feat @taiuti 🌎\n\n(00:00) 👋\n(01:10) What world models are\n(03:42) Origin story from text-to-3D to @reactorworld \n(09:22) Deciding to start the company\n(11:22) GTA, games, and the path into programming\n(15:09) Building in stealth and keeping secrets\n(18:32) Picking investors with independent conviction\n(21:43) Where world models will grow first\n(26:08) Why low latency matters\n(29:34) Becoming CEO and scaling the team\n(32:23) Final advice",
+      "zh": "在公园散步（第二部分）壮举@taiuti 🌎\n\n(00:00) 👋\n(01:10) 什么是世界模型\n(03:42) 从文本到 3D 到 @reactorworld 的起源故事 \n(09:22) 决定创办公司\n(11:22) GTA、游戏和编程之路\n(15:09) 秘密建设并保守秘密\n(18:32) 选择具有独立信念的投资者\n(21:43) 世界模特将首先成长的地方\n(26:08) 为什么低延迟很重要\n(29:34) 成为首席执行官并扩大团队规模\n(32:23) 最后建议"
+    },
+    "danshipper": {
+      "en": "LLMs are not conscious. \n\nLLMs are not not conscious. \n\nBoth true.",
+      "zh": "LLM 没有意识。 \n\nLLM 并不是没有意识。 \n\n两者都是真的。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:04\nIs reasoning enough to get to generalization, or is another method needed?\n\nSpeaker 2 | 00:04 - 00:08\nIt does feel like there is something else that possibly could generalize much better.\n\nSpeaker 1 | 00:08 - 00:12\nWhy do you think Anthropic was the first to be, like, really successful on the coding side?\n\nSpeaker 2 | 00:12 - 00:21\nAnthropic made this very good decision to focus on coding. OpenAI was like, we're doing chat GPT. Partway Anthropic made this decision was t...",
+      "zh": "演讲者 1 | 00:00 - 00:04\n推理足以达到概括，还是需要其他方法？\n\n扬声器 2 | 00:04 - 00:08\n确实感觉还有其他东西可以更好地概括。\n\n演讲者 1 | 00:08 - 00:12\n你认为为什么 Anthropic 是第一个在编码方面真正成功的？\n\n扬声器 2 | 00:12 - 00:21\nAnthropic 做出了这个非常好的决定，专注于编码。 OpenAI 就像，我们正在做聊天 GPT。中途人类做出这个决定是为了",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

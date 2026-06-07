@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-06-07T15:24:44.176Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2063432747432268259",
+          "text": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained\n\ncalifornia non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined\n\n*btw this is a motivator for me to set up @aidotengineer as a product-centric industry conference to complement the paper-centric research conferences",
+          "createdAt": "2026-06-07T01:27:58.000Z",
+          "url": "https://x.com/swyx/status/2063432747432268259",
+          "likes": 134,
+          "retweets": 5,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2063426261666660701"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2063491534339936584",
+          "text": "Good night https://t.co/xtjcCGKP3G",
+          "createdAt": "2026-06-07T05:21:34.000Z",
+          "url": "https://x.com/petergyang/status/2063491534339936584",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2063486871037153558",
+          "text": "this agentic coding crack is more addictive than video games smh",
+          "createdAt": "2026-06-07T05:03:02.000Z",
+          "url": "https://x.com/petergyang/status/2063486871037153558",
+          "likes": 104,
+          "retweets": 3,
+          "replies": 36,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2063475353335869922",
+          "text": "There should be a way to filter or sort all my Codex threads in different ways vs. only by project. \n\nLike filter or sort by:\n\n- All waiting for approval\n- All currently working\n\nI'm trying to keep it to 10 threads but it's already getting unwieldly.  wdyt @ajambrosino ?",
+          "createdAt": "2026-06-07T04:17:16.000Z",
+          "url": "https://x.com/petergyang/status/2063475353335869922",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2063342268472574268",
+          "text": "Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the quality/cost trade-off. \n\nAnd there is an opportunity in that difficulty.\n\nHere is the progression I saw with enterprises while on Gemini.\n\nPhase 1 (2024): Default to the \"it\" model. Everybody used GPT regardless of task, because it was the shiny new thing.\n\nPhase 2 (early 2025): Over-optimize. Teams over-corrected, looking for the smallest/cheapest model for their task, but did not have evals sophisticated enough to map tasks to models. They ended up burning cycles and shipping slower.\n\nPhase 3: Nuanced routing. The industry’s eval muscle and model diversity got to a point where the most sophisticated AI-native startups succeeded in breaking their product into sub-agents and routed each task to the right model - e.g. hardest reasoning to Claude, simplest to Gemini Flash-Lite or open-weight models.\n\nAnd like most product patterns, enterprises followed the AI-native builders 6-9 months later.",
+          "createdAt": "2026-06-06T19:28:26.000Z",
+          "url": "https://x.com/realmadhuguru/status/2063342268472574268",
+          "likes": 27,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2063292917964517830"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2063344460705288401",
+          "text": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too.\n\nMany of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile.\n\nThe best way to avoid sociopaths is to have them self select out of your life by standing for your beliefs.",
+          "createdAt": "2026-06-06T19:37:09.000Z",
+          "url": "https://x.com/amasad/status/2063344460705288401",
+          "likes": 4935,
+          "retweets": 396,
+          "replies": 128,
+          "isQuote": true,
+          "quotedTweetId": "2061794787825479818"
+        },
+        {
+          "id": "2063300737296400516",
+          "text": "Vibecon https://t.co/ggY7LLaB8y https://t.co/9YBgC412BZ",
+          "createdAt": "2026-06-06T16:43:24.000Z",
+          "url": "https://x.com/amasad/status/2063300737296400516",
+          "likes": 494,
+          "retweets": 13,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2063101361617621204"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2063320673217609936",
+          "text": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. \n\nIt also gives way to another form of differentiation that will emerge for the applied AI layer, which is model routing.\n\nAs tokens take on a significant amount of the cost of any given workflow, then companies will inevitably want to ensure that their dollars go into the most efficient use of tokens for the particular job at hand. \n\nFrontier intelligence will always be relevant at the high end of tasks, like coding, legal and financial analysis, healthcare, and more. And dollars spent here will only go up over time. But, equally, you can peel off individual tasks to lower cost models (whether they’re from open weights vendors or the major labs) and deliver a more efficient end outcome. \n\nTo do this effectively, the applied AI layer needs to understand the workflows in their domain better than anyone else, and be able to mix and match models to different jobs. If you’re doing document extraction, you need to know which models perform better or worse for any given document type. If you’re legal analysis, you want to know which models perform various types of tasks best. And so on.\n\nThis will become one of the bigger differentiation points over time. The companies with the best evals, the best ability to route the workloads, and those that have business models directly aligned to customers financial goals, will be in a great position.",
+          "createdAt": "2026-06-06T18:02:37.000Z",
+          "url": "https://x.com/levie/status/2063320673217609936",
+          "likes": 404,
+          "retweets": 63,
+          "replies": 73,
+          "isQuote": true,
+          "quotedTweetId": "2063292917964517830"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2063418130714800487",
+          "text": "We never said we don't upload any user data to the cloud. We said the code (file contents) specifically doesn't. \n\nPaxel is here to help you, and over time as local models get better, we'll be able to do even more locally. Can't wait, tbh. https://t.co/B0nygC4aph",
+          "createdAt": "2026-06-07T00:29:53.000Z",
+          "url": "https://x.com/garrytan/status/2063418130714800487",
+          "likes": 46,
+          "retweets": 0,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2063288081323897166"
+        },
+        {
+          "id": "2063409501706018903",
+          "text": "I also want to help people become more legit with Paxel https://t.co/9Atu5RfZ1C",
+          "createdAt": "2026-06-06T23:55:36.000Z",
+          "url": "https://x.com/garrytan/status/2063409501706018903",
+          "likes": 144,
+          "retweets": 10,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2063323917528227901"
+        },
+        {
+          "id": "2063280482922663980",
+          "text": "Local government matters\n\nOakland mismanagement is fixable but there has not yet been a resurgence of common sense the way SF had it\n\n@empoweroak is working on this https://t.co/sPKswjImqY",
+          "createdAt": "2026-06-06T15:22:55.000Z",
+          "url": "https://x.com/garrytan/status/2063280482922663980",
+          "likes": 101,
+          "retweets": 4,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2063151350259851618"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2063381764782116914",
+          "text": "don’t forget to touch sand this weekend 🌞 https://t.co/oeVCnITvpF",
+          "createdAt": "2026-06-06T22:05:23.000Z",
+          "url": "https://x.com/nikunj/status/2063381764782116914",
+          "likes": 50,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2063263389238087745",
+          "text": "A Walk In The Park (part II) feat @taiuti 🌎\n\n(00:00) 👋\n(01:10) What world models are\n(03:42) Origin story from text-to-3D to @reactorworld \n(09:22) Deciding to start the company\n(11:22) GTA, games, and the path into programming\n(15:09) Building in stealth and keeping secrets\n(18:32) Picking investors with independent conviction\n(21:43) Where world models will grow first\n(26:08) Why low latency matters\n(29:34) Becoming CEO and scaling the team\n(32:23) Final advice",
+          "createdAt": "2026-06-06T14:15:00.000Z",
+          "url": "https://x.com/nikunj/status/2063263389238087745",
+          "likes": 70,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2063438262841094604",
+          "text": "my absolute favorite of Plato's Dialogues is a deep discussion of the limits of techne and the necessity of aidos and dike\n\nProtagoras here, in the way he talks about where knowledge comes from and whether virtue can be taught,  pre-sages LLMs:\nhttps://t.co/8pDOaMnIIa",
+          "createdAt": "2026-06-07T01:49:53.000Z",
+          "url": "https://x.com/danshipper/status/2063438262841094604",
+          "likes": 8,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2063436919967522848",
+          "text": "to add two more that increase in value:\n\nAidōs—reverence and responsiveness to others \nDikē—the capacity to perceive what is right https://t.co/X3LsGPfZa5",
+          "createdAt": "2026-06-07T01:44:33.000Z",
+          "url": "https://x.com/danshipper/status/2063436919967522848",
+          "likes": 33,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2063397981290979765"
+        },
+        {
+          "id": "2063426632824562167",
+          "text": "LLMs are not conscious. \n\nLLMs are not not conscious. \n\nBoth true.",
+          "createdAt": "2026-06-07T01:03:40.000Z",
+          "url": "https://x.com/danshipper/status/2063426632824562167",
+          "likes": 41,
+          "retweets": 4,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 89: AI Research Legend’s Honest Assessment of Where We Are",
+      "url": "https://www.youtube.com/watch?v=N1geOimmdDo",
+      "publishedAt": "2026-06-03T12:50:11.000Z"
+    }
+  ]
+}
