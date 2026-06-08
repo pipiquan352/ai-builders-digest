@@ -1,0 +1,60 @@
+{
+  "x": {
+    "bcherny": {
+      "en": "Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done\n3. Use /goal or /loop, to nudge Claude to keep going until it’s done\n4. Use Claude Code in the cloud, so you can close your laptop (easiest way is the desktop or mobile app)\n5. Make sure Claude has a way to self-verify its work end to end: Claude in Chrome browser extension for web, iOS/Android sim MCP for mobile, a way to start the full web server or service for backend work",
+      "zh": "许多基准测试表明 Opus 是长期运行工作的最佳模型。\n\n自主运行 Opus 数小时/数天的五个技巧：\n\n1.使用自动模式获取权限，这样克劳德就不会请求批准\n2. 使用动态工作流程，让 Claude 协调数百/数千个代理来完成任务\n3. 使用 /goal 或 /loop 来推动 Claude 继续前进，直到完成\n4.在云端使用Claude Code，这样你就可以关闭你的笔记本电脑（最简单的方法是桌面或移动应用程序）\n5. 确保 Claude 有办法端到端地自我验证其工作：Claude 在 Chrome 浏览器扩展中用于 Web、iOS/Android sim MCP 用于移动设备、启动完整 Web 服务器或后端工作服务的方法"
+    },
+    "thsottiaux": {
+      "en": "I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\n\nFirst one tomorrow.",
+      "zh": "我有一个新的大按钮，可以按下它来获取 Codex。在接下来的 100 天内，我们将每天选择一名在 Codex 上做出令人印象深刻或非常有用的工作的人，并给予他们一个月 10 倍的使用限制，看看他们能用它做什么。\n\n明天第一个。"
+    },
+    "petergyang": {
+      "en": "My wife asked me to take out the trash.\n\nI said, “You shouldn’t be prompting me anymore. You should be designing loops.\"\n\nFinish the punch line of this dad joke please.",
+      "zh": "我的妻子让我把垃圾倒掉。\n\n我说：“你不应该再提示我了。你应该设计循环。”\n\n请完成这个爸爸笑话的妙语。"
+    },
+    "realmadhuguru": {
+      "en": "A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.\n\nThe data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks. And most of these tasks outside of SWE have little documentation - it is complex, domain-specific knowledge built over the  years, spanning legacy tools that don’t talk to each other.\n\nThat's why we have SWE agents and not knowledge work agents yet.\n\nThe companies creating this training data, such as Mercor, are doing extremely high-leverage, high-skill work. \n\nCritical to moving AI forward. And deeply underappreciated.",
+      "zh": "一个常见的误解是训练数据是低技能、繁重的工作——扫描一些笔记本、挖掘互联网、创建标记样本。\n\n推进模型前沿所需的数据则相反。实验室需要训练数据来完成高经济价值的任务。 SWE 之外的大多数任务都没有什么文档——它们是多年来构建的复杂的、特定领域的知识，涵盖了彼此不交互的遗留工具。\n\n这就是为什么我们还没有 SWE 代理而不是知识工作代理。\n\n创建此类培训数据的公司（例如 Mercor）正在进行极高杠杆率、高技能的工作。 \n\n对于推动人工智能向前发展至关重要。并且被深深地低估了。"
+    },
+    "amasad": {
+      "en": "Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats!",
+      "zh": "Replit 旨在消除所有干扰，让您专注于重要的事情 - 进入市场并拿到包。恭喜！"
+    },
+    "rauchg": {
+      "en": "Vercel AI Gateway recovers on average over 1T tokens a month 🤯 \n\nMuch like Stripe recovers revenue with smart retries on failed payments or credit card updates.\n\nAnd we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …",
+      "zh": "Vercel AI Gateway 平均每月恢复超过 1T 代币 🤯 \n\n就像 Stripe 通过智能重试失败的付款或信用卡更新来恢复收入一样。\n\n我们在实验室中以 0️⃣ 零加价做到这一点；添加冗余、零数据保留强制、可观察性、使用 API、上限……"
+    },
+    "levie": {
+      "en": "This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard. Yes, AI has made that a bit easier, though it’s still hard to build something that’s got good taste, differentiated, high quality, secure, and so on.\n\nBut nevertheless, that’s only one component of building a platform that enterprises rely on. The plurality of costs in most enterprise software companies is actually on GTM, because at scale most enterprise software categories are tough to break into and need a heavy amount of consultative selling and support for implementation and integration of solutions.  \n\nAI hasn’t reduced the need for that, and in many cases requires it even more now, as landscapes get even more busy and complicated for buyers to navigate through. If you make one thing cheaper and more abundant (development of software) then the new problem of discoverability and market differentiation (GTM) becomes the hardest part.",
+      "zh": "这就是市场对人工智能吞噬企业软件的错误认识。过去构建优秀的软件非常困难。是的，人工智能让这一切变得更加容易，尽管构建具有良好品味、差异化、高质量、安全等的东西仍然很困难。\n\n但尽管如此，这只是构建企业依赖的平台的组成部分之一。大多数企业软件公司的多元化成本实际上都在GTM上，因为从规模上看，大多数企业软件类别很难进入，需要大量的咨询销售以及解决方案实施和集成的支持。  \n\n人工智能并没有减少这种需求，而且在许多情况下，现在甚至更需要它，因为买家的导航变得更加繁忙和复杂。如果你让一件东西变得更便宜、更丰富（软件开发），那么可发现性和市场差异化（GTM）的新问题就成为最难的部分。"
+    },
+    "garrytan": {
+      "en": "Educating people on how to use the AI tools has become a serious bottleneck",
+      "zh": "教育人们如何使用人工智能工具已成为严重的瓶颈"
+    },
+    "nikunj": {
+      "en": "The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅\n\nMight be a hot take but I still believe companies should give copious amounts of token budget to employees to stay at the frontier and explore all the edges. \n\nOtherwise, it’s way too easy to fall back to “doing the things how they have always been done”.",
+      "zh": "在短短几周内，从代币最大化和代币焦虑到代币优化的氛围转变是疯狂的 😅\n\n这可能是一个热门观点，但我仍然相信公司应该为员工提供大量的象征性预算，以留在前沿并探索所有边缘。 \n\n否则，很容易退回到“按照以往的方式做事”。"
+    },
+    "steipete": {
+      "en": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.\n\nYou should be designing loops that prompt your agents.",
+      "zh": "这是您每月的提醒，您不应再提示编码代理。\n\n您应该设计提示您的代理的循环。"
+    },
+    "adityaag": {
+      "en": "I have had the chance to go through two IPOs (Meta and Dropbox).\n\nFabulous wealth tends to amplify deeper desires, not create new ones.\n\nThe mainstream narrative is: \"Early Employees make lots of money and buy mansions and go to the beach\".\n\nFor some: Yes, they want to chill. That is great. I am happy for them.\n\nBut for a lot of folks, it is a chance to do even crazier and wackier stuff. Start new things. Fund new things. Keep the crazy loop of Silicon Valley going.\n\nIt's going to be awesome to have a lot of folks with liquidity in the coming months. \n\nOnwards!.",
+      "zh": "我有机会经历过两次 IPO（Meta 和 Dropbox）。\n\n巨额财富往往会放大更深层次的欲望，而不是创造新的欲望。\n\n主流的说法是：“早期员工赚很多钱，买豪宅，去海滩”。\n\n对于一些人来说：是的，他们想冷静一下。那太好了。我为他们感到高兴。\n\n但对于很多人来说，这是一个做更疯狂、更古怪事情的机会。开始新的事情。资助新事物。让硅谷的疯狂循环继续下去。\n\n在接下来的几个月里，如果有很多人拥有流动性，那就太棒了。 \n\n继续！"
+    },
+    "sama": {
+      "en": "interesting recursive loop here maybe",
+      "zh": "也许这里有有趣的递归循环"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:32\nLet's just say you took GBT 5.5 or Opus, and you just snap the line right now. You could probably do this diffusion in, like, two years or three years, and we could probably all do the change management, like, collectively as an ecosystem. The problem is is the breakthroughs keep happening faster than the customer can implement any kind of standard architecture. And those breakthroughs oftentimes make obsolete the last thing you implemented. It's this really bittersweet...",
+      "zh": "演讲者 1 | 00:00 - 00:32\n假设您使用了 GBT 5.5 或 Opus，并且您现在就挂断电话。你可能会在两年或三年内完成这种扩散，我们可能都可以进行变革管理，就像作为一个生态系统共同进行。问题是突破发生的速度比客户实施任何类型的标准架构的速度都要快。这些突破常常会让你最后实施的事情变得过时。这真的是苦乐参半",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
