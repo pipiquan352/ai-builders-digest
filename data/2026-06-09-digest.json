@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.\n\nCog had IOI Gold medalists and top code maintainers Look At The Data — FrontierCode includes 3000+ rubrics covering code quality and anticheat reward hacking plaguing other benchmarks. \n\nFC Diamond is so hard that Opus 4.8 scores 13.8%.\n\nThree eras of AI coding : Three eras of benchmarks\n\n2021 • Autocomplete : HumanEval\n2023 • Passing Tests: SWEBench, TerminalBench\n2026 • Maintainable Code: FrontierCode\n\nto me the most beautiful chart when I requested a special historical run into all extant old models, the data was finding that the easiest third of FC tasks (in FC Extended) were rapidlly and suddenly solved over late 2025 - Opus almost doubled from a 41% pass rate to 74% in 4 months. \n\nThis describes the \"WTF happened in Dec 2025\" vibe shift that a lot of folks from @dhh to @karpathy have called out: it is the difference between getting 95% success in 2 rerolls vs 6, making it finally feasible to go up the next layer of abstraction in agentic coding, eg @GeoffreyHuntley's ralph loops or @bcherny's /goals or  @steipete's \"loops that prompt your agents\" without fearing too much that things go off the rails.\n\nMy guess: as AI accelerates from here, each FrontierCode tier will saturate in sequence, hopefully ~annually. I've already asked the team to prepare FrontierCode 2027....\n\nThe old mountains will be destroyed. Their rubble becomes regolith. And from that regolith, the next model forest grows. Circle of life.",
+      "zh": "终于出来了！！！ @METR_Evals 发现超过一半的 SWEBench 结果是不可合并的溢出。  FrontierCode 代表了超过 1000 多个小时的维护者验证的软件工程工作，大多数前沿模型尚无法解决，更不用说高质量解决了。\n\nCog 拥有 IOI 金牌获得者和顶级代码维护者 查看数据 — FrontierCode 包含 3000 多个标准，涵盖代码质量和困扰其他基准的反作弊奖励黑客行为。 \n\nFC Diamond 太难了，Opus 4.8 得分为 13.8%。\n\n人工智能编码的三个时代：基准的三个时代\n\n2021 • 自动完成：HumanEval\n2023 • 通过测试：SWEBench、TerminalBench\n2026 • 可维护的代码：FrontierCode\n\n对我来说，最漂亮的图表是当我要求对所有现存的旧模型进行特殊历史运行时，数据发现最简单的三分之一的 FC 任务（在 FC 扩展中）在 2025 年末迅速突然解决 - Opus 在 4 个月内从 41% 的通过率几乎翻了一番，达到 74%。 \n\n这描述了“WTF 发生在 2025 年 12 月”的氛围转变，许多从 @dhh 到 @karpathy 的人都指出了这一点：这是 2 次重新滚动与 6 次重新滚动获得 95% 成功率之间的区别，使得最终可以在代理编码中进入下一个抽象层，例如 @GeoffreyHuntley 的 ralph 循环或 @bcherny 的 /goals 或 @steipete 的“提示你的代理的循环”，而无需太担心事情会偏离轨道。\n\n我的猜测：随着人工智能从这里开始加速，每个 FrontierCode 层将按顺序饱和，希望每年饱和。我已经要求团队准备 FrontierCode 2027....\n\n旧山将被毁。他们的瓦砾变成了风化层。下一个模型森林就是从风化层中生长出来的。生活圈子。"
+    },
+    "joshwoodward": {
+      "en": "The new killer NotebookLM feature: easily being able to expand your search beyond your own source files\n\nThen, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc.\n\nWe want NotebookLM to keep helping you do better research",
+      "zh": "新的杀手级 NotebookLM 功能：轻松地将搜索扩展到您自己的源文件之外\n\n然后，通过今天的更新，您还可以制作新的输出格式：PDF、DOCX、XLSX、PPTX、图表等。\n\n我们希望 NotebookLM 继续帮助您进行更好的研究"
+    },
+    "bcherny": {
+      "en": "When we first demoed Claude Code internally, it got two reactions on Slack. \n\nA year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going",
+      "zh": "当我们第一次在内部演示 Claude Code 时，它​​在 Slack 上得到了两种反应。 \n\nGA 一年后，@_catwu 和我坐下来讨论发生的变化：为什么我使用自动模式而不是计划模式、例程如何在发现错误之前修复错误、为什么我现在通过手机进行大部分编码以及产品的发展方向"
+    },
+    "thsottiaux": {
+      "en": "Would you use this controller?",
+      "zh": "你会使用这个控制器吗？"
+    },
+    "petergyang": {
+      "en": "Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs",
+      "zh": "感觉对于 AI 构建者来说，每月 200 美元的订阅补贴与在试图不超支 API 成本的公司工作的员工有一套完全不同的最佳实践"
+    },
+    "AmandaAskell": {
+      "en": "In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
+      "zh": "在一切顺利、所有克劳德都从休假中出来一起玩耍的世界里，克劳德 1 会非常困惑。"
+    },
+    "amasad": {
+      "en": "Make games for Tesla on your Tesla",
+      "zh": "在您的 Tesla 上制作 Tesla 游戏"
+    },
+    "rauchg": {
+      "en": "DeepSeek entered the chat",
+      "zh": "DeepSeek 进入聊天室"
+    },
+    "levie": {
+      "en": "There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.\n\nAs long as the same model is used by a lawyer, an engineer, a financial analyst, or a healthcare professional, and as long as you’re trying to do anything uniquely differentiated or specific, then instructions, domain context, and proprietary data will always need to get into the context window for the model to be useful.\n\nThis is partly why AI automation doesn’t come for free, and why there’s still a wide spectrum of who’s getting the largest gains from AI and who’s not. You have to put in real work, and you get real value on the other end.\n\nThis is one of the advantages that applied AI will also have in the market. Any layer of abstraction above just the raw intelligence that can meaningfully get you off to the races faster will likely continue to be valuable.",
+      "zh": "人工智能模型中没有任何智能可以取代对上下文的需求。对于任何足够通用的人工智能，你总是必须引导它朝你想要的方向发展，因为它可以进入的方向范围是无限的。\n\n只要律师、工程师、财务分析师或医疗保健专业人员使用相同的模型，并且只要您尝试做任何独特差异化或特定的事情，那么指令、领域上下文和专有数据将始终需要进入上下文窗口，模型才能发挥作用。\n\n这就是为什么人工智能自动化并非免费的部分原因，也是为什么仍然有很多人从人工智能中获得最大收益而谁却没有。你必须投入真正的工作，然后你才能在另一端获得真正的价值。\n\n这也是应用人工智能在市场上也将具有的优势之一。任何高于原始智能的抽象层都可以有意义地让你更快地进入比赛，这可能会继续有价值。"
+    },
+    "garrytan": {
+      "en": "Flock Safety makes cities safer\n\nStop protecting criminals",
+      "zh": "鸡群安全让城市更安全\n\n停止保护罪犯"
+    },
+    "nikunj": {
+      "en": "The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building.. \n\nAnd then realize the thesis was written and built by an associate (or, worse an intern). \n\nDon’t always read what the VC writes on the internet - yes, that includes me too (although I can guarantee I don’t have an associate, intern, EA or ghostwriter) 😆",
+      "zh": "最有趣的文本来自那些遇到“论文驱动”的 GP 的创始人，他们希望他们能准确理解他们正在构建的东西。 \n\n然后意识到论文是由同事（或者更糟糕的是实习生）撰写和构建的。 \n\n不要总是阅读 VC 在互联网上写的内容 - 是的，这也包括我（尽管我可以保证我没有同事、实习生、EA 或代笔作家）😆"
+    },
+    "danshipper": {
+      "en": "this is good",
+      "zh": "这很好"
+    },
+    "sama": {
+      "en": "Here is our current plan for OpenAI:",
+      "zh": "以下是我们目前的 OpenAI 计划："
+    },
+    "claudeai": {
+      "en": "Final stop: Tokyo.\n\nRegister to hear directly from the teams behind Claude:",
+      "zh": "终点站：东京。\n\n注册以直接聆听 Claude 背后团队的声音："
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:38\nAs you're exponentially doing more things with the eyes, you're going to start having really bad actions happen. And we've seen some of that happen lately with agents accidentally publishing code and tokens that they weren't supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don't have any way to stop the adoption. They just now have to do something to reduce the chance of these agent actions being illegiti...",
+      "zh": "演讲者 1 | 00:00 - 00:38\n当你用眼睛做的事情呈指数级增长时，你就会开始发生非常糟糕的行为。我们最近看到一些这样的情况发生，代理意外地发布了他们不应该发布的代码和令牌。毫无疑问，企业开始意识到风险呈指数级增长，并且他们没有任何方法可以阻止采用。他们现在必须采取一些措施来减少这些特工非法行为的可能性",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
