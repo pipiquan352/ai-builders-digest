@@ -1,0 +1,76 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
+      "zh": "这是一个超级令人兴奋的版本 - Claude Fable 5 与 Mythos 具有相同的底层模型，但增加了保障措施。基准测试很棒，而且在所有方面都处于 SOTA 水平，但我还要补充一点，“定性地”，这是一个值得重大版本突破的进步（我认为与 11 月的 Claude 4.5 的顺序相同），尤其是在解决非常困难的问题的长时间问题解决会议上达到顶峰。你可以给它比你习惯的任务更雄心勃勃的任务，模型“明白了”，它就会继续下去，而且从来没有感觉到有这样的诱惑来停止查看代码（但不要在产品中这样做！）。该模型仍然存在人们会遇到的怪癖，并且安全措施的配置有点太不适合启动，希望可以随着时间的推移进行调整。\n\n我觉得随着工作软件越来越多地出现在水龙头上，很多事情都在发生变化。杰文悖论开始出现，我感觉自己对软件的需求大幅增长。您可以要求任何东西 - 解释器、可视化工具、仪表板、定制的一次性应用程序（例如，专门针对您的项目的完整 wandb）、您可以将您的测试套件扩大 10 倍、自动优化代码、使用自定义 HTML 运行大型研究项目以获得结果，等等！ “释放你的思想”（矩阵参考）。真的很期待人们建造的所有东西！"
+    },
+    "swyx": {
+      "en": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per use\n\nbe prepared to be in abject horror that you shipped anything to prod without a Fable Check™ first",
+      "zh": "顺便说一句，在神鬼寓言 rn 上告诉克劳德代码“检查我的代码是否存在问题”时，阿尔法数量惊人，而它不是按使用付费的\n\n准备好在没有先进行 Fable Check™ 的情况下将任何东西发送到产品时感到极度恐惧"
+    },
+    "joshwoodward": {
+      "en": "The demand for software is going to be off the charts",
+      "zh": "对软件的需求将超出预期"
+    },
+    "bcherny": {
+      "en": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstalled my IDE when I realized that I’d been doing 100% of my coding in a terminal for a few weeks. With Fable, it’s felt like Claude has stepped up from being a coding agent to a thought and design partner in building the product. Fable has judgement, taste, and dimensionality in a way that previous models didn’t, leading me to trust it more with the most complex work.\n\nI think the first time I had this realization was when I asked Fable to debug something. It is the first model I have used that was so methodical and precise, taking measurements and adding logs then verifying that it truly fixed the issue before declaring victory.\n\nThere’s nothing in claude code’s prompting telling the model to do that, it’s just part of its personality. It really has this “big model smell” that I haven’t felt before.",
+      "zh": "自 11 月份推出 Opus 4.5 以来，《神鬼寓言 5》是我在模型中感受到的最大进步。 4.5 发布后，当我意识到几周以来我 100% 的编码都是在终端中完成时，我卸载了 IDE。在《神鬼寓言》中，克劳德感觉自己已经从一名编码代理晋升为构建产品的思想和设计合作伙伴。 《神鬼寓言》具有以前的模型所没有的判断力、品味和维度，这让我在最复杂的作品上更加信任它。\n\n我想我第一次意识到这一点是当我要求 Fable 调试一些东西时。这是我使用的第一个如此有条理和精确的模型，进行测量并添加日志，然后在宣布胜利之前验证它是否真正解决了问题。\n\n克劳德代码中没有任何提示告诉模型这样做，这只是其个性的一部分。真是有种我从未感受过的“大模味”。"
+    },
+    "thsottiaux": {
+      "en": "I would like to claim my 1% of royalty fees.",
+      "zh": "我想索取 1% 的特许权使用费。"
+    },
+    "petergyang": {
+      "en": "wtf does \"big model smell\" mean",
+      "zh": "wtf “大模特的味道”是什么意思"
+    },
+    "trq212": {
+      "en": "Fable is a step-change in models, and I hope it changes how you work with Claude. \n\nMore to come in a series of posts on how it’s reshaped our work, but the TLDR: it’s time to be more ambitious.",
+      "zh": "《神鬼寓言》是模型的一次重大变革，我希望它能改变你与克劳德的合作方式。 \n\n我们将在一系列帖子中介绍如何重塑我们的工作，但总而言之：是时候更加雄心勃勃了。"
+    },
+    "amasad": {
+      "en": "Try Claude Mythos at 25% off on Replit.",
+      "zh": "在 Replit 上试试 Claude Mythos，享受 25% 的折扣。"
+    },
+    "rauchg": {
+      "en": "Opus wrote us a VM and then Mythos verified it",
+      "zh": "Opus 给我们写了一个虚拟机，然后 Mythos 验证了它"
+    },
+    "alexalbert__": {
+      "en": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models:\n- Claude Opus 3\n- Claude Sonnet 3.5\n- Claude Opus 4.5\n\nAnd now Claude Fable 5.\n\nWith Fable, the model stopped feeling like a tool I direct and started feeling more like something I collaborate with.",
+      "zh": "我一直在 Anthropic 参与每一个模型的发布。我记得有几个案例的发布非常引人注目，标志着我们使用模型的方式发生了重大变化：\n- 克劳德作品 3\n- 克劳德十四行诗 3.5\n- 克劳德作品 4.5\n\n现在是克劳德寓言5。\n\n有了《神鬼寓言》，模型不再感觉像是我指导的工具，而是开始感觉更像是我合作的东西。"
+    },
+    "levie": {
+      "en": "If you thought AI progress was slowing down, well here's the immediate answer to that. Huge jump in capability across the board. This is going to deliver major improvement in agents across almost all knowledge work categories.",
+      "zh": "如果您认为人工智能的进步正在放缓，那么这就是对此的直接答案。全面提升能力。这将为几乎所有知识工作类别的代理带来重大改进。"
+    },
+    "garrytan": {
+      "en": "Fable 5 is the biggest model energy I've ever seen",
+      "zh": "《神鬼寓言5》是我见过的最大的模型能量"
+    },
+    "nikunj": {
+      "en": "I was listening to the latest episode of @InvestLikeBest and it talked a lot about S-curves..\n\nSo I had Fable one shot a website that talked about all the S-curves, their inflection point &amp; commentary on each being a bubble in the last 200 years.\n\nLive now on escurves dot com 🌊",
+      "zh": "我正在听 @InvestLikeBest 的最新一集，它谈论了很多关于 S 曲线的内容。\n\n所以我让《神鬼寓言》制作了一个网站，讨论所有的 S 曲线、它们的拐点以及对过去 200 年中每条泡沫的评论。\n\n现在在 escurves dot com 上直播 🌊"
+    },
+    "danshipper": {
+      "en": "FABLE (MYTHOS) is OUT!\n\nwe've been testing for a week @every. here's our vibe check:",
+      "zh": "寓言（神话）已经出版了！\n\n我们已经测试了一个星期@every。这是我们的氛围检查："
+    },
+    "adityaag": {
+      "en": "As an investor, these are the moments that remind you why you fund startups to do important things.",
+      "zh": "作为投资者，这些时刻会提醒您为什么要资助初创公司来做重要的事情。"
+    },
+    "claudeai": {
+      "en": "Claude Fable 5 is available everywhere today. Claude Mythos 5 is restricted to Glasswing partners until we expand our trusted access program.",
+      "zh": "《克劳德寓言 5》如今随处可见。在我们扩展我们的可信访问计划之前，Claude Mythos 5 仅限于 Glasswing 合作伙伴。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:06\nYou prompt AI to do something. It blows your mind. You feel inadequate. You feel like, oh my god. This thing's gonna take my job.\n\nSpeaker 1 | 00:07 - 00:11\nAnd then it stops working, it looks back at you and says, what should I do next?\n\nSpeaker 2 | 00:11 - 00:47\nThe further away an agent gets from a human, the less valuable it is. If you just ride the models, you're going to be fine. If you care about leading a really ambitious life, I truly think that this is going t...",
+      "zh": "演讲者 1 | 00:00 - 00:06\n你提示人工智能做某事。它让你大吃一惊。你感觉自己不够好。你感觉就像，天哪。这件事会抢走我的工作。\n\n演讲者 1 | 00:07 - 00:11\n然后它停止工作，回头看着你并说，下一步我应该做什么？\n\n扬声器 2 | 00:11 - 00:47\n智能体距离人类越远，其价值就越低。如果你只是骑模型，你会没事的。如果你关心过一种真正雄心勃勃的生活，我真的认为这会",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
