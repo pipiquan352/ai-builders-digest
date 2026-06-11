@@ -1,0 +1,80 @@
+{
+  "x": {
+    "swyx": {
+      "en": "wooh",
+      "zh": "哇"
+    },
+    "joshwoodward": {
+      "en": "Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon. Stay tuned for updates, and thanks for bearing with us!",
+      "zh": "注意：Gemini 目前正在经历停电。我们正在处理并将尽快恢复一切。一些修复已经完成，其余的很快就会出现。请继续关注更新，感谢您对我们的支持！"
+    },
+    "bcherny": {
+      "en": "Hello from Code with Claude Tokyo!!",
+      "zh": "与 Claude Tokyo 一起从 Code 打招呼！"
+    },
+    "thsottiaux": {
+      "en": "Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something.",
+      "zh": "可以确认的是，我们看到过去 48 小时内 Codex 的代币消耗量出现了强劲增长。当我们不推出某些东西时就很不寻常。"
+    },
+    "petergyang": {
+      "en": "Give yourself permission to build.\n\nThe traditional career ladder pushes everyone to become a leader, but I just want to be a builder.\n\nAs you climb the ladder at most companies, you’re expected to step away from building and fill your time with product reviews, cross-functional alignment, managing up, and performance calibrations.\n\nI know a lot of builders who spent their best years climbing the wrong ladder.\n\nThe good news is that this is finally changing. Companies are rewarding builders and ICs more than ever, and even managers are increasingly expected to do IC work too.\n\nBut becoming a good builder takes reps, and it’s hard to put in those reps when you’re in back-to-back meetings all day.\n\nSo if you’re a builder at heart, embrace it. You don’t have to give up what you’re good at to be a “leader.”\n\n📌 Watch now:",
+      "zh": "给自己建造的许可。\n\n传统的职业阶梯推动每个人都成为领导者，但我只想成为一名建设者。\n\n当你在大多数公司晋升时，你需要远离构建，把时间花在产品审查、跨职能协调、向上管理和绩效校准上。\n\n我认识很多建筑商，他们最美好的岁月都爬错了梯子。\n\n好消息是这种情况终于改变了。公司对构建者和 IC 的奖励比以往任何时候都多，甚至管理者也越来越期望从事 IC 工作。\n\n但成为一名优秀的建设者需要重复，而当你整天连续参加会议时，很难投入这些重复。\n\n因此，如果您本质上是一名建设者，请拥抱它。你不必为了成为“领导者”而放弃自己擅长的事情。\n\n📌立即观看："
+    },
+    "thenanyu": {
+      "en": "There's a thing they say about being a boat owner: the two best days of being a boat owner are the day you buy the boat and the day you sell the boat.",
+      "zh": "关于作为船主，他们有一句话：作为船主最好的两天是你买船的那天和你卖船的那天。"
+    },
+    "realmadhuguru": {
+      "en": "Right from the early days of Gemini, enterprises would get the quality/cost tradeoff wrong. They’d often start with the smallest, cheapest model.\n\nThe rule of thumb we gave customers:\n\nReplacing a traditional ML model with an LLM - start small, cos you already know what good looks like.\n\nBuilding something new - start with the most capable model. Think magically. Figure out what’s actually possible first.\n\nOnce they had a high-quality working application, we’d help them move to a smaller model while maintaining quality.",
+      "zh": "从 Gemini 成立之初起，企业就在质量/成本权衡上犯了错误。他们通常会从最小、最便宜的型号开始。\n\n我们为客户提供的经验法则：\n\n用法学硕士取代传统的机器学习模型——从小事做起，因为你已经知道什么是好的。\n\n构建新事物 - 从最有能力的模型开始。神奇地思考。首先弄清楚什么是实际可能的。\n\n一旦他们拥有了高质量的工作应用程序，我们将帮助他们在保持质量的同时转向更小的模型。"
+    },
+    "trq212": {
+      "en": "Lots of people asked how I used Fable to edit its own launch video so I made a video about that!\n\nTLDR it wrote a lot of code &amp;  tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. \n\nI didn't touch a video editor.",
+      "zh": "很多人问我如何使用《神鬼寓言》编辑自己的发布视频，所以我制作了一个相关视频！\n\nTLDR 它编写了大量代码和工具调用来使用转录服务、ffmpeg、进行颜色分级、使用Figma mcp、制作远程 UI 并渲染它。 \n\n我没有接触过视频编辑器。"
+    },
+    "GoogleLabs": {
+      "en": "🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie.\n\nTry it out here!",
+      "zh": "🌍 Project Genie 访问范围正在进一步扩大！从今天开始，全球的 Google AI Ultra 5X 订阅者（我们的最新级别！）可以访问 Project Genie。\n\n在这里尝试一下！"
+    },
+    "amasad": {
+      "en": "🇺🇸🇺🇸🇺🇸",
+      "zh": "🇺🇸🇺🇸🇺🇸"
+    },
+    "rauchg": {
+      "en": "What I love about Silicon Valley is that the future is up for grabs, ready for anyone to build. \n\nI get intros for angel investing to all kinds of people. I take everyone equally seriously. 2 lads &amp; a dog, or a 5-time award-winning entrepreneur.\n\nNo place more meritocratic.",
+      "zh": "我喜欢硅谷的一点是，未来是可以争取的，任何人都可以去建设。 \n\n我向各种各样的人介绍天使投资。我同样认真地对待每个人。两个小伙子和一只狗，或者五次获奖的企业家。\n\n没有比这更贤能的地方了。"
+    },
+    "levie": {
+      "en": "Lots of evidence of huge jumps in capability for Fable across coding (and related) tasks. It’s also a major jump in accuracy and success in complex knowledge work tasks.\n\nIn our Box AI Complex Work Eval, we tested the model against Opus 4.8 and saw huge boosts across almost every industry. For our eval we give the Box AI Agent, using Fable, a set of hard real world knowledge work problems that deal with enterprise documents. Then score how the agent performs the tasks.\n\nThe main differentiators for Fable vs Opus 4.8 is that it doesn't take shortcuts on complex reasoning, it gets multi-step calculations right, and it's significantly more consistent across runs. We saw the biggest leaps in Media & Entertainment (78% vs 61%), Technology (81% vs 73%), Financial Services (89% vs 83%), and Healthcare (66% vs 60%).\n\nHere are some specific examples:\n\n* Legal M&A due diligence: On a task reviewing NDA terms against a semiconductor company's contracting policy, Fable correctly identified that a joint-ownership clause violates exclusivity requirements while a liability cap is permitted under a Super Cap exception. Fable scored 100% vs Opus's 78%.\n\n* Healthcare: On a clinical radiology error audit across 12 reports, Fable precisely categorized each error by severity grade and correctly concluded no Grade 3 errors existed. Opus prematurely escalated a case to \"major error requiring immediate departmental review\" when the evidence didn't support it — Fable 63% vs Opus 41%.\n\n* Media & Entertainment: On a genre profitability projection task, Fable correctly recognized that a 20% Argentine tax deduction was already embedded in the source spreadsheet figures and didn't double-apply it. Opus applied it again on top — a compounding error across 4 genre calculations that took its score negative on the task vs Fable's 74%.\n\n* Retail analytics: On a task analyzing high-growth product articles against an investment benchmark, Fable correctly computed each article's growth rate individually and identified that only 2 of 5 exceeded the threshold. Opus confused \"high growth relative to average\" with \"above the benchmark\" — scoring 61% vs Fable's 94%.\n\n* Financial Services: On a 5-year debt facility projection, Fable correctly applied interest to opening balances and used the right capex figure. Opus applied interest to the total facility amount and computed tax from the wrong base — two compounding errors. Fable scored 83% vs Opus's 62%.\n\n* Technology: On a SaaS feature valuation requiring computation of a Feature Value Index across multiple regions, Fable applied the formula correctly and got exact values for the markets. Opus got the arithmetic wrong on multiple criteria — Fable scored 100% vs Opus's 74%.\n\nOverall, huge step change in complex analysis, work that requires analytical reasoning, and deep domain understanding. Fable will be available shortly in the Box AI Studio for customers to build agents with.",
+      "zh": "大量证据表明《神鬼寓言》在编码（及相关）任务方面的能力取得了巨大飞跃。这也是复杂知识工作任务的准确性和成功率的重大飞跃。\n\n在我们的 Box AI Complex Work Eval 中，我们针对 Opus 4.8 测试了模型，发现几乎每个行业都有巨大的提升。为了进行评估，我们使用 Fable 为 Box AI 代理提供一组处理企业文档的现实世界知识工作难题。然后对代理执行任务的方式进行评分。\n\nFable 与 Opus 4.8 的主要区别在于，它不会在复杂推理上走捷径，它能正确进行多步骤计算，并且在运行中显着更加一致。我们看到媒体和娱乐（78% vs 61%）、技术（81% vs 73%）、金融服务（89% vs 83%）和医疗保健（66% vs 60%）方面增幅最大。\n\n以下是一些具体示例：\n\n* 法律并购尽职调查：在根据半导体公司的合同政策审查 NDA 条款的任务中，Fable 正确地识别出共同所有权条款违反了排他性要求，而超级上限例外情况下允许责任上限。 《神鬼寓言》的得分为 100%，而《Opus》的得分为 78%。\n\n* 医疗保健：在对 12 份报告进行的临床放射学错误审核中，Fable 按严重程度对每个错误进行了精确分类，并正确得出不存在 3 级错误的结论。当证据不支持时，Opus 过早地将案件升级为“需要立即进行部门审查的重大错误”——Fable 63% vs Opus 41%。\n\n* 媒体和娱乐：在类型盈利预测任务中，Fable 正确认识到 20% 的阿根廷税收减免已嵌入到源电子表格数据中，并且没有重复应用。 Opus 再次将其应用到了顶部——这是 4 种类型计算中的复合错误，导致该任务的得分为负，而《神鬼寓言》的得分为 74%。\n\n* 零售分析：在一项根据投资基准分析高增长产品文章的任务中，Fable 分别正确计算了每篇文章的增长率，并发现 5 篇文章中只有 2 篇超出了阈值。 Opus 将“相对于平均水平的高增长”与“高于基准”混淆了——得分为 61%，而《寓言》的得分为 94%。\n\n* 金融服务：根据 5 年期债务融资预测，Fable 正确地将利息应用于期初余额，并使用了正确的资本支出数字。 Opus 对贷款总额应用了利息，并根据错误的基数计算了税收——两个复合错误。 《神鬼寓言》的得分为 83%，而《Opus》的得分为 62%。\n\n* 技术：在需要跨多个区域计算功能价值指数的 SaaS 功能评估中，Fable 正确应用了公式并获得了市场的准确值。 Opus 在多项标准上都出现了算术错误——《Fable》得分为 100%，而 Opus 得分为 74%。\n\n总体而言，复杂分析、需要分析推理和深入领域理解的工作发生了巨大的变化。 Fable 很快就会在 Box AI Studio 中提供，供客户用来构建代理。"
+    },
+    "garrytan": {
+      "en": "Nessie just became the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places you have memory, and also get it into OpenClaw/Hermes Agent. Their OpenClaw and MCP servers are ace.",
+      "zh": "Nessie 刚刚成为将您现有的所有上下文、记忆和历史从 ChatGPT、Perplexity 和 Gemini 转移到您有记忆的所有其他地方的最佳方式，并将其转移到 OpenClaw/Hermes Agent 中。他们的 OpenClaw 和 MCP 服务器是王牌。"
+    },
+    "mattturck": {
+      "en": "2026 is a BRUTAL grind in VC. You start in Davos, freeze in Aspen, hit Upfront, survive Milken, then it’s straight to Paris for the French Open.  Briefly back in NYC for the Knicks. Then, total blur: SuperReturn in Berlin, Founders Forum in London, then back stateside for the World Cup, back to Paris for Raise AI, Idaho for Sun Valley, quick respite in Mykonos, then the Goldman tech gauntlet, Slush in Finland, NeurIPS in freakin’ Sydney… and *boom*, a productive year of thought leadership and adding value is over, and you’re a wreck.",
+      "zh": "2026 年对于 VC 来说是残酷的磨练。你从达沃斯出发，在阿斯彭冻结，到达Upfront，在米尔肯幸存下来，然后直接前往巴黎参加法国网球公开赛。  短暂回到纽约为尼克斯队效力。然后，完全模糊：柏林的 SuperReturn，伦敦的创始人论坛，然后回到美国参加世界杯，回到巴黎参加 Raise AI，回到爱达荷州参加 Sun Valley，在米科诺斯岛短暂休息，然后是高盛科技挑战，芬兰的 Slush，悉尼的 NeurIPS……然后*繁荣*，思想领导力和增值的富有成效的一年结束了，你就一团糟了。"
+    },
+    "nikunj": {
+      "en": "TIL: You can just roast your way into getting some legit coffee at the Cognition office ☕️",
+      "zh": "TIL：您可以在 Cognition 办公室烘焙一些正宗的咖啡☕️"
+    },
+    "danshipper": {
+      "en": "I predicted this might happen on on @lennysan’s pod last year \n\nHigher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US to be close to customers",
+      "zh": "去年我就预测过@lennysan 的 pod 上可能会发生这种情况 \n\n通过人工智能提高每位员工的生产力，使得将某些工作岗位迁回美国以更贴近客户变得有吸引力"
+    },
+    "claudeai": {
+      "en": "Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years.\n\nToday, over 60% of the Fortune 500 build with its AI coding platform.",
+      "zh": "Michael Truell (@mntruell) 在 12 岁时就爱上了编程。他与他人共同创立的公司 @cursor_ai 在两年内从 15 人增加到了 700 人。\n\n如今，超过 60% 的财富 500 强企业都使用其 AI 编码平台。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:04 - 00:07\nMike, welcome to the show. Great to be here, Dan. Good to see you.\n\nSpeaker 2 | 00:07 - 00:17\nSo for people who don't know you, you're the head of Anthropic Labs, and you're the cofounder of Instagram. And today, I wanna talk to you about is Fable five. So Fable five is dropping tomorrow. We're recording this the day before. It's gonna come out after it drops.\n\nSpeaker 2 | 00:17 - 00:39\nBut what I really wanted to do is bring you on the show to tell me about what it's l...",
+      "zh": "演讲者 1 | 00:04 - 00:07\n迈克，欢迎来到这个节目。很高兴来到这里，丹。很高兴见到你。\n\n扬声器 2 | 00:07 - 00:17\n对于不认识您的人来说，您是 Anthropic Labs 的负责人，也是 Instagram 的联合创始人。今天，我想和大家聊的是《神鬼寓言五》。所以《神鬼寓言 5》明天就要发售了。我们是在前一天录制的。掉下来之后就会出来。\n\n扬声器 2 | 00:17 - 00:39\n但我真正想做的是带你上节目来告诉我这是什么",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "generatedAt": "2026-06-11T17:36:24.603Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2064698525917827092",
+          "text": "wooh https://t.co/TCPfb1tyr1",
+          "createdAt": "2026-06-10T13:17:43.000Z",
+          "url": "https://x.com/swyx/status/2064698525917827092",
+          "likes": 8,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064671802509410806"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2064869366290841716",
+          "text": "Update: Everything is back up and running, sorry again!",
+          "createdAt": "2026-06-11T00:36:34.000Z",
+          "url": "https://x.com/joshwoodward/status/2064869366290841716",
+          "likes": 429,
+          "retweets": 27,
+          "replies": 43,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064762269674918013",
+          "text": "Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon. Stay tuned for updates, and thanks for bearing with us!",
+          "createdAt": "2026-06-10T17:31:01.000Z",
+          "url": "https://x.com/joshwoodward/status/2064762269674918013",
+          "likes": 1553,
+          "retweets": 137,
+          "replies": 123,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2064885111477219664",
+          "text": "Hello from Code with Claude Tokyo!! https://t.co/OGzffa1w58",
+          "createdAt": "2026-06-11T01:39:08.000Z",
+          "url": "https://x.com/bcherny/status/2064885111477219664",
+          "likes": 1820,
+          "retweets": 77,
+          "replies": 86,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2064911328087810308",
+          "text": "Can confirm we saw a strong spike in growth of token consumption for Codex over last 48 hours. Unusual when we don't launch something. https://t.co/UG7hB1URMC",
+          "createdAt": "2026-06-11T03:23:19.000Z",
+          "url": "https://x.com/thsottiaux/status/2064911328087810308",
+          "likes": 2460,
+          "retweets": 105,
+          "replies": 257,
+          "isQuote": true,
+          "quotedTweetId": "2064727949274955953"
+        },
+        {
+          "id": "2064900105032135010",
+          "text": "Simplify until there is nothing to simplify https://t.co/4Rt5GGlGvA",
+          "createdAt": "2026-06-11T02:38:43.000Z",
+          "url": "https://x.com/thsottiaux/status/2064900105032135010",
+          "likes": 580,
+          "retweets": 12,
+          "replies": 69,
+          "isQuote": true,
+          "quotedTweetId": "2064768231903285451"
+        },
+        {
+          "id": "2064869401359417799",
+          "text": "Welcome Clint and Michael! Incredibly excited to see what we do together to contribute to the cybersecurity field and accelerate defenders across the globe.\n\nIt's time to build. https://t.co/wu9CtJk38u",
+          "createdAt": "2026-06-11T00:36:43.000Z",
+          "url": "https://x.com/thsottiaux/status/2064869401359417799",
+          "likes": 772,
+          "retweets": 18,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2064813665711444175"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2064799855059616172",
+          "text": "Give yourself permission to build.\n\nThe traditional career ladder pushes everyone to become a leader, but I just want to be a builder.\n\nAs you climb the ladder at most companies, you’re expected to step away from building and fill your time with product reviews, cross-functional alignment, managing up, and performance calibrations.\n\nI know a lot of builders who spent their best years climbing the wrong ladder.\n\nThe good news is that this is finally changing. Companies are rewarding builders and ICs more than ever, and even managers are increasingly expected to do IC work too.\n\nBut becoming a good builder takes reps, and it’s hard to put in those reps when you’re in back-to-back meetings all day.\n\nSo if you’re a builder at heart, embrace it. You don’t have to give up what you’re good at to be a “leader.”\n\n📌 Watch now: https://t.co/wv2SINll18",
+          "createdAt": "2026-06-10T20:00:22.000Z",
+          "url": "https://x.com/petergyang/status/2064799855059616172",
+          "likes": 52,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2064713829637099629"
+        },
+        {
+          "id": "2064760792684335133",
+          "text": "This shit is actually working unbelievable https://t.co/0wtkHtT6kD",
+          "createdAt": "2026-06-10T17:25:09.000Z",
+          "url": "https://x.com/petergyang/status/2064760792684335133",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064748427892945313",
+          "text": "The more I use Codex the more ambitious my requests get. Or maybe this is not ambitious enough? https://t.co/C0qgjmKGRt",
+          "createdAt": "2026-06-10T16:36:01.000Z",
+          "url": "https://x.com/petergyang/status/2064748427892945313",
+          "likes": 48,
+          "retweets": 0,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2064733338779177459",
+          "text": "gangprompting https://t.co/ZnO5TTrFv6",
+          "createdAt": "2026-06-10T15:36:03.000Z",
+          "url": "https://x.com/thenanyu/status/2064733338779177459",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2064732709579080021"
+        },
+        {
+          "id": "2064711789556732316",
+          "text": "There's a thing they say about being a boat owner: the two best days of being a boat owner are the day you buy the boat and the day you sell the boat. https://t.co/ohqCRBqpUA",
+          "createdAt": "2026-06-10T14:10:25.000Z",
+          "url": "https://x.com/thenanyu/status/2064711789556732316",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2064672567311393162"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2064794601320481150",
+          "text": "Right from the early days of Gemini, enterprises would get the quality/cost tradeoff wrong. They’d often start with the smallest, cheapest model.\n\nThe rule of thumb we gave customers:\n\nReplacing a traditional ML model with an LLM - start small, cos you already know what good looks like.\n\nBuilding something new - start with the most capable model. Think magically. Figure out what’s actually possible first.\n\nOnce they had a high-quality working application, we’d help them move to a smaller model while maintaining quality.",
+          "createdAt": "2026-06-10T19:39:29.000Z",
+          "url": "https://x.com/realmadhuguru/status/2064794601320481150",
+          "likes": 20,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2064771714492596407"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2064828193446740023",
+          "text": "and the video for reference: https://t.co/tw0w0tmjIK\n\n(I didnt get to use the updated designs in time)",
+          "createdAt": "2026-06-10T21:52:58.000Z",
+          "url": "https://x.com/trq212/status/2064828193446740023",
+          "likes": 92,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2064399512664526853"
+        },
+        {
+          "id": "2064826541947940910",
+          "text": "here's the deck from this video if you want to go over it yourself: https://t.co/6adKYvxUxD\n\nlmk if you have any questions!",
+          "createdAt": "2026-06-10T21:46:24.000Z",
+          "url": "https://x.com/trq212/status/2064826541947940910",
+          "likes": 203,
+          "retweets": 9,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064826394589442448",
+          "text": "Lots of people asked how I used Fable to edit its own launch video so I made a video about that!\n\nTLDR it wrote a lot of code &amp;  tool calls to use transcription services, ffmpeg, do colorgrading, use the figma mcp, make remotion UI and render it. \n\nI didn't touch a video editor. https://t.co/hJRdJye5Fy",
+          "createdAt": "2026-06-10T21:45:49.000Z",
+          "url": "https://x.com/trq212/status/2064826394589442448",
+          "likes": 6036,
+          "retweets": 367,
+          "replies": 207,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2064801929339752527",
+          "text": "🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie.\n\nTry it out here! https://t.co/4BFYHSiAMv https://t.co/VL4MCvc44B",
+          "createdAt": "2026-06-10T20:08:36.000Z",
+          "url": "https://x.com/GoogleLabs/status/2064801929339752527",
+          "likes": 365,
+          "retweets": 60,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2057179491693470166"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2064864439275536495",
+          "text": "Automate your job search with Replit! https://t.co/OiJSdTvhi2",
+          "createdAt": "2026-06-11T00:17:00.000Z",
+          "url": "https://x.com/amasad/status/2064864439275536495",
+          "likes": 164,
+          "retweets": 5,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2064630129116996074"
+        },
+        {
+          "id": "2064864076430504282",
+          "text": "🇺🇸🇺🇸🇺🇸 https://t.co/EBM3X4YQ5T",
+          "createdAt": "2026-06-11T00:15:33.000Z",
+          "url": "https://x.com/amasad/status/2064864076430504282",
+          "likes": 802,
+          "retweets": 40,
+          "replies": 49,
+          "isQuote": true,
+          "quotedTweetId": "2064799872914727206"
+        },
+        {
+          "id": "2064806473352540643",
+          "text": "Super interesting approach to enterprise agents. Congrats on the launch @markiewagner https://t.co/BfGani53y1",
+          "createdAt": "2026-06-10T20:26:40.000Z",
+          "url": "https://x.com/amasad/status/2064806473352540643",
+          "likes": 185,
+          "retweets": 11,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2064778239164461316"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2064777495422161205",
+          "text": "🇬🇧 London calling\nExcited for Vercel Ship next week\nSome special announcements… https://t.co/WmOe53Q0Au https://t.co/ks68xJOHL7",
+          "createdAt": "2026-06-10T18:31:31.000Z",
+          "url": "https://x.com/rauchg/status/2064777495422161205",
+          "likes": 182,
+          "retweets": 8,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2064773592328601731"
+        },
+        {
+          "id": "2064732935484514729",
+          "text": "What I love about Silicon Valley is that the future is up for grabs, ready for anyone to build. \n\nI get intros for angel investing to all kinds of people. I take everyone equally seriously. 2 lads &amp; a dog, or a 5-time award-winning entrepreneur.\n\nNo place more meritocratic.",
+          "createdAt": "2026-06-10T15:34:27.000Z",
+          "url": "https://x.com/rauchg/status/2064732935484514729",
+          "likes": 815,
+          "retweets": 20,
+          "replies": 53,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2064922814688481678",
+          "text": "Lots of evidence of huge jumps in capability for Fable across coding (and related) tasks. It’s also a major jump in accuracy and success in complex knowledge work tasks.\n\nIn our Box AI Complex Work Eval, we tested the model against Opus 4.8 and saw huge boosts across almost every industry. For our eval we give the Box AI Agent, using Fable, a set of hard real world knowledge work problems that deal with enterprise documents. Then score how the agent performs the tasks.\n\nThe main differentiators for Fable vs Opus 4.8 is that it doesn't take shortcuts on complex reasoning, it gets multi-step calculations right, and it's significantly more consistent across runs. We saw the biggest leaps in Media & Entertainment (78% vs 61%), Technology (81% vs 73%), Financial Services (89% vs 83%), and Healthcare (66% vs 60%).\n\nHere are some specific examples:\n\n* Legal M&A due diligence: On a task reviewing NDA terms against a semiconductor company's contracting policy, Fable correctly identified that a joint-ownership clause violates exclusivity requirements while a liability cap is permitted under a Super Cap exception. Fable scored 100% vs Opus's 78%.\n\n* Healthcare: On a clinical radiology error audit across 12 reports, Fable precisely categorized each error by severity grade and correctly concluded no Grade 3 errors existed. Opus prematurely escalated a case to \"major error requiring immediate departmental review\" when the evidence didn't support it — Fable 63% vs Opus 41%.\n\n* Media & Entertainment: On a genre profitability projection task, Fable correctly recognized that a 20% Argentine tax deduction was already embedded in the source spreadsheet figures and didn't double-apply it. Opus applied it again on top — a compounding error across 4 genre calculations that took its score negative on the task vs Fable's 74%.\n\n* Retail analytics: On a task analyzing high-growth product articles against an investment benchmark, Fable correctly computed each article's growth rate individually and identified that only 2 of 5 exceeded the threshold. Opus confused \"high growth relative to average\" with \"above the benchmark\" — scoring 61% vs Fable's 94%.\n\n* Financial Services: On a 5-year debt facility projection, Fable correctly applied interest to opening balances and used the right capex figure. Opus applied interest to the total facility amount and computed tax from the wrong base — two compounding errors. Fable scored 83% vs Opus's 62%.\n\n* Technology: On a SaaS feature valuation requiring computation of a Feature Value Index across multiple regions, Fable applied the formula correctly and got exact values for the markets. Opus got the arithmetic wrong on multiple criteria — Fable scored 100% vs Opus's 74%.\n\nOverall, huge step change in complex analysis, work that requires analytical reasoning, and deep domain understanding. Fable will be available shortly in the Box AI Studio for customers to build agents with.",
+          "createdAt": "2026-06-11T04:08:58.000Z",
+          "url": "https://x.com/levie/status/2064922814688481678",
+          "likes": 177,
+          "retweets": 19,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2064394151441863006"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2064948068076986657",
+          "text": "May common sense reign in San Francisco for 100 years\n\nAaron Peskin, enjoy being a private citizen. https://t.co/QjawbyY7mj",
+          "createdAt": "2026-06-11T05:49:18.000Z",
+          "url": "https://x.com/garrytan/status/2064948068076986657",
+          "likes": 54,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2064677753526575128"
+        },
+        {
+          "id": "2064947547735789715",
+          "text": "Performative nonprofit industrial complex must be rooted out and defunded. \n\nTheir political cronies and grifter friends must not be allowed to squander the gifts of San Francisco any longer. https://t.co/rMPnV732TZ",
+          "createdAt": "2026-06-11T05:47:14.000Z",
+          "url": "https://x.com/garrytan/status/2064947547735789715",
+          "likes": 114,
+          "retweets": 9,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2064778169249599591"
+        },
+        {
+          "id": "2064947145652994510",
+          "text": "Nessie just became the best way to get all your existing context, memory and history from ChatGPT, Perplexity, and Gemini into all the other places you have memory, and also get it into OpenClaw/Hermes Agent. Their OpenClaw and MCP servers are ace. \n\nhttps://t.co/0L1JaBlTvg",
+          "createdAt": "2026-06-11T05:45:39.000Z",
+          "url": "https://x.com/garrytan/status/2064947145652994510",
+          "likes": 269,
+          "retweets": 23,
+          "replies": 41,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2064806681612362113",
+          "text": "2026 is a BRUTAL grind in VC. You start in Davos, freeze in Aspen, hit Upfront, survive Milken, then it’s straight to Paris for the French Open.  Briefly back in NYC for the Knicks. Then, total blur: SuperReturn in Berlin, Founders Forum in London, then back stateside for the World Cup, back to Paris for Raise AI, Idaho for Sun Valley, quick respite in Mykonos, then the Goldman tech gauntlet, Slush in Finland, NeurIPS in freakin’ Sydney… and *boom*, a productive year of thought leadership and adding value is over, and you’re a wreck.",
+          "createdAt": "2026-06-10T20:27:29.000Z",
+          "url": "https://x.com/mattturck/status/2064806681612362113",
+          "likes": 488,
+          "retweets": 22,
+          "replies": 32,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2064901295383990417",
+          "text": "TIL: You can just roast your way into getting some legit coffee at the Cognition office ☕️ https://t.co/kfMU1x2Xez https://t.co/WXthHoSa1U",
+          "createdAt": "2026-06-11T02:43:27.000Z",
+          "url": "https://x.com/nikunj/status/2064901295383990417",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2060419667244765384"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2064916544417829027",
+          "text": "absolutely insane game",
+          "createdAt": "2026-06-11T03:44:03.000Z",
+          "url": "https://x.com/danshipper/status/2064916544417829027",
+          "likes": 91,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064777216656097445",
+          "text": "I predicted this might happen on on @lennysan’s pod last year \n\nHigher productivity from each individual employee with AI, makes it appealing to reshore certain jobs back to the US to be close to customers https://t.co/rNpLF3BerE",
+          "createdAt": "2026-06-10T18:30:24.000Z",
+          "url": "https://x.com/danshipper/status/2064777216656097445",
+          "likes": 164,
+          "retweets": 15,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2064734707497996543"
+        },
+        {
+          "id": "2064767202767602122",
+          "text": "fable maxxing on the plane to SF https://t.co/KDB8T8Z8Ci",
+          "createdAt": "2026-06-10T17:50:37.000Z",
+          "url": "https://x.com/danshipper/status/2064767202767602122",
+          "likes": 50,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2064757539762295177",
+          "text": "From The Problem Solvers, our series featuring founders taking on hard problems with Claude: https://t.co/lXWwc2eHPe",
+          "createdAt": "2026-06-10T17:12:13.000Z",
+          "url": "https://x.com/claudeai/status/2064757539762295177",
+          "likes": 137,
+          "retweets": 11,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064757537992249734",
+          "text": "Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years.\n\nToday, over 60% of the Fortune 500 build with its AI coding platform. https://t.co/1UROi02oHJ",
+          "createdAt": "2026-06-10T17:12:13.000Z",
+          "url": "https://x.com/claudeai/status/2064757537992249734",
+          "likes": 5258,
+          "retweets": 246,
+          "replies": 175,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064741184547795408",
+          "text": "Scheduled deployments and environment variables in vaults are available today on the Claude Platform.\n\nRead more: https://t.co/kCYH1FnRbO",
+          "createdAt": "2026-06-10T16:07:14.000Z",
+          "url": "https://x.com/claudeai/status/2064741184547795408",
+          "likes": 119,
+          "retweets": 10,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "How Anthropic Uses Claude Fable 5 With Mike Krieger",
+      "url": "https://www.youtube.com/watch?v=XWpTgCvgYaE",
+      "publishedAt": "2026-06-10T17:27:38.000Z"
+    }
+  ]
+}
