@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the #1 thing that is driving me to build my own vibecoding platform rn is that none of them - and i lov vercel, cloudflare, netlify etc - none of them really close the loop for you in terms of setting you on the right path with errors and pinging you when shit fails (shit always fails)  \n\nthere's way too much \"webmaster\" infra to setup for every single project and i just want to do it once and for all, instead i'm being asked to npx posthog wizard here and npx arize skills there and it all just needs to be swallowed up into One Thing.",
+      "zh": "促使我构建自己的 vivicoding 平台的第一件事是，它们中没有一个 - 我喜欢 vercel、cloudflare、netlify 等 - 它们中没有一个能够真正为你关闭循环，让你走上正确的道路，并在出现错误时对你进行 ping 操作（狗屎总是失败）  \n\n有太多的“网站管理员”基础设施需要为每个项目进行设置，而我只想一劳永逸地完成它，相反，我被要求在这里使用 npx posthog 向导，在那里使用 npx arize 技能，而这一切都需要被吞没到“一件事”中。"
+    },
+    "thsottiaux": {
+      "en": "Codex 🤟Ona\n\nBeyond excited to work with Johannes and team to build the future.",
+      "zh": "法典🤟Ona\n\n与约翰内斯和团队合作共创未来非常兴奋。"
+    },
+    "petergyang": {
+      "en": "These AI models remind me of RPGs tbh",
+      "zh": "这些人工智能模型让我想起了角色扮演游戏"
+    },
+    "amasad": {
+      "en": "For the first time, I'm vibecoding with ZERO frustration and in a complete state of flow, so much so that I'm running out of ideas.\n\nTypically, I have so much backlog of things I want to add, but after Fable landed on Replit, I'm almost certain I don't need more IQ for vibecoding, just cheaper and faster models, and we're done here.",
+      "zh": "这是我第一次以零挫败感和完全流畅的状态进行振动编码，以至于我已经没有想法了。\n\n通常情况下，我有很多积压的东西想要添加，但在《神鬼寓言》登陆 Replit 后，我​​几乎可以肯定我不需要更多的 IQ 来进行 vibecoding，只需要更便宜和更快的模型，我们就完成了。"
+    },
+    "rauchg": {
+      "en": "Vercel + Shopify is too good…\n by @foda: \n◾ 500+ orders processed in *2 minutes*\n◾ Built with @v0 + @cursor_ai \n◾ Fully custom @nextjs storefront on headless\n\nSo long on the web. \nAnyone can now dream → build →  ship → sell",
+      "zh": "Vercel + Shopify 太好了……\n 通过@foda： \n*2 分钟*内处理了 500 多个订单\n使用@v0 + @cursor_ai构建 \n◾ Headless 上完全自定义的 @nextjs 店面\n\n上网这么久了。 \n现在任何人都可以梦想→建造→运输→出售"
+    },
+    "levie": {
+      "en": "At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption. Many standout findings, but a big one was that the companies that adopted AI the most are planning to grow headcount the most.\n\nObviously lots of ways you can read that data and variables mixed in, but it’s actually quite intuitive that the companies that become most productive want to (and are able to) reinvest back into the business to keep getting the gains going. \n\nThe narrative of jobs being wiped out assumes that companies will take a fixed approach to what they want to be able for work on. What’s happening in practice is it’s causing companies to want to light up more engineering projects, sell to more customers, automate more processes to give time back, and more. That all leads to more work to be done by people.",
+      "zh": "在 Box，我们刚刚对美国、日本和欧洲的 1,640 名 IT 领导者进行了有关代理 AI 采用情况的调查。许多引人注目的发现，但其中最重要的一点是，采用人工智能最多的公司正计划最多地增加员工人数。\n\n显然，您可以通过多种方式读取混合的数据和变量，但实际上非常直观的是，生产力最高的公司希望（并且能够）对业务进行再投资，以继续获得收益。 \n\n关于工作岗位被消灭的说法假设公司将采取固定的方法来处理他们想要的工作。实践中发生的情况是，它导致公司想要启动更多的工程项目、向更多的客户销售产品、自动化更多的流程以节省时间等等。这一切都导致人们需要完成更多的工作。"
+    },
+    "garrytan": {
+      "en": "Gavin Newsom came for a @garryslist event at YC and we were proud to talk little tech, YIMBY, how to stop the the asset seizure tax, and how to keep California's innovation wave going while making sure things work for every Californian. \n\nThank you @GavinNewsom",
+      "zh": "加文·纽瑟姆 (Gavin Newsom) 来参加 YC 的 @garryslist 活动，我们很自豪地谈论小科技、YIMBY、如何停止征收资产扣押税，以及如何保持加州的创新浪潮，同时确保每个加州人都能受益。 \n\n谢谢@GavinNewsom"
+    },
+    "nikunj": {
+      "en": "What you work on has never been more important. \n\nMake sure it’s fun. Make sure it’s insanely ambitious. \n\nThat’s the greatest moat.",
+      "zh": "您所做的工作从未如此重要。 \n\n确保它很有趣。确保它雄心勃勃。 \n\n这是最伟大的护城河。"
+    },
+    "steipete": {
+      "en": "Getting Chris to do a PR with Codex!",
+      "zh": "让 Chris 在 Codex 上做 PR！"
+    },
+    "danshipper": {
+      "en": "had an idea for a big fable project, set it up, and let it cook\n\ncame back an hour later and it had triggered the safeguards and fell back to 4.8 10 minutes in\n\nback to codex 😬",
+      "zh": "有了一个关于大型寓言项目的想法，将其建立起来，然后让它烹饪\n\n一个小时后回来，它触发了安全措施，并在 10 分钟内回落至 4.8。\n\n回到法典😬"
+    },
+    "adityaag": {
+      "en": "Things are only impossible to build until someone builds them.",
+      "zh": "除非有人建造事物，否则它们是不可能建造的。"
+    },
+    "sama": {
+      "en": "really looking forward to working together!",
+      "zh": "真的很期待合作！"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:02\nSo we could edit this set so it looks like we're\n\nSpeaker 2 | 00:02 - 00:06\nhere. Okay? Yeah. Yeah. I I want this where where we were talking off camera.\n\nSpeaker 2 | 00:06 - 00:36\nLike, we should do that for the intro because I think it just, like, makes all this stuff more capable. I've seen these examples of, like, such subtle nuance that make me appreciate that it's like the world understanding playing out. I was giving a talk and was on stage with my friend, Tulsi,...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n所以我们可以编辑这个集合，这样看起来我们就\n\n扬声器 2 | 00:02 - 00:06\n在这里。好的？是的。是的。我想要这个我们在镜头下交谈的地方。\n\n扬声器 2 | 00:06 - 00:36\n就像，我们应该在介绍中这样做，因为我认为它只是让所有这些东西变得更有能力。我见过这些微妙的例子，让我意识到这就像世界的理解正在发挥作用。我当时正在演讲，和我的朋友图尔西一起上台，",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

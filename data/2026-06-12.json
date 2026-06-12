@@ -1,0 +1,373 @@
+{
+  "generatedAt": "2026-06-12T16:44:44.404Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2065307558198567206",
+          "text": "## On Loopcraft\n\nOne might argue the entire game of the next century is to be able to stack loops as effectively as possible. \n\nIn the early days of each phase, it will be valuable to know when to go **DOWN** a loop when things go wrong (for reliability)… \n\nbut it will probably be more valuable to know how to go **UP** a loop as models improve (for leverage).\n\nIf you don’t figure out how to do this, don’t be salty when you lose to those that do.",
+          "createdAt": "2026-06-12T05:37:48.000Z",
+          "url": "https://x.com/swyx/status/2065307558198567206",
+          "likes": 29,
+          "retweets": 3,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2065307204836905461"
+        },
+        {
+          "id": "2065264832056889711",
+          "text": "the #1 thing that is driving me to build my own vibecoding platform rn is that none of them - and i lov vercel, cloudflare, netlify etc - none of them really close the loop for you in terms of setting you on the right path with errors and pinging you when shit fails (shit always fails)  \n\nthere's way too much \"webmaster\" infra to setup for every single project and i just want to do it once and for all, instead i'm being asked to npx posthog wizard here and npx arize skills there and it all just needs to be swallowed up into One Thing.",
+          "createdAt": "2026-06-12T02:48:01.000Z",
+          "url": "https://x.com/swyx/status/2065264832056889711",
+          "likes": 69,
+          "retweets": 1,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065176231453282777",
+          "text": "congrats to our friends @ona_hq on joining @openai! \n\nsee their talk here for alpha on what’s next for Codex 👀 https://t.co/u4EkcJvlAf",
+          "createdAt": "2026-06-11T20:55:57.000Z",
+          "url": "https://x.com/swyx/status/2065176231453282777",
+          "likes": 27,
+          "retweets": 0,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2065175479343284421"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2065193272952422852",
+          "text": "Codex 🤟Ona\n\nBeyond excited to work with Johannes and team to build the future. https://t.co/XekiPZIBAs",
+          "createdAt": "2026-06-11T22:03:40.000Z",
+          "url": "https://x.com/thsottiaux/status/2065193272952422852",
+          "likes": 990,
+          "retweets": 26,
+          "replies": 83,
+          "isQuote": true,
+          "quotedTweetId": "2065088002335158753"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2065294767760769222",
+          "text": "Wow you can play fifa on Netflix now with your phone as the controller.\n\nI just tried it and it’s pretty great. https://t.co/YEtRFhgPl5",
+          "createdAt": "2026-06-12T04:46:58.000Z",
+          "url": "https://x.com/petergyang/status/2065294767760769222",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2065153659667701869"
+        },
+        {
+          "id": "2065287078452371598",
+          "text": "@Alphaschool fwiw this is my current plan https://t.co/bwG2nJ96n1",
+          "createdAt": "2026-06-12T04:16:25.000Z",
+          "url": "https://x.com/petergyang/status/2065287078452371598",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065283568918794658",
+          "text": "These AI models remind me of RPGs tbh https://t.co/84tXOpnofH",
+          "createdAt": "2026-06-12T04:02:28.000Z",
+          "url": "https://x.com/petergyang/status/2065283568918794658",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2065259509082411233",
+          "text": "Replit Agent team did a great job making Fable cost stomachable. The lack of mistakes net net makes it more affordable. https://t.co/ICkFYKxqYt",
+          "createdAt": "2026-06-12T02:26:52.000Z",
+          "url": "https://x.com/amasad/status/2065259509082411233",
+          "likes": 67,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065241626436583860",
+          "text": "This is what building a company looks like on Replit. \n\nOne canvas with your web app, mobile app, marketing &amp; App Store material.\n\nClick into any one of those and start building, changing, and generating new things. https://t.co/gX7qCakTOe",
+          "createdAt": "2026-06-12T01:15:48.000Z",
+          "url": "https://x.com/amasad/status/2065241626436583860",
+          "likes": 250,
+          "retweets": 14,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065236013627351551",
+          "text": "For the first time, I'm vibecoding with ZERO frustration and in a complete state of flow, so much so that I'm running out of ideas.\n\nTypically, I have so much backlog of things I want to add, but after Fable landed on Replit, I'm almost certain I don't need more IQ for vibecoding, just cheaper and faster models, and we're done here.",
+          "createdAt": "2026-06-12T00:53:30.000Z",
+          "url": "https://x.com/amasad/status/2065236013627351551",
+          "likes": 1165,
+          "retweets": 37,
+          "replies": 89,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2065118448947216681",
+          "text": "Vercel + Grok https://t.co/Bokuav4YOs",
+          "createdAt": "2026-06-11T17:06:20.000Z",
+          "url": "https://x.com/rauchg/status/2065118448947216681",
+          "likes": 142,
+          "retweets": 3,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2065099299541893577"
+        },
+        {
+          "id": "2065116986678624419",
+          "text": "Vercel + Shopify is too good…\nhttps://t.co/DHNo9pIOaK by @foda: \n◾ 500+ orders processed in *2 minutes*\n◾ Built with @v0 + @cursor_ai \n◾ Fully custom @nextjs storefront on headless\n\nSo long on the web. \nAnyone can now dream → build →  ship → sell https://t.co/lX8TNLYoKS",
+          "createdAt": "2026-06-11T17:00:32.000Z",
+          "url": "https://x.com/rauchg/status/2065116986678624419",
+          "likes": 588,
+          "retweets": 25,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2065287110744297809",
+          "text": "At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption. Many standout findings, but a big one was that the companies that adopted AI the most are planning to grow headcount the most.\n\nObviously lots of ways you can read that data and variables mixed in, but it’s actually quite intuitive that the companies that become most productive want to (and are able to) reinvest back into the business to keep getting the gains going. \n\nThe narrative of jobs being wiped out assumes that companies will take a fixed approach to what they want to be able for work on. What’s happening in practice is it’s causing companies to want to light up more engineering projects, sell to more customers, automate more processes to give time back, and more. That all leads to more work to be done by people.",
+          "createdAt": "2026-06-12T04:16:33.000Z",
+          "url": "https://x.com/levie/status/2065287110744297809",
+          "likes": 124,
+          "retweets": 24,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2065083087248056657"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2065314389196959813",
+          "text": "The centerpiece stat is a self-own: she cites a 35-year study where 12.3% of 677 gifted kids reached \"eminence\" (full professor, Fortune 500 exec, federal judge) as proof the category is a lie. \n\nThe general-population base rate for outcomes that rarefied is far worse, much closer to zero than double digit percentage. 12.3% is the selection mechanism working spectacularly.",
+          "createdAt": "2026-06-12T06:04:56.000Z",
+          "url": "https://x.com/garrytan/status/2065314389196959813",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065313198237180238",
+          "text": "The community note clearly specifies the writer Katie Arnold-Ratliff is the one whose understanding of gifted is inherently flawed\n\nStop making it cool for writers to in-group signal with lies https://t.co/QSxcjimgYa",
+          "createdAt": "2026-06-12T06:00:12.000Z",
+          "url": "https://x.com/garrytan/status/2065313198237180238",
+          "likes": 29,
+          "retweets": 1,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2065127209929683024"
+        },
+        {
+          "id": "2065298785463579053",
+          "text": "Gavin Newsom came for a @garryslist event at YC and we were proud to talk little tech, YIMBY, how to stop the the asset seizure tax, and how to keep California's innovation wave going while making sure things work for every Californian. \n\nThank you @GavinNewsom https://t.co/0e2nhtsIlB",
+          "createdAt": "2026-06-12T05:02:56.000Z",
+          "url": "https://x.com/garrytan/status/2065298785463579053",
+          "likes": 213,
+          "retweets": 11,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2065075361969500162",
+          "text": "What you work on has never been more important. \n\nMake sure it’s fun. Make sure it’s insanely ambitious. \n\nThat’s the greatest moat.",
+          "createdAt": "2026-06-11T14:15:08.000Z",
+          "url": "https://x.com/nikunj/status/2065075361969500162",
+          "likes": 103,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2065176989359808636",
+          "text": "Getting Chris to do a PR with Codex! https://t.co/yX5iyYfNsw",
+          "createdAt": "2026-06-11T20:58:58.000Z",
+          "url": "https://x.com/steipete/status/2065176989359808636",
+          "likes": 802,
+          "retweets": 21,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2065174575566983481"
+        },
+        {
+          "id": "2065132980398444945",
+          "text": "writing mac apps is still hard. https://t.co/Nl5i9qN7BP",
+          "createdAt": "2026-06-11T18:04:05.000Z",
+          "url": "https://x.com/steipete/status/2065132980398444945",
+          "likes": 168,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2065095618926977408"
+        },
+        {
+          "id": "2064999763397980286",
+          "text": "Part of the OpenClaw hardening work is reducing surface risk; for some media conversion we had to shell out to ffmpeg.\n\nIn the next release that can now be done via wasm, with similar performance for our use cases.\nhttps://t.co/tGOI87C7lc",
+          "createdAt": "2026-06-11T09:14:44.000Z",
+          "url": "https://x.com/steipete/status/2064999763397980286",
+          "likes": 461,
+          "retweets": 25,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2065269582961737957",
+          "text": "had an idea for a big fable project, set it up, and let it cook\n\ncame back an hour later and it had triggered the safeguards and fell back to 4.8 10 minutes in\n\nback to codex 😬",
+          "createdAt": "2026-06-12T03:06:54.000Z",
+          "url": "https://x.com/danshipper/status/2065269582961737957",
+          "likes": 420,
+          "retweets": 5,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2065155724850942050",
+          "text": "This is what production-grade visual AI looks like. https://t.co/na3bE5ZIpq",
+          "createdAt": "2026-06-11T19:34:28.000Z",
+          "url": "https://x.com/adityaag/status/2065155724850942050",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2065071718394380728"
+        },
+        {
+          "id": "2065155311770440097",
+          "text": "Things are only impossible to build until someone builds them. https://t.co/LvYP2BEz6x",
+          "createdAt": "2026-06-11T19:32:49.000Z",
+          "url": "https://x.com/adityaag/status/2065155311770440097",
+          "likes": 13,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2065138110627811611"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2065160791205310565",
+          "text": "really looking forward to working together! https://t.co/p4gB58deNL",
+          "createdAt": "2026-06-11T19:54:36.000Z",
+          "url": "https://x.com/sama/status/2065160791205310565",
+          "likes": 2166,
+          "retweets": 87,
+          "replies": 242,
+          "isQuote": true,
+          "quotedTweetId": "2065089676122235376"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "publishedAt": "2026-06-11T09:00:00.000Z"
+    }
+  ]
+}
