@@ -1,0 +1,68 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "zh": "对 SpaceX 及其故事——过去、现在和未来感到敬畏。你可以用 10 多种不同的方式来思考它，并继续不断地重复你的想法。衷心祝贺团队！ 🚀"
+    },
+    "swyx": {
+      "en": "## The Future Codebase\n\nAfter the PR dies, after the Code Review dies,\ni am seriously wondering if Git needs to die next.\n\nroughly 20-40% of code spend is just managing and updating merge conflicts. necessary evil? or legacy \"horseless carriage\"? cargo culting the past?\n\nwe don't do line by line merge conflicts when we collaborate with human colleagues - instead we chat, suggest edits, do side comments, and an owner ships it. \n\nbtw we also don't do CI/CD even collaborating on documents with serious legal/financial implications.\n\nmaybe the future codebase looks more like a Notion or Linear database than .git objects. It will be less efficient, but more scalable. exactly the Salty Lesson.",
+      "zh": "## 未来的代码库\n\nPR 死掉之后，Code Review 死掉之后，\n我真的很想知道 Git 接下来是否需要死掉。\n\n大约 20-40% 的代码支出只是用于管理和更新合并冲突。必要的邪恶？还是传统的“无马马车”？货崇拜过去了？\n\n当我们与人类同事合作时，我们不会逐行合并冲突 - 相反，我们聊天，建议编辑，进行旁注，然后所有者发布它。 \n\n顺便说一句，我们也不进行 CI/CD，甚至不合作处理具有严重法律/财务影响的文档。\n\n也许未来的代码库看起来更像是概念或线性数据库，而不是 .git 对象。它的效率会降低，但可扩展性更高。正是咸教训。"
+    },
+    "thsottiaux": {
+      "en": "Heard your (amusing) feedback that it was at times annoying to receive a reset of your Codex usage without warning. \n\nNext time we press the button you will get to choose when it actually applies. Happy codexing.",
+      "zh": "听到您（有趣的）反馈，有时在没有警告的情况下收到 Codex 使用重置会很烦人。 \n\n下次我们按下按钮时，您将可以选择何时实际应用。快乐的编码。"
+    },
+    "petergyang": {
+      "en": "Suspending Fable for all “foreign person inside the US” is wild. How can you even enforce this properly?",
+      "zh": "为所有“在美国境内的外国人”悬置寓言是疯狂的。您如何才能正确执行这一点？"
+    },
+    "realmadhuguru": {
+      "en": "Just wrote out a whole doc with my bare hands - manually, with a keyboard. \n\nNo dictation, no AI. \n\nBecause I like to live dangerously.",
+      "zh": "我刚刚用键盘手动地徒手写出了一个完整的文档。 \n\n没有听写，没有人工智能。 \n\n因为我喜欢危险的生活。"
+    },
+    "amasad": {
+      "en": "Sounds like we’re going to have turn off access to Fable.",
+      "zh": "听起来我们要关闭《神鬼寓言》的访问权限。"
+    },
+    "rauchg": {
+      "en": "HTML is so back.\nDrag and",
+      "zh": "HTML 又回来了。\n拖动并"
+    },
+    "alexalbert__": {
+      "en": "Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅\n\nThis prompt snippet has been the best fix I've found for getting it to write clearly and drop any jargon:",
+      "zh": "《神鬼寓言》在进行长时间的代理对话时感觉超人，有时甚至让我无法跟上它告诉我的内容😅\n\n这个提示片段是我发现的最好的修复方法，可以让它写得清楚并去掉任何行话："
+    },
+    "levie": {
+      "en": "This is a big turning point for AI regulation.\n\nThe government is starting to deem some models too powerful for certain uses, which creates a precedent for a range of possible controls in the future.\n\nI’m in the camp that this is unnecessary and we should be primarily regulating the use of AI, as opposed to the underlying models. But, equally, there are plenty of people that actually prefer this outcome.\n\nEither way, it’s unlikely that we’re going back to a world where the government doesn’t have far more meaningful involvement in the rate of AI progress.",
+      "zh": "这是人工智能监管的一个重大转折点。\n\n政府开始认为某些模型对于某些用途而言过于强大，这为未来一系列可能的控制措施创造了先例。\n\n我的观点是，这是不必要的，我们应该主要规范人工智能的使用，而不是底层模型。但同样，也有很多人实际上更喜欢这种结果。\n\n不管怎样，我们不太可能回到一个政府对人工智能进步速度没有更有意义的参与的世界。"
+    },
+    "garrytan": {
+      "en": "Everyone thinks AI coding tools set founders free.\n\nWatch what people actually build with them: rules, approvals, process, layers. The same cage, assembled faster.\n\nThe tool that can scaffold anything in an afternoon will scaffold your bureaucracy in an afternoon too.\n\nSpeed of construction is speed of calcification. Build the thing that lets you create new things: experiences that didn’t happen before.",
+      "zh": "每个人都认为人工智能编码工具让创始人获得了自由。\n\n观察人们实际上用它们构建了什么：规则、批准、流程、层次。相同的笼子，组装速度更快。\n\n可以在一个下午搭建任何东西的工具也可以在一个下午搭建你的官僚机构。\n\n施工速度就是钙化速度。构建能让您创造新事物的东西：以前没有发生过的体验。"
+    },
+    "nikunj": {
+      "en": "My shot at how application companies survive the “what if large lab builds this” question 😅",
+      "zh": "我对应用公司如何应对“如果大型实验室建造这个会怎样”的问题的看法 😅"
+    },
+    "steipete": {
+      "en": "“not consistently candid in their communications” is my fav new americanism.",
+      "zh": "“他们的沟通并不始终坦诚”是我最喜欢的新美国主义。"
+    },
+    "danshipper": {
+      "en": "this seriously messes up my weekend plans i may have to actually see people",
+      "zh": "这严重打乱了我的周末计划，我可能不得不去见人"
+    },
+    "adityaag": {
+      "en": "It's a good day to be called SPC.\n\nWe are temporarily renaming ourselves to Space Park Commons.",
+      "zh": "今天是被称为 SPC 的好日子。\n\n我们暂时将自己更名为 Space Park Commons。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:22\nI'm Jacob Efron, and this is unsupervised learning. We've had a bunch of new subscribers over our last few months, and so wanted to welcome you to the show. We basically probe the sharpest minds in AI on everything that's happening today, what's real, and what's coming up, where the space is headed. And today's episode is one of my favorite formats we do. It's an AI vibe check, that we do with Ari from Datalogy.\n\nSpeaker 1 | 00:22 - 00:46\nAri was a former researcher at ...",
+      "zh": "演讲者 1 | 00:00 - 00:22\n我是雅各布·埃夫隆，这是无监督学习。在过去的几个月里，我们有了很多新订阅者，因此欢迎您来到这个节目。我们基本上探究人工智能领域最敏锐的头脑，了解今天发生的一切、真实的情况、即将发生的情况以及空间的发展方向。今天的节目是我最喜欢的节目形式之一。这是我们与 Datalogy 的 Ari 一起进行的 AI 氛围检查。\n\n演讲者 1 | 00:22 - 00:46\nAri 曾任研究员",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
