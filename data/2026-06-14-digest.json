@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Last chance to fill out the annual AI Engineering Survey this weekend and win great Vercel + Notion + AIE tix!\n\nlink below \n\nwe had @devinai analyze registered attendee list and output a live chart of the people coming to the conference. it ended up being the single best data driven storytelling i've ever seen on what kind of community we are gathering in two weeks.\n\nsurvey link here!\n\n\nno lurking, fill it out pls",
+      "zh": "本周末填写年度人工智能工程调查并赢得 Vercel + Notion + AIE 奖金的最后机会！\n\n链接如下 \n\n我们让 @devinai 分析注册与会者名单并输出参加会议人员的实时图表。它最终成为我所见过的关于我们在两周内聚集的社区类型的最佳数据驱动故事讲述。\n\n调查链接在这里！\n\n\n没有潜伏，请填写"
+    },
+    "thsottiaux": {
+      "en": "Hi, I'm Tibo and I just discovered Codex. AMA",
+      "zh": "大家好，我是 Tibo，我刚刚发现了 Codex。美国医学协会"
+    },
+    "petergyang": {
+      "en": "YOLO",
+      "zh": "优洛"
+    },
+    "thenanyu": {
+      "en": "Imagine a piece of software so powerful it completely disables the operations of tech companies, freezing progress and rendering them worthless. Such damaging capabilities must be controlled and stopped. \n\nImport restrictions on Jira. Now.",
+      "zh": "想象一下，一款功能如此强大的软件会完全瘫痪科技公司的运营，冻结进展并使它们变得毫无价值。必须控制和制止这种破坏能力。 \n\nJira 的进口限制。现在。"
+    },
+    "realmadhuguru": {
+      "en": "Having been through many frontier model launch reviews, I have empathy for everyone involved.\n\nLaunching an LLM isn't like shipping traditional software - you're making a decision about a black box with effectively infinite use cases and infinite failure modes.\n\nThe tradeoffs are hard - every increase in capability expands the space of both valuable use cases and potential misuse.\n\nAs a lab, you build extensive evals, you red-team, you iterate on the model. You debate tradeoffs across candidate checkpoints before choosing the best one to launch.\n\nThen early-access partners still uncover behaviors you didn't anticipate.\n\nYou can never be 100% certain you've understood a frontier model. You focus on reducing the uncertainty enough to launch.\n\nAs frontier models become smarter across the industry, that decision will get harder - for labs and regulators.",
+      "zh": "在经历了许多前沿模型发布评论后，我对所有参与其中的人都有同理心。\n\n启动法学硕士与交付传统软件不同——您正在对一个具有无限用例和无限故障模式的黑匣子做出决定。\n\n权衡是困难的——每一次能力的提高都会扩大有价值的用例和潜在滥用的空间。\n\n作为实验室，您构建广泛的评估、红队、迭代模型。在选择最佳的启动方案之前，您需要对候选检查点之间的权衡进行辩论。\n\n然后，抢先体验的合作伙伴仍然会发现您没有预料到的行为。\n\n您永远无法 100% 确定您已理解前沿模型。您专注于减少足以启动的不确定性。\n\n随着整个行业的前沿模型变得更加智能，对于实验室和监管机构来说，做出决定将变得更加困难。"
+    },
+    "amasad": {
+      "en": "Feels like we’re getting psyoped. The end-game here is something bigger.",
+      "zh": "感觉我们变得神经兮兮了。这里的最终游戏是更大的事情。"
+    },
+    "rauchg": {
+      "en": "If you don’t love her at her foggiest, you don’t deserve at her sunniest",
+      "zh": "如果你在她最阴暗的时候不爱她，你也不配在她最阳光的时候爱她"
+    },
+    "levie": {
+      "en": "This whole Fable export control situation is actually net positive to regulation discourse. It’s an early peek into what AI regulation would end up looking like at scale when enacted at the model layer instead of the specific application of the AI.\n\nThe government would have sole discretion over when a model can be released to the to public, based on a bunch of factors that they inherently control. \n\nIn this case, based on the available reporting, the risk is that the model can be jailbroken to deliver increased cyber exploit capabilities. The issue is that actually you want models to be able to have those capabilities on the defense side of cyber as well, and for all intents and purposes, by Anthropic’s own response, you can execute these capabilities today in other models. \n\nSo thus the whole challenge will be that you’re debating with the government, over months and months, with every model release, what these models are actually capable of and what their risks are. Inherently, there’s not only a lot of subjectivity in determining those risks, but there’s also many other factors that go into the risks being practical in the first place.\n\nThe net result is that we would end up with backlog of AI releases, progress in the market inherently would dramatically slow down, and AI would start to look more like any other sclerotic industry. If this paradigm had existed 3 years ago at the start of the current AI wave, we’d likely currently be stuck on GPT-4 level intelligence at this point.\n\nThis is why, wherever possible, we should be regulating the applied use of AI. We should continue to study and enforce the dangerous use of AI in cyber attacks, financial services risks, fraud, biowarfare, and other spaces. AI safety is incredibly important, but slowing down progress this early in the development of AI I suspect is net harmful.",
+      "zh": "这整个寓言出口管制形势实际上对监管话语是积极的。这是对人工智能监管在模型层而不是人工智能的具体应用上制定时最终会是什么样子的初步了解。\n\n政府将根据其固有控制的一系列因素，自行决定何时向公众发布模型。 \n\n在这种情况下，根据现有的报告，风险在于该模型可能会被越狱以提供增强的网络利用能力。问题是，实际上您希望模型也能够在网络防御方面拥有这些功能，并且出于所有意图和目的，根据 Anthropic 自己的回应，您现在可以在其他模型中执行这些功能。 \n\n因此，整个挑战将是你与政府就每个模型的发布进行数月的辩论，这些模型的实际能力是什么以及它们的风险是什么。从本质上讲，确定这些风险不仅存在很大的主观性，而且首先还有许多其他因素影响这些风险的实际性。\n\n最终结果是，我们最终会出现人工智能版本积压的情况，市场的进步本质上会急剧放缓，人工智能将开始看起来更像任何其他僵化的行业。如果这种范式在 3 年前当前人工智能浪潮开始时就已经存在，那么我们目前可能会陷入 GPT-4 级别的智能。\n\n这就是为什么我们应该尽可能规范人工智能的应用。我们应该继续研究和加强人工智能在网络攻击、金融服务风险、欺诈、生物战和其他领域的危险使用。人工智能安全非常重要，但在人工智能发展的早期放慢进度，我怀疑是有害的。"
+    },
+    "garrytan": {
+      "en": "In AI most people are still trying to use old maps on a new territory. \n\nThrow the maps away. It's time to draw new ones. The only way you can do it is walking the land.",
+      "zh": "在人工智能领域，大多数人仍在尝试在新领域使用旧地图。 \n\n把地图扔掉。是时候画新的了。你能做到的唯一方法就是在土地上行走。"
+    },
+    "nikunj": {
+      "en": "Not sure which founder needs to hear this..\n\nbut paid partnerships and boosting “views” on X are now negative signal in all VC group chats.\n\nI’m hoping this comes to the inflating ARR trend soon, but that might still take another cycle.",
+      "zh": "不确定哪个创始人需要听到这个..\n\n但付费合作伙伴关系和提高对 X 的“观点”现在在所有 VC 群聊中都是负面信号。\n\n我希望 ARR 趋势很快就会出现，但这可能仍需要另一个周期。"
+    },
+    "steipete": {
+      "en": "Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web service it needed.",
+      "zh": "收到 PayPal 验证文本，我以为自己被黑客入侵了，但这只是 Codex 注册了它所需的网络服务。"
+    },
+    "danshipper": {
+      "en": "before and after fable ban:\n\nmy claude app vs. codex app usage",
+      "zh": "《寓言》禁令前后：\n\n我的 claude 应用程序与 Codex 应用程序的使用情况"
+    },
+    "adityaag": {
+      "en": "I have been thinking about this photo a lot.\n\nIt's a beautiful testament to human civilization and our ability to reach for the stars.\n\nBut the thing that I can't get over is that a *human being* took this photo. From a tin cylinder flying on the other side of the moon. \n\nA machine could have taken it and it would have still been cool. But man was there. And that makes it so much more evocative.",
+      "zh": "我对这张照片思考了很多。\n\n这是人类文明和我们摘星能力的美丽证明。\n\n但令我无法释怀的是这张照片是一个“人类”拍的。来自在月球另一侧飞行的锡圆筒。 \n\n一台机器可以接受它，但它仍然很酷。但人就在那里。这使得它更加令人回味。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:02\nWe just wanna give tools to the whole scientific community.\n\nSpeaker 2 | 00:02 - 00:17\nWe wanna understand how biology works. I wanna understand the genetics of this person. I wanna understand the risks they have to different illnesses. My goal is to be able to treat the individual as an individual, understand the mechanisms, and be able to intervene.\n\nSpeaker 1 | 00:17 - 00:34\nWe'll have a bigger impact by getting us in more scientists hands quicker by doing it as open...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n我们只是想为整个科学界提供工具。\n\n扬声器 2 | 00:02 - 00:17\n我们想了解生物学是如何运作的。我想了解这个人的基因。我想了解他们患不同疾病的风险。我的目标是能够将个体视为个体，了解其中的机制，并能够进行干预。\n\n演讲者 1 | 00:17 - 00:34\n通过开放让更多科学家更快地掌握我们的技术，我们将产生更大的影响",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
