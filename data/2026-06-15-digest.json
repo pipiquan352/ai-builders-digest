@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at.\n\nbasically the idea is \"subroutines but intelligent\". when you undersatnd just how much knowledge work is just yakshaves after yakshaves that require some judgment and intelligence, you start to appreciate that dynamic workflows are not just for coding tasks...",
+      "zh": "还没见过人类超码之外的很多人。这个东西非常擅长燃烧代币，但你需要设置你的存储库以正确并行化，以利用我认为子代理最擅长的扇出。\n\n基本上这个想法是“子程序但智能”。当您了解有多少知识工作只是一个又一个需要一定判断力和智力的知识工作时，您就会开始意识到动态工作流程不仅仅适用于编码任务......"
+    },
+    "thsottiaux": {
+      "en": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent.",
+      "zh": "Codex 可以查看并设置自己的/目标。我们构建的所有东西，也是作为代理的工具而构建的。这是元提示的概括，您可以让代理根据您的意图设置自己的任务。"
+    },
+    "petergyang": {
+      "en": "Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup?",
+      "zh": "愚蠢的问题——为什么中国和印度不能培养出足够好的球队进入世界杯？"
+    },
+    "thenanyu": {
+      "en": "Counterpoint: everyone pair programs now, with a robot.",
+      "zh": "对位：现在每个人都与机器人配对程序。"
+    },
+    "amasad": {
+      "en": "This is the most inspiring positive-sum vision for AI in the enterprise.",
+      "zh": "这是人工智能在企业中最鼓舞人心的正和愿景。"
+    },
+    "rauchg": {
+      "en": "My flight to London is Starlink-enabled 😭\n\nThe greatest advancement to air travel since the Wright brothers. God bless America",
+      "zh": "我飞往伦敦的航班启用了星链服务 😭\n\n这是自莱特兄弟以来航空旅行最伟大的进步。上帝保佑美国"
+    },
+    "levie": {
+      "en": "Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future.\n\n“the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI.\n\nThis requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system.”\n\nWe’re all collectively figuring out the right architecture for the future of AI. But it’s clear that so much of the power and value will accrue to wherever can best leverage any AI system against their information. This is also why the applied AI layer will also gain so much value over the coming years.",
+      "zh": "很棒的帖子。那些能够将其独特的知识产权、机构知识和数据转化为一种格式和架构的公司，能够让他们捕获人工智能领域的所有收益和进步，将在未来处于最佳地位。\n\n“真正的机会不在于选择最好的模型，而在于在人力资本和代币资本复合的模型之上建立一个学习循环。你可以卸载一项任务，甚至一份工作，但你永远无法卸载你的学习。公司的未来是能够在人和人工智能之间复合学习的能力。\n\n这需要一种新的架构方法，每个企业都能够构建随着时间的推移而改进的代理系统，同时仍然保留对其 IP 的控制。公司应该能够转变“通才”模式，而不会失去学习系统中内置的“公司资深”专业知识。”\n\n我们正在共同寻找适合人工智能未来的架构。但很明显，只要能够最好地利用人工智能系统的信息，就会产生如此多的力量和价值。这也是为什么应用人工智能层在未来几年也将获得如此大的价值。"
+    },
+    "garrytan": {
+      "en": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives.",
+      "zh": "改变世界的下一代年轻人几乎肯定是最擅长使长期运行的多阶段多团队代理任务非常出色地工作的人，而且工作量很大，涉及个人和工作生活的各个部分。"
+    },
+    "steipete": {
+      "en": "Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
+      "zh": "Mosh + tmux/zellij 是飞行中网络状况不佳时的救星。 （我更喜欢zellij，但两者都有效）"
+    },
+    "danshipper": {
+      "en": "FREE FABLE",
+      "zh": "免费寓言"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:32\nThank you so much, Jensen. So we are in the middle of a massive AI revolution. It is probably bigger and faster than even the industrial revolution. And you have called out what's happening right now as the largest infrastructure build out in human history. At the center of that build out is the AI factory, and the company enabling all of that is NVIDIA.\n\nSpeaker 1 | 00:33 - 00:40\nCan you tell us what is an AI factory, and why is it the best investment for any enterpris...",
+      "zh": "演讲者 1 | 00:00 - 00:32\n非常感谢你，詹森。因此，我们正处于一场大规模的人工智能革命之中。它甚至可能比工业革命更大、更快。您指出了人类历史上最大的基础设施建设过程中正在发生的事情。该建设的核心是人工智能工厂，而实现这一切的公司就是 NVIDIA。\n\n演讲者 1 | 00:33 - 00:40\n您能否告诉我们什么是人工智能工厂？为什么它是企业的最佳投资",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

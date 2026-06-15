@@ -1,0 +1,324 @@
+{
+  "generatedAt": "2026-06-15T18:26:36.322Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2066415484149633329",
+          "text": "havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at.\n\nbasically the idea is \"subroutines but intelligent\". when you undersatnd just how much knowledge work is just yakshaves after yakshaves that require some judgment and intelligence, you start to appreciate that dynamic workflows are not just for coding tasks...",
+          "createdAt": "2026-06-15T07:00:18.000Z",
+          "url": "https://x.com/swyx/status/2066415484149633329",
+          "likes": 45,
+          "retweets": 2,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2061907337154367865"
+        },
+        {
+          "id": "2066235625695850526",
+          "text": "Satya on loops as IP:\nhttps://t.co/87HBsQptdQ\n> This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise.\n\n> This means the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning\n\n> In my view, our priority has to be building a frontier ecosystem, not just a frontier model, so value flows broadly across every company, every industry, and every country. One where every organization can own the learning loop that encodes its institutional knowledge, compounding its human and token capital.",
+          "createdAt": "2026-06-14T19:05:36.000Z",
+          "url": "https://x.com/swyx/status/2066235625695850526",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2066182223213293753"
+        },
+        {
+          "id": "2066225354885488709",
+          "text": "@DevinAI link here! https://t.co/kdtMCNXwzI",
+          "createdAt": "2026-06-14T18:24:47.000Z",
+          "url": "https://x.com/swyx/status/2066225354885488709",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2066270561081454989",
+          "text": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent. https://t.co/8xyjRjFk4v",
+          "createdAt": "2026-06-14T21:24:25.000Z",
+          "url": "https://x.com/thsottiaux/status/2066270561081454989",
+          "likes": 2232,
+          "retweets": 94,
+          "replies": 151,
+          "isQuote": true,
+          "quotedTweetId": "2066225908202053818"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2066344036030636041",
+          "text": "@grok do you know why? Explain to us",
+          "createdAt": "2026-06-15T02:16:23.000Z",
+          "url": "https://x.com/petergyang/status/2066344036030636041",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066331938760314909",
+          "text": "Dumb question - Why can’t China and India train good enough teams to qualify for the World Cup?",
+          "createdAt": "2026-06-15T01:28:19.000Z",
+          "url": "https://x.com/petergyang/status/2066331938760314909",
+          "likes": 307,
+          "retweets": 3,
+          "replies": 173,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066309743619244174",
+          "text": "Watch the interviews here:\n\nKieran: https://t.co/bomAyU9Utg\n\nKun: https://t.co/qfug4hOuhw\n\nMatt: https://t.co/vPVZNwtsCu\n\nWho should I interview next?",
+          "createdAt": "2026-06-15T00:00:07.000Z",
+          "url": "https://x.com/petergyang/status/2066309743619244174",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2066190061419282602",
+          "text": "Counterpoint: everyone pair programs now, with a robot. https://t.co/eDDgBiPAkT",
+          "createdAt": "2026-06-14T16:04:33.000Z",
+          "url": "https://x.com/thenanyu/status/2066190061419282602",
+          "likes": 46,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2066013507901116622"
+        },
+        {
+          "id": "2066189299821711401",
+          "text": "Modern color graders been subconsciously turning everyone into Knicks fans this whole time https://t.co/YWoP1fxegg",
+          "createdAt": "2026-06-14T16:01:31.000Z",
+          "url": "https://x.com/thenanyu/status/2066189299821711401",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2066136596470956099"
+        },
+        {
+          "id": "2066158221648134602",
+          "text": "I was told this mayor was good at graphic design https://t.co/XnmUjC88Up",
+          "createdAt": "2026-06-14T13:58:02.000Z",
+          "url": "https://x.com/thenanyu/status/2066158221648134602",
+          "likes": 48,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2066032094048825632"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2066195933969412098",
+          "text": "This is the most inspiring positive-sum vision for AI in the enterprise. https://t.co/rltvxNEw0U",
+          "createdAt": "2026-06-14T16:27:53.000Z",
+          "url": "https://x.com/amasad/status/2066195933969412098",
+          "likes": 2917,
+          "retweets": 150,
+          "replies": 83,
+          "isQuote": true,
+          "quotedTweetId": "2066182223213293753"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2066315273947500699",
+          "text": "My flight to London is Starlink-enabled 😭\n\nThe greatest advancement to air travel since the Wright brothers. God bless America https://t.co/vyJvpobz9R",
+          "createdAt": "2026-06-15T00:22:06.000Z",
+          "url": "https://x.com/rauchg/status/2066315273947500699",
+          "likes": 1064,
+          "retweets": 14,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066299732277031042",
+          "text": "https://t.co/pYz1Gn9F9b has passed 700,000 skills. wild!\nall organic and community-driven.\nthe open⎵ai ecosystem!",
+          "createdAt": "2026-06-14T23:20:20.000Z",
+          "url": "https://x.com/rauchg/status/2066299732277031042",
+          "likes": 389,
+          "retweets": 19,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066253064957509811",
+          "text": "I have 🇯🇵 winning 2-0 ⚽",
+          "createdAt": "2026-06-14T20:14:54.000Z",
+          "url": "https://x.com/rauchg/status/2066253064957509811",
+          "likes": 214,
+          "retweets": 4,
+          "replies": 42,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2066237607244427761",
+          "text": "Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future.\n\n“the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI.\n\nThis requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system.”\n\nWe’re all collectively figuring out the right architecture for the future of AI. But it’s clear that so much of the power and value will accrue to wherever can best leverage any AI system against their information. This is also why the applied AI layer will also gain so much value over the coming years.",
+          "createdAt": "2026-06-14T19:13:29.000Z",
+          "url": "https://x.com/levie/status/2066237607244427761",
+          "likes": 712,
+          "retweets": 74,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2066182223213293753"
+        },
+        {
+          "id": "2066167615618466060",
+          "text": "The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that was entirely theoretical and untested 2 days ago (that a model could be pulled back), now has a new precedent that’s been set.\n\nThe game theory the US should highly consider, and the risk with regulating AI at the model layer vs. applied layer, is that other countries now have even more incentive to develop sovereign AI.\n\nIf at any moment a model can be become unavailable to your country’s users or businesses, this poses very real risk on relying on technology from a particular country.\n\nAs a result, it forces major countries to charter their own path on AI development, which reduces America’s leadership role in this tech stack over time. The most likely solution that other countries will rely on is open weights models, which currently is generally not coming from the US.\n\nAmerica should be considering all of these downstream implications as it decides how and where in the stack to be regulating AI. At the same time, we should be doing a ton more OSS innovation.",
+          "createdAt": "2026-06-14T14:35:21.000Z",
+          "url": "https://x.com/levie/status/2066167615618466060",
+          "likes": 564,
+          "retweets": 57,
+          "replies": 76,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2066307697574862905",
+          "text": "Open source is the escape hatch for businesses to be able to continue to control their own destiny long term https://t.co/9hVUR5w6Lp",
+          "createdAt": "2026-06-14T23:51:59.000Z",
+          "url": "https://x.com/garrytan/status/2066307697574862905",
+          "likes": 327,
+          "retweets": 28,
+          "replies": 50,
+          "isQuote": true,
+          "quotedTweetId": "2066260212772679864"
+        },
+        {
+          "id": "2066269513935642689",
+          "text": "* Basically gbrain users https://t.co/yFpFU4pn5b",
+          "createdAt": "2026-06-14T21:20:16.000Z",
+          "url": "https://x.com/garrytan/status/2066269513935642689",
+          "likes": 32,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066269412391637050",
+          "text": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives. https://t.co/xG2qvRNdW5",
+          "createdAt": "2026-06-14T21:19:52.000Z",
+          "url": "https://x.com/garrytan/status/2066269412391637050",
+          "likes": 446,
+          "retweets": 41,
+          "replies": 49,
+          "isQuote": true,
+          "quotedTweetId": "2066263541347483703"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2066427449551036469",
+          "text": "Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
+          "createdAt": "2026-06-15T07:47:50.000Z",
+          "url": "https://x.com/steipete/status/2066427449551036469",
+          "likes": 80,
+          "retweets": 0,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2066217865943093514",
+          "text": "FREE FABLE https://t.co/nFihacLkaq",
+          "createdAt": "2026-06-14T17:55:02.000Z",
+          "url": "https://x.com/danshipper/status/2066217865943093514",
+          "likes": 613,
+          "retweets": 38,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "publishedAt": "2026-06-10T09:00:00.000Z"
+    }
+  ]
+}
