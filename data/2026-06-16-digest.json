@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "guys \n\ngoblingate was 1.5 months ago",
+      "zh": "伙计们 \n\n戈布林门 是 1.5 个月前"
+    },
+    "joshwoodward": {
+      "en": "Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech?\n\nWe're opening a limited number of slots for power users to join the Gemini Trusted Tester program.\n\nSign up here:",
+      "zh": "想先于其他人获得未发布的@GeminiApp 功能吗？喜欢突破、测试和塑造新技术？\n\n我们正在为高级用户开放数量有限的名额来加入 Gemini 可信测试员计划。\n\n在这里注册："
+    },
+    "petergyang": {
+      "en": "1) What",
+      "zh": "1) 什么"
+    },
+    "thenanyu": {
+      "en": "Whichever lobbyist made this happen is an absolute legend",
+      "zh": "无论哪个说客让这件事发生，都是一个绝对的传奇"
+    },
+    "amasad": {
+      "en": "Who needs Fable when you can have Mistral’s Le Chaton Fat",
+      "zh": "当你能拥有米斯特拉尔的 Le Chaton Fat 时，谁还需要《神鬼寓言》"
+    },
+    "rauchg": {
+      "en": "One of our most requested features, longer Vercel function runtime, is here.\n\nWhat looks like an innocent tweak of a constant… is actually the conclusion a multi-year compute platform investment.\n\nBuilds, Sandbox, and now Functions run on our homegrown microVM-based Fluid compute infrastructure.\n\nThis investment has enabled innovations like function multi-concurrency, Active CPU pricing, and Secure Compute for private connectivity to existing cloud workloads… with lots more to come, in fact, in the coming days and weeks 😎",
+      "zh": "我们最需要的功能之一是更长的 Vercel 函数运行时间。\n\n看起来像是对常数的无害调整……实际上是多年计算平台投资的结论。\n\n构建、沙盒以及现在的函数都在我们自主开发的基于 microVM 的 Fluid 计算基础设施上运行。\n\n这项投资实现了功能多并发、主动 CPU 定价和安全计算等创新，以实现与现有云工作负载的私有连接……事实上，在未来几天和几周内还会有更多创新 😎"
+    },
+    "levie": {
+      "en": "Open source going to win big",
+      "zh": "开源将赢得巨大胜利"
+    },
+    "garrytan": {
+      "en": "Attention is all you need",
+      "zh": "关注就是你所需要的"
+    },
+    "mattturck": {
+      "en": "Key lesson: don't ignore your DMs on LinkedIn (he got recruited to the national Cabo Verde team via a couple of LinkedIn messages)\n\nProbably some lessons for B2B sales as well",
+      "zh": "关键教训：不要忽视 LinkedIn 上的私信（他通过几条 LinkedIn 消息被招募到佛得角国家队）\n\n可能还有一些 B2B 销售的经验教训"
+    },
+    "nikunj": {
+      "en": "I now know 32 VCs who have moved back to operating in the last 12 months.. everyone from associates to GPs. \n\nMaybe it’s this way all the time and I’m just noticing it, but the pace seems to be accelerating. And they seem much much happier? \n\nFrom a professional perspective, it makes sense especially if you are junior. You get to work directly with customers and work as a team. A lot more autonomy than having to pander to GPs. \n\nFrom a compensation perspective too, why wait for carry for 13 years when you can have a chance of liquidity a lot sooner. \n\nAs someone who had been operating for a while but loving venture rn, I completely get the trade. To the remaining players, see you on the field 🫡",
+      "zh": "我现在认识 32 名风险投资家，他们在过去 12 个月内重新开始运营……每个人都从合伙人到全科医生。 \n\n也许一直都是这样，只是我注意到了，但步伐似乎在加快。他们看起来快乐多了？ \n\n从专业角度来看，这是有道理的，尤其是如果你是初级的。您可以直接与客户合作并作为一个团队工作。比必须迎合全科医生有更多的自主权。 \n\n同样从补偿的角度来看，既然你可以更快地获得流动性，为什么还要等待 13 年呢？ \n\n作为一个已经经营了一段时间但热爱风险投资的人，我完全理解这个交易。剩下的选手们，场上见🫡"
+    },
+    "steipete": {
+      "en": "Wanted to buy a new Mac Studio for San Francisco.\nWe don’t even know how to make these anymore.",
+      "zh": "想为旧金山购买一台新的 Mac Studio。\n我们甚至不知道如何制作这些了。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:23\nOne of the things that CHAT GPT was able to do was assume it was false. When you go against the grain and do something contrarian like that, you really have to have strong conviction in what you're doing in order to persevere down a really long calculation path. I feel really excited that we will get to really answer a lot of fundamental questions in the field of science that that we care about with the aid or the models being the driving force. And so that's just reall...",
+      "zh": "演讲者 1 | 00:00 - 00:23\nCHAT GPT 能够做的事情之一就是假设它是错误的。当你违背常理并做这样的逆向事情时，你真的必须对你正在做的事情有坚定的信念，才能坚持走一条很长的计算道路。我感到非常兴奋，因为我们将能够在帮助或模型作为驱动力的情况下真正回答我们关心的科学领域的许多基本问题。所以这就是真的",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
