@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-06-17T16:54:49.766Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2067057648617538037",
+          "text": "@WorkOS @mattpocockuk @zackproser also doing great. AIE audience LOVES the workos content, they are doing something right https://t.co/nLZTQyAk1i",
+          "createdAt": "2026-06-17T01:32:02.000Z",
+          "url": "https://x.com/swyx/status/2067057648617538037",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2067023688906822020",
+          "text": "@TomasReimers @cursor_ai full info https://t.co/R8Mp5Iemfn",
+          "createdAt": "2026-06-16T23:17:05.000Z",
+          "url": "https://x.com/swyx/status/2067023688906822020",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2067012220832329782"
+        },
+        {
+          "id": "2066937943139479618",
+          "text": "@TomasReimers @cursor_ai *github competitor fml",
+          "createdAt": "2026-06-16T17:36:22.000Z",
+          "url": "https://x.com/swyx/status/2066937943139479618",
+          "likes": 48,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2067025851829330076",
+          "text": "🇧🇷World-changing AI companies are coming from Brazil.\n\nThat’s why we’ve officially expanded our Google AI Futures Fund to Brazil, partnering with venture capital leader Monashees to launch the Gama Fund.\n\nWe’re looking for an elite cohort of deep tech founders and will offer:\n\n- Early access to Google DeepMind models\n- Up to $2M in co-investment\n- $350k in Google Cloud & Gemini credits\n- Direct co-development with Google engineers at our new IPT Open campus hub\n\nApply today: https://t.co/8sv9seJLdB",
+          "createdAt": "2026-06-16T23:25:41.000Z",
+          "url": "https://x.com/joshwoodward/status/2067025851829330076",
+          "likes": 351,
+          "retweets": 32,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2067064381855187231",
+          "text": "Bim bada boum. I am in France for the week and we are rolling out all the most exciting Codex features across Europe. Coincidence or did the team think I wasn't able to be productive otherwise? https://t.co/LilIl4XkJF",
+          "createdAt": "2026-06-17T01:58:47.000Z",
+          "url": "https://x.com/thsottiaux/status/2067064381855187231",
+          "likes": 1223,
+          "retweets": 15,
+          "replies": 106,
+          "isQuote": true,
+          "quotedTweetId": "2066916479438930166"
+        },
+        {
+          "id": "2066956441173323943",
+          "text": "This was fixed. You know what's coming 👀\n\nGive us 24 hours to reset the Codex rate limits across all plans. https://t.co/vx3Jb7YT6K",
+          "createdAt": "2026-06-16T18:49:52.000Z",
+          "url": "https://x.com/thsottiaux/status/2066956441173323943",
+          "likes": 5799,
+          "retweets": 243,
+          "replies": 576,
+          "isQuote": true,
+          "quotedTweetId": "2066865154902380796"
+        },
+        {
+          "id": "2066865154902380796",
+          "text": "Oy. We are aware that some Codex users are experiencing high error rates with \"model at capacity\" and are working to bring things back to being stable.\n\nhttps://t.co/R3dCKGGtQw",
+          "createdAt": "2026-06-16T12:47:08.000Z",
+          "url": "https://x.com/thsottiaux/status/2066865154902380796",
+          "likes": 3628,
+          "retweets": 107,
+          "replies": 549,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2067056979974160749",
+          "text": "Publishing a new tutorial to make Codex or Claude Code your personal advisor using a skill with 4 files. Plus, I managed to save Fable's advice too before it got restricted 🥲\n\n📌 Subscribe to get the tutorial tmr: https://t.co/MbOfeFUJbn https://t.co/bYW7tP4v0l",
+          "createdAt": "2026-06-17T01:29:22.000Z",
+          "url": "https://x.com/petergyang/status/2067056979974160749",
+          "likes": 78,
+          "retweets": 4,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2065446074228290007"
+        },
+        {
+          "id": "2067047343971848201",
+          "text": "Honestly I don't want to be a hater but I feel like this is what happens when nobody internally wants to tell the CEO no. \n\nMaybe this thing will blow our socks off? https://t.co/PRD3LeNy03",
+          "createdAt": "2026-06-17T00:51:05.000Z",
+          "url": "https://x.com/petergyang/status/2067047343971848201",
+          "likes": 280,
+          "retweets": 13,
+          "replies": 62,
+          "isQuote": true,
+          "quotedTweetId": "2066967928495640729"
+        },
+        {
+          "id": "2066975504973050077",
+          "text": "Damn not again. Is every company with 1,000+ people going to do this 😭 https://t.co/Mg3wk7ZYT6",
+          "createdAt": "2026-06-16T20:05:37.000Z",
+          "url": "https://x.com/petergyang/status/2066975504973050077",
+          "likes": 204,
+          "retweets": 4,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2066828553199464933"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2067090477434966396",
+          "text": "over the last century, we’ve treated the intellect as a defining human trait and under-invested   in other aspects that make us uniquely human, such as self-awareness, intuition, compassion and kindness. \n\nthe next few years will force us to rethink this. https://t.co/4iE3kAMauP",
+          "createdAt": "2026-06-17T03:42:29.000Z",
+          "url": "https://x.com/realmadhuguru/status/2067090477434966396",
+          "likes": 7,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2067054217521766516"
+        },
+        {
+          "id": "2066935654500671499",
+          "text": "The real prize in the SpaceX-Cursor deal is the agentic harness that will become the core for automating all knowledge work at scale.\n\nHere’s what SpaceX is getting:\n\n1. Production-grade agentic harness  -planning, context management, tool use, iteration, verification, memory, error recovery. \nAny product experience can be completely redesigned in an AI-native way with this harness.\n\n2. Expertise on the full AI stack - model, evals, harness, application layer.\n\n3. End to end product lifecycle focus: product strategy -> user journeys -> GTM. Everything optimized for one job: helping software engineers build.\n\nVery few companies do even one of these well. Cursor brings all three.",
+          "createdAt": "2026-06-16T17:27:16.000Z",
+          "url": "https://x.com/realmadhuguru/status/2066935654500671499",
+          "likes": 44,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2066873915717136548"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2067021344341098670",
+          "text": "Slack now renders HTML attachments instead of just showing it as text 😭🙏 https://t.co/rHoAChwRyv",
+          "createdAt": "2026-06-16T23:07:46.000Z",
+          "url": "https://x.com/trq212/status/2067021344341098670",
+          "likes": 2513,
+          "retweets": 43,
+          "replies": 118,
+          "isQuote": true,
+          "quotedTweetId": "2021408820556407128"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2066956074360426622",
+          "text": "Databricks partner of the year! https://t.co/pdxBVKE6M2",
+          "createdAt": "2026-06-16T18:48:24.000Z",
+          "url": "https://x.com/amasad/status/2066956074360426622",
+          "likes": 155,
+          "retweets": 6,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2066900858785104094"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2067137678772937000",
+          "text": "Quick one to set the stage:\n\n☑️ 30 minute function invocations\n🆕 24 hour sandbox lifetimes https://t.co/r69vntZpbf",
+          "createdAt": "2026-06-17T06:50:02.000Z",
+          "url": "https://x.com/rauchg/status/2067137678772937000",
+          "likes": 81,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2067133920836005901"
+        },
+        {
+          "id": "2067106499449565265",
+          "text": "It’s time to ship",
+          "createdAt": "2026-06-17T04:46:09.000Z",
+          "url": "https://x.com/rauchg/status/2067106499449565265",
+          "likes": 295,
+          "retweets": 15,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2067098826830164310",
+          "text": "This aged well 😂 iykyk https://t.co/d9ncX1aP2X",
+          "createdAt": "2026-06-17T04:15:39.000Z",
+          "url": "https://x.com/rauchg/status/2067098826830164310",
+          "likes": 190,
+          "retweets": 5,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2066430626245349475"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2067070918300664161",
+          "text": "One of the biggest questions in AI is how far behind open weights models remain from closed models at any given time. There are huge differences in market structures depending on whether open weights models remain 3 or 6 months behind, or if they fall behind by years. \n\nThe answer to this will determine how the chip stack plays out, where inference can be run, what sovereign AI looks like, what happens at the applied AI layer, what the margin structure looks like in AI, how much companies can afford to spend on AI, and more.\n\nAt the moment the open weights players appear to be holding up at keeping close to frontier levels of capability. Will be fun to see how this plays out.",
+          "createdAt": "2026-06-17T02:24:45.000Z",
+          "url": "https://x.com/levie/status/2067070918300664161",
+          "likes": 206,
+          "retweets": 13,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2066938937344495629"
+        },
+        {
+          "id": "2066908002809221496",
+          "text": "The Cursor deal is symbolically quite significant. It was effectively the first mega success in the applied layer of AI. \n\nThey firmly proved out the value proposition of having a deep domain focus, the role you play as a model router, when to lean into frontier models vs. when to train your own, and the role of applied AI GTM and distribution to make sure you’re actually taking advantage of the market opportunity. \n\nEvery aspect of their business was tuned to carve out ground and keep doubling down in a highly competitive space. This is really the first at scale template for how to execute this playbook.",
+          "createdAt": "2026-06-16T15:37:23.000Z",
+          "url": "https://x.com/levie/status/2066908002809221496",
+          "likes": 736,
+          "retweets": 38,
+          "replies": 46,
+          "isQuote": true,
+          "quotedTweetId": "2066894493111242852"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2067138928864555222",
+          "text": "https://t.co/vozY3udGoP https://t.co/GSUZuCoER1",
+          "createdAt": "2026-06-17T06:55:00.000Z",
+          "url": "https://x.com/ryolu_/status/2067138928864555222",
+          "likes": 104,
+          "retweets": 5,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2067056938391920640"
+        },
+        {
+          "id": "2067124871226929526",
+          "text": "the crazy thing about Cursor mobile\nis @rikcreation coded most of the real thing with Cursor, as a “designer”\n\ntitles don’t mean shit.\nyou can just build. https://t.co/UYOoUYf0t0",
+          "createdAt": "2026-06-17T05:59:09.000Z",
+          "url": "https://x.com/ryolu_/status/2067124871226929526",
+          "likes": 204,
+          "retweets": 11,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2067006990715388241"
+        },
+        {
+          "id": "2066902677905461579",
+          "text": "crazy idea: what if X, Cursor, were the same thing? https://t.co/nUgSVT3i6J",
+          "createdAt": "2026-06-16T15:16:14.000Z",
+          "url": "https://x.com/ryolu_/status/2066902677905461579",
+          "likes": 2195,
+          "retweets": 47,
+          "replies": 210,
+          "isQuote": true,
+          "quotedTweetId": "2066875698346954891"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2067101655934591154",
+          "text": "9Mothers is one of those technologies whose impact is immediately obvious to warfighters https://t.co/Aqnl9d84ky",
+          "createdAt": "2026-06-17T04:26:54.000Z",
+          "url": "https://x.com/garrytan/status/2067101655934591154",
+          "likes": 74,
+          "retweets": 5,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2067074226478293188"
+        },
+        {
+          "id": "2067101283493040518",
+          "text": "You’ll never achieve anything if you are afraid of being cringe\n\nThen again this is from someone trying to use looksmaxxing to achieve outsize return, good luck with that https://t.co/azxDnN4YMf",
+          "createdAt": "2026-06-17T04:25:25.000Z",
+          "url": "https://x.com/garrytan/status/2067101283493040518",
+          "likes": 588,
+          "retweets": 16,
+          "replies": 56,
+          "isQuote": true,
+          "quotedTweetId": "2067066405728797035"
+        },
+        {
+          "id": "2067100549775032702",
+          "text": "Which leads to… Bowen’s differentiation of self\n\nLow differentiation = highly reactive to others' emotional cues, loses self in relationships, can't hold boundaries under pressure — collapses into \"we-ness\" (everyone must feel the same or the bond feels threatened).\n\nTwo flavors of the same disease: chameleons (adjust themselves to please, fusion mode) and bullies (force others to conform, the asshole mode). Both are undifferentiated. The self-abandoner and the asshole are the same person.\n\nThe fix is the same: lower the chronic anxiety, raise the capacity to stay a separate self in contact.",
+          "createdAt": "2026-06-17T04:22:30.000Z",
+          "url": "https://x.com/garrytan/status/2067100549775032702",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2066875878731100668",
+          "text": "FirstMark Guilds Summit swag wins https://t.co/hD1yMKqiaR",
+          "createdAt": "2026-06-16T13:29:44.000Z",
+          "url": "https://x.com/mattturck/status/2066875878731100668",
+          "likes": 19,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2066966270197805331",
+          "text": "Vibes at Cursor Compile were immaculate. Also getting a custom mechanical keyboard is a new kind of swag ceiling for conferences ⌨️ https://t.co/RXq9qLvXJJ",
+          "createdAt": "2026-06-16T19:28:55.000Z",
+          "url": "https://x.com/nikunj/status/2066966270197805331",
+          "likes": 139,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066905445974102384",
+          "text": "Be in the judgement (data) path or the token path. Today’s @cursor_ai acquisition sets the path for more application companies. Congrats to all my friends 🥳 https://t.co/wCKIwElVji",
+          "createdAt": "2026-06-16T15:27:14.000Z",
+          "url": "https://x.com/nikunj/status/2066905445974102384",
+          "likes": 23,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2065559895450288611"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2066988174849749303",
+          "text": "I think this is quite likely https://t.co/duB1OtqSIj",
+          "createdAt": "2026-06-16T20:55:58.000Z",
+          "url": "https://x.com/danshipper/status/2066988174849749303",
+          "likes": 134,
+          "retweets": 14,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2066970358545043614"
+        },
+        {
+          "id": "2066914130863473048",
+          "text": "just switched off of Atlas Browser and back onto Dia\n\ni've been having so many weird bugs with atlas, and doesn't feel like it's improving",
+          "createdAt": "2026-06-16T16:01:44.000Z",
+          "url": "https://x.com/danshipper/status/2066914130863473048",
+          "likes": 72,
+          "retweets": 1,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2066915805476827629",
+          "text": "Apply to SPC if you'd like to join us https://t.co/Dcd8nkNcLR",
+          "createdAt": "2026-06-16T16:08:24.000Z",
+          "url": "https://x.com/adityaag/status/2066915805476827629",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2066915803610370098",
+          "text": "You didn't miss this one. @RamaswmySridhar is dropping by @southpkcommons next week.\n\nHe grew Google's ad business from $1.5B to $ 100B+. \n\nNow he's running Snowflake through the AI shift. https://t.co/xOCxkftsvo",
+          "createdAt": "2026-06-16T16:08:23.000Z",
+          "url": "https://x.com/adityaag/status/2066915803610370098",
+          "likes": 38,
+          "retweets": 5,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "publishedAt": "2026-06-16T09:00:00.000Z"
+    }
+  ]
+}
