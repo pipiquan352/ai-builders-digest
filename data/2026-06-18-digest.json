@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr paper",
+      "zh": "@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr 论文"
+    },
+    "joshwoodward": {
+      "en": "Co-create: one of the key @GoogleLabs values.\n\nIt looks like this, thanks Voltage team!",
+      "zh": "共同创造：@GoogleLabs 的关键价值观之一。\n\n看起来像这样，感谢Voltage团队！"
+    },
+    "thsottiaux": {
+      "en": "Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models.",
+      "zh": "提醒您，您可以将 Codex 应用程序、CLI 和 SDK 与任何开源模型一起使用，而不仅仅是 OpenAI 模型。"
+    },
+    "petergyang": {
+      "en": "Guys are you telling me that /goal build me an amazing game doesn’t work? 🤣",
+      "zh": "伙计们，你们是说 /goal 为我打造一款出色的游戏行不通吗？ 🤣"
+    },
+    "thenanyu": {
+      "en": "\"taste\" is not just taste in aesthetics, the same way \"design\" is not just visual design. feels like half the conversations on the subject are people talking past each other because of this distinction",
+      "zh": "“品味”不仅仅是审美上的品味，同样“设计”不仅仅是视觉设计。由于这种区别，感觉关于这个主题的对话有一半是人们互相谈论"
+    },
+    "amasad": {
+      "en": "Design with Claude, Ship with Replit",
+      "zh": "与 Claude 一起设计，与 Replit 一起交付"
+    },
+    "rauchg": {
+      "en": "React    →  \nNext.js  →  \n\n@aisdk is more relevant than ever, given the intense model competition landscape. Just today, GLM 5.2, an open model, surpassed Opus 4.8 in our Next.js Evals ( 🤯\n\nBut the world needs a practical solution for how to build and deploy agents. Just like React needed Next.js to solve the task of building an actual web application. And that's eve.",
+      "zh": "反应 →  \nNext.js →  \n\n鉴于激烈的模型竞争格局，@aisdk 比以往任何时候都更重要。就在今天，开放模型 GLM 5.2 在我们的 Next.js 评估中超越了 Opus 4.8 ( 🤯\n\n但世界需要一个关于如何构建和部署代理的实用解决方案。就像 React 需要 Next.js 来解决构建实际 Web 应用程序的任务一样。那是晚上。"
+    },
+    "levie": {
+      "en": "The past couple months we may be witnessing what the Applied AI layer will look like at scale. Despite some of the initial critique that this would just be a thin layer on the LLM, it’s turning out that actually driving agentic workflows in an enterprise is far more complex. And anywhere there’s complexity you generally gain a moat and value over time.\n\nHere are a few of the components that appear to make up the playbook based on the examples we’re collectively seeing in coding, legal, healthcare, customer support, financial services and other fields:\n\n* Build the features that bridge the gap between the intelligence and the workflow. Some workflows can be automated by simply going to a general purpose interface, but others need tuned interfaces and features tied to the work they’re augmenting or automating. They need features that are specific to capturing the kind of data that’s needed as context for the agent. And they need a variety of bespoke tools for the agent to use, and unique interfaces for the human-in-the-loop UX. Going far deeper than just presenting the output tokens is clearly critical, and the more depth there is here definitionally the more sustaining value.\n\n* Act as the model router balancing frontier intelligence with cheaper models. A natural advantage that any model neutral platform has is that it can naturally (in a business model-aligned way) leverage whatever level of intelligence is necessary for the workflows they’re automating to get done. There are plenty of scenarios where you need GPT-5.5 or Fable level capability, and also lots of workloads where a more efficient closed or open weights do the trick. Only the companies that have deep evals on specific tasks across all models, and the ability business model wise to leverage them, are in a great position.\n\n* Drive the actual implementation and change management via FDE or equivalent. A big reason the applied layer works at scale is that most enterprises need some degree of help and support with change management in implementing agents for their workflows. Data has to be cleaned up and moved to modern systems, processes have to be re-engineered and documented, workflows have to be evaled, SLAs have to get achieved, and so on. All of this is going to be unique for every type of process that gets implemented, which means the companies that have expertise in a given domain and come with all the relevant best practices will be in a strong position.\n\n* Implement domain specific GTM that creates expertise in that field. Beyond FDEs the companies that can build sales and GTM motions aligned to their domains also have a natural advantage. Most IT and line of business leaders have too many things to do in any given day; so if you’re not on their agenda, likely someone else is. Depending on the industry, there are entirely different sets of language you use, ways of working through security and compliance, regulatory controls you have to support, industry events that companies convene at, different system integrator and consulting partners you need to work with, and so on. The more generalized this gets the less you can speak the customers language, which is where the applied layer has a leg up.\n\nA final note. There remains a view that a lot of this is all mitigated by model intelligence alone, and the bitter lesson solves all of this in the limit. That’s possibly true, but enterprises need help changing *today*. And many aspects of how to bring intelligence to real world work don’t only depend on the axis of the pure capability of the model, so most of what you’re doing now to win ends up being important no matter how good the models get.",
+      "zh": "在过去的几个月里，我们可能会见证应用人工智能层的大规模发展。尽管一些最初的批评认为这只是法学硕士的一个薄层，但事实证明，在企业中实际驱动代理工作流程要复杂得多。任何有复杂性的地方，随着时间的推移，你通常都会获得护城河和价值。\n\n以下是根据我们在编码、法律、医疗保健、客户支持、金融服务和其他领域共同看到的示例组成的剧本的一些组件：\n\n* 构建弥合智能和工作流程之间差距的功能。有些工作流程可以通过简单地进入通用界面来实现自动化，但其他工作流程则需要与他们正在增强或自动化的工作相关的调整界面和功能。他们需要特定于捕获代理上下文所需的数据类型的功能。他们需要各种定制工具供代理使用，以及用于人机交互用户体验的独特界面。显然，比仅仅呈现输出代币更深入的内容至关重要，而且深度越深，定义上的持续价值就越大。\n\n* 充当平衡前沿智能与更便宜型号的模型路由器。任何模型中立平台所具有的一个天然优势是，它可以自然地（以与业务模型一致的方式）利用其自动化完成的工作流程所需的任何级别的智能。在很多场景中，您都需要 GPT-5.5 或 Fable 级别的功能，而且在很多工作负载中，更高效的封闭式或开放式权重可以发挥作用。只有那些对所有模型的特定任务进行深入评估，并且有能力利用商业模型明智地利用这些任务的公司，才能处于有利地位。\n\n* 通过 FDE 或同等方式推动实际实施和变更管理。应用层大规模工作的一个重要原因是，大多数企业在为其工作流程实施代理时需要一定程度的变更管理帮助和支持。数据必须清理并转移到现代系统，流程必须重新设计和记录，工作流程必须评估，SLA 必须实现，等等。所有这些对于所实施的每种类型的流程来说都是独一无二的，这意味着在特定领域拥有专业知识并拥有所有相关最佳实践的公司将处于有利地位。\n\n* 实施特定领域的 GTM，以创造该领域的专业知识。除了 FDE 之外，能够建立与其领域相符的销售和 GTM 动议的公司也具有天然优势。大多数 IT 和业务线领导者每天都有太多的事情要做；因此，如果你不在他们的议程上，很可能其他人也在。根据行业的不同，您使用的语言、安全性和合规性的工作方式、您必须支持的监管控制、公司召开的行业活动、您需要合作的不同系统集成商和咨询合作伙伴等等都存在完全不同的语言集。越通用，你能说客户语言的就越少，而这正是应用层的优势所在。\n\n最后一点。人们仍然认为，仅靠模型智能就可以缓解很多问题，而惨痛的教训在极限内解决了所有这些问题。这可能是真的，但企业*今天*需要帮助改变。如何将智能带入现实世界工作的许多方面不仅仅取决于模型的纯粹能力轴，因此无论模型变得多么好，你现在为获胜所做的大部分事情最终都是重要的。"
+    },
+    "garrytan": {
+      "en": "We don’t care what your age is\n\nWe care if you can build with craft and care\n\nAnd if you can make something people want",
+      "zh": "我们不在乎你的年龄\n\n我们关心您是否能够精心建造\n\n如果你能做出人们想要的东西"
+    },
+    "nikunj": {
+      "en": "The next 12 months we are going to see some incredible emerging manager's come out with their debut funds.. \n\nThese are NOT household names today, but will be in the next decade. \n\nEach one has intense founder love, unique lens on the world and hustle like no one else!",
+      "zh": "接下来的 12 个月，我们将看到一些令人难以置信的新兴基金经理推出他们的首支基金。 \n\n这些名字在今天还不是家喻户晓的名字，但在未来十年将会家喻户晓。 \n\n每一位创始人都拥有强烈的创始人之爱、对世界的独特视角以及无与伦比的忙碌！"
+    },
+    "steipete": {
+      "en": "sci-fi vibes intensify",
+      "zh": "科幻气息愈演愈烈"
+    },
+    "danshipper": {
+      "en": "we @every make investments every so often in founders building things in AI who we think are excellent\n\n@ninklefitz is one of those founders—and i am also a huge fan of tacit's mission and approach",
+      "zh": "我们@every 经常对我们认为优秀的人工智能创始人进行投资\n\n@ninklefitz 是这些创始人之一，我也是 Tacit 使命和方法的忠实粉丝"
+    },
+    "adityaag": {
+      "en": "The questions SPC members explore signal where the frontier is heading next.",
+      "zh": "SPC 成员探讨的问题标志着前沿的下一步发展方向。"
+    },
+    "sama": {
+      "en": "noam is one of the people I have most wanted to work with since the very beginning of openai.\n\nonly took 10 years.\n\ni think it will be worth the wait!",
+      "zh": "自 openai 成立以来，noam 是我最想与之合作的人之一。\n\n只花了10年时间。\n\n我认为等待是值得的！"
+    },
+    "claudeai": {
+      "en": "Claude Design is in beta on all paid plans, on web and desktop. Give it a try:",
+      "zh": "Claude Design 在所有付费计划、网络和桌面上均处于测试阶段。尝试一下："
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:36\nHi, I'm Mike Taylor. I'm the head of tech consulting at Every, and I sat down with Kyle Daigle, the COO of GitHub, and talked to him about what is happening on the front lines of coding agents. We have 17,000,000 poll requests coming in every month to GitHub now, it's growing exponentially and that puts them at the forefront of what's happening in this new economy. We talked about how that affects their users as well as how this affects open source maintainers and we co...",
+      "zh": "演讲者 1 | 00:00 - 00:36\n嗨，我是迈克·泰勒。我是 Every 的技术咨询主管，我与 GitHub 的首席运营官凯尔·戴格尔 (Kyle Daigle) 坐下来，与他讨论了编码代理前线正在发生的事情。现在，我们每个月都会向 GitHub 发送 17,000,000 个民意调查请求，这一数字呈指数级增长，这使它们处于新经济中发生的事情的最前沿。我们讨论了这如何影响他们的用户以及这如何影响开源维护者，我们共同",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
