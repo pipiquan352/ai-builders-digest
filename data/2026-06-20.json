@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-06-20T15:45:20.668Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2068233518858342887",
+          "text": "10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev.\n\nit is very important that you answer.\n\n*now @MLHacks, who are producing the first ever physical daily newspaper at @aidotengineer WF https://t.co/tYDapAogYY https://t.co/nVuMvkDhnQ",
+          "createdAt": "2026-06-20T07:24:31.000Z",
+          "url": "https://x.com/swyx/status/2068233518858342887",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2067660484963410361"
+        },
+        {
+          "id": "2068229031884100066",
+          "text": "@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr @zoink @Polymarket @aiDotEngineer /goaaaaaaaaaaal\n\nhttps://t.co/oo75ct3QwX https://t.co/4W90w31Os0",
+          "createdAt": "2026-06-20T07:06:41.000Z",
+          "url": "https://x.com/swyx/status/2068229031884100066",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2068128794310046038"
+        },
+        {
+          "id": "2068084391260426345",
+          "text": "Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
+          "createdAt": "2026-06-19T21:31:56.000Z",
+          "url": "https://x.com/swyx/status/2068084391260426345",
+          "likes": 269,
+          "retweets": 2,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2068001285173834106"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2068064304503660962",
+          "text": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete\n\nhttps://t.co/Aqd4ZG7Cum\n\nHope this holds up in peer review! 🤞",
+          "createdAt": "2026-06-19T20:12:07.000Z",
+          "url": "https://x.com/bcherny/status/2068064304503660962",
+          "likes": 1460,
+          "retweets": 143,
+          "replies": 119,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2068144722460475527",
+          "text": "Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
+          "createdAt": "2026-06-20T01:31:40.000Z",
+          "url": "https://x.com/thsottiaux/status/2068144722460475527",
+          "likes": 962,
+          "retweets": 47,
+          "replies": 50,
+          "isQuote": true,
+          "quotedTweetId": "2062927700218859686"
+        },
+        {
+          "id": "2068120572673077274",
+          "text": "Remote / local handoff in Codex! Removing boundaries one at a time. \n\nWhen you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
+          "createdAt": "2026-06-19T23:55:43.000Z",
+          "url": "https://x.com/thsottiaux/status/2068120572673077274",
+          "likes": 1138,
+          "retweets": 71,
+          "replies": 95,
+          "isQuote": true,
+          "quotedTweetId": "2068062280345162047"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2068175172960690266",
+          "text": "I used to be a die-hard Claude Code user.\n\nCodex has won me over because:\n\n→ GPT-5.5 is excellent\n→ Fast mode + generous limits = more reps\n→ Little touches like steering, auto remote control on phone, etc\n\nBut most of all Codex's browser and computer use capabilities are simply goated. I built so many workflows relying on those two things alone instead of hunting for APIs.\n\nI still use Claude Code too. The app seems to be getting better and the design and frontend capability of Opus is still much better than GPT. Whenever Fable comes back that's another reason to go back.\n\nHonestly, I hope these two compete forever and other players (Cursor/Grok, Gemini, etc) all stay competitive.\n\nThis way the builder keeps winning 🙂",
+          "createdAt": "2026-06-20T03:32:40.000Z",
+          "url": "https://x.com/petergyang/status/2068175172960690266",
+          "likes": 350,
+          "retweets": 5,
+          "replies": 42,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2068164193451475387",
+          "text": "It was all a dream 🥲 https://t.co/QNcth9oQ6x",
+          "createdAt": "2026-06-20T02:49:03.000Z",
+          "url": "https://x.com/petergyang/status/2068164193451475387",
+          "likes": 38,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2068218515723866477",
+          "text": "I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition that was then fixed with surgery. Now I'm wondering if I had 30+ years of pain because doctors worried I was too stupid to be in the presence of scan results.",
+          "createdAt": "2026-06-20T06:24:54.000Z",
+          "url": "https://x.com/AmandaAskell/status/2068218515723866477",
+          "likes": 561,
+          "retweets": 19,
+          "replies": 28,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2068162192927756544",
+          "text": "A counter to this is \"yes but people *don't* ignore it\". But not ignoring things on scans is our norm because, until recently, we only did scans if there was a clear need. If we move to a scan-more-often paradigm, the norms of what we do with that information will surely adjust.",
+          "createdAt": "2026-06-20T02:41:06.000Z",
+          "url": "https://x.com/AmandaAskell/status/2068162192927756544",
+          "likes": 332,
+          "retweets": 11,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2068162191740764622",
+          "text": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
+          "createdAt": "2026-06-20T02:41:05.000Z",
+          "url": "https://x.com/AmandaAskell/status/2068162191740764622",
+          "likes": 774,
+          "retweets": 24,
+          "replies": 66,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2068182309719728159",
+          "text": "“The best conference experience I’ve had this year” https://t.co/VGwWxmo21W",
+          "createdAt": "2026-06-20T04:01:02.000Z",
+          "url": "https://x.com/amasad/status/2068182309719728159",
+          "likes": 31,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2068181521572257808"
+        },
+        {
+          "id": "2068177018479403065",
+          "text": "Vibecon recap https://t.co/uvKptOPsTk",
+          "createdAt": "2026-06-20T03:40:00.000Z",
+          "url": "https://x.com/amasad/status/2068177018479403065",
+          "likes": 47,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2068165988005380478",
+          "text": "The next hot programming language is… markdown.\n\nA minimal eve agent:\n\n📂 𝚊𝚐𝚎𝚗𝚝/\n  📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍\n  📂 𝚜𝚔𝚒𝚕𝚕𝚜/\n     📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍\n\nDeployable in one command: 𝚟𝚎𝚛𝚌𝚎𝚕.\n\nIt’s the most accessible programming has ever been. And likely will ever be, at least for the generation of software fully defined and controlled by us humans.\n\n(As a fun fact, one of the initial prototypes for eve was codenamed 𝚕𝚊𝚜𝚝 by @timolins, both in homage to ‘@nextjs for agents’ but also in recognition of how enduring eve’s design feels to us.)",
+          "createdAt": "2026-06-20T02:56:10.000Z",
+          "url": "https://x.com/rauchg/status/2068165988005380478",
+          "likes": 624,
+          "retweets": 33,
+          "replies": 66,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2067936390285807940",
+          "text": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).\n\nThe original vision of the WWW coming to life before our eyes.",
+          "createdAt": "2026-06-19T11:43:50.000Z",
+          "url": "https://x.com/rauchg/status/2067936390285807940",
+          "likes": 1244,
+          "retweets": 85,
+          "replies": 86,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2068068247413694532",
+          "text": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. \n\nThis is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data. \n\n“What they need is a working set: plans, notes, task lists, policies, drafts, summaries, logs, corrections,  decisions, etc. For that layer, a filesystem-shaped interface tends to be more legible to both the model and the humans supervising it.”\n\nIt turns out giving agents access to the systems we already know how to use, but in a way that is best optimized for them, is the perfect primitive for agents to work.",
+          "createdAt": "2026-06-19T20:27:47.000Z",
+          "url": "https://x.com/levie/status/2068068247413694532",
+          "likes": 308,
+          "retweets": 30,
+          "replies": 46,
+          "isQuote": true,
+          "quotedTweetId": "2066558169741173177"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2068007205102842238",
+          "text": "Tip: pick the worst thing you are afraid to show your board for your next board meeting and make it slide one (you can only do this with good boards btw)\n\nMake it a big deal you did that. Make it a habit. https://t.co/66Hu5uJGRP",
+          "createdAt": "2026-06-19T16:25:14.000Z",
+          "url": "https://x.com/garrytan/status/2068007205102842238",
+          "likes": 173,
+          "retweets": 17,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2067967042292965650"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2068087153091858801",
+          "text": "When your VC is exhausted from attending the board meeting https://t.co/PHHnZWwumQ",
+          "createdAt": "2026-06-19T21:42:55.000Z",
+          "url": "https://x.com/mattturck/status/2068087153091858801",
+          "likes": 75,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2068204606119874728",
+          "text": "SF I have an idea.. https://t.co/efoCDkXhHj",
+          "createdAt": "2026-06-20T05:29:38.000Z",
+          "url": "https://x.com/nikunj/status/2068204606119874728",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2068127547980918879",
+          "text": "Some people meditate, I listen to @EITS 💥 https://t.co/mgiVZ3YE2Z",
+          "createdAt": "2026-06-20T00:23:26.000Z",
+          "url": "https://x.com/nikunj/status/2068127547980918879",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2068199277277401419",
+          "text": "Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn",
+          "createdAt": "2026-06-20T05:08:27.000Z",
+          "url": "https://x.com/steipete/status/2068199277277401419",
+          "likes": 189,
+          "retweets": 7,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2068147770717007915"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+      "publishedAt": "2026-06-18T10:00:00.000Z"
+    }
+  ]
+}

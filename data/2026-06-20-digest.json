@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Anthropic is going to IPO at $2T",
+      "zh": "Anthropic 将以 2T 美元的价格进行 IPO"
+    },
+    "bcherny": {
+      "en": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete\n\n\n\nHope this holds up in peer review! 🤞",
+      "zh": "使用 Claude Code 的酷炫方式：破译 Linear A，一种来自克里特岛 3500 年前的书面语言\n\n\n\n希望这能在同行评审中站得住脚！ 🤞"
+    },
+    "thsottiaux": {
+      "en": "Remote / local handoff in Codex! Removing boundaries one at a time. \n\nWhen you let the model be in the driver seat, you actually need less infrastructure.",
+      "zh": "Codex 中的远程/本地切换！一次一个地消除界限。 \n\n当您让模型处于主导地位时，您实际上需要的基础设施会更少。"
+    },
+    "petergyang": {
+      "en": "I used to be a die-hard Claude Code user.\n\nCodex has won me over because:\n\n→ GPT-5.5 is excellent\n→ Fast mode + generous limits = more reps\n→ Little touches like steering, auto remote control on phone, etc\n\nBut most of all Codex's browser and computer use capabilities are simply goated. I built so many workflows relying on those two things alone instead of hunting for APIs.\n\nI still use Claude Code too. The app seems to be getting better and the design and frontend capability of Opus is still much better than GPT. Whenever Fable comes back that's another reason to go back.\n\nHonestly, I hope these two compete forever and other players (Cursor/Grok, Gemini, etc) all stay competitive.\n\nThis way the builder keeps winning 🙂",
+      "zh": "我曾经是克劳德代码的铁杆用户。\n\nCodex 赢得了我的青睐，因为：\n\n→ GPT-5.5 非常优秀\n→ 快速模式 + 慷慨的限制 = 更多次数\n→ 一些小细节，如转向、手机自动远程控制等\n\n但最重要的是，Codex 的浏览器和计算机使用功能都非常有限。我仅依靠这两件事构建了如此多的工作流程，而不是寻找 API。\n\n我也仍然使用克劳德代码。该应用程序似乎越来越好，Opus 的设计和前端能力仍然比 GPT 好得多。每当《神鬼寓言》回归时，这就是回去的另一个理由。\n\n老实说，我希望这两个人永远竞争，而其他玩家（Cursor/Grok、Gemini 等）都保持竞争力。\n\n这样建造者就能不断获胜 🙂"
+    },
+    "AmandaAskell": {
+      "en": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
+      "zh": "我们不应该做更多的医学扫描，因为偶然的发现会造成很大的伤害，这种观点并不适合我。它指出的问题似乎不是扫描，而是对其的响应。如果您在扫描中看到某些内容但没有其他症状，则可以忽略它。"
+    },
+    "amasad": {
+      "en": "Vibecon recap",
+      "zh": "Vibecon 回顾"
+    },
+    "rauchg": {
+      "en": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).\n\nThe original vision of the WWW coming to life before our eyes.",
+      "zh": "代理正在激发许多健康的软件习惯。开放 API、文档（技能）、测试（评估）、Unix (CLI)、支付和商务协议，甚至广泛使用 (markdown/json/html)。\n\n万维网的最初愿景在我们眼前实现。"
+    },
+    "levie": {
+      "en": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. \n\nThis is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data. \n\n“What they need is a working set: plans, notes, task lists, policies, drafts, summaries, logs, corrections,  decisions, etc. For that layer, a filesystem-shaped interface tends to be more legible to both the model and the humans supervising it.”\n\nIt turns out giving agents access to the systems we already know how to use, but in a way that is best optimized for them, is the perfect primitive for agents to work.",
+      "zh": "代理取得成功的主要变量是您能否为代理提供完成其工作所需的上下文；其中一个主要因素是您是否可以为该代理创建一个人类也可以理解的共享工作区域。 \n\n这就是使用文件系统的代理如此重要的原因之一。它创建了一个统一的系统，人员和代理都可以在其中工作以传递数据。 \n\n“他们需要的是一个工作集：计划、笔记、任务列表、政策、草稿、摘要、日志、更正、决策等。对于该层，文件系统形状的界面对于模型和监督它的人员来说往往更清晰。”\n\n事实证明，让代理能够访问我们已经知道如何使用的系统，但以最适合他们的方式进行访问，是代理工作的完美原语。"
+    },
+    "garrytan": {
+      "en": "Tip: pick the worst thing you are afraid to show your board for your next board meeting and make it slide one (you can only do this with good boards btw)\n\nMake it a big deal you did that. Make it a habit.",
+      "zh": "提示：选择您害怕在下一次董事会会议上向董事会展示的最糟糕的事情，并将其放在幻灯片上（顺便说一句，您只能在好的董事会上做到这一点）\n\n把你所做的事当作一件大事。让它成为一种习惯。"
+    },
+    "mattturck": {
+      "en": "When your VC is exhausted from attending the board meeting",
+      "zh": "当你的 VC 因参加董事会会议而精疲力尽时"
+    },
+    "nikunj": {
+      "en": "SF I have an idea..",
+      "zh": "SF我有一个想法.."
+    },
+    "steipete": {
+      "en": "Hannes speaks both developer and agents. Blessed to have him on the team!",
+      "zh": "Hannes 会说开发商和代理商的语言。很幸运有他加入团队！"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:28\nNine of the 10 company I invest, halfway they change their business plan because market have changed. Yeah. So I like to have entrepreneur as team, not just one person. I always believed in when I was at Cadence and also at Intel is first of all you crawl and be humble, listen to customer. And then first step for me is to strengthen my balance sheet, focus on the products, and I really simplify the product, listen to the customer, and then drive the next generation lead...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n我投资的 10 家公司中有 9 家中途改变了商业计划，因为市场发生了变化。是的。所以我喜欢企业家作为一个团队，而不是一个人。当我在 Cadence 和 Intel 时，我始终相信，首先要谦虚、倾听客户的意见。对我来说，第一步是加强我的资产负债表，专注于产品，我真的简化了产品，倾听客户的意见，然后推动下一代领先",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
