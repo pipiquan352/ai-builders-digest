@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw this is what happens on July 4 if team usa wins this game Wednesday after next",
+      "zh": "顺便说一句，如果美国队在下周三赢得这场比赛，这就是 7 月 4 日发生的情况"
+    },
+    "thsottiaux": {
+      "en": "We built the Codex App with models that were okayish at front-end.\n\nWait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+      "zh": "我们使用前端还不错的模型构建了 Codex 应用程序。\n\n等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。"
+    },
+    "petergyang": {
+      "en": "I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models…\n\nAlso to try the latest glm locally requires 512 mb which is like a $10K Max Studio?",
+      "zh": "我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……\n\n另外，要在本地尝试最新的 glm 需要 512 mb，这就像价值 1 万美元的 Max Studio？"
+    },
+    "thenanyu": {
+      "en": "Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it?\n\nCrazy that this is still a problem",
+      "zh": "为什么电子邮件应用程序中粘贴的文本默认不采用其周围/之前的字体处理？\n\n疯狂的是这仍然是一个问题"
+    },
+    "realmadhuguru": {
+      "en": "The Product role is having an identity crisis too.\n\nEngineering has found its AI-native interface - SWE agents dramatically increase individual leverage.\nCompanies are asking PMs to use AI, but they haven't evolved the role.\n\nSo there are two camps.\n\nThe old-school PM.\nAI accelerates the old job: more PRDs, more strategy decks, more docs. Lots of output, not much judgment.\n\nThe Builder PM.\nBuilder PMs use AI to expand their role across the product lifecycle.\n\nThey explore a much larger surface area of ideas to arrive at the best. They run agents for market and user research, query logs and analytics directly, generate competing ideas, then curate the best ones.\n\nThey constantly evolve their workflows to take advantage of the latest in AI.\n\nTheir outputs are increasingly prototypes rather than docs - engineers react far more constructively to demos than docs.\n\nThey do this all without compromising on the craft -they still form a strong point of view on what should be built and why.\n\nI think the role is moving much closer to Builder PMs.",
+      "zh": "产品角色也面临着身份危机。\n\nEngineering 发现了其 AI 原生界面 - SWE 代理极大地提高了个人影响力。\n公司要求产品经理使用人工智能，但他们还没有发展这个角色。\n\n所以有两个阵营。\n\n老派的总理。\n人工智能加速了旧的工作：更多的 PRD、更多的策略平台、更多的文档。输出很多，判断不多。\n\n建筑商 PM。\n建筑商产品经理使用人工智能来扩展他们在整个产品生命周期中的角色。\n\n他们探索更大范围的想法，以达到最好的效果。他们运行市场和用户研究代理，直接查询日志和分析，产生竞争性想法，然后策划最好的想法。\n\n他们不断改进工作流程，以利用最新的人工智能技术。\n\n他们的输出越来越多地是原型而不是文档——工程师对演示的反应比文档更具建设性。\n\n他们在完成这一切的同时，并没有对工艺做出任何妥协——他们仍然对应该建造什么以及为什么建造形成了强烈的观点。\n\n我认为这个角色越来越接近建筑商产品经理。"
+    },
+    "amasad": {
+      "en": "We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+      "zh": "我们发帖二十年了，以为我们是在互相交谈。然后变压器上线，网络读取我们写的内容，然后变成它自己。"
+    },
+    "rauchg": {
+      "en": "Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.",
+      "zh": "@zai_org 的 GLM-5.2 在编码方面的出色表现给我留下了深刻的印象，几乎令人震惊。这改变了事情。"
+    },
+    "levie": {
+      "en": "Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. \n\nThe more that open weights is able to maintain only a marginal gap from the frontier, instead of a widening gap, the more value that can be created with AI.\n\nIncidentally, this is actually fine for the frontier labs as well; if we can lower the cost of an overall task then AI usage goes up in general. You’re still likely using frontier models for planning, orchestration, reviewing, and other parts of work. \n\nBut this is all very good for the applied layer of AI, which is now in a great position to cost optimize workloads with cheaper models or use tailored open models post-trained for specific tasks to improve performance.",
+      "zh": "目前开放权重人工智能所发生的事情非常引人注目。我们看到模型在特定任务上取得了 SOTA 结果，并且在某些编码领域和其他领域接近前沿。 \n\n开放权重越能保持与前沿的边际差距，而不是差距不断扩大，人工智能可以创造的价值就越大。\n\n顺便说一句，这对于前沿实验室来说实际上也很好。如果我们能够降低整体任务的成本，那么人工智能的使用率总体上会上升。您仍然可能使用前沿模型来进行规划、编排、审查和其他工作部分。 \n\n但这对于人工智能的应用层来说都是非常好的，它现在处于一个有利的位置，可以使用更便宜的模型来优化工作负载的成本，或者使用针对特定任务进行后训练的定制开放模型来提高性能。"
+    },
+    "garrytan": {
+      "en": "Try  and find out",
+      "zh": "尝试找出答案"
+    },
+    "nikunj": {
+      "en": "The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that. \n\nI talk to so many people who say xyz doesn’t work and when I ask when was the last time they tried testing it, the answer is always “a few months ago.” \n\nBrother that’s like eons ago in AI timelines. This is why each person needs to have their own evals of hard tasks and weekly tinker time to truly understand where the frontier is. \n\nAnd then you need to talk to enterprise buyers weekly who are usually two years behind. But they are the buyers so you need to understand how to market. \n\nThe combination of the two will give you a pretty good sense of where to invest time and capital. If you just do these two weekly, you’ll be ahead of 99% of people.",
+      "zh": "人工智能最大的问题是，先验需要每隔几周重置一次……而且似乎大多数人都无法做到这一点。 \n\n我和很多人交谈过，他们说 xyz 不起作用，当我问他们最后一次尝试测试它是什么时候时，答案总是“几个月前”。 \n\n兄弟，这就像人工智能时间线上的亿万年前一样。这就是为什么每个人都需要对艰巨的任务和每周的修补时间进行自己的评估，以真正了解前沿在哪里。 \n\n然后你需要每周与通常落后两年的企业买家交谈。但他们是买家，所以你需要了解如何营销。 \n\n两者的结合将使您很好地了解在哪里投资时间和资金。如果你每周做这两件事，你就会领先于 99% 的人。"
+    },
+    "steipete": {
+      "en": "If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens!",
+      "zh": "如果您在日本🇯🇵或在那里做生意，这是您获得大量代币的机会！"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:22\nI'm Jacob Efron, and this is unsupervised learning. We've had a bunch of new subscribers over our last few months, and so wanted to welcome you to the show. We basically probe the sharpest minds in AI on everything that's happening today, what's real, and what's coming up, where the space is headed. And today's episode is one of my favorite formats we do. It's an AI vibe check, that we do with Ari from Datalogy.\n\nSpeaker 1 | 00:22 - 00:46\nAri was a former researcher at ...",
+      "zh": "演讲者 1 | 00:00 - 00:22\n我是雅各布·埃夫隆，这是无监督学习。在过去的几个月里，我们有了很多新订阅者，因此欢迎您来到这个节目。我们基本上探究人工智能领域最敏锐的头脑，了解今天发生的一切、真实的情况、即将发生的情况以及空间的发展方向。今天的节目是我最喜欢的节目形式之一。这是我们与 Datalogy 的 Ari 一起进行的 AI 氛围检查。\n\n演讲者 1 | 00:22 - 00:46\nAri 曾任研究员",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
