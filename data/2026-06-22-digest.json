@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high\n\nmy real estate broker: \"just go with corgi they are covering every single one of my clients rn\"\n\nbreaking through with ~100% greenfield market share like this is unheard of in the insurance industry",
+      "zh": "顺便说一句，我一直在为我们正在建立的新媒体实验室（基本上是 swyx 公司的创意游乐场）寻找保险公司，是的，柯基犬的 NPS 非常高\n\n我的房地产经纪人：“就和柯基犬一起去吧，他们涵盖了我的每一位客户”\n\n以约 100% 的新建市场份额实现突破，这在保险行业是闻所未闻的"
+    },
+    "thsottiaux": {
+      "en": "What should we improve in the Codex app. What's not delightful?",
+      "zh": "我们应该在 Codex 应用程序中改进哪些方面。有什么不令人愉快的呢？"
+    },
+    "petergyang": {
+      "en": "Why HTML turned out to be the foundation for agentic video making from @liu8in:\n\n“We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence.\n\nSo that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.\n\nFootage, images, assets, SVGs can all sit on top of HTML.\"\n\n📌 As an example, see how you can make a product video from any website URL here:",
+      "zh": "@liu8in 为何 HTML 成为代理视频制作的基础：\n\n“我们一直在尝试构建一个视频代理。然而，我们惨痛地认识到代理没有视觉智能。\n\n这就是我们转向代码的时候。 HTML 是法学硕士的母语。 LLM 不仅可以表达信息，还可以通过 HTML、CSS 和 JavaScript 表达视觉美感。\n\n素材、图像、资产、SVG 都可以位于 HTML 之上。”\n\n📌 作为示例，请参阅如何从此处的任何网站 URL 制作产品视频："
+    },
+    "thenanyu": {
+      "en": "“Quality is irrational” is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks.",
+      "zh": "“质量是非理性的”是一个很好的描述方式。你必须有一种非理性的承诺，不断地选择质量，并且有一种非理性的自信，认为从上到下控制事物会比使用通用框架产生更好的结果。"
+    },
+    "rauchg": {
+      "en": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.",
+      "zh": "如果你允许的话，编码剂会榨干你身上的每一盎司宜家效应。"
+    },
+    "levie": {
+      "en": "Agents will use software 100X more than people. \n\nWhen that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.\n\nA simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless that the usage and value go up substantially. Agents will end up using our CRM data, documents and corporate knowledge, analytics data, and other information far more than people ever did.\n\nThe platforms that can move toward the model of powering these headless interactions, and have a business model and technology strategy to support this, will be in the best position in the future.",
+      "zh": "代理使用软件的次数比人多 100 倍。 \n\n当这种情况发生时，就非常需要对特工正在做的事情进行防护，这样他们就不会泄露数据或更改错误信息，需要有权威的事实来源供他们使用，记录和审计他们正在做的事情，通过这些系统与人们协作的能力等等。\n\n对任何给定代理任务的简单查询可能会获取比用户一个月内接触的数据还要多的数据。因此，有很多类别的软件在实现无头后，其使用率和价值都会大幅上升。代理商最终将比人们更多地使用我们的 CRM 数据、文档和公司知识、分析数据和其他信息。\n\n能够走向支持这些无头交互的模式，并拥有支持这一模式的商业模式和技术战略的平台，将在未来处于最佳位置。"
+    },
+    "ryolu_": {
+      "en": "missing wooden shelves\nso i made Books in ryOS\n\nstarted in Cursor mobile, then hand-tuned the animations and textures until things felt right",
+      "zh": "缺少木架子\n所以我在 ryOS 中制作了书籍\n\n从 Cursor mobile 开始，然后手动调整动画和纹理，直到感觉合适为止"
+    },
+    "garrytan": {
+      "en": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI\n\nAGI gives you the intelligence\n\nYou still have to collect your personal context to get the real unlock",
+      "zh": "我认为，当我们回顾过去时，有一件被低估的事情是，在 2026 年可用 AGI 出现之初，拥有自己的个人大脑和公司大脑是多么有用\n\nAGI 给你智慧\n\n您仍然需要收集您的个人背景才能获得真正的解锁"
+    },
+    "nikunj": {
+      "en": "Happens every week 🙈\n\n&gt; see an interesting project on X\n&gt; play with it, fork it, try it, have some ideas\n&gt; go to founder profile\n&gt; press the message button \n\n…\n\n&gt; pray to God that I haven’t missed a DM from them before 😢\n\nI try to respond to all the DMs but miss sometimes!!",
+      "zh": "每周都会发生🙈\n\n> 在 X 上查看一个有趣的项目\n> 玩弄它，分叉它，尝试它，有一些想法\n> 转到创始人简介\n> 按消息按钮 \n\n……\n\n> 向上帝祈祷我之前没有错过他们的 DM 😢\n\n我尝试回复所有的私信，但有时会错过！！"
+    },
+    "steipete": {
+      "en": "This is becoming my favorite way to read Twitter.",
+      "zh": "这正在成为我最喜欢的阅读 Twitter 的方式。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:02\nSo we could edit this set so it looks like we're\n\nSpeaker 2 | 00:02 - 00:06\nhere. Okay? Yeah. Yeah. I I want this where where we were talking off camera.\n\nSpeaker 2 | 00:06 - 00:36\nLike, we should do that for the intro because I think it just, like, makes all this stuff more capable. I've seen these examples of, like, such subtle nuance that make me appreciate that it's like the world understanding playing out. I was giving a talk and was on stage with my friend, Tulsi,...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n所以我们可以编辑这个集合，这样看起来我们就\n\n扬声器 2 | 00:02 - 00:06\n在这里。好的？是的。是的。我想要这个我们在镜头下交谈的地方。\n\n扬声器 2 | 00:06 - 00:36\n就像，我们应该在介绍中这样做，因为我认为它只是让所有这些东西变得更有能力。我见过这些微妙的例子，让我意识到这就像世界的理解正在发挥作用。我当时正在演讲，和我的朋友图尔西一起上台，",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
