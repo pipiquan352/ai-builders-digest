@@ -1,0 +1,384 @@
+{
+  "generatedAt": "2026-06-23T16:26:52.875Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2069310157864194066",
+          "text": "https://t.co/HDDg9fFDK6",
+          "createdAt": "2026-06-23T06:42:42.000Z",
+          "url": "https://x.com/swyx/status/2069310157864194066",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069301071965741388",
+          "text": "i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?\n\nSpaceX has already recouped about HALF its investment in Cursor, in compute deals. The other half is  paid for if Composer 3 does well. \n\nNo other company is simultaneously a leading model lab + neocloud (at least where GPUs is concerned). its a crazy effective combo iff you've adequately planned out gpu supply if inhouse training 1) goes very well 2) doesn't go very well",
+          "createdAt": "2026-06-23T06:06:35.000Z",
+          "url": "https://x.com/swyx/status/2069301071965741388",
+          "likes": 61,
+          "retweets": 1,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2069078511948910820"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2069267387464274366",
+          "text": "What are we codexing tonight",
+          "createdAt": "2026-06-23T03:52:44.000Z",
+          "url": "https://x.com/thsottiaux/status/2069267387464274366",
+          "likes": 924,
+          "retweets": 17,
+          "replies": 491,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069152499416928256",
+          "text": "https://t.co/aEkhh523n3",
+          "createdAt": "2026-06-22T20:16:13.000Z",
+          "url": "https://x.com/thsottiaux/status/2069152499416928256",
+          "likes": 210,
+          "retweets": 4,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069152290326630518",
+          "text": "Let's Patch The Planet. Updates to codex security and a new GPT-5.5-Cyber. A day of celebration for cyber defense acceleration.\n\nhttps://t.co/SYKQvsTA44",
+          "createdAt": "2026-06-22T20:15:23.000Z",
+          "url": "https://x.com/thsottiaux/status/2069152290326630518",
+          "likes": 1386,
+          "retweets": 63,
+          "replies": 111,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "tweets": [
+        {
+          "id": "2069279618969075819",
+          "text": "Ok I've fallen for the ragebaiting and have been triggered by this so I'm going to say this: \n\nWhether intentional or not, there's a lot of virality that comes from:\n\n1. Pick the most ragebait moment of the conversation\n2. Make a clip of that exact moment\n3. Get tons of retweets and views\n\nI can tell it's rage baiting (just like the Corgi founder clip) but here's the thing - if even one parent watches this clip and decides to neglect their kids more then the damage is done.\n\nAnd yes it's hard to work at home when your kid comes back at 3 pm (or 1 pm with summer camp!) but we all make our choices.",
+          "createdAt": "2026-06-23T04:41:21.000Z",
+          "url": "https://x.com/petergyang/status/2069279618969075819",
+          "likes": 45,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2068862030166282597"
+        },
+        {
+          "id": "2069267139576693028",
+          "text": "I'm reading this and I still don't get what a dynamic workflow is or when to use it in Claude Code \n\nhttps://t.co/2dlfB1Qof3 https://t.co/PESTVQfSQ1",
+          "createdAt": "2026-06-23T03:51:45.000Z",
+          "url": "https://x.com/petergyang/status/2069267139576693028",
+          "likes": 54,
+          "retweets": 4,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069118077313425840",
+          "text": "I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it.\n\nI am a gamer at heart! Who's the best person to talk to?",
+          "createdAt": "2026-06-22T17:59:26.000Z",
+          "url": "https://x.com/petergyang/status/2069118077313425840",
+          "likes": 85,
+          "retweets": 2,
+          "replies": 38,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2069217138775388603",
+          "text": "Never quit https://t.co/INdRImOBUI",
+          "createdAt": "2026-06-23T00:33:04.000Z",
+          "url": "https://x.com/amasad/status/2069217138775388603",
+          "likes": 708,
+          "retweets": 36,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2069090853428265138"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2069219190834127276",
+          "text": "Claude Design → Vercel, in one click https://t.co/Btq9hFk7OB https://t.co/NpgdokzpvE",
+          "createdAt": "2026-06-23T00:41:13.000Z",
+          "url": "https://x.com/rauchg/status/2069219190834127276",
+          "likes": 498,
+          "retweets": 21,
+          "replies": 40,
+          "isQuote": true,
+          "quotedTweetId": "2069212724035481884"
+        },
+        {
+          "id": "2069109057433035171",
+          "text": "𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 (and 𝚜𝚘𝚌𝚔𝚎𝚝.𝚒𝚘) now supported on Vercel, from CDN to Fluid.\n\nSpecial full circle moment for @vercel https://t.co/a4ltxacug5",
+          "createdAt": "2026-06-22T17:23:36.000Z",
+          "url": "https://x.com/rauchg/status/2069109057433035171",
+          "likes": 934,
+          "retweets": 35,
+          "replies": 59,
+          "isQuote": true,
+          "quotedTweetId": "2069108513423454298"
+        },
+        {
+          "id": "2069103803727556689",
+          "text": "gm https://t.co/cgg5e13mEy",
+          "createdAt": "2026-06-22T17:02:43.000Z",
+          "url": "https://x.com/rauchg/status/2069103803727556689",
+          "likes": 1662,
+          "retweets": 24,
+          "replies": 46,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2069228335255949775",
+          "text": "Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals. Agent improvements in the applied AI layer is all about evals. Agentic enterprise deployments that actually can augment work is all about evals. It’s all evals.\n\nThis will become a core competency of any enterprise in the future. The companies that are able to best understand their own (and/or customers) workflows and how well agents participate in that work will be in the best position to actually drive real automation.",
+          "createdAt": "2026-06-23T01:17:34.000Z",
+          "url": "https://x.com/levie/status/2069228335255949775",
+          "likes": 308,
+          "retweets": 29,
+          "replies": 33,
+          "isQuote": true,
+          "quotedTweetId": "2068754262440767500"
+        },
+        {
+          "id": "2069140445205348432",
+          "text": "We heard that HTML is a big deal again. You can now preview, edit, manage versions, and securely share any HTML based content on Box. Great for being able to work with any agent produced content immediately. https://t.co/Rgo2TO6RIg",
+          "createdAt": "2026-06-22T19:28:19.000Z",
+          "url": "https://x.com/levie/status/2069140445205348432",
+          "likes": 225,
+          "retweets": 12,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2069218604449771989",
+          "text": "watch on youtube:\nhttps://t.co/2EXXS1YKZk",
+          "createdAt": "2026-06-23T00:38:54.000Z",
+          "url": "https://x.com/ryolu_/status/2069218604449771989",
+          "likes": 22,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069218497272717661",
+          "text": "here's my talk at Cursor Compile\nsome thoughts on how we build in the age of AI\nand what doesn't change https://t.co/otMw3nwPkr",
+          "createdAt": "2026-06-23T00:38:28.000Z",
+          "url": "https://x.com/ryolu_/status/2069218497272717661",
+          "likes": 958,
+          "retweets": 53,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2069316493259706583",
+          "text": "Ben Davis of Illuminate is an SF treasure https://t.co/dGeztCBIGY",
+          "createdAt": "2026-06-23T07:07:52.000Z",
+          "url": "https://x.com/garrytan/status/2069316493259706583",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069298247055925475",
+          "text": "If you haven’t seen 7x7 at SF City Hall it is a sight to behold. Go see it before it goes away July 4th https://t.co/76Lvq32YED",
+          "createdAt": "2026-06-23T05:55:22.000Z",
+          "url": "https://x.com/garrytan/status/2069298247055925475",
+          "likes": 122,
+          "retweets": 1,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069234760615096344",
+          "text": "The California asset seizure tax is only going to impoverish the state and reduce funding for health care\n\nThe SEIU UHW union doesn’t care if quality of care or even the state’s ability to care for its people goes away\n\nThere is only pure self interest there https://t.co/KI3PnPkvV3",
+          "createdAt": "2026-06-23T01:43:06.000Z",
+          "url": "https://x.com/garrytan/status/2069234760615096344",
+          "likes": 281,
+          "retweets": 25,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2069166409897185736"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2069134312239219000",
+          "text": "Update: he now just called him \"the little maestro\" and \"little Leo\"",
+          "createdAt": "2026-06-22T19:03:57.000Z",
+          "url": "https://x.com/mattturck/status/2069134312239219000",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069133752727445551",
+          "text": "You can be Messi, the best footballer ever, and some rando commentator on Fox will still call you \"the little magic man\"",
+          "createdAt": "2026-06-22T19:01:43.000Z",
+          "url": "https://x.com/mattturck/status/2069133752727445551",
+          "likes": 46,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2069070621183758369",
+          "text": "I have been to many concerts but man no one knows how to put on a show like @diljitdosanjh.. \n\n2 hours of nonstop singing and dancing 🕺 https://t.co/wnGpTmQBNV",
+          "createdAt": "2026-06-22T14:50:52.000Z",
+          "url": "https://x.com/nikunj/status/2069070621183758369",
+          "likes": 61,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2069254835686576316",
+          "text": "I feel the same about shared office spaces. https://t.co/uUI0iIXlzr",
+          "createdAt": "2026-06-23T03:02:52.000Z",
+          "url": "https://x.com/steipete/status/2069254835686576316",
+          "likes": 816,
+          "retweets": 25,
+          "replies": 70,
+          "isQuote": true,
+          "quotedTweetId": "2068862030166282597"
+        },
+        {
+          "id": "2069132838356840857",
+          "text": "Patch the Planet. https://t.co/3VK1ikQ0Im",
+          "createdAt": "2026-06-22T18:58:05.000Z",
+          "url": "https://x.com/steipete/status/2069132838356840857",
+          "likes": 616,
+          "retweets": 34,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2069104288417390688"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2069121360744550796",
+          "text": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them. https://t.co/otyCFHJR4d",
+          "createdAt": "2026-06-22T18:12:29.000Z",
+          "url": "https://x.com/sama/status/2069121360744550796",
+          "likes": 5715,
+          "retweets": 374,
+          "replies": 554,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "How Anthropic Uses Claude Fable 5 With Mike Krieger",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-06-10T17:27:38.000Z"
+    }
+  ]
+}

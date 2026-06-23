@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?\n\nSpaceX has already recouped about HALF its investment in Cursor, in compute deals. The other half is  paid for if Composer 3 does well. \n\nNo other company is simultaneously a leading model lab + neocloud (at least where GPUs is concerned). its a crazy effective combo iff you've adequately planned out gpu supply if inhouse training 1) goes very well 2) doesn't go very well",
+      "zh": "我认为没有人正确地计算过 SpaceX、NeoCloud+NeoLab 目前将如何推向市场？\n\nSpaceX 已经通过计算交易收回了 Cursor 大约一半的投资。如果 Composer 3 表现良好，则支付另一半费用。 \n\n没有其他公司同时是领先的模型实验室 + Neocloud（至少在 GPU 方面）。这是一个疯狂有效的组合，前提是你已经充分规划了 GPU 供应，如果内部培训 1) 进展顺利 2) 进展不顺利"
+    },
+    "thsottiaux": {
+      "en": "Let's Patch The Planet. Updates to codex security and a new GPT-5.5-Cyber. A day of celebration for cyber defense acceleration.",
+      "zh": "让我们来修补这个星球。更新了法典安全性和新的 GPT-5.5-Cyber​​。庆祝网络防御加速的一天。"
+    },
+    "petergyang": {
+      "en": "I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it.\n\nI am a gamer at heart! Who's the best person to talk to?",
+      "zh": "我想与擅长使用 Codex / Claude Code 创建有趣的 Pixel 或 Threejs 游戏的人一起制作一个播客节目，并且可以向我们展示如何做到这一点。\n\n我本质上是一个游戏玩家！谁是最适合交谈的人？"
+    },
+    "amasad": {
+      "en": "Never quit",
+      "zh": "永不放弃"
+    },
+    "rauchg": {
+      "en": "gm",
+      "zh": "通用汽车"
+    },
+    "levie": {
+      "en": "Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals. Agent improvements in the applied AI layer is all about evals. Agentic enterprise deployments that actually can augment work is all about evals. It’s all evals.\n\nThis will become a core competency of any enterprise in the future. The companies that are able to best understand their own (and/or customers) workflows and how well agents participate in that work will be in the best position to actually drive real automation.",
+      "zh": "几乎所有人工智能模型和代理的进展都是评估的下游。特定领域训练后的开放权重归结为评估。应用人工智能层中的代理改进全都与评估有关。实际上可以增强工作的代理企业部署都与评估有关。这都是评估。\n\n这将成为未来任何企业的核心能力。能够最好地了解自己（和/或客户）工作流程以及代理参与该工作的程度的公司将处于真正推动真正自动化的最佳位置。"
+    },
+    "ryolu_": {
+      "en": "here's my talk at Cursor Compile\nsome thoughts on how we build in the age of AI\nand what doesn't change",
+      "zh": "这是我在 Cursor Compile 上的演讲\n关于我们如何在人工智能时代进行建设的一些想法\n以及什么没有改变"
+    },
+    "garrytan": {
+      "en": "The California asset seizure tax is only going to impoverish the state and reduce funding for health care\n\nThe SEIU UHW union doesn’t care if quality of care or even the state’s ability to care for its people goes away\n\nThere is only pure self interest there",
+      "zh": "加州资产扣押税只会使该州陷入贫困并减少医疗保健资金\n\nSEIU UHW 工会并不关心护理质量甚至国家照顾人民的能力是否消失\n\n那里只有纯粹的自身利益"
+    },
+    "mattturck": {
+      "en": "You can be Messi, the best footballer ever, and some rando commentator on Fox will still call you \"the little magic man\"",
+      "zh": "你可以成为梅西，有史以来最好的足球运动员，福克斯的一些随机评论员仍然会称你为“小魔术师”"
+    },
+    "nikunj": {
+      "en": "I have been to many concerts but man no one knows how to put on a show like @diljitdosanjh.. \n\n2 hours of nonstop singing and dancing 🕺",
+      "zh": "我去过很多场音乐会，但没有人知道如何举办像@diljitdosanjh 这样的演出。 \n\n2小时不间断的歌舞表演🕺"
+    },
+    "steipete": {
+      "en": "I feel the same about shared office spaces.",
+      "zh": "我对共享办公空间也有同样的感觉。"
+    },
+    "sama": {
+      "en": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
+      "zh": "我们希望与 USG 和安全生态系统合作，帮助所有公司保持安全。\n\n*完整版GPT-5.5-Cyber​​在这里； Cyber​​Gym 上最先进的表现。\n\n*Patch The Planet 和 Codex Security 将帮助解决安全问题，而不仅仅是找到它们。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:04 - 00:07\nMike, welcome to the show. Great to be here, Dan. Good to see you.\n\nSpeaker 2 | 00:07 - 00:17\nSo for people who don't know you, you're the head of Anthropic Labs, and you're the cofounder of Instagram. And today, I wanna talk to you about is Fable five. So Fable five is dropping tomorrow. We're recording this the day before. It's gonna come out after it drops.\n\nSpeaker 2 | 00:17 - 00:39\nBut what I really wanted to do is bring you on the show to tell me about what it's l...",
+      "zh": "演讲者 1 | 00:04 - 00:07\n迈克，欢迎来到这个节目。很高兴来到这里，丹。很高兴见到你。\n\n扬声器 2 | 00:07 - 00:17\n对于不认识您的人来说，您是 Anthropic Labs 的负责人，也是 Instagram 的联合创始人。今天，我想和大家聊的是《神鬼寓言5》。所以《神鬼寓言 5》明天就要发售了。我们是在前一天录制的。掉下来之后就会出来。\n\n扬声器 2 | 00:17 - 00:39\n但我真正想做的是带你上节目来告诉我这是什么",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
