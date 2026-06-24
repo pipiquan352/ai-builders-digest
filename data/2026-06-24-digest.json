@@ -1,0 +1,88 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
+      "zh": "这是与克劳德互动的新范式，它与组织范围内的所有其他人类活动更加“内联”。一旦你完成了所有的幕后工程工作以使其“正常工作”（例如跨工具、集成、计算环境、内存、安全性等），Claude 基本上就会以无缝的方式加入团队 - 你可以像与人交谈一样与它交谈，它可以帮助处理各种各样的工作负载。\n\n我认为这是 LLM UIUX 的第三次重大重新设计。第一个范例是法学硕士是您访问的网站，第二个范例是它是您下载到计算机上的应用程序。第三个是它是一个独立的、持久的、异步的实体，具有组织范围的工具和上下文，与人类团队一起工作。确实需要一段时间才能理解它，但它确实有效，而且非常棒。"
+    },
+    "swyx": {
+      "en": "btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.\n\nnow they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business!\n\nexcited for @Thom_Wolf and @ZixuanLi_ to chat onstage!",
+      "zh": "顺便说一句，Zai 于 1 月份首次公开募股，每股 120 港元。当我第一次见到@louszbd 时，没有人真正认识使用 GLM 的人。\n\n现在他们已经用世界上无可争议的顶级开放模型击败了 Deepseek，在某些方面（参见@ml_angelopoulos）说顶级模型时期，并且正在世界之巅返回 SF @aidotengineer 并开始营业！\n\n很高兴@Thom_Wolf 和@ZixuanLi_ 在台上聊天！"
+    },
+    "joshwoodward": {
+      "en": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp\n\nHow to create yours:\n\n1) Go to  or open the app\n2) Tap Images (side panel)\n3) Select the \"Get in the game\" template\n4) Upload your photo and share your output here",
+      "zh": "⚽️将您的团队忠诚度转变为 @GeminiApp 中的自定义交易卡、壁画或虚拟毛绒玩具\n\n如何创建你的：\n\n1) 前往或打开应用程序\n2) 点击图像（侧面板）\n3）选择“进入游戏”模板\n4) 上传您的照片并在此处分享您的输出"
+    },
+    "bcherny": {
+      "en": "I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.\n\nTo set it up, just add @.Claude to a channel and ask it to do this^, in natural language.",
+      "zh": "我还让 Claude 监控 Slack 频道，主动回复人们，回答他们的问题并起草 PR，并在话题解决后使用特定的表情符号（如 ✅❌）做出反应。\n\n要进行设置，只需将 @.Claude 添加到频道并要求它以自然语言执行此操作^。"
+    },
+    "thsottiaux": {
+      "en": "Codex **had** a bug. Fixed.\n\nMore feedback. Better product. Keep it coming.",
+      "zh": "Codex **有**一个错误。固定的。\n\n更多反馈。更好的产品。继续吧。"
+    },
+    "petergyang": {
+      "en": "wtf the Google Workspace CLI is super useful it should be celebrated?",
+      "zh": "wtf Google Workspace CLI 超级有用，值得庆祝吗？"
+    },
+    "realmadhuguru": {
+      "en": "I’ve had the chance to see this ecosystem from the different sides - enterprises, agent startups, data providers, labs. \n\nThe core tension here is that the business models, moats, value exchange, execution playbooks for all players are being figured out in real time.\n\nThis debate around token pricing is really a debate over where value will accrue - models, application layer, distribution or other layers.\n\nExpect a lot of strong opinions from the different sides to shape the narrative in their favor.",
+      "zh": "我有机会从不同的方面——企业、代理初创公司、数据提供商、实验室——看到这个生态系统。 \n\n这里的核心张力是，所有参与者的商业模式、护城河、价值交换、执行手册都在实时弄清楚。\n\n围绕代币定价的争论实际上是关于价值将在哪里产生的争论——模型、应用程序层、分发或其他层。\n\n期待来自不同方面的大量强烈意见来塑造对他们有利的叙述。"
+    },
+    "_catwu": {
+      "en": "There are 100s of ways you can customize Claude Tag for any use case.\n\nHere are 6 common flows that have resonated with our internal users and external design partners:",
+      "zh": "您可以通过数百种方式为任何用例自定义 Claude Tag。\n\n以下是引起我们内部用户和外部设计合作伙伴共鸣的 6 个常见流程："
+    },
+    "trq212": {
+      "en": "When you really get going, it's easy to get overwhelmed with all the threads. \n\nIn my personal channel I like to ask Claude to keep a pinned message that it updates with the status of everything.",
+      "zh": "当你真正开始工作时，很容易被所有的线程压垮。 \n\n在我的个人频道中，我喜欢要求 Claude 保留一条固定消息，该消息会根据所有内容的状态进行更新。"
+    },
+    "amasad": {
+      "en": "It starts with a prompt — it’s a whole lot of work to get here — but it starts with an idea.\n\nCongrats Yousef and team!",
+      "zh": "它始于一个提示——要到达这里需要做大量的工作——但它始于一个想法。\n\n恭喜尤瑟夫和团队！"
+    },
+    "rauchg": {
+      "en": "Vercel + Cursor",
+      "zh": "维塞尔 + 光标"
+    },
+    "alexalbert__": {
+      "en": "This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team.",
+      "zh": "这完全改变了我与克劳德的合作方式。感觉不像使用工具，而更像管理团队。"
+    },
+    "levie": {
+      "en": "Another example of the power of headless software with agents. With Claude Tag, you can give Claude access to any corporate files in Box that you can interact with from Slack. Now all of your enterprise content becomes a portable knowledge base.",
+      "zh": "带有代理的无头软件强大功能的另一个例子。借助 Claude Tag，您可以让 Claude 访问 Box 中您可以通过 Slack 进行交互的任何公司文件。现在，您的所有企业内容都成为便携式知识库。"
+    },
+    "garrytan": {
+      "en": "Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.",
+      "zh": "Dropbox 确实应该支持大于 3TB 的计划 - 现在已经不是 2015 年了。我们丢弃的、“实际可用”的数据量将因人工智能而呈指数级增长，如果未来不进行更新，Dropbox 将因此而不堪重负。"
+    },
+    "mattturck": {
+      "en": "Expanding the world cup from 32 to 48 teams was such a genius idea.  Creates some Cinderalla stories (Curacao, Cabo Verde, DR Congo etc), and enables the stars (Messi, Ronaldo, MBappe, Haaland etc) to shine early.  Loving it all so far.",
+      "zh": "将世界杯参赛球队从 32 支扩大到 48 支，真是一个天才的想法。  创造了一些灰姑娘的故事（库拉索、佛得角、刚果民主共和国等），并让球星（梅西、罗纳尔多、姆巴佩、哈兰德等）早日发光。  到目前为止，都很喜欢这一切。"
+    },
+    "nikunj": {
+      "en": "Introducing Plug That Shop 🔌\n\nSo @Shopify launched their UCP CLI that allows all the products on their stores available via the command line.\n\nI was thinking of interesting use cases for the CLI over the weekend and realized that I can use this to create contextual embedded shops for websites.\n\nSo now, you can enter your website and get four HIGHLY relevant shops that you can embed in just one click.\n\nFor the buyer using this shop, it's an insanely simple experience since they can click buy and checkout with Shop in literally one click.\n\nAvailable, free to use, NO affiliate revenue at plugthatshop dot com\n\nFeedback welcome!",
+      "zh": "隆重推出 Plug That Shop 🔌\n\n因此@Shopify 推出了他们的 UCP CLI，允许通过命令行提供其商店中的所有产品。\n\n周末我在思考 CLI 的有趣用例，并意识到我可以使用它为网站创建上下文嵌入式商店。\n\n因此，现在，您可以进入您的网站并获得四个高度相关的商店，只需单击一下即可嵌入它们。\n\n对于使用这家商店的买家来说，这是一种非常简单的体验，因为他们只需单击一下即可在商店中单击“购买”和“结帐”。\n\n在plugthatshop dot com 上可用、免费使用、无附属收入\n\n欢迎反馈！"
+    },
+    "steipete": {
+      "en": "Google fired the guy that made the google workspace cli, because he made the google workspace cli.\n\nLucky me, Google can't fire me.",
+      "zh": "Google 解雇了制作 googleworkspacecli 的人，因为他制作了 googleworkspacecli。\n\n我很幸运，谷歌不能解雇我。"
+    },
+    "adityaag": {
+      "en": "There's way more demand for space than capacity to launch.\n\n@LongshotSpace is building a cannon that fires payloads into orbit.\n\nWe’re excited to partner with them at @southpkcommons.\n\nLet’s shoot things into space.",
+      "zh": "对太空的需求远远超过发射能力。\n\n@LongshotSpace 正在建造一门将有效载荷发射到轨道上的大炮。\n\n我们很高兴能在@southpkcommons 与他们合作。\n\n让我们将东西射入太空。"
+    },
+    "claudeai": {
+      "en": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.\n\nRead more:",
+      "zh": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude Enterprise 和 Team 计划。我们计划在未来更广泛地扩展它。\n\n阅读更多："
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:02\nWe just wanna give tools to the whole scientific community.\n\nSpeaker 2 | 00:02 - 00:17\nWe wanna understand how biology works. I wanna understand the genetics of this person. I wanna understand the risks they have to different illnesses. My goal is to be able to treat the individual as an individual, understand the mechanisms, and be able to intervene.\n\nSpeaker 1 | 00:17 - 00:34\nWe'll have a bigger impact by getting us in more scientists hands quicker by doing it as open...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n我们只是想为整个科学界提供工具。\n\n扬声器 2 | 00:02 - 00:17\n我们想了解生物学是如何运作的。我想了解这个人的基因。我想了解他们患不同疾病的风险。我的目标是能够将个体视为个体，了解其中的机制，并能够进行干预。\n\n演讲者 1 | 00:17 - 00:34\n通过开放让更多科学家更快地掌握我们的技术，我们将产生更大的影响",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
