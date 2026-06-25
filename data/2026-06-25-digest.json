@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "we are going to have to Rebuild So. Much. Infra. for the age of Software Factories",
+      "zh": "我们将不得不重建所以。很多。基础设施。软件工厂时代"
+    },
+    "thsottiaux": {
+      "en": "Spicy",
+      "zh": "辛辣的"
+    },
+    "petergyang": {
+      "en": "Claude Design is pretty great. \n\nI gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.\n\nExcept after one prompt it's telling me to save tokens already 😅",
+      "zh": "克劳德的设计非常棒。 \n\n我为我正在构建的移动应用程序提供了一个存储库，它完美地再现了屏幕。\n\n除了一个提示后，它告诉我已经保存令牌了😅"
+    },
+    "AmandaAskell": {
+      "en": "No more goals plz brazil, thank you.",
+      "zh": "巴西队不要再进球了，谢谢。"
+    },
+    "GoogleLabs": {
+      "en": "We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us!",
+      "zh": "我们很荣幸地与大家分享，Project Genie 荣获戛纳国际创意节 AI Craft 大奖！ 🏆 对于我们出色的实验室社区，感谢您与我们一起踏上这段旅程！"
+    },
+    "rauchg": {
+      "en": "AI will bring forth an unprecedented surge in entrepreneurship.\n\nFrom 'solopreneurs,' to the revitalization of the small &amp; medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all.",
+      "zh": "人工智能将带来前所未有的创业浪潮。\n\n从“个体企业家”到中小型企业部门的振兴，再到我们这个时代最大的公司的出现……为这一切奠定了基础。"
+    },
+    "levie": {
+      "en": "There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way.\n\nWe’ve already seen some agentic coding systems start to adopt this pattern (as well as OpenClaw and Hermes), and doing it for general purpose knowledge work continues to push the idea forward.\n\nAs a result, what this means is that this agentic coworker needs its own set of resources, access to tools, and data to work with. This is not the same as you giving it access to your personal resources and tools, because the agent then could accidentally then share those out with anyone. \n\nThe agent needs to instead be like any other user in the system, and you need to be thoughtful about what it should have access to, and make sure its information that is safe to share with that group.\n\nWhen you can pull that off, it’s quite powerful. For instance, by connecting to Claude Tag to Box, you could have Claude access corporate sales materials for questions in sales conversations or generating RFPs, brand guidelines and marketing assets for campaign creation, product roadmap materials and product documentation for coding agents to use, contracts that anyone in the legal team can access, and more.\n\nBut this is just the Box example. You can equally have it access your product or customer analytics data, CRM information, codebase, and other resources and agents that would make sense to work on in a collective manner. \n\nIt’s awesome to see continued innovation in what the future of work may begin to look like with agents.",
+      "zh": "这次发布有一些微妙之处，在实践中非常重要。这不仅仅是您通过 Slack 以 1:1 的形式与 Claude 互动。在这种情况下，Claude 充当任何用户都可以通过共享方式访问的同事。\n\n我们已经看到一些代理编码系统开始采用这种模式（以及 OpenClaw 和 Hermes），并且将其用于通用知识工作继续推动这一想法的发展。\n\n因此，这意味着这位代理同事需要自己的一组资源、工具和数据来工作。这与您授予其访问您的个人资源和工具的权限不同，因为代理可能会意外地与任何人共享这些资源和工具。 \n\n相反，代理需要像系统中的任何其他用户一样，并且您需要考虑它应该有权访问什么，并确保其信息可以安全地与该组共享。\n\n当你能做到这一点时，它就非常强大了。例如，通过连接到 Claude Tag to Box，您可以让 Claude 访问公司销售材料以解决销售对话中的问题或生成 RFP、用于活动创建的品牌指南和营销资产、供编码代理使用的产品路线图材料和产品文档、法律团队中的任何人都可以访问的合同等等。\n\n但这只是 Box 的例子。您同样可以让它访问您的产品或客户分析数据、CRM 信息、代码库以及其他以集体方式工作有意义的资源和代理。 \n\n很高兴看到客服人员的未来工作方式不断创新。"
+    },
+    "ryolu_": {
+      "en": "use cursor in notion\nuse notion in cursor",
+      "zh": "在概念中使用光标\n在光标中使用概念"
+    },
+    "garrytan": {
+      "en": "We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens\n\nAsian elders killed\nPublic education dismantled\n\nIf you start counting their bodies and talking about their abdication of duty, the hard left can’t win",
+      "zh": "我们不会在旧金山做这些垃圾，因为我们看到了这些无情的政客对公民所做的一切\n\n亚裔长老被杀\n公共教育被拆除\n\n如果你开始数他们的尸体并谈论他们的放弃职责，那么极左派就赢不了"
+    },
+    "nikunj": {
+      "en": "The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you..\n\nThat’s your edge. If you can use that, tenacity and combine it with a large market, then magic follows 🪄",
+      "zh": "弄清楚你真正擅长什么的最简单方法就是注意什么对你来说看起来像儿戏，但对你周围的人来说却很难。\n\n这就是你的优势。如果你能利用这一点、坚韧并将其与广阔的市场结合起来，那么魔法就会随之而来🪄"
+    },
+    "danshipper": {
+      "en": "Are we hurtling toward a future where AI can do everything humans can?\n\nEdwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin a unique perspective on how quickly AI progress is accelerating.\n\nI’m on the record arguing that AI automation actually creates more human work. I also believe that even though AI progress is accelerating exponentially, we’re much farther away from AI replacing humans than it might seem.\n\nThat’s why I had Edwin on @every’s AI & I. We batted around different visions of the future, and discussed whether humanity will retain its unique place in the universe, and what that might be.\n\nWe get into:\n• If Chen’s version of the future materializes, he’s worried it’ll make people stop trying. One answer comes from a short story by science fiction writer Ted Chiang: Behave as if your decisions matter, even when you know they don’t.\n• AI may soon be able to take a nebulous goal like “win a Fields Medal” and execute. What it can’t do, I argue, is set its own goals—LLMs have no intrinsic motivation, no drive to explore, no ability to just change their mind.\n• A model optimized for engagement doesn’t provide the most valuable user experience. Edwin spent 20 rounds polishing a pointless email with one model before Claude told him to just send it.\n• Why AI is still bad at writing: models learn to hack the metrics they're trained on. Edwin's Hemingway Bench found models outputting a metaphor in every single sentence, an overindexxing that makes for a terrible reading experience.\n\nThis is a must-watch for anyone interested in where we fit as models get more capable.\n\nWatch below!\n\nTimestamps\n1. Introduction: 00:00:54\n2. Surge as a \"school for AGI\": 00:01:49\n3. What AI's capacity for novel mathematics says about human achievement: 00:04:46\n4. Motivation in an era when AI can do everything: 00:07:29\n5. The trap of optimizing AI models for engagement: 00:14:34\n6. Training using datasets versus training using environments: 00:29:34\n7. The value of personal data: 00:35:09\n8. Why models are bad at writing: 00:39:40\n9. Chen's AGI timeline: 00:42:00",
+      "zh": "我们是否正朝着人工智能可以做人类能做的一切的未来迈进？\n\nEdwin Chen (@echen) 相信我们可能会。他是 Surge AI 的首席执行官，该公司是前沿实验室最大的专家数据提供商之一。 Surge 在没有筹集任何外部资本的情况下就实现了超过 10 亿美元的收入，这让 Edwin 对人工智能进步的加速速度有了独特的视角。\n\n我公开表示，人工智能自动化实际上创造了更多的人类工作。我还相信，尽管人工智能的进步正在呈指数级加速，但我们距离人工智能取代人类的距离比看起来要远得多。\n\n这就是为什么我让埃德温加入@every’s AI & I。我们讨论了对未来的不同愿景，并讨论了人类是否会保留其在宇宙中的独特地位，以及可能是什么。\n\n我们进入：\n• 如果陈的未来版本成为现实，他担心这会让人们停止尝试。一个答案来自科幻小说作家特德·蒋的短篇小说：表现得好像你的决定很重要，即使你知道它们并不重要。\n• 人工智能可能很快就能实现“赢得菲尔兹奖”等模糊目标并执行。我认为，它不能做的是设定自己的目标——法学硕士没有内在动力，没有探索的动力，没有能力改变主意。\n• 针对参与度进行优化的模型并不能提供最有价值的用户体验。埃德温 (Edwin) 花了 20 轮时间与一位模特打磨一封毫无意义的电子邮件，然后克劳德 (Claude) 让他直接发送。\n• 为什么人工智能仍然不擅长写作：模型学会破解它们所训练的指标。埃德温的海明威长凳发现模型在每一个句子中都输出一个隐喻，这种过度索引会带来糟糕的阅读体验。\n\n随着模型变得越来越有能力，对于任何对我们适合的位置感兴趣的人来说，这是必看的。\n\n往下看！\n\n时间戳\n1.简介：00:00:54\n2. Surge 作为“AGI 学校”：00:01:49\n3. 人工智能在新颖数学方面的能力说明了人类的成就：00:04:46\n4.人工智能无所不能时代的动力：00:07:29\n5. 优化 AI 模型参与度的陷阱：00:14:34\n6. 使用数据集进行训练与使用环境进行训练：00:29:34\n7. 个人数据的价值：00:35:09\n8. 为什么模特不擅长写作：00:39:40\n9. Chen的AGI时间表：00:42:00"
+    },
+    "adityaag": {
+      "en": "It is a strange time to be a leader right now. \n\nYou have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes.\n\nYou have to retain a lot of humility.\n\nI was struck by how well @RamaswmySridhar is navigating this moment at @Snowflake.",
+      "zh": "现在成为领导者是一个奇怪的时刻。 \n\n你必须无所畏惧。你必须保持乐观。您必须对即将发生的变化有同理心。\n\n你必须保持谦虚。\n\n我对@RamaswmySridhar 在@Snowflake 的这一刻表现得如此出色感到震惊。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:17\nWe are building this kind of school for AGI where AI models come to learn about humanity, where we teach them how to run the world. It almost seems like there's nothing that humans can do that AI won't soon be capable of. I could see it happening within ten to five years.\n\nSpeaker 2 | 00:17 - 00:50\nAI may be able to do it better than us, but, like, someone told the AI to go do that. They're being built to be means to tasks that humans want them to do. Right? Every is th...",
+      "zh": "演讲者 1 | 00:00 - 00:17\n我们正在为 AGI 建立这样的学校，人工智能模型在这里学习人类，我们教他们如何管理世界。似乎人类能做的事情，人工智能很快就能做到。我可以预见它会在十到五年内发生。\n\n扬声器 2 | 00:17 - 00:50\n人工智能可能比我们做得更好，但是，就像有人告诉人工智能去做那件事一样。它们被构建为完成人类希望它们完成的任务的手段。正确的？每一个都是",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
