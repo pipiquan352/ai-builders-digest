@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "@neondatabase @nikitabase @ankrgyl pls find my soundcloud",
+      "zh": "@neondatabase @nikitabase @ankrgyl 请找到我的 soundcloud"
+    },
+    "thsottiaux": {
+      "en": "Codex for everything at OpenAI",
+      "zh": "OpenAI 的所有内容的 Codex"
+    },
+    "petergyang": {
+      "en": "Feels pretty weird that I can only directly access Codex on mobile through this random iPhone shortcut I made.\n\n(yes I know I can use chatgpt but that takes too many taps)",
+      "zh": "感觉很奇怪，我只能通过我随机创建的 iPhone 快捷方式在移动设备上直接访问 Codex。\n\n（是的，我知道我可以使用 chatgpt，但这需要点击太多次）"
+    },
+    "trq212": {
+      "en": "I'll be talking more about Claude Tag with @petergyang and at AIE with @_catwu. \n\nLet me know if there's anything you'd like us to dive into more!",
+      "zh": "我将与 @petergyang 以及 AIE 与 @_catwu 详细讨论 Claude Tag。 \n\n如果您希望我们深入探讨任何内容，请告诉我！"
+    },
+    "amasad": {
+      "en": "Major updates to mobile app coming soon!",
+      "zh": "移动应用程序的重大更新即将推出！"
+    },
+    "rauchg": {
+      "en": "Next.js \"Ways to fix this\" with \"Copy prompt\" buttons is a work of (agentic) art",
+      "zh": "Next.js 使用“复制提示”按钮的“修复此问题的方法”是一件（代理）艺术作品"
+    },
+    "levie": {
+      "en": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. \n\nRealistically, as AI models became more and more powerful this was going to be inevitable (I think it’s too early, but here we are). So now it’s mostly just interesting to think about the implications and scenarios from here. A few would be:\n\n* America gets to control who gets access to frontier intelligence and when. This generally works as long as we remain at the frontier at all times and don’t have a risk of being surpassed. At the moment we have a clear lead in frontier intelligence so this is a good bet, but lots of motivated parties would love to change that.\n\n* This likely creates backlog of AI releases which means that we will see less rapid fire back and forth jumps in model progress. Bull/fine case is that we just get bigger step functions per release at a slower rate and we end up at the same point we would have. Bear case is those incremental smaller jumps were necessary for the continued flywheel of innovation. \n\n* Other countries likely have even more incentive to at least hedge their bets with sovereign AI strategies so aren’t dependent on access to US AI all times. Previously this was relatively moot because the alternative wasn’t good enough, but that could change out of necessity and what we’re seeing in China.\n\n* Open weights obviously a big winner here as it becomes what likely sovereign AI gets built out on, and what (for now) can still be released to the market without the same controls. One interesting question would be how regulation eventually extends to open models, which would have its own set of long term consequences.\n\nAnyway some big updates to everyone’s mental models of AI regulation as a result of the capabilities we’re now seeing in AI. Wild times.",
+      "zh": "我们现在有了事实上的人工智能监管。目前尚不清楚为什么从现在开始，具有一定能力水平或在特定计算规模上进行训练的模型在发布前无需经过政府审查。 \n\n实际上，随着人工智能模型变得越来越强大，这将是不可避免的（我认为现在还为时过早，但我们已经到了）。所以现在思考这里的影响和场景很有趣。其中一些是：\n\n* 美国可以控制谁能够在何时获得前沿情报。只要我们始终保持在前沿并且不存在被超越的风险，这种方法通常就有效。目前我们在前沿情报方面拥有明显的领先优势，因此这是一个不错的选择，但许多积极主动的各方都希望改变这一点。\n\n*这可能会造成人工智能版本的积压，这意味着我们将看到模型进展中来回快速跳跃的情况减少。牛/好的情况是，我们只是以较慢的速度在每次发布时获得更大的阶跃函数，并且我们最终会达到我们本来应该拥有的相同点。悲观的情况是，那些增量较小的跳跃对于持续创新的飞轮是必要的。 \n\n* 其他国家可能更有动力至少用主权人工智能战略对冲他们的赌注，因此不会一直依赖于美国人工智能。此前，这相对没有意义，因为替代方案不够好，但出于必要和我们在中国所看到的情况，这种情况可能会改变。\n\n* 开放权重显然是这里的大赢家，因为它可能成为主权人工智能的基础，并且（目前）仍然可以在没有相同控制的情况下向市场发布。一个有趣的问题是监管最终如何扩展到开放模式，这将产生一系列长期后果。\n\n无论如何，由于我们现在在人工智能中看到的功能，每个人的人工智能监管心理模型都会发生一些重大更新。狂野的时代。"
+    },
+    "garrytan": {
+      "en": "Jarvis-core is the new most powerful launch video meme",
+      "zh": "Jarvis-core 是新的最强大的发布视频模因"
+    },
+    "mattturck": {
+      "en": "How can you not love the World Cup - MetLife loses its mind as Ecuador pulls off the upset #ECUGER",
+      "zh": "你怎么能不喜欢世界杯——厄瓜多尔令人沮丧的比赛让大都会人寿失去了理智#ECUGER"
+    },
+    "steipete": {
+      "en": "truth",
+      "zh": "真相"
+    },
+    "danshipper": {
+      "en": "One of the smartest people i know, ex-One Medical, ex-Bridgewater founder backed by a16z is building a stealth NYC health-tech company.\n\nHe's doing AI-first medicine with physical clinics\n\nHiring staff+ engineers, physicians who ship product, and a Codex-native Chief of Staff/BizOps lead\n\nYou should email him if you want to work on something like this: every@rungravity.com",
+      "zh": "我认识的最聪明的人之一、前 One Medical、前 Bridgewater 创始人在 a16z 的支持下正在建立一家纽约市的隐形健康科技公司。\n\n他正在与实体诊所合作开展人工智能优先医学\n\n招聘员工+工程师、运送产品的医生以及法典本地人参谋长/BizOps 负责人\n\n如果你想做这样的事情，你应该给他发电子邮件：every@rungravity.com"
+    },
+    "adityaag": {
+      "en": "It is stupidly hard to start a pure software company right now.\n\nCustomers don't want software, they want outcomes. So you end up having to do a lot of custom work for them. \n\nAnything horizontal is on a ticking clock.\n\nEvery customer wants to deeply customize.\n\nThere are opportunities.\n\nBut you need to have a very heretical 2-3 year view of the world in order to build something good.",
+      "zh": "现在创办一家纯软件公司是非常困难的。\n\n客户想要的不是软件，而是结果。所以你最终不得不为他们做很多定制工作。 \n\n任何水平的东西都在滴答作响的时钟上。\n\n每个客户都希望进行深度定制。\n\n有机会。\n\n但你需要对世界有 2-3 年的非常异端的看法才能创造出好的东西。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:31\nWe actually had bot traffic pass human traffic online in the first half of twenty twenty six. In five years you might have a thousand times as much traffic on the internet as you do today. In the next six to twelve months, almost every company is going to go through some exercise like this where they're gonna cut a bunch of their their team. The underlying business model of the internet for the last twenty eight years has remained basically the same, which is it's large...",
+      "zh": "演讲者 1 | 00:00 - 00:31\n事实上，在 2026 年上半年，我们的机器人流量已经超过了在线人类流量。五年后，您的互联网流量可能是今天的一千倍。在接下来的六到十二个月内，几乎每家公司都会进行一些类似的演习，他们将裁减一些团队成员。过去二十八年来，互联网的底层商业模式基本保持不变，那就是规模庞大。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

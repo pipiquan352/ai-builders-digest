@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-06-26T16:16:51.266Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2070368060918407269",
+          "text": "this is too late for AIE worlds fair but heres the how to book talks in the first place\n\nhttps://t.co/qoqQVjA7Gu",
+          "createdAt": "2026-06-26T04:46:25.000Z",
+          "url": "https://x.com/swyx/status/2070368060918407269",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2069985832166154339"
+        },
+        {
+          "id": "2070286643303715034",
+          "text": "@neondatabase @nikitabase @ankrgyl pls find my soundcloud https://t.co/N1apWplUBd",
+          "createdAt": "2026-06-25T23:22:54.000Z",
+          "url": "https://x.com/swyx/status/2070286643303715034",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070270074049777942",
+          "text": "btw this was 3 years ago lmao\nhttps://t.co/DFLutr4yeN",
+          "createdAt": "2026-06-25T22:17:04.000Z",
+          "url": "https://x.com/swyx/status/2070270074049777942",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "1711792178031460618"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2070343597111812414",
+          "text": "It's a fantastic update https://t.co/v0pQfTO9tJ",
+          "createdAt": "2026-06-26T03:09:13.000Z",
+          "url": "https://x.com/thsottiaux/status/2070343597111812414",
+          "likes": 351,
+          "retweets": 6,
+          "replies": 73,
+          "isQuote": true,
+          "quotedTweetId": "2070169844146925964"
+        },
+        {
+          "id": "2070205719501254860",
+          "text": "February 2nd was the release of the Codex App. You can see what it did to adoption outside of engineering.\n\n👀 @ajambrosino",
+          "createdAt": "2026-06-25T18:01:20.000Z",
+          "url": "https://x.com/thsottiaux/status/2070205719501254860",
+          "likes": 241,
+          "retweets": 2,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070205520552886305",
+          "text": "Codex for everything at OpenAI https://t.co/6mFz5XQiJd https://t.co/dQvCwSYGsp",
+          "createdAt": "2026-06-25T18:00:33.000Z",
+          "url": "https://x.com/thsottiaux/status/2070205520552886305",
+          "likes": 1407,
+          "retweets": 65,
+          "replies": 162,
+          "isQuote": true,
+          "quotedTweetId": "2070196105745518913"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2070353698140958818",
+          "text": "I'm planning to go to Japan (again!) in December and this time I asked Codex to use the browser to navigate Google Flights and individual hotel websites, find and save all the prices, give me the direct booking links on the dates that I want + save it all in a doc.  I should just tell it to book everything next.",
+          "createdAt": "2026-06-26T03:49:21.000Z",
+          "url": "https://x.com/petergyang/status/2070353698140958818",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070352201944625405",
+          "text": "lol this is pretty insane but I'm not surprised\n\nIdentity verification 100% coming to model access https://t.co/3EWlT73eno",
+          "createdAt": "2026-06-26T03:43:24.000Z",
+          "url": "https://x.com/petergyang/status/2070352201944625405",
+          "likes": 45,
+          "retweets": 2,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2070003572142674119"
+        },
+        {
+          "id": "2070318195190464538",
+          "text": "Feels pretty weird that I can only directly access Codex on mobile through this random iPhone shortcut I made.\n\n(yes I know I can use chatgpt but that takes too many taps) https://t.co/4XZFe5yBKl",
+          "createdAt": "2026-06-26T01:28:17.000Z",
+          "url": "https://x.com/petergyang/status/2070318195190464538",
+          "likes": 64,
+          "retweets": 0,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2070238932621811713",
+          "text": "this video was also edited by Claude :)",
+          "createdAt": "2026-06-25T20:13:19.000Z",
+          "url": "https://x.com/trq212/status/2070238932621811713",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070238581147455842",
+          "text": "I'll be talking more about Claude Tag with @petergyang and at AIE with @_catwu. \n\nLet me know if there's anything you'd like us to dive into more! https://t.co/VV76M9OO1a",
+          "createdAt": "2026-06-25T20:11:55.000Z",
+          "url": "https://x.com/trq212/status/2070238581147455842",
+          "likes": 273,
+          "retweets": 14,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2070235730295865661"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2070199548694437957",
+          "text": "Major updates to mobile app coming soon! https://t.co/B31NRjITgD",
+          "createdAt": "2026-06-25T17:36:49.000Z",
+          "url": "https://x.com/amasad/status/2070199548694437957",
+          "likes": 131,
+          "retweets": 8,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2070183308294811949"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2070243120546218000",
+          "text": "Next.js \"Ways to fix this\" with \"Copy prompt\" buttons is a work of (agentic) art https://t.co/PXkYglrT1y",
+          "createdAt": "2026-06-25T20:29:57.000Z",
+          "url": "https://x.com/rauchg/status/2070243120546218000",
+          "likes": 542,
+          "retweets": 19,
+          "replies": 36,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070241572416078161",
+          "text": "How we imbue coding agents with our design standards https://t.co/WhzzouBi4a",
+          "createdAt": "2026-06-25T20:23:48.000Z",
+          "url": "https://x.com/rauchg/status/2070241572416078161",
+          "likes": 355,
+          "retweets": 10,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2070237878563844305"
+        },
+        {
+          "id": "2070215849970119090",
+          "text": "Grok Imagine Video has become the clear leader in @vercel AI Gateway, now amounting to ~50% of videos generated by developers 🤯\n\nhttps://t.co/xqgzenfoVu https://t.co/Bnw3pMIdil",
+          "createdAt": "2026-06-25T18:41:36.000Z",
+          "url": "https://x.com/rauchg/status/2070215849970119090",
+          "likes": 437,
+          "retweets": 27,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2070370225271251161",
+          "text": "AI regulation is far less simple than it looks. It’s prisoners dilemma at insane scale. \n\nIn theory if all leading AI labs globally agreed to the same process of review and slow down, then we’d get frontier intelligence at similar rates and it diffuses relatively evenly. \n\nIf the US remains at the frontier at all times, and has heavy regulation on the release of intelligence then we end up with an economic and geopolitical edge because we can control who has access to frontier intelligence. \n\nIf we delay model releases, however, and another player - specifically China - doesn’t slow down and has equally strong models (not now but soon?) then our delays end up advantaging their models and eventually their tech stack.\n\nNow, the US could ban these models, but that actually only puts the US at a steeper disadvantage because other countries won’t have those bans. Then, from a relative competitiveness standpoint the US has now fallen behind even though it started in front.\n\nSo, none of this is as simple as it looks. At some point it’s a simple bet of can closed models remain at the frontier in perpetuity or is there a risk of any other player or market catching up or just not falling behind.",
+          "createdAt": "2026-06-26T04:55:01.000Z",
+          "url": "https://x.com/levie/status/2070370225271251161",
+          "likes": 143,
+          "retweets": 21,
+          "replies": 38,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070310706369712272",
+          "text": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. \n\nRealistically, as AI models became more and more powerful this was going to be inevitable (I think it’s too early, but here we are). So now it’s mostly just interesting to think about the implications and scenarios from here. A few would be:\n\n* America gets to control who gets access to frontier intelligence and when. This generally works as long as we remain at the frontier at all times and don’t have a risk of being surpassed. At the moment we have a clear lead in frontier intelligence so this is a good bet, but lots of motivated parties would love to change that.\n\n* This likely creates backlog of AI releases which means that we will see less rapid fire back and forth jumps in model progress. Bull/fine case is that we just get bigger step functions per release at a slower rate and we end up at the same point we would have. Bear case is those incremental smaller jumps were necessary for the continued flywheel of innovation. \n\n* Other countries likely have even more incentive to at least hedge their bets with sovereign AI strategies so aren’t dependent on access to US AI all times. Previously this was relatively moot because the alternative wasn’t good enough, but that could change out of necessity and what we’re seeing in China.\n\n* Open weights obviously a big winner here as it becomes what likely sovereign AI gets built out on, and what (for now) can still be released to the market without the same controls. One interesting question would be how regulation eventually extends to open models, which would have its own set of long term consequences.\n\nAnyway some big updates to everyone’s mental models of AI regulation as a result of the capabilities we’re now seeing in AI. Wild times.",
+          "createdAt": "2026-06-26T00:58:31.000Z",
+          "url": "https://x.com/levie/status/2070310706369712272",
+          "likes": 207,
+          "retweets": 26,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2070241787180966279"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2070174023678648673",
+          "text": "Legora is the defining legal AI startup https://t.co/jA1iZYyNLM",
+          "createdAt": "2026-06-25T15:55:23.000Z",
+          "url": "https://x.com/garrytan/status/2070174023678648673",
+          "likes": 77,
+          "retweets": 7,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2069491663001825515"
+        },
+        {
+          "id": "2070165863907668426",
+          "text": "Jarvis-core is the new most powerful launch video meme  https://t.co/QYIsg04Xiq",
+          "createdAt": "2026-06-25T15:22:58.000Z",
+          "url": "https://x.com/garrytan/status/2070165863907668426",
+          "likes": 944,
+          "retweets": 53,
+          "replies": 73,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070101642683543739",
+          "text": "SF lesson: You need to expose the extremist left in profound ways\n\nThe death of the innocent \nThe breakdown of public safety \nThe downfall of schools\n\nThese are all inevitable in the hands of the inept DSA\n\nIt will be the defining fight for the Dem party https://t.co/1YAP1Y9d6i",
+          "createdAt": "2026-06-25T11:07:46.000Z",
+          "url": "https://x.com/garrytan/status/2070101642683543739",
+          "likes": 378,
+          "retweets": 32,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2069959455551197444"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2070349010007646700",
+          "text": "Was truly a transformational decision to hire Russell Crowe as USMNT coach https://t.co/VOXnYG7HzB",
+          "createdAt": "2026-06-26T03:30:43.000Z",
+          "url": "https://x.com/mattturck/status/2070349010007646700",
+          "likes": 46,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070269902322110786",
+          "text": "How can you not love the World Cup - MetLife loses its mind as Ecuador pulls off the upset #ECUGER https://t.co/eNDdRpazuq",
+          "createdAt": "2026-06-25T22:16:23.000Z",
+          "url": "https://x.com/mattturck/status/2070269902322110786",
+          "likes": 257,
+          "retweets": 22,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070201854932250949",
+          "text": "This deep, insightful and often funny conversation with @eastdakota of @Cloudflare is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/6v0jiVItz3",
+          "createdAt": "2026-06-25T17:45:59.000Z",
+          "url": "https://x.com/mattturck/status/2070201854932250949",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2070268106564587840",
+          "text": "https://t.co/147qcY6XJC",
+          "createdAt": "2026-06-25T22:09:14.000Z",
+          "url": "https://x.com/nikunj/status/2070268106564587840",
+          "likes": 160,
+          "retweets": 5,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070180027132768592",
+          "text": "Coming to Tartine Manufactory always makes me so happy.. even though I come here practically every week 🪴 https://t.co/uhzjyWGR60",
+          "createdAt": "2026-06-25T16:19:15.000Z",
+          "url": "https://x.com/nikunj/status/2070180027132768592",
+          "likes": 157,
+          "retweets": 0,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2070355589994336345",
+          "text": "truth https://t.co/w0v1JLI7f8",
+          "createdAt": "2026-06-26T03:56:52.000Z",
+          "url": "https://x.com/steipete/status/2070355589994336345",
+          "likes": 408,
+          "retweets": 8,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2070338196248961514"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2070165335534108948",
+          "text": "Disclosure I am also an investor",
+          "createdAt": "2026-06-25T15:20:52.000Z",
+          "url": "https://x.com/danshipper/status/2070165335534108948",
+          "likes": 24,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070158469173256231",
+          "text": "One of the smartest people i know, ex-One Medical, ex-Bridgewater founder backed by a16z is building a stealth NYC health-tech company.\n\nHe's doing AI-first medicine with physical clinics\n\nHiring staff+ engineers, physicians who ship product, and a Codex-native Chief of Staff/BizOps lead\n\nYou should email him if you want to work on something like this: every@rungravity.com",
+          "createdAt": "2026-06-25T14:53:35.000Z",
+          "url": "https://x.com/danshipper/status/2070158469173256231",
+          "likes": 481,
+          "retweets": 10,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2070179913647485344",
+          "text": "It is stupidly hard to start a pure software company right now.\n\nCustomers don't want software, they want outcomes. So you end up having to do a lot of custom work for them. \n\nAnything horizontal is on a ticking clock.\n\nEvery customer wants to deeply customize.\n\nThere are opportunities.\n\nBut you need to have a very heretical 2-3 year view of the world in order to build something good.",
+          "createdAt": "2026-06-25T16:18:48.000Z",
+          "url": "https://x.com/adityaag/status/2070179913647485344",
+          "likes": 568,
+          "retweets": 26,
+          "replies": 61,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Cloudflare CEO: Bot Takeover, Edge AI & The Hard Decision Every CEO Will Face",
+      "url": "https://www.youtube.com/watch?v=UN47z_opfmo",
+      "publishedAt": "2026-06-25T11:30:00.000Z"
+    }
+  ]
+}
