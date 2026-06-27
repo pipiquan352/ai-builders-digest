@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "minor milestone in the growth of swyx inc:\n\nwe took over my new media lab today\n\nit will be the new home for engineer-creatives in san francisco; a third place to make; a finishing school for technical storytellers; a place to inspire the inspirational.\n\nto our complete surprise; it came with a datacenter rack randomly set up and wired up! need advice on what to put in this thing. @alexocheema halp",
+      "zh": "swyx inc 成长过程中的小里程碑：\n\n今天我们接管了我的新媒体实验室\n\n它将成为旧金山工程师创意人员的新家；第三个地方要制作；技术讲故事者的精修学校；一个激发灵感的地方。\n\n令我们大吃一惊的是；它配有随机设置和接线的数据中心机架！需要关于在这个东西里放什么的建议。 @alexocheema halp"
+    },
+    "thsottiaux": {
+      "en": "We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours.\n\nWe have applied some mitigations, but our investigation hasn't shown users being impacted at large. We are continuing to monitor the situation.",
+      "zh": "我们为所有 Codex 用户提供了房屋使用重置。应该会在接下来的几个小时内显示在您的帐户中。\n\n我们已经采取了一些缓解措施，但我们的调查并未显示用户受到广泛影响。我们正在继续关注事态发展。"
+    },
+    "petergyang": {
+      "en": "So let me get this straight:\n\n1. We publish frontier models\n2. They get distilled into cheap open source models\n3. US companies adopt the same open source models because they're good enough and much cheaper\n4. We start gating access to frontier models\n\nWhat next? US companies innovate less? Open source models become more attractive?",
+      "zh": "让我说清楚：\n\n1.我们发布前沿模型\n2.它们被提炼成廉价的开源模型\n3.美国公司采用相同的开源模式，因为它们足够好而且便宜得多\n4.我们开始限制对前沿模型的访问\n\n接下来怎么办？美国企业创新较少？开源模式变得更有吸引力？"
+    },
+    "thenanyu": {
+      "en": "Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone. \n\nThis is why org with a ton of level 1s can win. They don’t get distracted by side quests",
+      "zh": "秘密六级：有问题，但不值得解决，所以不要管它。 \n\n这就是为什么拥有大量 1 级的组织能够获胜。他们不会因支线任务而分心"
+    },
+    "_catwu": {
+      "en": "split screen is one of my fave claude code on desktop features!",
+      "zh": "分屏是我最喜欢的桌面功能克劳德代码之一！"
+    },
+    "rauchg": {
+      "en": "The UI for AI is here. It's @shadcn",
+      "zh": "AI 的 UI 在这里。这是@shadcn"
+    },
+    "levie": {
+      "en": "GPT-5.6 is real and looks very strong. Going to be very strong for knowledge worker tasks that require heavy tool use and long running agents doing work. We're not hitting any walls in AI progress right now.",
+      "zh": "GPT-5.6是真实的，看起来非常强大。对于需要大量使用工具和长时间运行代理工作的知识工作者任务来说，这将非常强大。目前，我们在人工智能的发展方面还没有遇到任何障碍。"
+    },
+    "garrytan": {
+      "en": "Don’t be a mid startup\n\nIt’s true",
+      "zh": "不要成为中期初创公司\n\n这是真的"
+    },
+    "mattturck": {
+      "en": "World Cup scoring strategies:\n\nArgentina: pass the ball to Messi\n\nPortugal: pass the ball to Ronaldo\n\nEngland: pass the ball to Kane \n\nSpain: pass the ball to Lamal\n\nFrance: pass the ball to Mbappé or Dembélé or Olise or Doué or Barcola or Cherki or Thuram or",
+      "zh": "世界杯得分策略：\n\n阿根廷：把球传给梅西\n\n葡萄牙：把球传给C罗\n\n英格兰：把球传给凯恩 \n\n西班牙：将球传给拉马尔\n\n法国：将球传给姆巴佩、登贝莱、奥利塞、杜埃、巴科拉、切尔基、图拉姆或"
+    },
+    "nikunj": {
+      "en": "Written for the seed founder who’s building something really important in a not-so-hot category..\n\nI see you 🙏",
+      "zh": "写给种子创始人，他正在一个不太热门的类别中构建一些真正重要的东西。\n\n我看见你了🙏"
+    },
+    "steipete": {
+      "en": "I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.",
+      "zh": "我喜欢苹果公证每年多次中断，直到我手动登录并接受一些新的法律协议。"
+    },
+    "danshipper": {
+      "en": "BREAKING: OpenAI announced GPT-5.6 Sol!\n\nAs of today, by U.S. government directive, access is limited to only ~20 pre-approved companies and @every is not on the list. This appears to be a temporary situation while the government races to figure out a long-term policy for releasing frontier models with advanced capabilities.\n\nI understand and applaud the need for some government oversight in making American infrastructure resilient to cyberattacks and other potential new threats from the misuse of these models. However, I also strongly believe that widespread democratic access to frontier models is absolutely necessary to our country’s leading position in the AI race. It’s also critical for allowing American workers to keep pace with the new skills they need to be productive in this era.\n\nA world where advanced models are locked up only for use by the employees of AI giants and a select few companies is one where ambitious students, independent builders, and working professionals are denied the tools they need to learn, create, and compete to their fullest potential.\n\nAlso, speaking for @every and the community of developers and writers who share early access with us: Our job is to test these tools early so that we can prepare Americans for how to use them to their fullest extent. If we lose access, we lose the ability to do that important job well.\n\nThankfully, both OpenAI and the government seem to be working to make broad access available soon.\n\nWe’ll be ready to vibe check when that happens :)",
+      "zh": "突发新闻：OpenAI 发布了 GPT-5.6 Sol！\n\n截至今天，根据美国政府指令，访问权限仅限于约 20 家预先批准的公司，并且 @every 不在名单上。这似乎只是暂时的情况，而政府正在竞相制定长期政策，以发布具有先进功能的前沿模型。\n\n我理解并赞赏政府需要进行一些监督，以使美国基础设施能够抵御网络攻击和滥用这些模型带来的其他潜在新威胁。然而，我也坚信，广泛的民主获取前沿模型对于我国在人工智能竞赛中的领先地位是绝对必要的。这对于让美国工人跟上这个时代生产力所需的新技能也至关重要。\n\n在这个世界里，先进的模型仅供人工智能巨头和少数公司的员工使用，而雄心勃勃的学生、独立建设者和工作专业人士却无法获得他们学习、创造和充分发挥潜力所需的工具。\n\n另外，代表 @every 以及与我们共享早期访问权限的开发者和作家社区发言：我们的工作是尽早测试这些工具，以便我们能够让美国人做好如何充分使用它们的准备。如果我们失去了访问权限，我们就失去了做好这项重要工作的能力。\n\n值得庆幸的是，OpenAI 和政府似乎都在努力尽快提供广泛的访问权限。\n\n当这种情况发生时，我们将准备好进行振动检查:)"
+    },
+    "adityaag": {
+      "en": "An interesting side effect of AI is that I have zero tolerance for shallow interactions with humans.\n\nI really deep connection and depth in my relationships. More ways to do that are so valuable.\n\nAnd for everything else: give me agents.\n\nI suspect our world will become both smaller and more rich in it's relationship depth.",
+      "zh": "人工智能的一个有趣的副作用是我对与人类的浅层互动零容忍。\n\n我的人际关系确实很深厚。更多的方法来做到这一点是非常有价值的。\n\n对于其他一切：给我代理。\n\n我怀疑我们的世界会变得更小，但关系深度会更加丰富。"
+    },
+    "sama": {
+      "en": "in other news, we updated the 5.5 instant model used in chatgpt this week.\n\ni like its vibes.",
+      "zh": "其他新闻中，我们本周更新了 chatgpt 中使用的 5.5 即时模型。\n\n我喜欢它的氛围。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:13\nWith GBT three, you couldn't scale test time compute. Like, if you gave it a budget of $10,000,000 and said, okay. Well, let's see what GBT three can do. It really can't do that much. The precarious frameworks and responsible scaling policies, they don't really account for the amount of test time compute.\n\nSpeaker 1 | 00:13 - 00:32\nThey just say, okay. Well, what's the capability of the model? The problem is we're in a world now where the capability of the model is a fu...",
+      "zh": "演讲者 1 | 00:00 - 00:13\n使用 GBT 3，您无法扩展测试时间计算。比如说，如果你给了它 10,000,000 美元的预算，然后说，好吧。好吧，让我们看看GBT 3能做什么。确实做不到那么多。不稳定的框架和负责任的扩展策略，它们并没有真正考虑到测试时间的计算量。\n\n演讲者 1 | 00:13 - 00:32\n他们只是说，好吧。那么，模型的能力是什么？问题是我们现在所处的世界中，模型的能力是一个很重要的因素。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
