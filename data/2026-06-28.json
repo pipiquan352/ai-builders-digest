@@ -1,0 +1,327 @@
+{
+  "generatedAt": "2026-06-28T15:17:49.949Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2071005276644553091",
+          "text": "Memberships for companies and creative individuals.\n\nApply here please!\n\nhttps://t.co/1KsUVktzU0",
+          "createdAt": "2026-06-27T22:58:30.000Z",
+          "url": "https://x.com/swyx/status/2071005276644553091",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070971772548366788",
+          "text": "impromptu ai engineer preshow floor tour and AMA https://t.co/Jjo8Ai7aHh",
+          "createdAt": "2026-06-27T20:45:22.000Z",
+          "url": "https://x.com/swyx/status/2070971772548366788",
+          "likes": 33,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070949306060931312",
+          "text": "An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting -\n\nis that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models should obviously report thinking levels measured by dollar inference on popular inference providers, instead of by number of tokens on the x axis",
+          "createdAt": "2026-06-27T19:16:05.000Z",
+          "url": "https://x.com/swyx/status/2070949306060931312",
+          "likes": 100,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2070587484287959381"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2071089307062837744",
+          "text": "Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
+          "createdAt": "2026-06-28T04:32:24.000Z",
+          "url": "https://x.com/thsottiaux/status/2071089307062837744",
+          "likes": 607,
+          "retweets": 13,
+          "replies": 107,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2071077932244570112",
+          "text": "Talking to your plants isn't weird anymore. You can just codex things. https://t.co/RUAI7w1oPO",
+          "createdAt": "2026-06-28T03:47:12.000Z",
+          "url": "https://x.com/thsottiaux/status/2071077932244570112",
+          "likes": 315,
+          "retweets": 16,
+          "replies": 29,
+          "isQuote": true,
+          "quotedTweetId": "2070208340513411438"
+        },
+        {
+          "id": "2071071289247244481",
+          "text": "Tons of improvements landed in Codex. \n\n- Handles super long threads smoothly. \n- Hoverable navigation rail for previewing and jumping between turns that feels just right. \n- Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider settings. \n- Zoom-level changes no longer misalign tooltips, dialogs, menus, selection bubbles, drag previews, or autocomplete. \n- Copying into Slack preserves Markdown formatting such as bullets, bold text, code, and links; and large text pastes no longer freeze the UI.\n- And most importantly: a dedicated Pets panel.",
+          "createdAt": "2026-06-28T03:20:48.000Z",
+          "url": "https://x.com/thsottiaux/status/2071071289247244481",
+          "likes": 1383,
+          "retweets": 71,
+          "replies": 170,
+          "isQuote": true,
+          "quotedTweetId": "2070922791529091376"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2071077367720862021",
+          "text": "Messi is so goated damn",
+          "createdAt": "2026-06-28T03:44:57.000Z",
+          "url": "https://x.com/petergyang/status/2071077367720862021",
+          "likes": 62,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2071058953115767275",
+          "text": "There's just one small problem with this framework:\n\nIf you wait till level 5 or whatever to tell other people that there's a problem when there's been a burning fire for days and your \"solution\" actually didn't fix the problem at all, you're 100% in a worse situation than someone who is level 1 and just told other people about the problem right away and found a solution together.\n\nThere's no black and white to this stuff, everything has nuance.",
+          "createdAt": "2026-06-28T02:31:47.000Z",
+          "url": "https://x.com/petergyang/status/2071058953115767275",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2070194343034360004"
+        },
+        {
+          "id": "2070906940352520477",
+          "text": "Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from:\n\n→ My smart scale via the Withings API\n→ My Fitbit and Google Health\n→ An MCP server and mobile fitness app I vibe coded to track my workouts\n\nI find this super useful, even if my body fat is going the wrong way 😅\n\nI talk about how to do this in my Hermes tutorial here: https://t.co/p0BDhL6PAp\n\nShould I make another video on building my fitness app?",
+          "createdAt": "2026-06-27T16:27:44.000Z",
+          "url": "https://x.com/petergyang/status/2070906940352520477",
+          "likes": 51,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2070933976072532042",
+          "text": "https://t.co/1TemOEJkVm",
+          "createdAt": "2026-06-27T18:15:10.000Z",
+          "url": "https://x.com/thenanyu/status/2070933976072532042",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2070897529571455248"
+        },
+        {
+          "id": "2070863699921793481",
+          "text": "Oh https://t.co/qYcqwye4HN",
+          "createdAt": "2026-06-27T13:35:55.000Z",
+          "url": "https://x.com/thenanyu/status/2070863699921793481",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2070862543355088979"
+        },
+        {
+          "id": "2070821322901397645",
+          "text": "If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same\n\nhttps://t.co/CVozReRLVR",
+          "createdAt": "2026-06-27T10:47:32.000Z",
+          "url": "https://x.com/thenanyu/status/2070821322901397645",
+          "likes": 15,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2070737051016892519"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2071085680017773046",
+          "text": "I now own https://t.co/I2grp6UkeV. Excited to give my children clean email handles. Domains are awesome. The internet is awesome.",
+          "createdAt": "2026-06-28T04:17:59.000Z",
+          "url": "https://x.com/rauchg/status/2071085680017773046",
+          "likes": 1502,
+          "retweets": 10,
+          "replies": 134,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2071047674187714830",
+          "text": "Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity.\n\nIf adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities.\n\nIn the meantime, I strongly recommend running deepsec[1] or similar harnesses with the available frontier models.\n\n[1] https://t.co/Wh4QVGDFnm",
+          "createdAt": "2026-06-28T01:46:58.000Z",
+          "url": "https://x.com/rauchg/status/2071047674187714830",
+          "likes": 1225,
+          "retweets": 57,
+          "replies": 60,
+          "isQuote": true,
+          "quotedTweetId": "2071039148484378891"
+        },
+        {
+          "id": "2070982746080715052",
+          "text": "Me and my agents https://t.co/z3FIH7doEH",
+          "createdAt": "2026-06-27T21:28:58.000Z",
+          "url": "https://x.com/rauchg/status/2070982746080715052",
+          "likes": 957,
+          "retweets": 72,
+          "replies": 78,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2070937863806751154",
+          "text": "Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.\n\nThe ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand your workflows, context, and business process. Now, each individual company doing this on their own is unlikely to be effective at scale, so as a consequence, this is effectively the playbook for any applied AI company right now. \n\nBy evaling the models for the applied use cases, deeply understanding the domain, having tuned UX and features for the use case, and having the ability to support adoption and change (via FDEs), allow this layer to add a ton of value. And as a result, enterprises get higher ROI because you actually can get *more* intelligence per dollar by having optimal architecture and workflows.\n\nThere will be many horizontal and vertical versions of this approach. Huge opportunity right now.",
+          "createdAt": "2026-06-27T18:30:37.000Z",
+          "url": "https://x.com/levie/status/2070937863806751154",
+          "likes": 385,
+          "retweets": 28,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2070670644577280109"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2071049723276828942",
+          "text": "The World Cup            The World Cup\nuntil now                        starting tomorrow https://t.co/EdMN837FDJ",
+          "createdAt": "2026-06-28T01:55:06.000Z",
+          "url": "https://x.com/mattturck/status/2071049723276828942",
+          "likes": 19,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070972014945243622",
+          "text": "Smart glasses and goggles, a history:\n\nSilicon Valley, 2013 (Google): “you really want this”\nEveryone: “no we don’t”\n\nSilicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise”\nEnterprise: “maybe, but also, no”\n\nSilicon Valley, 2023 (Meta): “ok but what if they look normal and have AI”\nEveryone: “wait… maybe? … Actually, no”\n\nSilicon Valley, 2024 (Apple): “ok but what if it’s $3,499 and covers your whole face”\nEveryone: “absolutely not”\n\nSilicon Valley, 2026 (Snap): “ok but this time for real”\nEveryone: “we admire the persistence but still no”",
+          "createdAt": "2026-06-27T20:46:19.000Z",
+          "url": "https://x.com/mattturck/status/2070972014945243622",
+          "likes": 289,
+          "retweets": 32,
+          "replies": 35,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2070922974493036773",
+          "text": "As someone who eats ice cream ~daily, this was SO fun to read.. \n\nAlso, the visuals are absolutely stunning!! https://t.co/4ZelLvM5XS",
+          "createdAt": "2026-06-27T17:31:27.000Z",
+          "url": "https://x.com/nikunj/status/2070922974493036773",
+          "likes": 19,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2070380066182422929"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2071063588329193551",
+          "text": "\"History teaches us that access blockage rarely stops determined users.\" https://t.co/fsa6yuEjjs",
+          "createdAt": "2026-06-28T02:50:12.000Z",
+          "url": "https://x.com/steipete/status/2071063588329193551",
+          "likes": 670,
+          "retweets": 64,
+          "replies": 51,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2071034256051097799",
+          "text": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP] \n\nSo, Apple wins this round, 2xXDR it is.\n\nhttps://t.co/MpRNpQJE8X",
+          "createdAt": "2026-06-28T00:53:39.000Z",
+          "url": "https://x.com/steipete/status/2071034256051097799",
+          "likes": 341,
+          "retweets": 5,
+          "replies": 47,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2071017970953052160",
+          "text": "We getting Apple Car after all https://t.co/53qxFyVGRW",
+          "createdAt": "2026-06-27T23:48:56.000Z",
+          "url": "https://x.com/steipete/status/2071017970953052160",
+          "likes": 530,
+          "retweets": 11,
+          "replies": 45,
+          "isQuote": true,
+          "quotedTweetId": "2070918905871421619"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T14:22:00.000Z"
+    }
+  ]
+}

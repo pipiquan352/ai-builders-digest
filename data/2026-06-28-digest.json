@@ -1,0 +1,48 @@
+{
+  "x": {
+    "swyx": {
+      "en": "An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting -\n\nis that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models should obviously report thinking levels measured by dollar inference on popular inference providers, instead of by number of tokens on the x axis",
+      "zh": "诺姆关于始终为任何评估报告保持恒定的推理预算的说法的一个有趣的方式是相信他的话 -\n\n开放模型的每代币里程价值比封闭模型 API 高得多。因此，任何今天推出开放模型或在情况上受到开放模型激励的人都应该报告通过流行推理提供商的美元推理来衡量的思维水平，而不是通过 x 轴上的代币数量来衡量"
+    },
+    "thsottiaux": {
+      "en": "Tons of improvements landed in Codex. \n\n- Handles super long threads smoothly. \n- Hoverable navigation rail for previewing and jumping between turns that feels just right. \n- Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider settings. \n- Zoom-level changes no longer misalign tooltips, dialogs, menus, selection bubbles, drag previews, or autocomplete. \n- Copying into Slack preserves Markdown formatting such as bullets, bold text, code, and links; and large text pastes no longer freeze the UI.\n- And most importantly: a dedicated Pets panel.",
+      "zh": "Codex 中有大量改进。 \n\n- 顺利处理超长螺纹。 \n- 可悬停的导航栏，用于预览和在转弯之间跳跃，感觉恰到好处。 \n- 设置搜索涵盖更多控件，具有更清晰的外观和主机过滤选项以及更易于查找的自定义提供商设置。 \n- 缩放级别更改不再使工具提示、对话框、菜单、选择气泡、拖动预览或自动完成错位。 \n- 复制到 Slack 中会保留 Markdown 格式，例如项目符号、粗体文本、代码和链接；大文本粘贴不再冻结用户界面。\n- 最重要的是：专用的宠物面板。"
+    },
+    "petergyang": {
+      "en": "Messi is so goated damn",
+      "zh": "梅西真是太牛逼了"
+    },
+    "thenanyu": {
+      "en": "If 90% of problems you bump into aren’t worth solving, then level 1 and level 6 are 90% the same",
+      "zh": "如果你遇到的问题 90% 不值得解决，那么第 1 级和第 6 级是 90% 相同的"
+    },
+    "rauchg": {
+      "en": "I now own  Excited to give my children clean email handles. Domains are awesome. The internet is awesome.",
+      "zh": "我现在很高兴能为我的孩子们提供干净的电子邮件地址。域名很棒。互联网很棒。"
+    },
+    "levie": {
+      "en": "Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.\n\nThe ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand your workflows, context, and business process. Now, each individual company doing this on their own is unlikely to be effective at scale, so as a consequence, this is effectively the playbook for any applied AI company right now. \n\nBy evaling the models for the applied use cases, deeply understanding the domain, having tuned UX and features for the use case, and having the ability to support adoption and change (via FDEs), allow this layer to add a ton of value. And as a result, enterprises get higher ROI because you actually can get *more* intelligence per dollar by having optimal architecture and workflows.\n\nThere will be many horizontal and vertical versions of this approach. Huge opportunity right now.",
+      "zh": "这里有一些关于 AI 代币成本优化的最佳实践。如果没有对以非抽象方式完成的底层工作有深入的了解，这些都不会发生。\n\n最终的含义是，工作本身和底层智能之间的一层需要深入了解您的工作流程、上下文和业务流程。现在，每个单独的公司自己做这件事不太可能在规模上有效，因此，这实际上是目前任何应用人工智能公司的剧本。 \n\n通过评估所应用用例的模型、深入了解领域、调整用例的用户体验和功能以及支持采用和更改（通过 FDE）的能力，使这一层能够增加大量价值。因此，企业可以获得更高的投资回报率，因为通过拥有最佳的架构和工作流程，您实际上可以用每一美元获得“更多”智能。\n\n这种方法将会有许多水平和垂直版本。现在机会巨大。"
+    },
+    "mattturck": {
+      "en": "Smart glasses and goggles, a history:\n\nSilicon Valley, 2013 (Google): “you really want this”\nEveryone: “no we don’t”\n\nSilicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise”\nEnterprise: “maybe, but also, no”\n\nSilicon Valley, 2023 (Meta): “ok but what if they look normal and have AI”\nEveryone: “wait… maybe? … Actually, no”\n\nSilicon Valley, 2024 (Apple): “ok but what if it’s $3,499 and covers your whole face”\nEveryone: “absolutely not”\n\nSilicon Valley, 2026 (Snap): “ok but this time for real”\nEveryone: “we admire the persistence but still no”",
+      "zh": "智能眼镜和护目镜的历史：\n\n硅谷，2013（谷歌）：“你真的想要这个”\n所有人：“不，我们不”\n\n硅谷，2016 年（微软）：“好吧，但如果是为了企业呢”\n企业：“也许，但也不是”\n\n硅谷，2023（元）：“好吧，但如果他们看起来很正常并且拥有人工智能怎么办？”\n每个人：“等等……也许？……实际上，不”\n\n硅谷，2024 年（苹果）：“好吧，但如果它是 3,499 美元并且能遮住你的整个脸呢”\n众人：“绝对不是”\n\n硅谷，2026 年（Snap）：“好吧，但这次是真的”\n大家：“我们佩服你们的坚持，但还是不行”"
+    },
+    "nikunj": {
+      "en": "As someone who eats ice cream ~daily, this was SO fun to read.. \n\nAlso, the visuals are absolutely stunning!!",
+      "zh": "作为一个每天都吃冰淇淋的人，读起来很有趣。 \n\n另外，视觉效果绝对令人惊叹！"
+    },
+    "steipete": {
+      "en": "\"History teaches us that access blockage rarely stops determined users.\"",
+      "zh": "“历史告诉我们，访问阻塞很少能阻止坚定的用户。”"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:24\nWhat about pre training or even post training makes it possible for the models to generalize in these magical emergent ways and controlling that process so that a company has a set of private data? How do we make the models learn that just as well as the models know, like, the capital of France or, you know, like, how to write Python? So I think it's a really fun problem to think about.\n\nSpeaker 2 | 00:41 - 00:57\nWelcome to training data. We are delighted to have Don Bi...",
+      "zh": "演讲者 1 | 00:00 - 00:24\n预训练甚至后训练如何使模型能够以这些神奇的紧急方式进行概括并控制该过程，以便公司拥有一组私有数据？我们如何让模型知道，就像模型知道法国的首都，或者，你知道，如何编写 Python 一样？所以我认为这是一个非常有趣的问题。\n\n扬声器 2 | 00:41 - 00:57\n欢迎使用培训数据。我们很高兴有 Don Bi",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
