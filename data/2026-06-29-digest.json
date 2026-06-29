@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "we registered 1000 people today. this is what it looked like at hour 3.\n\ntmr and tuesday going to be absolutely batshit",
+      "zh": "今天我们登记了1000人。这就是第 3 个小时的样子。\n\ntmr 和星期二绝对是狗屎"
+    },
+    "bcherny": {
+      "en": "As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future. For example, when I look at the Claude Code team I see what I think is five archetypes:\n\n1. Prototyper: comes up with brand new ideas; churns out many ideas, most of which don't ship\n2. Builder: quickly turns a prototype/idea into production-grade product/infra\n3. Sweeper: cleans up the UI, simplifies the code and system, unships, optimizes performance\n4. Grower: takes a product that has been built and iterates on it to improve Product-Market Fit\n5. Maintainer: owns a mature system to make it secure, reliable, fast, and efficient as it scales\n\nMany people span across 2 roles, and sometimes 3 roles. I also notice that these roles are not really tied to job function -- eg. across Anthropic, some designers match category 1, some 2, some 3; same for engineers, PM, DS.\n\nA healthy team needs a mix of these, depending on the product:\n\n- A product that is new and pre-PMF needs people that are strong at 1+2+3\n- A product that is growing and has found PMF needs 2+3+4 and some 5\n- A product that has strong PMF needs 3+4+5 and some 2\n\nMaybe product roles of the future will look more like this, and less like the domain-specific roles of today?",
+      "zh": "随着工程、产品、设计、DS等融入新的角色，我在思考未来的角色会是什么样子。例如，当我查看 Claude Code 团队时，我看到了五个原型：\n\n1.原型师：提出全新的想法；提出了很多想法，但其中大部分都没有实现\n2. Builder：快速将原型/想法转变为生产级产品/基础设施\n3. Sweeper：清理UI，简化代码和系统，卸载，优化性能\n4. Grower：采用已构建的产品并对其进行迭代，以提高产品与市场的契合度\n5.维护者：拥有成熟的系统，使其在扩展时安全、可靠、快速、高效\n\n许多人跨越 2 个角色，有时甚至 3 个角色。我还注意到这些角色并不真正与工作职能相关——例如。在 Anthropic 中，有的设计师匹配类别 1，有的设计师匹配类别 1，有的设计师匹配类别 2，有的设计师匹配类别 3；对于工程师、PM、DS 来说也是如此。\n\n一个健康的团队需要将这些结合起来，具体取决于产品：\n\n- 一个新的、PMF 之前的产品需要 1+2+3 能力强的人\n- 正在成长并发现 PMF 的产品需要 2+3+4 和一些 5\n- 具有强 PMF 的产品需要 3+4+5 和一些 2\n\n也许未来的产品角色会更像这样，而不是像今天的特定领域角色？"
+    },
+    "thsottiaux": {
+      "en": "As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some users had stacked up to three banked resets already that they can apply on their own schedule.\n\nFunnily enough, this week at OpenAI is called the RESET week, which is meant for folks to relax a bit. However it will be a different kind of RESET week. Enjoy.",
+      "zh": "由于我们仍在调查，我已经重置了每个人的 Codex 使用限制。这是一次硬重置，因为一些用户已经累积了多达三个银行重置，他们可以按照自己的时间表应用。\n\n有趣的是，OpenAI 的本周被称为 RESET 周，旨在让人们放松一下。然而，这将是不同类型的重置周。享受。"
+    },
+    "petergyang": {
+      "en": "How Anthropic PMs use agents internally to get closer to the product from Jess, product lead for Claude Managed Agents:\n\n“Access to our codebase has been the biggest unlock for me.\n\nIt helps me manage state more easily. Rather than poking a bunch of engineers on what they’re doing, I can just track the PRs directly and see which ones are merged, which ones are deployed.\n\nI deeply understand and interact with my product so much more than I’ve ever been able to in the past.”\n\n📌 Watch the full episode here:",
+      "zh": "Anthropic PM 如何在内部使用代理来更接近 Claude Managed Agents 产品主管 Jess 的产品：\n\n“对我来说，访问我们的代码库是最大的解锁。\n\n它帮助我更轻松地管理状态。我可以直接跟踪 PR 并查看哪些已合并、哪些已部署，而不是向一群工程师询问他们正在做什么。\n\n我对我的产品的理解和互动比以往任何时候都更加深入。”\n\n📌 在这里观看完整剧集："
+    },
+    "trq212": {
+      "en": "this has to be because coding agents change the engineering math on how it is to work with or port a legacy codebase, right?\n\nanyone at Riot able to confirm?",
+      "zh": "这一定是因为编码代理改变了如何使用或移植遗留代码库的工程数学，对吧？\n\nRiot 的任何人都可以确认吗？"
+    },
+    "rauchg": {
+      "en": "You don't need a LinkedIn, you need a page on your website describing and linking to what you shipped",
+      "zh": "您不需要 LinkedIn，您需要网站上的一个页面来描述和链接到您所运送的物品"
+    },
+    "levie": {
+      "en": "It should be 100% obvious that there will soon be mythos level models on cyber security that are open and available to anyone. As a byproduct of this, alternative tech stacks will emerge that also drive more economic value and control away from the US’s tech stack.\n\nThis is what should be considered when thinking through the gate keeping you want to have in AI. If advanced models will become open and available regardless, then by not allowing the release of models you’re neither more secure nor better off strategically.\n\nSo much of the regulatory approach to AI has to assume China can’t catch up, when all current evidence suggests they can and are. And further, hard to imagine a higher priority than winning in AI for China; so you’re basically betting against their long term ingenuity, talent and motivation. Seems like a bad bet.\n\nSo your options are either to create gates around your best models, which means you’re asymmetrically disadvantaging yourself, or you work to ensure you’re always at the frontier and driving the future architectures of AI.",
+      "zh": "显而易见，很快就会出现对任何人开放且可用的网络安全神话级模型。作为其副产品，替代技术堆栈将会出现，这也会使美国技术堆栈失去更多的经济价值和控制权。\n\n这是在思考你想要在人工智能中拥有的把关时应该考虑的事情。如果先进模型无论如何都会变得开放和可用，那么通过不允许发布模型，你既不会更安全，也不会在战略上变得更好。\n\n人工智能的大部分监管方法都必须假设中国无法赶上，而当前所有证据都表明中国可以并且正在追赶。此外，很难想象还有比在人工智能领域为中国赢得胜利更重要的事情；所以你基本上是在押注他们长期的聪明才智、才能和动力。看来这是一个糟糕的赌注。\n\n因此，你的选择是要么围绕你的最佳模型创建门，这意味着你会不对称地使自己处于不利地位，要么你努力确保自己始终处于前沿并推动人工智能的未来架构。"
+    },
+    "garrytan": {
+      "en": "\"Forget your perfect offering / There is a crack in everything / That's how the light gets in.\"\n\n—Leonard Cohen",
+      "zh": "“忘记你完美的奉献/万物皆有裂缝/那是光线进来的地方。”\n\n——伦纳德·科恩"
+    },
+    "nikunj": {
+      "en": "just put the taxes in the bag bro\n\n📍Summit Loop Trail, San Bruno",
+      "zh": "把税装进口袋吧兄弟\n\n📍萨米特环线步道，圣布鲁诺"
+    },
+    "steipete": {
+      "en": "Tried to sign up to @ATT four times now and they reject me and aren’t telling me why.\n\nWhat’s the next best unlimited phone/data plan for the SF area?\n\nOr do I know anyone who can work around corp bs?",
+      "zh": "我已经四次尝试注册@ATT，但他们拒绝了我，并且没有告诉我原因。\n\n旧金山地区下一个最佳的无限电话/数据套餐是什么？\n\n或者我认识谁可以解决公司问题吗？"
+    },
+    "danshipper": {
+      "en": "self recommending",
+      "zh": "自我推荐"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:36\nIt's pretty clear that we have an amazing system that can take in money and output software. The people who are the naysayers, you're gonna throw these GPUs out in five years, are completely wrong. They're completely wrong, and they've been wrong the entire time. We continue to be generally underbuilding. Most people that are sort of in leadership positions at Neo Clouds or within the market have been recognizing this insatiable amount of demand for large language model...",
+      "zh": "演讲者 1 | 00:00 - 00:36\n很明显，我们拥有一个令人惊叹的系统，可以吸收资金并输出软件。那些反对者认为你将在五年内淘汰这些 GPU，这是完全错误的。他们完全错了，而且他们一直都错了。我们总体上仍然处于建设不足的状态。大多数在 Neo Clouds 或市场内担任领导职务的人都已经认识到对大型语言模型的需求量巨大",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
