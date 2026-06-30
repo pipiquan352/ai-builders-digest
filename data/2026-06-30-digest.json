@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "AIE workshop day",
+      "zh": "AIE研讨会日"
+    },
+    "bcherny": {
+      "en": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work\n\nIf you want your agent to run in the foreground, just tell Claude",
+      "zh": "在 Claude Code 的下一版本中：子代理默认在后台运行，因此您可以在子代理工作时继续与 Claude 交谈\n\n如果你想让你的代理在前台运行，只需告诉 Claude"
+    },
+    "thsottiaux": {
+      "en": "Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours.\n\nWe investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a few smaller problems compounded for some users.   \n\nHere's what we found and changed: \n- Actual usage: Auto-review had become more proactive, another change was triggering more subagent work, and background suggestions could run twice or retry too frequently after failures. We reverted the changes and fixed suggestion scheduling, duplicate generation, and retry behavior. This should reduce unnecessary background token consumption while preserving the work users explicitly request. \n- Usage reporting: Auto-review was incorrectly appearing as GPT‑5.4 usage, and failed or rate-limited requests were still shown as turns. Auto-review now appears as its own category, and only successful requests count toward the turn graphs. Rate-limited requests were never charged, but they were being displayed incorrectly. \n- Immediate relief: We reset usage limits while rolling out the fixes, then shipped hotfixes across the CLI, desktop app, and usage backend. \n- What to expect: New usage data should be clearer and actual consumption should be lower. Historical charts may still show auto-review under GPT‑5.4 because older turn data was not relabeled. Features that intentionally perform more work; such as /goal, subagents, and higher reasoning levels will still naturally use more capacity.  \n\nAll fixes are now deployed, and we've added more detailed monitoring so we can detect background-usage regressions sooner. We'll continue watching the results closely.\n\nThank you for building and doing all sorts of things with Codex.",
+      "zh": "Codex 使用限制将在接下来的一小时内再次完全重置，我们将在您的银行中存入一次额外的重置，供您在接下来的 24 小时内使用。\n\n我们调查了有关 Codex 使用量消耗速度快于预期的报告。没有一个核心问题，但一些较小的问题对某些用户来说更加复杂。   \n\n以下是我们发现并更改的内容： \n- 实际使用情况：自动审查变得更加主动，另一个变化是触发更多的子代理工作，后台建议可能会运行两次或在失败后过于频繁地重试。我们恢复了更改并修复了建议安排、重复生成和重试行为。这应该减少不必要的后台令牌消耗，同时保留用户明确请求的工作。 \n- 使用情况报告：自动审核错误地显示为 GPT-5.4 使用情况，失败或速率受限的请求仍显示为轮次。自动审核现在显示为其自己的类别，并且只有成功的请求才计入转弯图。限速请求从未收费，但显示不正确。 \n- 立即缓解：我们在推出修复程序时重置了使用限制，然后跨 CLI、桌面应用程序和使用后端发布了修补程序。 \n- 预期结果：新的使用数据应该更清晰，实际消耗量应该更低。历史图表可能仍会在 GPT-5.4 下显示自动查看，因为较旧的转弯数据未重新标记。有意执行更多工作的功能；比如/goal、子代理，更高的推理水平自然还是会使用更多的容量。  \n\n所有修复现已部署，并且我们添加了更详细的监控，以便我们可以更快地检测后台使用回归。我们将继续密切关注结果。\n\n感谢您使用 Codex 构建和完成各种工作。"
+    },
+    "petergyang": {
+      "en": "For writing and editing, plain vanilla Claude web is still the best (vs Codex and Claude Code).\n\nMy guess is something in the coding agent's system prompts make them crappier writers.",
+      "zh": "对于写作和编辑来说，普通的 Claude Web 仍然是最好的（相对于 Codex 和 Claude Code）。\n\n我的猜测是编码代理的系统提示中的某些内容使他们成为更糟糕的作家。"
+    },
+    "realmadhuguru": {
+      "en": "What’s underappreciated is that the rise of strong open-weight models like GLM will actually strengthen Google’s position.\n\nmore companies will now start experimenting with fine tuning open-weight models such as GLM and the value will accrue to the infra. \n\nenterprises want the flexibility to run and fine-tune open models on a managed platform with enterprise-grade reliability, security, and support. And Google Cloud is well positioned there.\n\nalso don’t forget Google owns much of the compute stack.",
+      "zh": "未被充分认识到的是，像 GLM 这样强大的开放权重模型的崛起实际上会加强谷歌的地位。\n\n更多的公司现在将开始尝试微调开放权重模型（例如 GLM），其价值将累积到基础设施中。 \n\n企业希望能够在具有企业级可靠性、安全性和支持的托管平台上灵活地运行和微调开放模型。谷歌云在这方面处于有利地位。\n\n也不要忘记谷歌拥有大部分计算堆栈。"
+    },
+    "trq212": {
+      "en": "my process for writing right now is to do some engineering work, talk to a bunch of people about it, brainstorm and research with Claude, write a post, give 1 or 2 talks on it, rewrite the post, give another talk, rewrite the intro, wake up at 6am and rewrite it again, then post",
+      "zh": "我现在的写作流程是做一些工程工作，和一群人讨论这个问题，与克劳德一起集思广益和研究，写一篇文章，就它进行一两次演讲，重写这篇文章，再做一次演讲，重写简介，早上 6 点起床，再次重写，然后发布"
+    },
+    "rauchg": {
+      "en": "𝟐𝟎𝐱 larger functions on Vercel",
+      "zh": "𝟐𝟎𝐱 Vercel 上的更大功能"
+    },
+    "levie": {
+      "en": "This gets to the core of one of the central debates in AI. \n\nIf a closed stack is always perpetually at the frontier by a wide margin, then being vertically integrated, and gate keeping in the US can work. Because you always have control over who gets access to the best technology, and it will be in high enough demand that it always favors you.\n\nIf, however, open weights AI can remain a close second to frontier intelligence, then the equation reverses. With a highly regulated approach, you’ll own the frontier market still, but the vast majority of tokens used will go to an alternative stack. That stack will include the model and the underlying hardware that runs it, in the limit. And that stack will be controlled and monetized by someone else. \n\nDepending on your belief on how close to the frontier open weights can remain -and similarly what percentage of tokens will go through the frontier vs. everything else- your opinion will be different on how to regulate and control AI.",
+      "zh": "这触及了人工智能领域的核心争论之一的核心。 \n\n如果封闭堆栈始终以大幅优势永远处于前沿，那么垂直整合和美国的把关就可以发挥作用。因为您始终可以控制谁能够获得最好的技术，并且该技术的需求量足够大，因此它总是对您有利。\n\n然而，如果开放权重人工智能仍然紧随前沿智能之后，那么情况就会逆转。通过高度监管的方法，您仍然拥有前沿市场，但所使用的绝大多数代币将进入替代堆栈。该堆栈将在限制范围内包括模型和运行它的底层硬件。该堆栈将由其他人控制和货币化。 \n\n根据你对开放权重能够保持在多大程度上接近边界的信念——以及类似地，与其他所有代币相比，有多少百分比的代币将通过边界——你对如何监管和控制人工智能的看法将会有所不同。"
+    },
+    "ryolu_": {
+      "en": "wherever ideas hit.\ndesks and laptops optional.",
+      "zh": "任何想法出现的地方。\n办公桌和笔记本电脑可选。"
+    },
+    "mattturck": {
+      "en": "Shout out to whoever is selling a ticket for the World Cup final on the FIFA marketplace for $11,499,998.85 - smart move, does sound like a much better deal than $11,500,000.00",
+      "zh": "向在 FIFA 市场上以 11,499,998.85 美元出售世界杯决赛门票的人大声喊叫 - 聪明的举动，听起来确实比 11,500,000.00 美元划算得多"
+    },
+    "nikunj": {
+      "en": "The World Cup put on an absolute show today..\n\nBrazil nicking it at the last minute after being 1-0 down and a valiant display by Japan. \n\nParaguay deservedly winning against Germany after a WILD penalty shootout. \n\nNetherlands sneaking into extra time with a 91st minute equalizer against Morocco and this one is probably going to the shootouts too.",
+      "zh": "今天的世界杯上演了一场绝对的表演。\n\n巴西队在0-1落后的情况下，在日本队的勇敢表现下，在最后一刻扳回一球。 \n\n经过狂野点球大战，巴拉圭队当之无愧地战胜了德国队。 \n\n荷兰队在对阵摩洛哥的比赛中在第 91 分钟扳平比分，进入加时赛，这场比赛很可能也会进入点球大战。"
+    },
+    "steipete": {
+      "en": "was this vibed",
+      "zh": "这是有共鸣的吗"
+    },
+    "claudeai": {
+      "en": "Claude in Microsoft Foundry is now generally available, hosted on Azure.\n\nAzure customers get Claude Opus 4.8 and Claude Haiku 4.5, with Azure authentication, billing, and commitment retirement.",
+      "zh": "Microsoft Foundry 中的 Claude 现已全面推出，托管在 Azure 上。\n\nAzure 客户可以获得 Claude Opus 4.8 和 Claude Haiku 4.5，以及 Azure 身份验证、计费和承诺停用。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:28\nNine of the 10 company I invest, halfway they change their business plan because market have changed. Yeah. So I like to have entrepreneur as team, not just one person. I always believed in when I was at Cadence and also at Intel is first of all you crawl and be humble, listen to customer. And then first step for me is to strengthen my balance sheet, focus on the products, and I really simplify the product, listen to the customer, and then drive the next generation lead...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n我投资的 10 家公司中有 9 家中途改变了商业计划，因为市场发生了变化。是的。所以我喜欢企业家作为一个团队，而不是一个人。当我在 Cadence 和 Intel 时，我始终相信，首先要谦虚、倾听客户的意见。对我来说，第一步是加强我的资产负债表，专注于产品，我真的简化了产品，倾听客户的意见，然后推动下一代领先",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
