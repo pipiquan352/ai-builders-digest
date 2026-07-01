@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!!\n\ntomorrow: Poaster sessions! submit your hottest tweets to @vibhuuuus for printing!\n\nspotted: left shark",
+      "zh": "AIEWF 的第一场海报会议日非常成功，感谢@heathercmiller 和@ACM_President 的支持！\n\n明天：海报会议！将您最热门的推文提交至@vibhuuuus 进行打印！\n\n发现：左侧鲨鱼"
+    },
+    "bcherny": {
+      "en": "You asked, we listened. Claude Desktop on Linux is here!\n\nDownload link:",
+      "zh": "你问，我们听。 Linux 上的 Claude Desktop 就在这里！\n\n下载链接："
+    },
+    "petergyang": {
+      "en": "What does this mean btw? After I hit 50% weekly usage Fable is no longer available?",
+      "zh": "顺便说一句，这是什么意思？当我每周使用率达到 50% 后，《神鬼寓言》不再可用了吗？"
+    },
+    "thenanyu": {
+      "en": "The definition of “distillation” is interesting. Going by this logic, the entirety of Cursor’s training data was distilled from Claude in the early days",
+      "zh": "“蒸馏”的定义很有趣。按照这个逻辑，Cursor 早期的全部训练数据都是从 Claude 那里提炼出来的"
+    },
+    "realmadhuguru": {
+      "en": "The biggest challenge for trad PMs trying to adapt to AI native building is a lack of magical thinking. A decade of frameworks, “agile” and metric obsession has led to constraint-first, incremental thinking.\n\nI used to combat this on my teams by asking them to  imagine we had tech from 100 yrs in the future, the experiences it would enable and working backward from that. the ideas would always be far more creative.\n\nthe funny thing is, that technology from the future is here.\n\ngo build that magical thing!",
+      "zh": "传统产品经理在尝试适应人工智能原生构建时面临的最大挑战是缺乏神奇的思维。十年来的框架、“敏捷”和对度量的痴迷导致了约束优先的增量思维。\n\n我曾经在我的团队中对抗这个问题，要求他们想象我们拥有 100 年后的技术，它会带来什么样的体验，并以此为基础进行回溯。这些想法总是会更有创意。\n\n有趣的是，来自未来的技术就在这里。\n\n去建造那个神奇的东西吧！"
+    },
+    "trq212": {
+      "en": "Have seen some questions about the updated classifiers and wanted to clarify.\n\nAs with the original classifiers, a small fraction of routine coding and debugging tasks will be flagged and fall back to Opus. \n\nWe're excited for guys to get access back tomorrow.",
+      "zh": "看到了一些有关更新分类器的问题并想澄清一下。\n\n与原始分类器一样，一小部分例行编码和调试任务将被标记并回落到 Opus。 \n\n我们很高兴大家明天能够重新获得访问权限。"
+    },
+    "amasad": {
+      "en": "AI is expensive to run partly because most workloads today run on generic hardware designed pre-LLMs. Etched is the first system designed from the ground up for modern inference.",
+      "zh": "人工智能的运行成本很高，部分原因是当今大多数工作负载都在法学硕士预科设计的通用硬件上运行。 Etched 是第一个专门为现代推理而设计的系统。"
+    },
+    "rauchg": {
+      "en": "Vercel Services\n\nYou can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel project.\n\ntl:dr;\n▪️ You can run all locally with 𝚟𝚌 𝚍𝚎𝚟 \n▪️ Deploy and rollback all at once\n▪️ Observe, monitor, debug together\n▪️ Internal networking",
+      "zh": "维塞尔服务\n\n您现在可以在一个 Vercel 项目中并置例如：Python 后端 API、ExpressJS 服务器和 React SPA。\n\nTL：博士；\n▪️ 您可以使用 𝚟𝚌 𝚍𝚎𝚟 在本地运行所有内容 \n▪️ 一次性部署和回滚\n▪️ 一起观察、监控、调试\n▪️ 内部网络"
+    },
+    "levie": {
+      "en": "More data is showing the opposite of what many people expected with AI adoption and jobs. Ramp found that the more AI adoption a company has the more their headcount grows.\n\nAt Box, we recently did a survey of 1,600+ mid and large sized companies, and the findings were similar. 58% of respondents expected headcount to rise over the next three years. Interestingly, that figure climbs to 79% among the most mature adopters of AI. The more advanced AI adopters expected to grow their headcount at a greater rate in the future than others.\n\nOf course it's true that the companies that can afford to adopt AI the most are also the ones that likely are seeing growth in their business, leading to more headcount. So the point of the story isn't necessarily that by adopting AI you will inherently grow. \n\n*But* the most important takeaway is that the opposite is not proving out. The fears a couple years ago would have been that the companies adopting AI the most would be hiring fewer people. \n\nBut in reality this is what actually you should expect to happen. If a company can get more customers because they use AI in sales for account or market intelligence, they hire more sales people not fewer. If you can build way more software than before, you end up hiring more engineers because the projects get bigger and you take on more. And so on.",
+      "zh": "更多数据显示，人工智能的采用和就业与许多人的预期相反。 Ramp 发现，一家公司采用人工智能越多，其员工人数就越多。\n\nBox 最近对 1,600 多家大中型企业进行了调查，结果相似。 58% 的受访者预计未来三年员工人数将会增加。有趣的是，在最成熟的人工智能采用者中，这一数字攀升至 79%。更先进的人工智能采用者预计未来将以比其他人更快的速度增加员工数量。\n\n当然，那些最有能力采用人工智能的公司也可能会看到业务增长，从而导致员工人数增加。所以这个故事的要点并不一定是通过采用人工智能你会自然地成长。 \n\n*但是*最重要的一点是，事实并没有证明相反的情况。几年前，人们担心的是，采用人工智能最多的公司会雇佣更少的员工。 \n\n但实际上，这正是您应该期望发生的情况。如果一家公司因为在销售中使用人工智能来获得客户或市场情报而能够获得更多客户，那么他们就会雇用更多而不是更少的销售人员。如果你能够构建比以前更多的软件，你最终会雇佣更多的工程师，因为项目会变得更大，你承担的也会更多。等等。"
+    },
+    "garrytan": {
+      "en": "Gbrain is mostly useful at 10,000+ markdown files in your personal brain or company brain",
+      "zh": "Gbrain 主要用于个人大脑或公司大脑中 10,000 多个 Markdown 文件"
+    },
+    "mattturck": {
+      "en": "LE DICTATEUR #fraswe",
+      "zh": "独裁者#fraswe"
+    },
+    "nikunj": {
+      "en": "Every developer in SF right now running back to their desks post AIEWF after they heard Fable 5 is coming back..",
+      "zh": "旧金山的每个开发者在听说《神鬼寓言 5》即将回归后，都纷纷跑回自己的办公桌上发布 AIEWF。"
+    },
+    "steipete": {
+      "en": "Price per token != cost per task",
+      "zh": "每个代币的价格！=每个任务的成本"
+    },
+    "danshipper": {
+      "en": "LETS FUCKIN GO",
+      "zh": "我们他妈的走吧"
+    },
+    "adityaag": {
+      "en": "It is a very strange state of the world where the models powering innovation in the USA are Chinese open source models.",
+      "zh": "这是一个非常奇怪的世界状态，美国推动创新的模式是中国的开源模式。"
+    },
+    "claudeai": {
+      "en": "Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work.\n\nIts performance is close to Opus 4.8, at lower prices.",
+      "zh": "Sonnet 5 在推理、工具使用、编码和知识工作方面比 Sonnet 4.6 有了重大改进。\n\n其性能接近Opus 4.8，但价格更低。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:24\nI think it's really fun inside of Semi Analysis because we have 90 people, and a big chunk of them are technologist engineers across the whole supply chain, and then a big chunk is people who are formerly at hedge funds. And you see these arguments, people are like, Oh, that doesn't matter. Someone's like, well, but cost? And then the engineer's like, no, no, no, but this technology is the coolest. And you see this organically fight it out, and we're pretty informal.\n\nS...",
+      "zh": "演讲者 1 | 00:00 - 00:24\n我认为 Semi Analysis 内部真的很有趣，因为我们有 90 名员工，其中很大一部分是整个供应链的技术工程师，还有很大一部分是以前在对冲基金工作的人。当你看到这些争论时，人们会说，哦，那没关系。有人会说，好吧，但是成本呢？然后工程师说，不，不，不，但这项技术是最酷的。你会看到这是自然而然地进行的斗争，而且我们非常非正式。\n\nS",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
