@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "for what it's worth, i only invite double-length track keynotes when I'm very sure that both speaker and content deserve it. Today, @chrmanning and @abshkbh did double duty at AIE and by all accounts* people loved the opportunity to go deeper on sandboxing and world models. Look at this insane room - and the online audience is going to be >1000x this!!\n\n*i unfortunately have to do show duties so rely on secondhand accounts",
+      "zh": "就其价值而言，只有当我非常确定演讲者和内容都值得时，我才会邀请双倍长度的主题演讲。今天，@chrmanning 和 @abshkbh 在 AIE 承担双重职责，从各方面来看*，人们很高兴有机会深入了解沙盒和世界模型。看看这个疯狂的房间 - 在线观众将超过这个的 1000 倍！\n\n*不幸的是，我必须履行演出职责，所以依赖二手账户"
+    },
+    "thsottiaux": {
+      "en": "It's happening",
+      "zh": "它正在发生"
+    },
+    "petergyang": {
+      "en": "Claude Fable 5 is finally back, but you only have until July 7 to use it on your Claude subscription.\n\nI made a new tutorial walking through 5 use cases worth trying Fable on:\n\n→ Find Fable-worthy work\n→ Get life and business advice\n→ Make projects ship-ready\n→ Plan the next big thing\n→ Refactor your project or codebase\n\nAs usual, it’s no BS, and I show you Fable’s actual output.\n\n📌 Watch now:",
+      "zh": "《克劳德寓言 5》终于回归了，但您只能在 7 月 7 日之前在您的克劳德订阅中使用它。\n\n我制作了一个新教程，介绍了 5 个值得尝试 Fable 的用例：\n\n→ 寻找值得寓言的作品\n→ 获取生活和商业建议\n→ 使项目做好交付准备\n→ 计划下一件大事\n→ 重构您的项目或代码库\n\n像往常一样，这不是废话，我向您展示《神鬼寓言》的实际输出。\n\n📌立即观看："
+    },
+    "trq212": {
+      "en": "hello from AI engineer!",
+      "zh": "AI工程师您好！"
+    },
+    "GoogleLabs": {
+      "en": "Every good chord progression needs a resolution. 🎹\n\nTo focus on building @GoogleFlowMusic - our tool for creating, sharing, and remixing original music - we will be saying a fond farewell to MusicFX and MusicFX DJ on July 31, 2026.\n\nThese early experiments pushed the boundaries of AI for real-time music creation, and we're taking everything we learned from them to provide a long-term home for musical projects.\n\nKeep jamming at  🎵",
+      "zh": "每一个好的和弦进行都需要一个解决方案。 🎹\n\n为了专注于构建 @GoogleFlowMusic（我们用于创作、分享和重新混音原创音乐的工具），我们将于 2026 年 7 月 31 日向 MusicFX 和 MusicFX DJ 告别。\n\n这些早期实验突破了人工智能实时音乐创作的界限，我们正在利用从中学到的一切，为音乐项目提供长期的家园。\n\n继续即兴演奏🎵"
+    },
+    "amasad": {
+      "en": "Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar.\n\nWhop is one of the best places on the internet to monetize your creations — and now you can sell your Replit apps on there.",
+      "zh": "现在构建变得很容易，我们越来越专注于让企业家进入市场，帮助他们获得第一个客户和第一笔资金。\n\nWhop 是互联网上将您的创作货币化的最佳场所之一 - 现在您可以在那里销售您的 Replit 应用程序。"
+    },
+    "rauchg": {
+      "en": "WordPress on @vercel Fluid with Active CPU from a single 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕. MySQL on @planetscale. 30s deployments incl. \"𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍\" in the cloud. Just one command: 𝚗̶𝚘̶𝚠̶ 𝚟𝚎𝚛𝚌𝚎𝚕.",
+      "zh": "@vercel Fluid 上的 WordPress，具有来自单个𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎.𝚟𝚎𝚛𝚌𝚎𝚕的活动 CPU。 @planetscale 上的 MySQL。 30 秒部署，包括“𝚍𝚘𝚌𝚔𝚎𝚛 𝚋𝚞𝚒𝚕𝚍”在云端。只需一个命令：𝚗̶𝚘̶𝚠̶ 𝚟𝚎𝚛𝚌𝚎𝚕。"
+    },
+    "alexalbert__": {
+      "en": "Welcome back to the world Fable!!",
+      "zh": "欢迎回到寓言世界！！"
+    },
+    "levie": {
+      "en": "If you’ve ever wondered why we will need 100X more AI inference in the future, and  what it’s going to be driven by, this is another good example. \n\nDevin pushes forward an idea of agentic mapreduce, which means we’ll now have swarms of agents that are processing large amounts of data (code) to handle tasks that humans never could have done before.\n\n“Devin maps relevant signals across the repo, fans out focused agents over bounded shards, reduces their findings into one report, then verifies serious vulnerabilities in isolated sandboxes before marking them confirmed.”\n\nIn this case it’s code security, but there are tons of other use-cases in code and knowledge work. We see this at Box with customers that want to process and understand millions of documents for risk, insights, relationships, and more. This will play out in pharma, banking, and many other industries across all forms of unstructured data.\n\nAs an aside, these types of capabilities are generally only possible when you can deploy a variety of models (both the frontier and lower cost) because of the sheer amount of tokens that go into these use-cases. This is going to be a major value proposition for the applied AI layer.",
+      "zh": "如果您想知道为什么我们未来需要 100 倍的人工智能推理，以及它将由什么驱动，这是另一个很好的例子。 \n\nDevin 提出了代理映射缩减的想法，这意味着我们现在将拥有大量代理来处理大量数据（代码）来处理人类以前无法完成的任务。\n\n“Devin 在整个存储库中映射相关信号，在有界分片上分散出重点代理，将他们的发现简化为一份报告，然后验证孤立沙箱中的严重漏洞，然后将其标记为确认。”\n\n在本例中是代码安全性，但代码和知识工作中还有大量其他用例。我们在 Box 上看到了这一点，客户希望处理和理解数百万份文档以获取风险、见解、关系等。这将在制药、银行和许多其他行业的各种形式的非结构化数据中发挥作用。\n\n顺便说一句，这些类型的功能通常只有在您可以部署各种模型（前沿模型和低成本模型）时才可能实现，因为这些用例中涉及的代币数量巨大。这将成为应用人工智能层的一个主要价值主张。"
+    },
+    "garrytan": {
+      "en": "Mega get, head of UC Berkeley EECS omg\n\nAnthropic is on a tear",
+      "zh": "Mega get，加州大学伯克利分校 EECS 负责人 omg\n\n人类正在流泪"
+    },
+    "mattturck": {
+      "en": "Fascinated by Lime going public - in an age where AI gets all the attention, how does a scooter company with $1B in debt pull off a successful IPO literally after expressing \"substantial doubt\" that they might not even survive the year?\n\n* Impressive financial engineering - the IPO paid off the toxic loans and converted the rest to equity, so the slate is clean\n\n* Uber owns 22% of Lime and refers riders directly to Lime, so obviously a great backstop and partner\n\n* They've actually been FCF positive for 3 consecutive years with revenue growing nearly 30% YoY\n\n* Something about being the last man standing and surviging the micromobility bloodbath (RIP Bird).  Never give up!",
+      "zh": "对 Lime 的上市着迷——在人工智能受到所有人关注的时代，一家负债 10 亿美元的摩托车公司如何在表达了“严重怀疑”自己可能无法度过这一年之后，成功进行 IPO？\n\n* 令人印象深刻的金融工程 - 首次公开募股还清了有毒贷款，并将其余部分转换为股权，因此一切都干净了\n\n* Uber 拥有 Lime 22% 的股份，并将乘客直接推荐给 Lime，因此显然是一个很好的后盾和合作伙伴\n\n* 实际上，他们的自由现金流已连续 3 年为正，收入同比增长近 30%\n\n* 关于成为微移动大屠杀中最后一个站起来并幸存下来的人（RIP Bird）。  永不放弃！"
+    },
+    "nikunj": {
+      "en": "The talent vortex of @OpenAI and @AnthropicAI is only getting crazier.. in the last 2 months, four personal friends have left VERY established roles to join the labs. \n\nThe dual draw of building one of the most consequential companies plus it being pre-IPO and getting liquidity is just too hard to pass up. \n\nThis means having strong conviction and MASSIVE ambition if you choose to do it on your own.\n\nMy only counter to Xavi’s position will be that most VCs actually won’t make a lot of money.. at least life changing money. Some of them have actually deflected to the labs knowing this. Like any role the best ones will thrive and survive!",
+      "zh": "@OpenAI 和 @AnthropicAI 的人才漩涡只会变得更加疯狂。在过去的两个月里，四位私人朋友离开了非常固定的职位加入了实验室。 \n\n建立最有影响力的公司之一，加上它处于首次公开募股前和获得流动性的双重吸引力实在是难以忽视。 \n\n这意味着如果您选择自己做的话，就要有坚定的信念和巨大的野心。\n\n我对哈维立场的唯一反驳是，大多数风险投资实际上不会赚很多钱……至少是改变生活的钱。他们中的一些人实际上已经知道了这一点而转向实验室。就像任何角色一样，最好的角色将会蓬勃发展并生存！"
+    },
+    "steipete": {
+      "en": "I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook. DM leads my way 🙏🦞",
+      "zh": "我正在为我和一些 OpenClaw 维护者在旧金山寻找一个半私人的黑客空间几天。我们需要做饭。 DM带我前行🙏🦞"
+    },
+    "danshipper": {
+      "en": "IVE BEEN MEANING TO DO THIS\n\nSO COOL",
+      "zh": "我一直想这么做\n\n太酷了"
+    },
+    "adityaag": {
+      "en": "Every once in a while, I meet a very very smart but default-pessimistic person in SF. They are often from the growthy/wall-street part of the world.\n\nAnd my first thought is: \"Why would you want to be in this city? We run on optimism. Are you here to be a contrarian in your sadness?\"",
+      "zh": "每隔一段时间，我就会在旧金山遇到一个非常非常聪明但默认悲观的人。他们通常来自世界的增长/华尔街地区。\n\n我的第一个想法是：“你为什么想来到这座城市？我们靠乐观行事。你来这里是为了在悲伤中成为逆向投资者吗？”"
+    },
+    "claudeai": {
+      "en": "All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the remainder of your usage. You can also continue using Fable via usage credits.\n\nMore here:",
+      "zh": "所有包含使用量的付费计划都可以在 7 月 7 日之前访问《神鬼寓言 5》。您最多可以使用《神鬼寓言 5》每周使用限制的 50%，之后您可以切换到其他型号来使用剩余的使用量。您还可以通过使用积分继续使用《神鬼寓言》。\n\n更多这里："
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:10\nYou go and teach executives and other people at big companies how to use AI. And so I think what you're doing is a good window into how great operators and executives are starting to use this stuff.\n\nSpeaker 2 | 00:10 - 00:16\nWhat Codex helped me do was basically create kind of like an operating system. My email knows what's going on\n\nSpeaker 1 | 00:16 - 00:16\nMhmm.\n\nSpeaker 2 | 00:16 - 00:27\nMore than I do. I'm just so bullish on all of the administrative tasks that wi...",
+      "zh": "演讲者 1 | 00:00 - 00:10\n你去教大公司的高管和其他人如何使用人工智能。所以我认为你正在做的事情是一个很好的窗口，让我们了解优秀的运营商和高管如何开始使用这些东西。\n\n扬声器 2 | 00:10 - 00:16\nCodex 帮助我做的基本上是创建一个类似操作系统的东西。我的电子邮件知道发生了什么\n\n演讲者 1 | 00:16 - 00:16\n嗯。\n\n扬声器 2 | 00:16 - 00:27\n比我还多。我非常看好所有的行政任务",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
