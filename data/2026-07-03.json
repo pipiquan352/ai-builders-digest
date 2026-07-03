@@ -1,0 +1,512 @@
+{
+  "generatedAt": "2026-07-03T15:52:30.028Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2072760421627597198",
+          "text": "everyone come down to the AIE Expo at 12.30, there's a SPECIAL **FLASH** SURPRISE (you'll know it when u see it) and then come to Expo Stage 2 for a very special @latentspacepod live pod with Etched! https://t.co/fisw6g3UKr https://t.co/s0KYHznXyE",
+          "createdAt": "2026-07-02T19:12:49.000Z",
+          "url": "https://x.com/swyx/status/2072760421627597198",
+          "likes": 25,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2072299545841799502"
+        },
+        {
+          "id": "2072754722059239471",
+          "text": "very proud that the biggest applause line in the AIE keynotes this year was normalizing men talking about their feelings and mental health in hypergrowth\n\nthanks @mikeyk for indulging all my cheeky questions on Fable and Tag!! https://t.co/8rml4RU8gl https://t.co/Tmc2XAn8eS",
+          "createdAt": "2026-07-02T18:50:10.000Z",
+          "url": "https://x.com/swyx/status/2072754722059239471",
+          "likes": 140,
+          "retweets": 4,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2072736022979555598"
+        },
+        {
+          "id": "2072722973652660432",
+          "text": "@r00k @artofproductpod @hillelogram https://t.co/Yfl0Ft5cyy",
+          "createdAt": "2026-07-02T16:44:00.000Z",
+          "url": "https://x.com/swyx/status/2072722973652660432",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2072407129982464361"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2072777472970563995",
+          "text": "Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max! https://t.co/JOD0KCPVuU",
+          "createdAt": "2026-07-02T20:20:34.000Z",
+          "url": "https://x.com/bcherny/status/2072777472970563995",
+          "likes": 1776,
+          "retweets": 78,
+          "replies": 105,
+          "isQuote": true,
+          "quotedTweetId": "2072770790114914317"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2072607914217320644",
+          "text": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+          "createdAt": "2026-07-02T09:06:48.000Z",
+          "url": "https://x.com/thsottiaux/status/2072607914217320644",
+          "likes": 9610,
+          "retweets": 388,
+          "replies": 1525,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2072842766053499353",
+          "text": "How I’m getting the most out of Fable before July 7:\n\n1. Prep context with cheaper models\n2. Plan with Fable, execute with another model\n3. Use lower effort, like Medium, and babysit what Fable is doing\n\n📌 Watch my full tutorial for 5 Fable-worthy use cases to try: https://t.co/XElMEV3FwK",
+          "createdAt": "2026-07-03T00:40:01.000Z",
+          "url": "https://x.com/petergyang/status/2072842766053499353",
+          "likes": 51,
+          "retweets": 4,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2072458983886205333"
+        },
+        {
+          "id": "2072838004310507975",
+          "text": "@NousResearch @karan4d Alright the top requests are:\n\n1. Hermes origins &amp; early story\n2. Agent memory &amp; persistence\n3. Novel real-world use cases\n4. Team ops &amp; delegation\n5. Long-term vision &amp; differentiation\n\nSubscribe to get the episode in the coming weeks: https://t.co/GUFpJ1N0WY",
+          "createdAt": "2026-07-03T00:21:06.000Z",
+          "url": "https://x.com/petergyang/status/2072838004310507975",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072756657856422379",
+          "text": "Thought I’d share a fun activity I did with my 8-year-old daughter and Codex today:\n\n1. She drew a picture of a dragon.\n\n2. We uploaded her drawing to Codex and used image gen to make a few more dragon poses. She used voice to give Codex feedback until we got the result below.\n\n3. We sent it to customstickers(dot)com to print sticker sheets (it's about $20 for 10 sheets).\n\nNow she can share her stickers with her friends when they arrive in the mail next week. Try it if you have kids stuck at home this summer :)",
+          "createdAt": "2026-07-02T18:57:51.000Z",
+          "url": "https://x.com/petergyang/status/2072756657856422379",
+          "likes": 38,
+          "retweets": 2,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2072714076614950961",
+          "text": "If only there were a system of some kind that coordinates work between multiple entities https://t.co/KZ0EzhQ1I0",
+          "createdAt": "2026-07-02T16:08:39.000Z",
+          "url": "https://x.com/thenanyu/status/2072714076614950961",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2072674904256962682"
+        },
+        {
+          "id": "2072699613929156660",
+          "text": "No excuses @patrickc https://t.co/mLWiUbSnXV",
+          "createdAt": "2026-07-02T15:11:11.000Z",
+          "url": "https://x.com/thenanyu/status/2072699613929156660",
+          "likes": 27,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2072550690304782597"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "2072743070316257662",
+          "text": "Get started here: https://t.co/CR7dRQl4mr\n\nWe are granting $25k in credits for Claude Enterprise orgs and $2.5k in credits for Claude Team orgs to use Claude Tag through September 1st",
+          "createdAt": "2026-07-02T18:03:52.000Z",
+          "url": "https://x.com/_catwu/status/2072743070316257662",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072731500928508331",
+          "text": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs.\n\nWe cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work.",
+          "createdAt": "2026-07-02T17:17:53.000Z",
+          "url": "https://x.com/_catwu/status/2072731500928508331",
+          "likes": 483,
+          "retweets": 27,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2072725610061803522"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2072814904210509905",
+          "text": "See the post here: https://t.co/ayMkRPyJhl https://t.co/dfk3oMWVM6",
+          "createdAt": "2026-07-02T22:49:18.000Z",
+          "url": "https://x.com/trq212/status/2072814904210509905",
+          "likes": 460,
+          "retweets": 21,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072814903170408784",
+          "text": "I've heard a lot of questions about Fable's availability on  subscription plans. \n\nWhile it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
+          "createdAt": "2026-07-02T22:49:18.000Z",
+          "url": "https://x.com/trq212/status/2072814903170408784",
+          "likes": 6942,
+          "retweets": 656,
+          "replies": 583,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2072741369848746315",
+          "text": "We've been explaining AI Gateway as a C̶o̶n̶t̶e̶n̶t̶ Token Delivery Network. Like a CDN for AI models.\n\nOne great feature of CDNs is the ability to dynamically re-route or deny traffic without redeployment.\n\nWhen Fable was suddenly retired, we worried about production workloads depending on it. Even Fable aside, models get retired quite often as GPU capacity is heavily contested. Yet our data shows people still having happy production traffic of older model versions!\n\nWe're solving this now with AI Gateway Rules. e.g.: you can now rewrite model \"routes\" on the fly!\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚊𝚒-𝚐𝚊𝚝𝚎𝚠𝚊𝚢 𝚛𝚞𝚕𝚎𝚜 𝚊𝚍𝚍 \\\n  --𝚝𝚢𝚙𝚎 𝚛𝚎𝚠𝚛𝚒𝚝𝚎 \\\n  --𝚜𝚘𝚞𝚛𝚌𝚎 𝚊𝚗𝚝𝚑𝚛𝚘𝚙𝚒𝚌/𝚌𝚕𝚊𝚞𝚍𝚎-𝚏𝚊𝚋𝚕𝚎-𝟻 \\\n  --𝚍𝚎𝚜𝚝𝚒𝚗𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚝𝚑𝚛𝚘𝚙𝚒𝚌/𝚌𝚕𝚊𝚞𝚍𝚎-𝚘𝚙𝚞𝚜-𝟻\n\nThis adds to the repertoire of capabilities and techniques AI Gateway brings to the table to recover lost tokens. If you drop tokens, you lose revenue and customers 💸\n\nKudos to @rtaneja_ @crowprose @shaper – we went from CLI design to production-grade capability very quickly!",
+          "createdAt": "2026-07-02T17:57:06.000Z",
+          "url": "https://x.com/rauchg/status/2072741369848746315",
+          "likes": 234,
+          "retweets": 14,
+          "replies": 34,
+          "isQuote": true,
+          "quotedTweetId": "2072738141719667150"
+        },
+        {
+          "id": "2072715658157027375",
+          "text": "Private connectivity between services is 🔑 for backends.\n\n1️⃣ Register 𝚋𝚒𝚗𝚍𝚒𝚗𝚐𝚜 in 𝚟𝚎𝚛𝚌𝚎𝚕.𝚓𝚜𝚘𝚗 (1LOC)\n2️⃣ Read it:\n\n𝚗𝚎𝚠 𝚄𝚁𝙻(\"/𝚊𝚙𝚒\", 𝚙𝚛𝚘𝚌𝚎𝚜𝚜.𝚎𝚗𝚟.𝙱𝙰𝙲𝙺𝙴𝙽𝙳_𝙸𝙽𝚃𝙴𝚁𝙽𝙰𝙻_𝚄𝚁𝙻)\n\nWorks for Node, Python, 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎… you name it https://t.co/sS83Z486Ki",
+          "createdAt": "2026-07-02T16:14:56.000Z",
+          "url": "https://x.com/rauchg/status/2072715658157027375",
+          "likes": 279,
+          "retweets": 6,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2072712710526320839"
+        },
+        {
+          "id": "2072711610712330658",
+          "text": "Everyone in NYC has the same dog. It's a french bulldog. This needs to be studied",
+          "createdAt": "2026-07-02T15:58:51.000Z",
+          "url": "https://x.com/rauchg/status/2072711610712330658",
+          "likes": 340,
+          "retweets": 1,
+          "replies": 64,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2072875685811716182",
+          "text": "The deployment of AI in the enterprise beyond just interacting with a chatbot will unequivocally take real work to align AI systems to the underlying business processes they’re involved in and drive the desired outcomes.\n\nMost workflows weren’t designed for AI agents to just drop into. Workflows today in the enterprise deal with fragmented data, legacy software systems that agents can’t connect with, institutional instead of documented knowledge, and more.\n\nTo deploy agents reliably at scale you need to get data cleaned up, modernize IT systems, figure out evals, drive change management for the new end state process, and so on. This also involves designing where humans remain in the loop (which will mean entirely new ways people interact with the workflows), and figuring out what a company’s new IP looks like. \n\nThis is why so many applied AI companies are expanding FDE efforts and launching deploycos, and why the FDE role will be one of the most critical jobs in tech going forward. There’s a tremendous amount of work to be done on this front.",
+          "createdAt": "2026-07-03T02:50:50.000Z",
+          "url": "https://x.com/levie/status/2072875685811716182",
+          "likes": 151,
+          "retweets": 13,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2072729136746176684"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2072930664962539860",
+          "text": "“What happened to state Sen. Scott Wiener at the Trans March celebration last week was neither inclusion, righteousness nor speaking truth to power. It was not a protest; it was a mob. And Democrats — all of us — need to say so, loudly and without equivocation.”\n\nhttps://t.co/Wq3FQnkgOI",
+          "createdAt": "2026-07-03T06:29:18.000Z",
+          "url": "https://x.com/garrytan/status/2072930664962539860",
+          "likes": 51,
+          "retweets": 6,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072846822566133768",
+          "text": "https://t.co/7AjibiQdzO https://t.co/KNv7PPykEU",
+          "createdAt": "2026-07-03T00:56:08.000Z",
+          "url": "https://x.com/garrytan/status/2072846822566133768",
+          "likes": 829,
+          "retweets": 54,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2072762747008475201"
+        },
+        {
+          "id": "2072846648854954240",
+          "text": "It’s time to build https://t.co/9RUcS7LncP",
+          "createdAt": "2026-07-03T00:55:27.000Z",
+          "url": "https://x.com/garrytan/status/2072846648854954240",
+          "likes": 336,
+          "retweets": 15,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2072670374521647487"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2072723415870411232",
+          "text": "This fascinating conversation with @ctnzr of @NVIDIAAI is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/KR5c8CU8Lg",
+          "createdAt": "2026-07-02T16:45:46.000Z",
+          "url": "https://x.com/mattturck/status/2072723415870411232",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072723410975629364",
+          "text": "Inside Nemotron and NVIDIA's AI lab: my conversation with Bryan Catanzaro (@ctnzr).  \n\n@nvidia is a chip company. So why does it put hundreds of researchers on building AI models - and then give them away for free? We go deep into the Nemotron models, what it takes to build a top AI lab, and the future of frontier AI. \n\n01:33 -   Is open source AI catching the frontier?\n\n05:29 -  Do closed labs blocking distillation slow open source down?\n\n07:42 -  Is the US falling behind China?\n\n10:30 - Why companies actually choose open models\n\n12:39 -  A \"crazy\" 2008 bet: machine learning on GPUs\n\n15:33 - Working with Andrew Ng and Dario Amodei at Baidu\n\n17:41 - Coming back to NVIDIA: DLSS and the birth of Megatron\n\n21:55 - The real reason NVIDIA builds its own models\n\n24:28 - Is Moore's Law really dead?\n\n33:37 - The Nemotron family: Nano, Super, Ultra\n\n35:09 - Built for agents: why NVIDIA bets on speed\n\n36:02 - How you train a 550B model in 4 bits\n\n39:25 - Hybrid Mamba-Transformer, explained simply\n\n42:31 - Mixture of experts, and why NVIDIA built NVL72 around it\n\n47:26 - Why a 1-million-token context window matters\n\n49:26 - Multi-token prediction: how the model predicts 5 tokens at once\n\n52:47 - Multi-teacher distillation: teaching one model from many\n\n58:01 - Where reinforcement learning goes next\n\n01:00:16 - Inside NVIDIA's research org: \"the mission is the boss\"\n\n01:04:03 - How NVIDIA decides who gets the GPUs\n\n01:10:53 - Why NVIDIA still feels entrepreneurial after 33 years\n\n01:12:58 - Why Bryan doesn't believe in the singularity\n\n01:17:50 - The AI backlash\n\n01:19:18 - The controversial case: open AI is safer than closed",
+          "createdAt": "2026-07-02T16:45:45.000Z",
+          "url": "https://x.com/mattturck/status/2072723410975629364",
+          "likes": 147,
+          "retweets": 28,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2072780155924480074",
+          "text": "It’s AGI summer and I’m seeing plenty of “tourists” who are visiting SF - just like last year..\n\nAnd, then they go back and say SF has no soul, it’s just 996 culture and it’s just AI. Also it’s dirty and smells - and did you notice the homeless?\n\nWhile there is some truth to ALL the claims, you really shouldn’t judge this city on a few days (or honestly even weeks). \n\nDon’t be a tourist, and spend time here. Booms and busts will happen. But, it really can be wonderful. And if it’s not for you, then it’s not for you. Go make the place you’re going back to all that you want it to be. \n\n(Signed by someone who’s been here 14 years)",
+          "createdAt": "2026-07-02T20:31:14.000Z",
+          "url": "https://x.com/nikunj/status/2072780155924480074",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "1966632227049213974"
+        },
+        {
+          "id": "2072684481824309411",
+          "text": "Nothing is more fulfilling than connecting people with opportunity. \n\nEven when you have absolutely nothing to gain from it. \n\nIt’s an abundant world where everything doesn’t need to be zero sum. Don’t let the gatekeepers tell you otherwise.",
+          "createdAt": "2026-07-02T14:11:03.000Z",
+          "url": "https://x.com/nikunj/status/2072684481824309411",
+          "likes": 209,
+          "retweets": 20,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2072744099678212487",
+          "text": "This is getting better and better.\n\nBy now I have daily calls with the ATT rep who tries it's hardest to get my 3$ Apple Watch plan addition approved.\n\nFun fact he knows OpenClaw and uses it every day.\n\n🙃🦞",
+          "createdAt": "2026-07-02T18:07:57.000Z",
+          "url": "https://x.com/steipete/status/2072744099678212487",
+          "likes": 287,
+          "retweets": 3,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2072805884376301737",
+          "text": "this is great\n\ni feel this a LOT right now with fable, where it can go off for hours at a time and then comes back with a 2 paragraph explanation of what it did\n\nwe need better ways for AI to tell us stories https://t.co/0o0izqEBQL",
+          "createdAt": "2026-07-02T22:13:28.000Z",
+          "url": "https://x.com/danshipper/status/2072805884376301737",
+          "likes": 133,
+          "retweets": 4,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2072522251300409556"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2072879173136474186",
+          "text": "I took my son to the USMNT game yesterday against Bosnia.\n\nAfter the game I asked him his favorite part and he said: “the giant flag and the national anthem”\n\nThis country has given us everything. \n\nCannot be more grateful. https://t.co/OgsVN62Ilf",
+          "createdAt": "2026-07-03T03:04:41.000Z",
+          "url": "https://x.com/adityaag/status/2072879173136474186",
+          "likes": 997,
+          "retweets": 27,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072735608485945555",
+          "text": "This is true https://t.co/SpvvRP3LBr",
+          "createdAt": "2026-07-02T17:34:13.000Z",
+          "url": "https://x.com/adityaag/status/2072735608485945555",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2072725916879610084"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2072773542576586790",
+          "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+          "createdAt": "2026-07-02T20:04:57.000Z",
+          "url": "https://x.com/sama/status/2072773542576586790",
+          "likes": 11126,
+          "retweets": 284,
+          "replies": 559,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2072725610061803522",
+          "text": "A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic.\n\nClaude Fable 5 is now available in Claude Tag. https://t.co/8oNM5WaWzj",
+          "createdAt": "2026-07-02T16:54:29.000Z",
+          "url": "https://x.com/claudeai/status/2072725610061803522",
+          "likes": 2620,
+          "retweets": 184,
+          "replies": 187,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072681856730792282",
+          "text": "The hackathon will run July 7-13. Apply by Sunday: https://t.co/eGlIcA0Cko",
+          "createdAt": "2026-07-02T14:00:37.000Z",
+          "url": "https://x.com/claudeai/status/2072681856730792282",
+          "likes": 402,
+          "retweets": 25,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072681853971001849",
+          "text": "Announcing Built with Claude: Life Sciences, a global virtual hackathon.\n\nJoin us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code, with a prize pool of $100k in credits. https://t.co/wzrSBHJgeP",
+          "createdAt": "2026-07-02T14:00:37.000Z",
+          "url": "https://x.com/claudeai/status/2072681853971001849",
+          "likes": 4558,
+          "retweets": 445,
+          "replies": 274,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+      "publishedAt": "2026-07-02T15:00:00.000Z"
+    }
+  ]
+}

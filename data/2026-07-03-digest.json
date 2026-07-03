@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "very proud that the biggest applause line in the AIE keynotes this year was normalizing men talking about their feelings and mental health in hypergrowth\n\nthanks @mikeyk for indulging all my cheeky questions on Fable and Tag!!",
+      "zh": "非常自豪的是，今年 AIE 主题演讲中最大的掌声是使男性正常化地谈论他们在高速增长中的感受和心理健康\n\n感谢@mikeyk 满足我关于《寓言》和《标签》的所有厚颜无耻的问题！"
+    },
+    "bcherny": {
+      "en": "Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max!",
+      "zh": "克劳德密码中的工件改变了生活。很高兴扩展到 Pro 和 Max！"
+    },
+    "thsottiaux": {
+      "en": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+      "zh": "迫不及待地想看看人们会用 GPT-5.6 Sol Ultra 做什么。把最难的提示藏在某个地方。"
+    },
+    "petergyang": {
+      "en": "How I’m getting the most out of Fable before July 7:\n\n1. Prep context with cheaper models\n2. Plan with Fable, execute with another model\n3. Use lower effort, like Medium, and babysit what Fable is doing\n\n📌 Watch my full tutorial for 5 Fable-worthy use cases to try:",
+      "zh": "我如何在 7 月 7 日之前充分利用《神鬼寓言》：\n\n1. 使用更便宜的模型准备上下文\n2. 用寓言来计划，用另一个模型来执行\n3. 使用较低的努力，例如Medium，并照看《寓言》正在做的事情\n\n📌 观看我的完整教程，了解 5 个值得尝试的用例："
+    },
+    "thenanyu": {
+      "en": "No excuses @patrickc",
+      "zh": "没有借口@patrickc"
+    },
+    "_catwu": {
+      "en": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs.\n\nWe cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work.",
+      "zh": "Claude Tag 正在释放我们整个组织的生产力：工程、产品、数据、销售、营销。我们的内部版本获得了 65% 的产品 PR。\n\n我们介绍了推出该方案的首席执行官/首席技术官手册、为什么从第一天开始就设计安全性，以及这对未来的工作意味着什么。"
+    },
+    "trq212": {
+      "en": "I've heard a lot of questions about Fable's availability on  subscription plans. \n\nWhile it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
+      "zh": "我听到很多关于《神鬼寓言》订阅计划可用性的问题。 \n\n虽然《神鬼寓言》将在 7 月 7 日之后停止订阅，但我们的目标是在容量允许的情况下尽快将《神鬼寓言》恢复为我们订阅的标准部分，正如我们在原始博客文章中提到的那样。"
+    },
+    "rauchg": {
+      "en": "Everyone in NYC has the same dog. It's a french bulldog. This needs to be studied",
+      "zh": "纽约市的每个人都养着同一只狗。这是一只法国斗牛犬。这个需要研究一下"
+    },
+    "levie": {
+      "en": "The deployment of AI in the enterprise beyond just interacting with a chatbot will unequivocally take real work to align AI systems to the underlying business processes they’re involved in and drive the desired outcomes.\n\nMost workflows weren’t designed for AI agents to just drop into. Workflows today in the enterprise deal with fragmented data, legacy software systems that agents can’t connect with, institutional instead of documented knowledge, and more.\n\nTo deploy agents reliably at scale you need to get data cleaned up, modernize IT systems, figure out evals, drive change management for the new end state process, and so on. This also involves designing where humans remain in the loop (which will mean entirely new ways people interact with the workflows), and figuring out what a company’s new IP looks like. \n\nThis is why so many applied AI companies are expanding FDE efforts and launching deploycos, and why the FDE role will be one of the most critical jobs in tech going forward. There’s a tremendous amount of work to be done on this front.",
+      "zh": "在企业中部署人工智能，不仅仅是与聊天机器人交互，显然还需要进行实际工作，使人工智能系统与其所涉及的底层业务流程保持一致，并推动实现预期的结果。\n\n大多数工作流程并不是为人工智能代理而设计的。如今，企业中的工作流程处理的是碎片化数据、代理无法连接的遗留软件系统、机构知识而不是文档化知识等等。\n\n为了大规模可靠地部署代理，您需要清理数据、实现 IT 系统现代化、进行评估、推动新的最终状态流程的变更管理等等。这还涉及设计人类留在循环中的位置（这将意味着人们与工作流程交互的全新方式），并弄清楚公司的新 IP 是什么样子。 \n\n这就是为什么如此多的应用人工智能公司正在扩大 FDE 工作并推出部署公司，也是为什么 FDE 角色将成为未来科技领域最关键的工作之一。这方面还有大量工作要做。"
+    },
+    "mattturck": {
+      "en": "Inside Nemotron and NVIDIA's AI lab: my conversation with Bryan Catanzaro (@ctnzr).  \n\n@nvidia is a chip company. So why does it put hundreds of researchers on building AI models - and then give them away for free? We go deep into the Nemotron models, what it takes to build a top AI lab, and the future of frontier AI. \n\n01:33 -   Is open source AI catching the frontier?\n\n05:29 -  Do closed labs blocking distillation slow open source down?\n\n07:42 -  Is the US falling behind China?\n\n10:30 - Why companies actually choose open models\n\n12:39 -  A \"crazy\" 2008 bet: machine learning on GPUs\n\n15:33 - Working with Andrew Ng and Dario Amodei at Baidu\n\n17:41 - Coming back to NVIDIA: DLSS and the birth of Megatron\n\n21:55 - The real reason NVIDIA builds its own models\n\n24:28 - Is Moore's Law really dead?\n\n33:37 - The Nemotron family: Nano, Super, Ultra\n\n35:09 - Built for agents: why NVIDIA bets on speed\n\n36:02 - How you train a 550B model in 4 bits\n\n39:25 - Hybrid Mamba-Transformer, explained simply\n\n42:31 - Mixture of experts, and why NVIDIA built NVL72 around it\n\n47:26 - Why a 1-million-token context window matters\n\n49:26 - Multi-token prediction: how the model predicts 5 tokens at once\n\n52:47 - Multi-teacher distillation: teaching one model from many\n\n58:01 - Where reinforcement learning goes next\n\n01:00:16 - Inside NVIDIA's research org: \"the mission is the boss\"\n\n01:04:03 - How NVIDIA decides who gets the GPUs\n\n01:10:53 - Why NVIDIA still feels entrepreneurial after 33 years\n\n01:12:58 - Why Bryan doesn't believe in the singularity\n\n01:17:50 - The AI backlash\n\n01:19:18 - The controversial case: open AI is safer than closed",
+      "zh": "Nemotron 和 NVIDIA 人工智能实验室内部：我与 Bryan Catanzaro (@ctnzr) 的对话。  \n\n@nvidia 是一家芯片公司。那么，为什么它让数百名研究人员构建人工智能模型，然后免费赠送它们呢？我们深入探讨 Nemotron 模型、建立顶级人工智能实验室所需的条件以及前沿人工智能的未来。 \n\n01:33 - 开源人工智能正在赶上前沿吗？\n\n05:29 - 封闭实验室阻碍蒸馏会减慢开源速度吗？\n\n07:42 - 美国落后于中国吗？\n\n10:30 - 为什么公司实际上选择开放模式\n\n12:39 - 2008 年的一个“疯狂”赌注：GPU 上的机器学习\n\n15:33 - 与百度的 Andrew Ng 和 Dario Amodei 合作\n\n17:41 - 回到 NVIDIA：DLSS 和威震天的诞生\n\n21:55 - NVIDIA 构建自己的模型的真正原因\n\n24:28 - 摩尔定律真的失效了吗？\n\n33:37 - Nemotron 系列：Nano、Super、Ultra\n\n35:09 - 专为代理打造：为何 NVIDIA 押注于速度\n\n36:02 - 如何用 4 位训练 550B 模型\n\n39:25 - 混合曼巴变压器，简单解释\n\n42:31 - 专家的混合体，以及为什么 NVIDIA 围绕它构建 NVL72\n\n47:26 - 为什么 100 万代币上下文窗口很重要\n\n49:26 - 多令牌预测：模型如何同时预测 5 个令牌\n\n52:47 - 多教师蒸馏：教授多种模型中的一种模型\n\n58:01 - 强化学习的下一步走向\n\n01:00:16 - NVIDIA 研究组织内部：“使命就是老板”\n\n01:04:03 - NVIDIA 如何决定谁获得 GPU\n\n01:10:53 - 为什么 NVIDIA 在 33 年后仍然给人一种创业精神\n\n01:12:58 - 为什么布莱恩不相信奇点\n\n01:17:50 - 人工智能的强烈反对\n\n01:19:18 - 有争议的案例：开放人工智能比封闭人工智能更安全"
+    },
+    "nikunj": {
+      "en": "Nothing is more fulfilling than connecting people with opportunity. \n\nEven when you have absolutely nothing to gain from it. \n\nIt’s an abundant world where everything doesn’t need to be zero sum. Don’t let the gatekeepers tell you otherwise.",
+      "zh": "没有什么比将人们与机会联系起来更令人满足的了。 \n\n即使你绝对没有从中得到任何好处。 \n\n这是一个丰富的世界，一切都不需要零和。不要让看门人告诉你其他情况。"
+    },
+    "steipete": {
+      "en": "This is getting better and better.\n\nBy now I have daily calls with the ATT rep who tries it's hardest to get my 3$ Apple Watch plan addition approved.\n\nFun fact he knows OpenClaw and uses it every day.\n\n🙃🦞",
+      "zh": "这一点正在变得越来越好。\n\n到目前为止，我每天都会与 ATT 代表通话，他们尽最大努力让我的 3 美元 Apple Watch 计划附加项目获得批准。\n\n有趣的是，他了解 OpenClaw 并且每天都在使用它。\n\n🙃🦞"
+    },
+    "danshipper": {
+      "en": "this is great\n\ni feel this a LOT right now with fable, where it can go off for hours at a time and then comes back with a 2 paragraph explanation of what it did\n\nwe need better ways for AI to tell us stories",
+      "zh": "这太棒了\n\n我现在对《寓言》有很多这样的感觉，它可以一次持续几个小时，然后回来用两段解释它的作用\n\n我们需要更好的方式让人工智能给我们讲故事"
+    },
+    "adityaag": {
+      "en": "I took my son to the USMNT game yesterday against Bosnia.\n\nAfter the game I asked him his favorite part and he said: “the giant flag and the national anthem”\n\nThis country has given us everything. \n\nCannot be more grateful.",
+      "zh": "昨天我带着儿子观看了美国国家队对阵波斯尼亚的比赛。\n\n赛后我问他最喜欢的部分，他说：“巨型国旗和国歌”\n\n这个国家给了我们一切。 \n\n不能更感激。"
+    },
+    "sama": {
+      "en": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+      "zh": "观看世界杯比赛总是很棒，但在美国生日周期间观看美国队在美国获胜真是令人难以置信"
+    },
+    "claudeai": {
+      "en": "Announcing Built with Claude: Life Sciences, a global virtual hackathon.\n\nJoin us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code, with a prize pool of $100k in credits.",
+      "zh": "宣布与克劳德共建：生命科学，全球虚拟黑客马拉松。\n\n加入我们和@GladstoneInst，与 Claude Science 和 Claude Code 一起进行为期一周的研究和构建，奖金池为 10 万美元的学分。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:05\nWelcome to War two fifty, first advanced reactor to ever make power by startup.\n\nSpeaker 2 | 00:06 - 00:15\nWe did something pretty awesome today. The first ever AI chip powered by a nuclear reactor. First Triso reactor to turn on in over fifty years in The United States.\n\nSpeaker 3 | 00:15 - 00:26\nHow much of the premise of Valor is possible now comes from increasing demands for power in The United States largely driven by AI compute?\n\nSpeaker 2 | 00:26 - 00:46\nEnergy b...",
+      "zh": "演讲者 1 | 00:00 - 00:05\n欢迎来到第二五十次战争，这是第一个通过启动发电的先进反应堆。\n\n扬声器 2 | 00:06 - 00:15\n今天我们做了一些非常棒的事情。有史以来第一个由核反应堆驱动的人工智能芯片。美国五十多年来第一座 Triso 反应堆启动。\n\n扬声器 3 | 00:15 - 00:26\n《Valor》的前提有多少可能来自于美国日益增长的电力需求（很大程度上是由人工智能计算驱动的）？\n\n扬声器 2 | 00:26 - 00:46\n能量b",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
