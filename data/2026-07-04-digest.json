@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i often think about the irony of how \"tools for thought\" people spent like a decade making cool pretty demos with canvases \n\nand then got completely mogged by low contrast poorly designed CLIs just winning because they do commodity thinking for you",
+      "zh": "我经常想到具有讽刺意味的是，“思想工具”人们花了十年的时间用画布制作酷炫漂亮的演示 \n\n然后完全被低对比度、设计糟糕的 CLI 所困扰，只是因为它们为你进行商品思考而获胜"
+    },
+    "thsottiaux": {
+      "en": "What it could have been",
+      "zh": "它可能是什么"
+    },
+    "petergyang": {
+      "en": "A LinkedIn DM can change your life 😅",
+      "zh": "LinkedIn DM 可以改变您的生活 😅"
+    },
+    "thenanyu": {
+      "en": "Love the observation: if your field doesn’t produce good training data it was probably full of crap to begin with",
+      "zh": "喜欢观察：如果你的领域没有产生良好的训练数据，那么它一开始可能就充满了垃圾"
+    },
+    "_catwu": {
+      "en": "What are you building with Fable 5 this long weekend? Show me your demos in the replies!",
+      "zh": "这个长周末你打算用《神鬼寓言 5》制作什么作品？在回复中向我展示您的演示！"
+    },
+    "trq212": {
+      "en": "I’ve found the most important part of working with Fable is discovering my own unknowns so I can prompt it better, heres how I do that.",
+      "zh": "我发现与《神鬼寓言》合作最重要的部分是发现我自己的未知数，这样我就可以更好地提示它，我是这样做的。"
+    },
+    "amasad": {
+      "en": "Try video generation on Replit",
+      "zh": "尝试在 Replit 上生成视频"
+    },
+    "rauchg": {
+      "en": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” \n\nSuch beautiful, sacred words.",
+      "zh": "“我们认为这些真理是不言而喻的，人人生而平等，造物主赋予他们某些不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。” \n\n多么美丽、神圣的话语。"
+    },
+    "levie": {
+      "en": "The battle in AI is shaping up to be a battle for context.\n\nEverything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise, access to the right context and tools to work with, and are involved in workflow in a way that users can easily interact with, review its work, and incorporate it into the rest of the process.\n\nAs a consequence, the platforms that are able to capture and leverage the best and most context within their agents —and be able to pick the right models for the task- will be the place where agents do their best work. You can just look at coding agents, legal agents, or support agents as examples of what this looks like at scale. \n\nThis is why the applied AI layer has a lot more value than just being an LLM wrapper. The ability to organize the critical knowledge for the work being done, and maintain this knowledge in a governed way where only the right people and agents have access, and the ability to improve the context for agents more and more over time, is critical.\n\nOver time, this layer will be able to route work between a variety of models, leveraging frontier intelligence for planning and orchestration and review, and a mix of lower cost models (open or closed) for the large volume of work between these tasks.\n\nThe applied layer is also in a good position to train and develop its own models as well that are purpose built for their domains. Never good to bet against the bitter lesson, but equally taking a near frontier base model and post training it for just one type of domain work can -in many cases- lower costs or deliver better performance for certain tasks. \n\nFinally, this applied layer is also where most of the change management of the workflow will need to occur. This is why FDEs are so important at the applied layer, because this is the point where the customer needs to have specific business problem solved by a particular vendor. Whichever companies can solve that completely in an end-to-end fashion will have the greatest moats. \n \nAs each day goes on, we’re learning more about what the likely long term market dynamics will look like in AI.",
+      "zh": "人工智能之战正在演变为一场背景之战。\n\n人工智能的一切都是为了确保代理尽可能有效。这种有效性取决于代理是否拥有正确的领域专业知识、是否能够访问正确的上下文和工具，以及是否以用户可以轻松交互、审查其工作并将其合并到流程的其余部分的方式参与工作流程。\n\n因此，能够捕获和利用代理内最好、最丰富的上下文，并能够为任务选择正确模型的平台，将是代理发挥最佳作用的地方。您可以将编码代理、法律代理或支持代理作为大规模的示例。 \n\n这就是为什么应用的 AI 层比仅仅作为 LLM 包装器具有更多的价值。组织正在完成的工作的关键知识的能力，并以受管理的方式维护这些知识的能力（只有合适的人员和代理才能访问），以及随着时间的推移越来越多地改善代理环境的能力，是至关重要的。\n\n随着时间的推移，这一层将能够在各种模型之间路由工作，利用前沿智能进行规划、编排和审查，并结合较低成本模型（开放或封闭）来处理这些任务之间的大量工作。\n\n应用层也可以很好地训练和开发自己的模型，这些模型是专门为其领域构建的。赌上惨痛的教训从来都不是好事，但同样，采用近前沿基础模型并针对一种类型的领域工作对其进行后期训练可以（在许多情况下）降低成本或为某些任务提供更好的性能。 \n\n最后，该应用层也是工作流的大部分变更管理需要进行的地方。这就是为什么 FDE 在应用层如此重要，因为这是客户需要由特定供应商解决特定业务问题的地方。无论哪家公司能够以端到端的方式完全解决这个问题，都将拥有最大的护城河。 \n \n随着时间的推移，我们正在更多地了解人工智能领域可能的长期市场动态。"
+    },
+    "garrytan": {
+      "en": "Wait time for specialists is going up at a moment AI is about to change it all\n\nI have a feeling AI will bring the quality of care up 100x and not a moment too soon for patients everywhere",
+      "zh": "人工智能即将改变这一切，专家的等待时间正在增加\n\n我有一种感觉，人工智能将使护理质量提高 100 倍，对于世界各地的患者来说，这一刻都不算太早"
+    },
+    "mattturck": {
+      "en": "Best match of the World Cup so far. Cabo Verde ultimate Cinderella story, almost got a 3rd. Argentina is going to have to do *a lot* better going forward. #ARGxCBV.",
+      "zh": "世界杯迄今为止最好的一场比赛。佛得角终极灰姑娘故事，差点获得第三名。阿根廷未来必须做得“很多”更好。 #ARGxCBV。"
+    },
+    "nikunj": {
+      "en": "I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all..\n\n> Flash - for fast cheap long context structured tasks\n> Nano banana - world class images. New lite model is great. \n> Search with grounding\n> Realtime - audio is really good with 3.1 flash and now with Omni for video\n> and many others\n \nSo many side projects of mine are BYOK which can be simplified down to just bringing a Gemini key (ai dot dev ftw)",
+      "zh": "我是 Gemini 及其产品体验最直言不讳的批评者之一，但它仍然是唯一一个使用单个 API 密钥就可以真正做到这一切的地方。\n\n> Flash - 用于快速廉价的长上下文结构化任务\n> 纳米香蕉 - 世界一流的图像。新的精简版模型很棒。 \n> 接地搜索\n> 实时 - 音频在 3.1 flash 下效果非常好，现在用 Omni 来播放视频\n> 以及许多其他人\n \n我的很多副项目都是 BYOK 的，可以简化为只带 Gemini 密钥 (ai dot dev ftw)"
+    },
+    "steipete": {
+      "en": "If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
+      "zh": "如果您认为 Codex 的设计很糟糕，请尝试“使用 imagegen 重新想象这个设计并实现它”。"
+    },
+    "danshipper": {
+      "en": "A new personal iOS app working end to end: 5M tokens\nYour whole prod bug backlog cleared: 20M tokens\nUnnecessarily detailed responses to every single unread email, Slack, and text message: 30M tokens\n\nFable working for you while you’re at the pool: Priceless",
+      "zh": "端到端运行的新个人 iOS 应用程序：500 万个代币\n您的整个产品错误积压已清除：20M 代币\n对每封未读电子邮件、Slack 和短信的不必要的详细回复：3000 万代币\n\n当你在泳池边时寓言为你工作：无价"
+    },
+    "claudeai": {
+      "en": "Squidsoup is a collective of artists and designers who make immersive experiences with sound, light and space. \n\nWe caught up with them before one of their largest projects to date: a live performance with an orchestra at the Southbank Centre in London.",
+      "zh": "Squidsoup 是一个由艺术家和设计师组成的团体，他们利用声音、灯光和空间创造身临其境的体验。 \n\n我们在他们迄今为止最大的项目之一之前采访了他们：在伦敦南岸中心与管弦乐队进行现场表演。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nIf you accept as the truth that we're gonna be running at the limit, then what that means is that the way to get more intelligence is to be more efficient. We can't get more intelligence by applying more force if we're already at the limit. We have to be more thoughtful about how we use what we have. We build tools. We build external organs that help us solve problems.\n\nSpeaker 1 | 00:21 - 00:30\nYou know, we we have an external stomach. We call it kitchen. Now we're cre...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n如果你接受我们将在极限运行这一事实，那么这意味着获得更多智能的方法就是提高效率。如果我们已经达到极限，我们就无法通过施加更多的力量来获得更多的情报。我们必须更加仔细地考虑如何使用我们所拥有的东西。我们构建工具。我们建造外部器官来帮助我们解决问题。\n\n演讲者 1 | 00:21 - 00:30\n你知道，我们有一个外部胃。我们称之为厨房。现在我们是cre",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
