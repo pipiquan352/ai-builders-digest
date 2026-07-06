@@ -1,0 +1,64 @@
+{
+  "x": {
+    "petergyang": {
+      "en": "Damn they better have some armored vehicles to escort these English players out of the stadium 😅",
+      "zh": "该死的，他们最好有一些装甲车来护送这些英国球员离开体育场😅"
+    },
+    "thenanyu": {
+      "en": "The “real-time strategy game” model of managing agents is clearly a dead end. \n\nAI that’s ancient by current standards already beats &gt;99% of human players and out-micros them to an extreme degree",
+      "zh": "管理代理人的“即时战略游戏”模式显然是一条死胡同。 \n\n按照目前的标准来看，古老的人工智能已经击败了超过 99% 的人类玩家，并且在极端程度上超越了他们"
+    },
+    "AmandaAskell": {
+      "en": "Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're basically asking for their hunch. I don't know if they get sued for giving out information or something.",
+      "zh": "从医生那里提取概率是生活中不必要的老板之战之一。即使你请求他们提供区间值主观概率，此时你基本上是在询问他们的直觉。我不知道他们是否会因为提供信息或其他什么而被起诉。"
+    },
+    "_catwu": {
+      "en": "what are your top claude code + workflows + artifacts use cases?\n\none of my new favorites is for sourcing candidates:\n- tell cc about the role and backgrounds i’m looking for\n- ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each\n- ask cc to make an artifact and email it to me. then, i lock my laptop and head out for the day\n- i review the list on the go once cc is done!",
+      "zh": "您的顶级克劳德代码 + 工作流程 + 工件用例是什么？\n\n我最喜欢的一项新功能是寻找候选人：\n- 告诉 cc 我正在寻找的角色和背景\n- 要求 cc 启动一个动态工作流程来寻找 100 名候选人，其中包括 linkedin、twitter、博客、播客以及针对每个候选人的一行推销\n- 要求抄送制作一个工件并将其通过电子邮件发送给我。然后，我锁上我的笔记本电脑并出去度过这一天\n- 抄送完成后，我会随时查看列表！"
+    },
+    "trq212": {
+      "en": "\"God gave me a sign\"\n\n(remembering i live in San Francisco)\n\n\"I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity\"",
+      "zh": "“上帝给了我一个征兆”\n\n（记得我住在旧金山）\n\n“我的意思是，我在末日偶然受到 ASI 的影响，以最大限度地为人类提供电动汽车”"
+    },
+    "amasad": {
+      "en": "Happy 250 🇺🇸",
+      "zh": "250岁快乐🇺🇸"
+    },
+    "rauchg": {
+      "en": "🇺🇸 USA - 🇦🇷 ARG final \nyou heard it here first",
+      "zh": "🇺🇸 美国 - 🇦🇷 ARG 决赛 \n你首先在这里听到的"
+    },
+    "garrytan": {
+      "en": "So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. \n\nNow it's only the ideas. Go have them, and then build them. It's your time.",
+      "zh": "因此，对人类财富的真正限制从来不是资源。这是关于如何相互服务以及采取行动的杠杆的好主意。我们刚刚删除了每个人的杠杆限制。 \n\n现在只剩下想法了。去拥有它们，然后建造它们。你的时间到了。"
+    },
+    "mattturck": {
+      "en": "Norway: best jersey, best fan celebration, best striker.",
+      "zh": "挪威：最佳球衣、最佳球迷庆祝、最佳前锋。"
+    },
+    "nikunj": {
+      "en": "Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. \n\nHit me with your favorite spots that are kid-friendly (4.5 yr old + 1.5 yr old) and vegetarian-friendly. \n\nTrying to see if we can set up play dates with local families - DM if that’s you!",
+      "zh": "20多年后，短短几天内就前往巴黎、因特拉肯和苏黎世。 \n\n请告诉我您最喜欢的适合儿童（4.5 岁 + 1.5 岁）和素食的景点。 \n\n尝试看看我们是否可以与当地家庭安排玩耍日期 - 如果是您，请私信！"
+    },
+    "steipete": {
+      "en": "Can’t recommend enough. use via",
+      "zh": "强烈推荐。使用通过"
+    },
+    "danshipper": {
+      "en": "me: change this button color\nFable: sure I just spun up a fleet of 100 agents to get that done for you",
+      "zh": "我：改变这个按钮的颜色\n寓言：当然，我刚刚组建了一支由 100 名特工组成的团队来为你完成这件事"
+    },
+    "sama": {
+      "en": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "zh": "我们的大孩子第一次将两个单词放在一起，我对这一认知壮举感到惊讶，就像我对 GPT-5.6 发现新数学感到惊讶一样"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:13\nWith GBT three, you couldn't scale test time compute. Like, if you gave it a budget of $10,000,000 and said, okay. Well, let's see what GBT three can do. It really can't do that much. The precarious frameworks and responsible scaling policies, they don't really account for the amount of test time compute.\n\nSpeaker 1 | 00:13 - 00:32\nThey just say, okay. Well, what's the capability of the model? The problem is we're in a world now where the capability of the model is a fu...",
+      "zh": "演讲者 1 | 00:00 - 00:13\n使用 GBT 3，您无法扩展测试时间计算。比如说，如果你给了它 10,000,000 美元的预算，然后说，好吧。好吧，让我们看看GBT 3能做什么。确实做不到那么多。不稳定的框架和负责任的扩展策略，它们并没有真正考虑到测试时间的计算量。\n\n演讲者 1 | 00:13 - 00:32\n他们只是说，好吧。那么，模型的能力是什么？问题是我们现在所处的世界中，模型的能力是一个很重要的因素。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
