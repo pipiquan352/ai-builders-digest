@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "imo this is the most impt part of anthropic's J-space paper today. it's a two-parter:\n\n1) ant proved that they can do \"brain surgery\" interventions into reasoning to change topics midstream*\n2) THE MODEL IS ABLE TO DETECT WHAT INTERVENTION WAS DONE - close cousin to eval awareness**\n\n*control > correlation - this convincingly demonstrates understanding\n\n**this was prompted awareness... surely @mlpowered's team also tried to eval unprompted awareness but i didn't see evidence of that",
+      "zh": "在我看来，这是今天人类 J 空间论文中最重要的部分。这是一个两部分：\n\n1) 蚂蚁证明他们可以对推理进行“脑部手术”干预以中途改变话题*\n2) 该模型能够检测所做的干预措施 - 与评估意识密切相关**\n\n*控制 > 相关性 - 这令人信服地展示了理解\n\n**这是提示意识...当然@mlpowered 的团队也尝试评估自发意识，但我没有看到这方面的证据"
+    },
+    "bcherny": {
+      "en": "This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research.\n\nSo much more to do. We are 1% done.",
+      "zh": "这是我们第一次讲述我们如何首次构建和启动 Claude Code 的故事，从人类安全研究的起源开始。\n\n还有很多事情要做。我们已经完成了 1%。"
+    },
+    "petergyang": {
+      "en": "Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying before then, with prompts you can copy and paste:\n\n1) FIND FABLE-WORTHY WORK\nYou're Fable 5, the most capable model available. Look through my projects, docs, and your memory, and list the top 5 tasks genuinely worth running on you. Rank them with a one-line reason each. Don't do the work yet.\n\n2) GET LIFE & BUSINESS ADVICE\nYou're my business advisor. Read my plan doc and pull live data from my connected tools. Write a one-page assessment of my business and the top 3 things to focus on for the next 3 months, plus what to drop and why.\n\n3) MAKE YOUR PROJECT SHIP-READY\nI'm about to ship this project. Find everything wrong with it first. Read the whole codebase and hunt for real bugs, broken edge cases, and anything that'll break in front of a user. List each issue with how to reproduce it and the fix. Hold a high bar.\n\n4) PLAN THE NEXT BIG THING\nI want to plan a big project: [describe it]. Don't build yet. Lay out the full plan: phases, key decisions, risks, and open questions. Flag anything that could sink it, and make it clear enough that a cheaper model could execute step by step.\n\n5) REFACTOR YOUR AI SKILLS\nRefactor my AI skill system. Read all my skills, map where they overlap or conflict, then clean them up: tighten workflows, cut bloat, and standardize structure. Keep each skill working and check in at major milestones.\n\n📌 Watch my tutorial for a live demo of all 5 use cases:",
+      "zh": "《神鬼寓言 5》将于明天午夜停止订阅克劳德。以下是 5 个值得在此之前尝试的用例，其中包含可以复制和粘贴的提示：\n\n1）找到值得寓言的工作\n你是《神鬼寓言 5》中最有能力的模型。查看我的项目、文档和您的记忆，并列出真正值得您执行的前 5 项任务。每个都用一行理由对它们进行排名。还没做作业呢。\n\n2) 获取生活和商业建议\n你是我的商业顾问。阅读我的计划文档并从我的连接工具中提取实时数据。写一份关于我的业务的一页评估，以及未来 3 个月要重点关注的 3 件事，以及要放弃的内容和原因。\n\n3) 让您的项目做好发货准备\n我即将交付这个项目。首先找出所有问题。阅读整个代码库并寻找真正的错误、损坏的边缘情况以及任何可能在用户面前损坏的东西。列出每个问题以及如何重现和修复。举起高杠。\n\n4) 计划下一件大事\n我想计划一个大项目：[描述一下]。还没有建立。列出完整的计划：阶段、关键决策、风险和悬而未决的问题。标记任何可能导致其崩溃的因素，并明确说明可以逐步执行更便宜的模型。\n\n5) 重构你的人工智能技能\n重构我的AI技能系统。阅读我的所有技能，找出它们重叠或冲突的地方，然后清理它们：收紧工作流程、减少臃肿并标准化结构。保持每项技能发挥作用并检查主要里程碑。\n\n📌 观看我的教程，了解所有 5 个用例的现场演示："
+    },
+    "thenanyu": {
+      "en": "The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hours into work. \n\nBut looking back, those hours were mostly spent on tedious programming tasks, which are largely automated now. \n\n996 still has uses, but it’s not as universally effective as it was.",
+      "zh": "20 岁时的我与现在的我相比，最大的优势就是能够投入令人难以置信的时间投入工作。 \n\n但回想起来，这些时间主要花在繁琐的编程任务上，而这些任务现在基本上已经自动化了。 \n\n996 仍然有用途，但它不再像以前那样普遍有效。"
+    },
+    "_catwu": {
+      "en": "a retrospective on making claude code from our early team!",
+      "zh": "我们早期团队制作克劳德代码的回顾！"
+    },
+    "trq212": {
+      "en": "great post by @delba_oliveira",
+      "zh": "@delba_oliveira 的精彩帖子"
+    },
+    "amasad": {
+      "en": "Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM.",
+      "zh": "总部位于亚特兰大的房地产公司通过使用 Replit 构建的 CRM 取代 Salesforce，节省了 10 万美元。"
+    },
+    "rauchg": {
+      "en": "Update: 🇪🇸 ESP - 🇦🇷 ARG final.\n\nThe legendary Spanish team will avenge team USA with a decisive defeat of 🇧🇪.",
+      "zh": "更新：🇪🇸 ESP - 🇦🇷 ARG 决赛。\n\n传奇的西班牙队将以🇧🇪的决定性失败为美国队报仇。"
+    },
+    "levie": {
+      "en": "Great post on how to think about open source AI and the applied AI layer. Two things will always be true in AI. Frontier intelligence will likely remain at the forefront of solving brand new used cases and often be used for orchestrating and planning of any type of complex workflow. \n\nAt the same time, as use-cases become mature and predictable in an enterprise context, you can begin to peel off some set of the tokens to either lower cost open or closed models *or* models that are trained for the task at hand. \n\nDoing this too early in the adoption curve of any new use-case doesn’t make sense as you don’t know what you’re optimizing for, which is why there will always be a bit of a lag here.\n\nThis process can essentially run on forever as there is no end for both the benefits of frontier intelligence or tuned models. This is why the spend and token volume for both approaches will continue to go up for years to come as we’re still early on both.\n\nAgain, the only reason this dynamic is possible though is because of the applied AI layer that can effectively eval their workflows in a specific domain, choose a mixture of models to solve tasks, and have enough scale to eventually train their own models for their purposes.",
+      "zh": "关于如何思考开源人工智能和应用人工智能层的精彩文章。在人工智能中，有两件事永远是正确的。前沿智能可能仍处于解决全新用例的最前沿，并且通常用于编排和规划任何类型的复杂工作流程。 \n\n与此同时，随着用例在企业环境中变得成熟和可预测，您可以开始将某些令牌剥离到成本较低的开放或封闭模型*或*针对手头任务进行训练的模型。 \n\n在任何新用例的采用曲线中过早地这样做是没有意义的，因为您不知道要优化什么，这就是为什么这里总是会有一点滞后的原因。\n\n这个过程基本上可以永远持续下去，因为前沿情报或调整模型的好处是永无止境的。这就是为什么这两种方法的支出和代币数量将在未来几年继续上升，因为我们仍处于早期阶段。\n\n同样，这种动态成为可能的唯一原因是应用的人工智能层可以有效地评估特定领域的工作流程，选择混合模型来解决任务，并具有足够的规模来最终训练自己的模型以达到其目的。"
+    },
+    "garrytan": {
+      "en": "Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work\n\nThe city will continue to crumble until the common sense and business forces unite to vote smarter",
+      "zh": "奥克兰将继续成为无效意识形态的美德信号政策的案例研究\n\n这座城市将继续崩溃，直到常识和商业力量联合起来进行更明智的投票"
+    },
+    "nikunj": {
+      "en": "VCs: this job is investing in outliers. \n\nAlso VC: here’s our revolutionary sourcing algorithm, custom built by our in house team, RLed on decades of data, with proprietary data signals from the moment someone is born. \n\nThis job is very weird where there is so much serendipity and luck involved in how you stumbled upon an investment. However, it does take a lot of conviction and if you have years of bets where you have been right, then you aren’t simply “lucky”. \n\nReturns are the only alpha.. but those take time and so we tend to resort to random metrics to prove how we’re different from the next VC. \n\nThe unscientific way I have tried to play this game is by massively expanding my surface of luck to try to find these outliers generally and having a prepared mind for 3-4 areas that are 6-12 months early where I can meet every entrepreneur. \n\nTime will only tell if this works!",
+      "zh": "风险投资家：这项工作是投资异常值。 \n\n还有 VC：这是我们革命性的采购算法，由我们的内部团队定制，基于数十年的数据进行强化学习，并具有从某人出生那一刻起的专有数据信号。 \n\n这份工作非常奇怪，你偶然发现一项投资涉及到如此多的机缘和运气。然而，这确实需要很大的信念，如果你多年来一直押注自己是对的，那么你就不仅仅是“幸运”了。 \n\n回报是唯一的阿尔法......但这需要时间，所以我们倾向于诉诸随机指标来证明我们与下一个风险投资家有何不同。 \n\n我尝试玩这个游戏的不科学方式是，大量扩大我的运气面，试图总体上找到这些异常值，并为 3-4 个领域做好准备，提前 6-12 个月，在那里我可以见到每一位企业家。 \n\n时间只会证明这是否有效！"
+    },
+    "steipete": {
+      "en": "We been cooking, by the time this went through review main again is materially better 🥲",
+      "zh": "我们一直在做饭，当这再次经过审查时，主要是实质上更好了🥲"
+    },
+    "danshipper": {
+      "en": "interestingly, this holds true for how you use models too\n\nshould you use fable to take a big expensive swing? or play small ball to grind your way up the hill?",
+      "zh": "有趣的是，这也适用于你如何使用模型\n\n你应该用寓言来进行一次昂贵的大摇摆吗？或者打小球来磨练上山的路？"
+    },
+    "claudeai": {
+      "en": "We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.",
+      "zh": "我们整理了 Claude Code 诞生的简短历史，由构建它的人和帮助它成为今天的样子的早期用户讲述。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:17\nWe are building this kind of school for AGI where AI models come to learn about humanity, where we teach them how to run the world. It almost seems like there's nothing that humans can do that AI won't soon be capable of. I could see it happening within ten to five years.\n\nSpeaker 2 | 00:17 - 00:50\nAI may be able to do it better than us, but, like, someone told the AI to go do that. They're being built to be means to tasks that humans want them to do. Right? Every is th...",
+      "zh": "演讲者 1 | 00:00 - 00:17\n我们正在为 AGI 建立这样的学校，人工智能模型在这里学习人类，我们教他们如何管理世界。似乎人类能做的事情，人工智能很快就能做到。我可以预见它会在十到五年内发生。\n\n扬声器 2 | 00:17 - 00:50\n人工智能可能比我们做得更好，但是，就像有人告诉人工智能去做那件事一样。它们被构建为完成人类希望它们完成的任务的手段。正确的？每一个都是",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
