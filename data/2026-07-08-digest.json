@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "it_happening.gif",
+      "zh": "it_happening.gif"
+    },
+    "thsottiaux": {
+      "en": "Prepare your sunglasses. Sol is coming. 😎",
+      "zh": "准备好你的太阳镜。索尔来了。 😎"
+    },
+    "petergyang": {
+      "en": "Dumb question:\n\nI’ve been running most of my cron jobs locally on my Mac Mini because it’s already authenticated with Google Workspace and the other apps I use.\n\nBut should I run these jobs in the cloud instead with these apps OAuth’d to my Claude or ChatGPT account?\n\nHow should I think about what jobs should stay local vs. move to the cloud?",
+      "zh": "愚蠢的问题：\n\n我一直在 Mac Mini 上本地运行大部分 cron 作业，因为它已经通过 Google Workspace 和我使用的其他应用程序进行了身份验证。\n\n但是我应该在云中运行这些作业，而不是使用这些通过 OAuth 验证到我的 Claude 或 ChatGPT 帐户的应用程序吗？\n\n我应该如何考虑哪些工作应该留在本地而不是迁移到云端？"
+    },
+    "thenanyu": {
+      "en": "starting a family tbh",
+      "zh": "说实话，要组建家庭了"
+    },
+    "realmadhuguru": {
+      "en": "having worked with Brendan and mercor, can confirm they are excellent.\n\nalso having worked in ai models for enterprise, can confirm the opportunity around data and evals for enterprise is massssive.",
+      "zh": "与 Brendan 和 Mercor 合作后，可以确认他们非常出色。\n\n还曾在企业人工智能模型方面工作过，可以确认企业的数据和评估机会是巨大的。"
+    },
+    "trq212": {
+      "en": "This is a good clip that shows a few layouts.\n\nI'm pretty happy with this, maybe the slide layout could be a bit different and I'm curious how it will alternate between camera cuts.\n\nThat's all for now, will get Claude to do a full render &amp; report back later.",
+      "zh": "这是一个很好的剪辑，展示了一些布局。\n\n我对此非常满意，也许幻灯片布局可能有点不同，我很好奇它将如何在相机剪辑之间交替。\n\n现在就这些了，稍后会让 Claude 进行完整的渲染并报告。"
+    },
+    "rauchg": {
+      "en": "Heavenly victory 🇦🇷",
+      "zh": "天上的胜利🇦🇷"
+    },
+    "levie": {
+      "en": "Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the common themes that stand out:\n\n* Lots of conversation that you have to solve an operating model challenge to get the full benefits of AI. Most companies have orgs that have always operated in siloes; but agents are most effectively when they are tied to a process, which often cuts across these siloes. So the big question is how do you start to deploy centrally managed agents that can work across organizational boundaries. Who manages these agents? How do they get deployed and adopted? \n\n* Data fragmentation remains a major issue for most organizations. As long as data remains highly fragmented and not in standard formats, or data is not available to the right people and agents, enterprises are dealing with issues around being able to get answers from agents that are accurate or that conform to their business practices. This cuts across both systems with structured data (product metrics or revenue figures) and unstructured data (product roadmap or customer contracts).\n\n* Clear sense that companies need to figure out what their core data moats are going to be in the future. If everyone has access to roughly the same superintelligence from the various models, then the context that you feed the models becomes proprietary value in the future. Capturing this data and getting it into a format that agents can use becomes very important.\n\n* Everyone is trying to figure out the right metrics to manage to for AI adoption. General consensus that tokens are not the right metric per se, and people leaning more toward business outcomes (in an ideal world). For business outcomes (like more revenue or more shipped product), though, you have to get close to each individual workflow to figure out if it was successfully transformed with AI so it’s harder to manage top down.\n\n* Growing view that enterprises are going to live in a multi-model world. Lots of interest (though early in actual adoption) in layers that can route workloads to different models (frontside or open weights) for cost or performance reasons. Also enterprises are trying to figure out what things do you give to the models directly vs. what do you separate as horizontal systems and context so you can swap any system in and out. \n\n* Talent for driving AI adoption and implementation still remains a major issue and topic. Many view it as something you necessarily have to train for internally due to a shortage of talent being trained on this in the outside. As an aside, this feels like it remains a huge opportunity for those that get very good at deploying and management agents in an enterprise since most companies are looking for these skills.\n\n* The best use-cases for AI tend to be those that fundamentally change the work being done instead of just replacing an existing process and doing it more efficiently. Companies are working through their versions of this individually because it’s different per industry, but this often remains both the most exciting and higher upside uses of AI.\n\nMany more topics discussed recently, but overall it’s clear that there’s a ton of change going on with much more to come.",
+      "zh": "刚刚结束与几十位企业 IT 领导者讨论 AI 代理的会议。以下是一些突出的常见主题：\n\n* 大量对话表明您必须解决运营模型挑战才能充分发挥人工智能的优势。大多数公司的组织结构一直都是各自为政。但是，当代理与某个流程联系在一起时，他们的效率最高，而该流程通常会跨越这些孤岛。因此，最大的问题是如何开始部署可以跨组织边界工作的集中管理代理。谁来管理这些代理？它们如何被部署和采用？ \n\n* 数据碎片仍然是大多数组织的一个主要问题。只要数据仍然高度分散且不采用标准格式，或者数据无法提供给合适的人员和代理，企业就会面临如何从代理那里获得准确或符合其业务实践的答案的问题。这跨越了具有结构化数据（产品指标或收入数据）和非结构化数据（产品路线图或客户合同）的系统。\n\n* 清楚地认识到，公司需要弄清楚他们未来的核心数据护城河是什么。如果每个人都可以从不同的模型中获得大致相同的超级智能，那么你为模型提供的上下文在未来就会成为专有价值。捕获这些数据并将其转换为代理可以使用的格式变得非常重要。\n\n* 每个人都在努力找出正确的指标来管理人工智能的采用。普遍的共识是，代币本身并不是正确的衡量标准，人们更倾向于业务成果（在理想的世界中）。不过，对于业务成果（例如更多收入或更多发货产品），您必须密切关注每个单独的工作流程，以确定它是否已成功通过人工智能进行转型，因此自上而下的管理变得更加困难。\n\n* 越来越多的人认为企业将生活在一个多模式的世界中。由于成本或性能原因，人们对可以将工作负载路由到不同模型（前端或开放权重）的层非常感兴趣（尽管在实际采用的早期）。此外，企业还试图弄清楚您直接向模型提供哪些内容，以及将哪些内容分离为水平系统和上下文，以便您可以换入和换出任何系统。 \n\n* 推动人工智能采用和实施的人才仍然是一个主要问题和主题。许多人认为，由于外部缺乏接受这方面培训的人才，因此必须进行内部培训。顺便说一句，对于那些非常擅长在企业中部署和管理代理的人来说，这感觉仍然是一个巨大的机会，因为大多数公司都在寻找这些技能。\n\n* 人工智能的最佳用例往往是那些从根本上改变正在完成的工作的用例，而不是仅仅替换现有流程并更有效地完成工作。公司正在单独研究他们的版本，因为每个行业都不同，但这通常仍然是人工智能最令人兴奋和更高的上行用途。\n\n最近讨论了更多主题，但总的来说，很明显，正在发生大量变化，未来还会有更多变化。"
+    },
+    "garrytan": {
+      "en": "Common sense Democrats take note \n\nTime to organize against radical leftism and asset seizure inside the party",
+      "zh": "民主党人注意常识 \n\n是时候组织起来反对党内的激进左翼主义和资产扣押了"
+    },
+    "mattturck": {
+      "en": "VC greeting his top AI portfolio company vs that SaaS investment from 8 years ago that’s running out of cash",
+      "zh": "风险投资家欢迎他的顶级人工智能投资组合公司与 8 年前的 SaaS 投资公司的现金耗尽"
+    },
+    "nikunj": {
+      "en": "I have been screaming this for the past year, but kind reminder to everyone: GMV is NOT ARR. \n\nLet's get our definitions right for once and for all.. or at least be honest what it is🤦‍♂️",
+      "zh": "在过去的一年里，我一直在尖叫这一点，但善意地提醒大家：GMV 不是 ARR。 \n\n让我们一劳永逸地正确定义我们的定义..或者至少诚实地说它是什么🤦‍♂️"
+    },
+    "steipete": {
+      "en": "If you run this workflow, ask Fable to make codex the workhorse.",
+      "zh": "如果您运行此工作流程，请要求 Fable 让 Codex 成为主力。"
+    },
+    "adityaag": {
+      "en": "More important to wear the colors proudly the day after a loss.\n\nProud of USMNT. \n\nWe were outclasses yesterday \n\nDown but not out. We will be back.",
+      "zh": "更重要的是在失去亲人后的第二天自豪地穿上这些颜色的衣服。\n\n为美国国家队感到骄傲。 \n\n昨天我们比别人优秀 \n\n下但不出。我们会回来的。"
+    },
+    "sama": {
+      "en": "GPT-5.6 sol launches thursday!\n\nhappy building",
+      "zh": "GPT-5.6 sol 周四发布！\n\n幸福大厦"
+    },
+    "claudeai": {
+      "en": "We're extending access to Claude Fable 5 on all paid plans through July 12.",
+      "zh": "我们将所有付费套餐的《克劳德寓言 5》的访问期限延长至 7 月 12 日。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:21\nI remember being in Rwanda early days and going out and meeting with some of the doctors and lab techs that we were serving and asking for them, like, you know, how's it going? What what do you think? What's your feedback? Here I am kind of, you know, a a up and coming, you know, learning engineer thinking they're gonna say something about the drone or some of these things. And the main piece of feedback that I received was people get sick twenty four seven.\n\nSpeaker 1 ...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n我记得早些时候在卢旺达，出去会见了我们所服务的一些医生和实验室技术人员，并向他们询问，比如，你知道，进展如何？你觉得怎么样？您的反馈是什么？在这里，我是一位崭露头角的学习工程师，他们认为他们会谈论一些有关无人机或其中一些事情的事情。我收到的主要反馈是人们在二十四七点生病了。\n\n扬声器1",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
