@@ -1,0 +1,88 @@
+{
+  "x": {
+    "swyx": {
+      "en": "most agent labs are shy about acknowledging chinese model use because they need to sell to gov/defense\n\ncog team did the hard part to productionize:\n1. build a multilingual propaganda &amp; censorship eval \n2. successfully correct for it in posttraining\n3. serve at 1000 tok/s cheaply",
+      "zh": "大多数特工实验室都不愿承认中国模型的使用，因为他们需要向政府/国防部出售产品\n\ncog 团队完成了生产化的困难部分：\n1. 建立多语言宣传和审查评估 \n2.在训练后成功纠正它\n3. 便宜地以 1000 tok/s 的速度提供服务"
+    },
+    "joshwoodward": {
+      "en": "What's something that you're surprised @GeminiApp can't do well, and we should have fixed a long time ago?",
+      "zh": "有什么事情让您感到惊讶@GeminiApp 做得不好，而我们早就应该修复了？"
+    },
+    "bcherny": {
+      "en": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to the latest version\n6. Enable auto mode by default\n7. Pre-approve frequently denied read-only commands\n\n.. And a few other goodies.\n\n/checkup confirms with you before making any changes. Enjoy!",
+      "zh": "克劳德代码中的新增内容：/checkup\n\n运行 /checkup 到：\n\n1. 清理未使用的技能/MCP/插件并保存上下文\n2. 将本地 CLAUDE.md 与签入的 CLAUDE.md 进行重复数据删除\n3. 将根 CLAUDE.md 分解为嵌套的 CLAUDE.md 的 + 技能\n4. 关闭慢钩子\n5. 将您的克劳德代码更新到最新版本\n6.默认启用自动模式\n7. 预先批准经常被拒绝的只读命令\n\n..还有其他一些好东西。\n\n/checkup 在进行任何更改之前与您确认。享受！"
+    },
+    "thsottiaux": {
+      "en": "We were resetting last week. This week we are SHIPPING. Tune in for the livestream at 10am.",
+      "zh": "我们上周正在重置。本周我们正在发货。请收看上午 10 点的直播。"
+    },
+    "petergyang": {
+      "en": "I can finally talk about this.\n\nI've been playing with GTA 6 for about a month now.\n\nIt's pretty great, arguably even better than GTA 5.",
+      "zh": "我终于可以谈论这个了。\n\n我玩《GTA 6》已经大约一个月了。\n\n它非常棒，甚至可以说比 GTA 5 还要好。"
+    },
+    "thenanyu": {
+      "en": "Important Product Marketing lesson! You’re writing a story to transmit to your audience, but also for your audience to transmit to their audience. \n\nPMM &gt; Sales &gt; Customer\nPMM &gt; Customer &gt; Peer\nPMM &gt; User &gt; Buyer\nPMM &gt; Champion &gt; Org",
+      "zh": "重要的产品营销课程！你写的故事是为了传达给你的观众，也是为了让你的观众传达给他们的观众。 \n\nPMM > 销售 > 客户\nPMM > 客户 > 同行\nPMM > 用户 > 买家\nPMM > 冠军 > 组织"
+    },
+    "_catwu": {
+      "en": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-player Claude Tag. Then, we're going deep on how Claude Tag actually works.\n\nAI used to finish your sentence. Then, it wrote entire features. Now, Claude Tag can monitor your channels, do proactive work for you, the whole team can steer it, and it remembers what you told it last week.\n\nRegister:",
+      "zh": "太平洋时间明天上午 10 点，我将主持一场现场演练，介绍我们如何从单人 Claude Code 发展到多人 Claude Tag。然后，我们将深入了解 Claude Tag 的实际工作原理。\n\nAI用来完成你的句子。然后，它编写了整个功能。现在，Claude Tag 可以监控您的渠道，为您做主动的工作，整个团队都可以引导它，并且它会记住您上周告诉它的内容。\n\n登记："
+    },
+    "trq212": {
+      "en": "this should be a huge update in your model of software engineering: rewrites can be good, cheap and fast\n\nof course most apps are not as testable and verifiable as Bun, but the models will continue to get better at filling those gaps",
+      "zh": "这应该是你的软件工程模型的一个巨大更新：重写可以是好的、便宜的和快速的\n\n当然，大多数应用程序并不像 Bun 那样可测试和可验证，但模型将继续更好地填补这些空白"
+    },
+    "amasad": {
+      "en": "Should we add CAD 3D modeling to Replit?",
+      "zh": "我们应该将 CAD 3D 建模添加到 Replit 中吗？"
+    },
+    "rauchg": {
+      "en": "AI will make all software Native.\n\nUncompromising performance and platform affinity.",
+      "zh": "人工智能将使所有软件变得原生。\n\n毫不妥协的性能和平台亲和力。"
+    },
+    "levie": {
+      "en": "The latest AI models being dropped are getting insanely good handling complex knowledge worker tasks, and especially dealing with sophisticated domains of work like legal, professional services, healthcare, and more. Grok 4.5 is another great entry here, especially on cost + performance. \n\nAs models get much better at coding, math, reasoning, and are trained on a variety of key verticals, we’re going to see more leaps in what you can do with enterprise data and documents.",
+      "zh": "最新推出的人工智能模型在处理复杂的知识工作者任务方面表现得非常出色，尤其是处理法律、专业服务、医疗保健等复杂的工作领域。 Grok 4.5 是另一个很棒的条目，特别是在成本+性能方面。 \n\n随着模型在编码、数学、推理方面变得越来越好，并且在各种关键垂直领域进行训练，我们将看到您可以在企业数据和文档方面实现更多飞跃。"
+    },
+    "ryolu_": {
+      "en": "the start of a new era\n\ntry Grok 4.5 in Cursor and let us know how it feels!",
+      "zh": "新时代的开始\n\n在 Cursor 中尝试 Grok 4.5，让我们知道它的感觉！"
+    },
+    "garrytan": {
+      "en": "What do they want? An SF Public Bank staffed by cronies of absentee SF Supervisor Jackie Fielder\n\nShould they get it? Absolutely not. It'll be a tremendous grift mill robbing the city blind.",
+      "zh": "他们想要什么？一家 SF 公共银行，由缺席的 SF 主管 Jackie Fielder 的亲信担任工作人员\n\n他们应该得到它吗？绝对不是。这将是一个巨大的诈骗工厂，盲目地抢劫这座城市。"
+    },
+    "mattturck": {
+      "en": "This also has been the World Cup of AI content going from slop to “wait, this kinda slaps”",
+      "zh": "这也是人工智能内容世界杯从马虎到“等等，这有点耳光”的过程"
+    },
+    "nikunj": {
+      "en": "The pendulum swing of developers between Codex and Claude Code models is insane to see as a neutral.. \n\nEvery week “we’re so dead, we’re back again”. \n\nBlessed to be the beneficiary of these amazing teams pushing each other 💥",
+      "zh": "开发人员在 Codex 和 Claude Code 模型之间摇摆不定，将其视为中立。 \n\n每周“我们死了，我们又回来了”。 \n\n很幸运成为这些相互推动的出色团队的受益者💥"
+    },
+    "steipete": {
+      "en": "OpenAI hired me, not OpenClaw.\nThe OpenClaw Foundation is independent, with sponsors rather than owners - and, for the first time, a full-time team keeping the claw alive and stable. 🦞\n\nCouldn’t have done it without Dave and the team. Kudos!",
+      "zh": "OpenAI 雇用了我，而不是 OpenClaw。\nOpenClaw 基金会是独立的，有赞助商而不是所有者，并且第一次有一个全职团队来保持爪子的活力和稳定。 🦞\n\n如果没有戴夫和他的团队，我们不可能做到这一点。荣誉！"
+    },
+    "danshipper": {
+      "en": "HE DID IT FOLKS",
+      "zh": "他做到了，伙计们"
+    },
+    "adityaag": {
+      "en": "Every founder I meet worries about missing this moment.\n\nThe best worry about wasting it. There’s a difference.\n\nIt’s a waste to ignore how much the world has changed. It’s a waste to think you can capture value with pure software the same as 5 years ago.\n\nIt’s a waste to build something small.\n\nWe have seen the shift slowly and then very quickly at @southpkcommons.\n\nHere’s who we want in the Founder Fellowship now: hardware tinkerers, mad scientists, obsessives, biohackers, people who build nuclear reactors in their basements.\n\nPeople who want to get their hands dirty and touch grass and atoms.\n\nIf you are only building software, then please (for your own sake!) have a thesis that all your friends laugh at you about. Heresy is the price of ambition.\n\nThen put yourself in the right environment to maximize your ambition.\n\n(Apply by August 2nd)",
+      "zh": "我遇到的每一位创始人都担心错过这一刻。\n\n最担心的就是浪费。这是有区别的。\n\n忽视世界已经发生了多大的变化是一种浪费。如果你认为可以像 5 年前一样通过纯软件获取价值，那就太浪费了。\n\n建造一些小东西是一种浪费。\n\n我们在@southpkcommons 看到了这种缓慢而快速的转变。\n\n以下是我们现在想要加入创始人团契的人：硬件修补匠、疯狂科学家、痴迷者、生物黑客、在地下室建造核反应堆的人。\n\n想要亲自动手接触草和原子的人。\n\n如果您只是构建软件，那么请（为了您自己的利益！）写一篇让您所有的朋友嘲笑您的论文。异端是野心的代价。\n\n然后将自己置于正确的环境中，以最大限度地发挥你的抱负。\n\n（8月2日前申请）"
+    },
+    "sama": {
+      "en": "it surely doesnt",
+      "zh": "它肯定不会"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:14\nI wake up and I don't touch the Internet. I won't look at my phone. I won't go online until long after lunch. As soon as I touch my phone, I feel the chemical shift and I can't go into any kind of deep thinking place or deep attention place or deep focus place.\n\nSpeaker 2 | 00:14 - 00:21\nBecause there's something about working with AI that feels very dopamine driven. And I believe strongly you can use it to do incredible work and also it's sort of a slot machine.\n\nSpeak...",
+      "zh": "演讲者 1 | 00:00 - 00:14\n我醒来后就不再接触互联网了。我不会看手机。午饭后很久我才会上网。一旦我触摸手机，我就会感觉到化学变化，我无法进入任何深度思考的地方或深度关注的地方或深度聚焦的地方。\n\n扬声器 2 | 00:14 - 00:21\n因为与人工智能一起工作让人感觉非常受多巴胺驱动。我坚信你可以用它来做令人难以置信的工作，而且它有点像老虎机。\n\n说话",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
