@@ -1,0 +1,239 @@
+{
+  "generatedAt": "2026-07-12T14:56:34.622Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2076155833428431012",
+          "text": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:\n\n- humans who can wield coding agents well*\n- coding agents breaking containment to all other knowledge work\n\nas the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.\n\nwhat happened to coding isnt the exception; it’s the herald.\n\n*aka AI Engineers",
+          "createdAt": "2026-07-12T04:04:58.000Z",
+          "url": "https://x.com/swyx/status/2076155833428431012",
+          "likes": 143,
+          "retweets": 9,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2076036901824532530"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2076145711922696371",
+          "text": "At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT 5.6 Sol is  \n\n✅Fast and token efficient\n✅Hardcore at back-end dev\n✅Great at front-end\n✅Does not use useEffect everywhere \n\nWhat is next?",
+          "createdAt": "2026-07-12T03:24:45.000Z",
+          "url": "https://x.com/thsottiaux/status/2076145711922696371",
+          "likes": 2557,
+          "retweets": 55,
+          "replies": 805,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2076119366647894371",
+          "text": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.\n\nStep 1: Install CLIProxyAPI\nStep 2: Connect\nStep 3: Define following alias and enjoy claudex\n\n```\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=false \\\nclaude --model gpt-5.6-sol'\n```\n\nIf this gets blocked, I owe you a reset.",
+          "createdAt": "2026-07-12T01:40:04.000Z",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "likes": 3871,
+          "retweets": 243,
+          "replies": 315,
+          "isQuote": true,
+          "quotedTweetId": "2076114415368482854"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2076151105080447404",
+          "text": "The score is 3 vs 1 but imo this was a very mixed performance from Argentina.\n\nNot sure how they’ll do against England.",
+          "createdAt": "2026-07-12T03:46:11.000Z",
+          "url": "https://x.com/petergyang/status/2076151105080447404",
+          "likes": 31,
+          "retweets": 0,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2076143769192484900",
+          "text": "They’re playing so badly even up one man",
+          "createdAt": "2026-07-12T03:17:02.000Z",
+          "url": "https://x.com/petergyang/status/2076143769192484900",
+          "likes": 20,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2076132077054095751",
+          "text": "Well shit",
+          "createdAt": "2026-07-12T02:30:34.000Z",
+          "url": "https://x.com/petergyang/status/2076132077054095751",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2076151956440261008",
+          "text": "Easy money (Swiss francs)",
+          "createdAt": "2026-07-12T03:49:34.000Z",
+          "url": "https://x.com/rauchg/status/2076151956440261008",
+          "likes": 298,
+          "retweets": 6,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2076116544980214164",
+          "text": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.\n\nWhy is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.\n\nBecause software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. \n\nBut because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. \n\nThe same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.",
+          "createdAt": "2026-07-12T01:28:51.000Z",
+          "url": "https://x.com/levie/status/2076116544980214164",
+          "likes": 193,
+          "retweets": 20,
+          "replies": 31,
+          "isQuote": true,
+          "quotedTweetId": "2075762741881770383"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2075944103867830352",
+          "text": "If you want to supercharge building in California again, you're going to need to repeal and reform CEQA\n\nMillions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today. https://t.co/TE4s7Dz7jD",
+          "createdAt": "2026-07-11T14:03:38.000Z",
+          "url": "https://x.com/garrytan/status/2075944103867830352",
+          "likes": 219,
+          "retweets": 15,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2075943775655055659"
+        },
+        {
+          "id": "2075933358660730901",
+          "text": "So much could go wrong\n\nBut the interesting question is always: what happens if things go right?",
+          "createdAt": "2026-07-11T13:20:56.000Z",
+          "url": "https://x.com/garrytan/status/2075933358660730901",
+          "likes": 1612,
+          "retweets": 145,
+          "replies": 207,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2076141940484010189",
+          "text": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+          "createdAt": "2026-07-12T03:09:46.000Z",
+          "url": "https://x.com/mattturck/status/2076141940484010189",
+          "likes": 4966,
+          "retweets": 418,
+          "replies": 105,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2076150076087611433",
+          "text": "Argentina has the mandate of heaven.. what a strike by Alvarez. \n\nEngland vs. Argentina\n\nFrance vs. Spain\n\nPure cinema 💥",
+          "createdAt": "2026-07-12T03:42:05.000Z",
+          "url": "https://x.com/nikunj/status/2076150076087611433",
+          "likes": 23,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2075983427019612242",
+          "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+          "createdAt": "2026-07-11T16:39:53.000Z",
+          "url": "https://x.com/sama/status/2075983427019612242",
+          "likes": 49330,
+          "retweets": 2330,
+          "replies": 3404,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2075982820322025788",
+          "text": "30% of the cost was on fable at these levels of usage? https://t.co/KzFoHj7cB4",
+          "createdAt": "2026-07-11T16:37:28.000Z",
+          "url": "https://x.com/sama/status/2075982820322025788",
+          "likes": 9734,
+          "retweets": 225,
+          "replies": 388,
+          "isQuote": true,
+          "quotedTweetId": "2075963734745342361"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
+      "url": "https://www.youtube.com/watch?v=8nj_0wZkbtA",
+      "publishedAt": "2026-07-09T10:00:00.000Z"
+    }
+  ]
+}

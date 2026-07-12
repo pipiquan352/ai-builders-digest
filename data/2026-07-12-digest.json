@@ -1,0 +1,48 @@
+{
+  "x": {
+    "swyx": {
+      "en": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:\n\n- humans who can wield coding agents well*\n- coding agents breaking containment to all other knowledge work\n\nas the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.\n\nwhat happened to coding isnt the exception; it’s the herald.\n\n*aka AI Engineers",
+      "zh": "如果您仅了解杰文斯悖论主要是关于代理工程时代的软件需求，那么在以下条件下您可能无法完全内化杰文斯悖论的影响：\n\n- 能够很好地运用编码剂的人类*\n- 编码代理打破了对所有其他知识工作的遏制\n\n随着劳动效率的提高/知识工作的单位成本大幅下降，对总工作和更好知识的需求会上升，而不是下降。\n\n编码发生的事情也不例外；这是先驱者。\n\n*又名人工智能工程师"
+    },
+    "thsottiaux": {
+      "en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.\n\nStep 1: Install CLIProxyAPI\nStep 2: Connect\nStep 3: Define following alias and enjoy claudex\n\n```\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=false \\\nclaude --model gpt-5.6-sol'\n```\n\nIf this gets blocked, I owe you a reset.",
+      "zh": "如果您还没有足够的勇气安装 Codex 应用程序，您可以留在橙色螃蟹面前并将其指向 GPT 5.6 Sol。需要 5 分钟。感谢 Theo 解释了完成此任务的方法之一。\n\n第 1 步：安装 CLIProxyAPI\n第 2 步：连接\n第3步：定义以下别名并享受claudex\n\n````\n别名 claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=假 \\\n克劳德——型号 gpt-5.6-sol'\n````\n\n如果这被阻止了，我欠你一个重置。"
+    },
+    "petergyang": {
+      "en": "The score is 3 vs 1 but imo this was a very mixed performance from Argentina.\n\nNot sure how they’ll do against England.",
+      "zh": "比分是 3 对 1，但在我看来，这是阿根廷队的一场非常复杂的表现。\n\n不确定他们在对阵英格兰时会表现如何。"
+    },
+    "rauchg": {
+      "en": "Easy money (Swiss francs)",
+      "zh": "轻松赚钱（瑞士法郎）"
+    },
+    "levie": {
+      "en": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.\n\nWhy is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.\n\nBecause software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. \n\nBut because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. \n\nThe same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.",
+      "zh": "人工智能本应取代的工作正在经历与预期相反的结果。软件职位发布的速度超过了其他领域。\n\n这是为什么？如果你降低了具有大量用例的产品的生产成本，人们就会想要生产更多的产品。我们在工业世界中不断看到这种情况，现在我们终于在知识工作中看到了它。\n\n由于现在软件的单位成本要低得多，因此人们对它的需求要大得多。因此，我们开始将软件用于所有新事物，人和公司比以往任何时候都启动了更多的软件项目。 \n\n但由于这项工作本身并不是完全自动化的（并且可能不会像我们所看到的那样），您仍然需要了解这些系统的人员来维护代码、决定构建什么、长期运行它、更新它等等。这一切都需要人们去做工作。 \n\n同样的事情也将发生在许多其他领域，我们降低了以前极其稀缺的工作领域的生产成本。代理会造成比替代更多的丰富。"
+    },
+    "garrytan": {
+      "en": "So much could go wrong\n\nBut the interesting question is always: what happens if things go right?",
+      "zh": "很多事情都可能出错\n\n但有趣的问题始终是：如果一切顺利的话会发生什么？"
+    },
+    "mattturck": {
+      "en": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+      "zh": "阿根廷队在对阵世界排名第64的球队时表现不佳，差点被世界排名第26的球队淘汰，现在他们在加时赛中对阵世界排名第19的球队，球队的球员只剩下10人。"
+    },
+    "nikunj": {
+      "en": "Argentina has the mandate of heaven.. what a strike by Alvarez. \n\nEngland vs. Argentina\n\nFrance vs. Spain\n\nPure cinema 💥",
+      "zh": "阿根廷拥有上天的授权……阿尔瓦雷斯的进球多么精彩。 \n\n英格兰 vs 阿根廷\n\n法国 vs 西班牙\n\n纯粹的电影院💥"
+    },
+    "sama": {
+      "en": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+      "zh": "有很多基准测试表明 5.6 sol 是目前世界上最好的模型，但最可靠的判断方法是 Elon 又对我着迷了"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:13\nThere is no such thing as a moat. There is no such thing as somewhere you're gonna be protected against innovation. Today, we have a competitive advantage on areas. Absolutely. But those can go away tomorrow.\n\nSpeaker 1 | 00:13 - 00:24\nThe only one to win long term is to continue to develop new services, new ways to do things. How can we do your business better? What do you need? Where you need more demand? Where are you hurting?\n\nSpeaker 1 | 00:24 - 00:36\nIt's so much ...",
+      "zh": "演讲者 1 | 00:00 - 00:13\n不存在护城河这样的东西。没有什么地方可以保护你免受创新的影响。今天，我们在领域上具有竞争优势。绝对地。但这些明天可能就会消失。\n\n演讲者 1 | 00:13 - 00:24\n赢得长期胜利的唯一方法就是继续开发新服务、新做事方式。我们如何才能更好地开展您的业务？你需要什么？哪里需要更多需求？你哪里痛了？\n\n演讲者 1 | 00:24 - 00:36\n就这么多了",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
