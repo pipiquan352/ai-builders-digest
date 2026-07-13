@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw the difference is introspection/backpropagation\n\nas einstein famously said, the definition of insanity is doing multiple rollouts with no expectation of advantage",
+      "zh": "顺便说一句，区别在于内省/反向传播\n\n正如爱因斯坦所说，疯狂的定义是进行多次部署而不期望获得优势"
+    },
+    "thsottiaux": {
+      "en": "Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.",
+      "zh": "请放心，GPT 5.6 Sol 将保留在您支付的 ChatGPT 订阅中。包括 Go、Plus 和 Pro 订阅。至少在我们推出更好的模型之前是这样。"
+    },
+    "petergyang": {
+      "en": "Anthropic makes great models too but I don't understand why they communicate like this. \n\nI think they need to engage the community more directly like what OpenAI is doing.",
+      "zh": "人择也能做出很棒的模型，但我不明白为什么他们会这样交流。 \n\n我认为他们需要像 OpenAI 所做的那样更直接地与社区互动。"
+    },
+    "_catwu": {
+      "en": "Enjoy!",
+      "zh": "享受！"
+    },
+    "amasad": {
+      "en": "Vibe Research\n\nFine-tuning a Qwen-8b model to play chess on Replit. Running 3 parallel branches with different experiments and making real progress.\n\nIt's amazing how far models have come in their ability to do ML (they used to be really bad at it). So now someone with good intuition to guide the process could do interesting ML work, even if they have never done it before.",
+      "zh": "氛围研究\n\n微调 Qwen-8b 模型以在 Replit 上下棋。运行 3 个并行分支进行不同的实验并取得实际进展。\n\n令人惊讶的是，模型在机器学习方面的能力已经取得了如此大的进步（他们过去在这方面非常糟糕）。因此，现在，具有良好直觉来指导流程的人可以做有趣的机器学习工作，即使他们以前从未做过。"
+    },
+    "rauchg": {
+      "en": "Make the model a cog in a machine you own.\n\n◾ AI SDK → open model API\n◾  → open Agent API\n◾ AI Gateway → open ZDR inference\n\nStartups and enterprises must own their data, evals, model choices, software layer. Don't outsource your brain.",
+      "zh": "使模型成为您拥有的机器中的一个齿轮。\n\n◾ AI SDK→开放模型API\n◾→开放代理API\n◾ AI网关→开放ZDR推理\n\n初创公司和企业必须拥有自己的数据、评估、模型选择、软件层。不要外包你的大脑。"
+    },
+    "levie": {
+      "en": "One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in the form of decisions, insights, workflow patterns, and best practices in a world where so much intelligence is packed into AI models.\n\nOne might think these questions could just get bitter lessoned out of existence, but in reality they become even more germane as intelligence becomes more powerful. In a world where any firm also has access to frontier intelligence, understanding how you leverage it uniquely becomes a critical question.\n\nThat’s why so much value is left to be created between the enterprise and the underlying AI itself. Having evals for your workflows, ensuring that you can route models from different tiers of intelligence, capturing traces in a way that improve your own workflows, and making sure the value of your information compounds as AI gets better all become critical considerations.\n\nWhich is also why there’s so much opportunity right now in the applied AI layer. The companies that help figure this out for other enterprises will be in the best position to win the next enterprise workloads.",
+      "zh": "21 世纪商业中的关键架构问题之一是，在人工智能模型中融入如此多的智能的世界中，如何以决策、见解、工作流程模式和最佳实践的形式最大化您的企业知识产权。\n\n人们可能会认为这些问题可能会因为惨痛的教训而消失，但实际上，随着智能变得更加强大，它们变得更加密切。在任何公司都可以获得前沿情报的世界中，了解如何独特地利用它成为一个关键问题。\n\n这就是为什么企业和底层人工智能本身之间还有如此多的价值有待创造。对您的工作流程进行评估，确保您可以从不同的智能层路由模型，以改进您自己的工作流程的方式捕获跟踪，并确保随着人工智能变得更好，您的信息复合的价值都成为关键考虑因素。\n\n这也是为什么现在应用人工智能层有如此多的机会。帮助其他企业解决这一问题的公司将处于赢得下一个企业工作负载的最佳位置。"
+    },
+    "garrytan": {
+      "en": "Craven politicians who disable public safety technology for virtue signal and culture war purposes will always get blood on their hands",
+      "zh": "为了美德信号和文化战争目的而禁用公共安全技术的克雷文政客将永远手上沾满鲜血"
+    },
+    "mattturck": {
+      "en": "And Argentina will get to play Monaco, Easter Island and Willy Wonka’s Chocolate Factory",
+      "zh": "阿根廷将参加摩纳哥、复活节岛和威利·旺卡的巧克力工厂"
+    },
+    "nikunj": {
+      "en": "What’s funny is I’ll meet so many people in SF who’ll claim they are tokenmaxxing and have all of these subagents looping things for them..\n\nBut when I ask them “what” and for “whom” are they building, very few can give me a straight answer. \n\nShows that even in this insane AI era, simplicity and direction are still ridiculously important. \n\nSo before you let your tokens go brrr, take some time to think if what you’re building (for a living) is actually important. \n\nTime is literally the only thing you don’t get back!",
+      "zh": "有趣的是，我会在旧金山遇到很多人，他们声称自己是代币最大化，并让所有这些子代理为他们循环播放东西。\n\n但当我问他们在建造“什么”、为“谁”建造时，很少有人能给我直接的答案。 \n\n这表明，即使在这个疯狂的人工智能时代，简单性和方向仍然非常重要。 \n\n因此，在你放弃你的代币之前，花点时间思考一下你正在构建的（谋生的）东西是否真的很重要。 \n\n时间确实是唯一一去不复返的东西！"
+    },
+    "steipete": {
+      "en": "That's about as many sessions as my Mac Studio can take.",
+      "zh": "这大约是我的 Mac Studio 可以进行的最大会话数。"
+    },
+    "danshipper": {
+      "en": "capitalism stays winning!",
+      "zh": "资本主义继续获胜！"
+    },
+    "sama": {
+      "en": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+      "zh": "我很想看到人们用 5.6 sol 构建的有趣的东西。\n\n我会从 openai 档案馆向做出最酷的东西的人发送一份特别的礼物。"
+    },
+    "claudeai": {
+      "en": "We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19.",
+      "zh": "截至 7 月 19 日，我们将在所有付费计划中扩展 Claude Fable 5 的访问权限，并将 Claude Code 的每周费率限制提高 50%。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:05\nWelcome to War two fifty, first advanced reactor to ever make power by startup.\n\nSpeaker 2 | 00:06 - 00:15\nWe did something pretty awesome today. The first ever AI chip powered by a nuclear reactor. First Triso reactor to turn on in over fifty years in The United States.\n\nSpeaker 3 | 00:15 - 00:26\nHow much of the premise of Valor is possible now comes from increasing demands for power in The United States largely driven by AI compute?\n\nSpeaker 2 | 00:26 - 00:46\nEnergy b...",
+      "zh": "演讲者 1 | 00:00 - 00:05\n欢迎来到第二五十次战争，这是第一个通过启动发电的先进反应堆。\n\n扬声器 2 | 00:06 - 00:15\n今天我们做了一些非常棒的事情。有史以来第一个由核反应堆驱动的人工智能芯片。美国五十多年来第一座 Triso 反应堆启动。\n\n扬声器 3 | 00:15 - 00:26\n《Valor》的前提有多少可能来自于美国日益增长的电力需求（很大程度上是由人工智能计算驱动的）？\n\n扬声器 2 | 00:26 - 00:46\n能量b",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
