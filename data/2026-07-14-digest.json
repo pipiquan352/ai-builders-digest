@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "where i'm currently at for Big Boy projects:\n\n- sol ultra to plan\n- fable 5 to critique\n- sonnet 5/terra ultra/swe 1.7 to ultracode/slop cannon\n- devin review to review (using kakuna)\n\n~always use a variant of @mattpocockuk's grill-me or @trq212's interview-me to elicit decisions upfront",
+      "zh": "我目前正在做的 Big Boy 项目：\n\n- sol ultra 计划\n- 寓言5批评\n- sonnet 5/terra ultra/swe 1.7 至 ultracode/slop cannon\n- devin 审查审查（使用 kakuna）\n\n~总是使用 @mattpocockuk 的 Grill-me 或 @trq212 的 Interview-me 的变体来提前做出决定"
+    },
+    "thsottiaux": {
+      "en": "Tomorrow might be 8M active user celebration day. Just saying",
+      "zh": "明天可能是 800 万活跃用户庆祝日。只是说"
+    },
+    "petergyang": {
+      "en": ".@nikitabier is it possible to find accounts that just instantly reply to posts from bigger accounts?\n\nThose are usually AI bots worth banning? I block a bunch every week.",
+      "zh": ".@nikitabier 是否有可能找到可以立即回复大帐户帖子的帐户？\n\n这些通常是值得禁止的人工智能机器人？我每周都会屏蔽一堆。"
+    },
+    "thenanyu": {
+      "en": "This becomes much more apparent once you examine the jobs of people with “designer” in their title outside of software!",
+      "zh": "一旦你检查了软件之外头衔中带有“设计师”的人的工作，这一点就会变得更加明显！"
+    },
+    "_catwu": {
+      "en": "Artifacts just got an upgrade!",
+      "zh": "神器刚刚升级！"
+    },
+    "trq212": {
+      "en": "This makes artifacts much more expressive and can be combined in creative ways. \n\nOne of my favorites is to create a dashboard for a project in Claude Tag that can be edited by others or by my local Claude Code sessions.",
+      "zh": "这使得工件更具表现力，并且可以以创造性的方式组合。 \n\n我最喜欢的事情之一是在 Claude Tag 中为项目创建一个仪表板，可以由其他人或我本地的 Claude Code 会话进行编辑。"
+    },
+    "amasad": {
+      "en": "Getting realtime progress updates on my model training runs. \n\nThis feels like early vibe coding except it’s making personal models.",
+      "zh": "获取模型训练运行的实时进度更新。 \n\n这感觉就像早期的氛围编码，只不过它是在制作个人模型。"
+    },
+    "rauchg": {
+      "en": "“Open-weight models ran 29% of gateway tokens, up from 11% in April”",
+      "zh": "“开放权重模型运行了 29% 的网关代币，高于 4 月份的 11%”"
+    },
+    "levie": {
+      "en": "The biggest challenge right now with the topic of every enterprise having their own model is that your most valuable information and insights are not only always changing, but they’re often your most sensitive information. \n\nYour most sensitive information can’t be packed into a model usually because it contains data that not everyone gets to have access to, and you can’t keep your security layer inside the model or an agent.\n\nI think there are going to be 100X more use cases for custom trained models, especially inside of domain-focused products, but training a model per enterprise is going to be a lot harder than it looks.",
+      "zh": "目前最大的挑战是每个企业都有自己的模型，您最有价值的信息和见解不仅总是在变化，而且往往是您最敏感的信息。 \n\n您最敏感的信息通常无法打包到模型中，因为它包含并非每个人都可以访问的数据，并且您无法将安全层保留在模型或代理内。\n\n我认为定制训练模型的用例将会增加 100 倍，特别是在以领域为中心的产品中，但为每个企业训练一个模型将比看起来要困难得多。"
+    },
+    "ryolu_": {
+      "en": "super stoked for jenny to join and lead our team 💛\n\nmakes me really happy for the team, and personally excited to regain the focus and mental space to dream big again",
+      "zh": "对于珍妮加入并领导我们的团队感到非常兴奋💛\n\n让我为团队感到非常高兴，并且个人也很高兴能够重新获得焦点和精神空间，再次实现更大的梦想"
+    },
+    "garrytan": {
+      "en": "Era of the Gentleman Scientist is so back",
+      "zh": "绅士科学家的时代又回来了"
+    },
+    "nikunj": {
+      "en": "So @tryramp's core mission is \"save money AND time\", but I was still spending time categorizing & adding receipts to my expenses.. at least till I discovered their CLI. \n\nIntroducing the Ramp-Autofill skill ✍️\n\n> finds receipts automatically from your iMessage & Gmail. if it's in a link, it'll use playwright to convert the web page into a pdf and attach to the receipt automatically.\n\n> fills in memos on who you were meeting using your google calendar events.\n\n> understands your style of writing memos and categorization required by your organization by reviewing past transactions. it will then auto categorize all the missing transactions. \n\n> verifies it's work, flags any discrepancies and makes it easy to run as a scheduled job so you never have to look at expenses again.\n\nSimple drop in for Claude Code (read what Fable thinks) - used it over the weekend to get through the last 60 days of expenses - fully open source!",
+      "zh": "所以@tryramp 的核心使命是“省钱又省时间”，但我仍然花时间对我的开支进行分类和添加收据.. 至少在我发现他们的 CLI 之前是这样。 \n\n介绍斜坡自动填充技能✍️\n\n> 自动查找来自您的 iMessage 和 Gmail 的收据。如果它在链接中，它会使用 playwright 将网页转换为 pdf 并自动附加到收据。\n\n> 使用 Google 日历活动填写有关您会见的人的备忘录。\n\n> 通过回顾过去的交易，了解您的组织所需的备忘录写作风格和分类。然后它会自动对所有丢失的交易进行分类。 \n\n> 验证其工作，标记任何差异，并使其可以轻松地作为预定作业运行，这样您就不必再次查看费用。\n\n简单地访问 Claude Code（阅读《寓言》的想法） - 周末使用它来支付过去 60 天的费用 - 完全开源！"
+    },
+    "steipete": {
+      "en": "\"stress test\" is a good prompt.",
+      "zh": "“压力测试”是一个很好的提示。"
+    },
+    "adityaag": {
+      "en": "I don't know if I am using Codex or ChatGPT (wtf) \n\nBut I do know that I am asking a AGI LEVEL coding agent:\n\n\"What necklaces does Benson Boone wear? (for my daughter)",
+      "zh": "我不知道我使用的是 Codex 还是 ChatGPT（wtf） \n\n但我确实知道我在问 AGI LEVEL 编码代理：\n\n“本森·布恩戴什么项链？（给我女儿）"
+    },
+    "sama": {
+      "en": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+      "zh": "我以为这是讽刺，一直在寻找拼写为 c1audeai 或其他内容的句柄"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nIf you accept as the truth that we're gonna be running at the limit, then what that means is that the way to get more intelligence is to be more efficient. We can't get more intelligence by applying more force if we're already at the limit. We have to be more thoughtful about how we use what we have. We build tools. We build external organs that help us solve problems.\n\nSpeaker 1 | 00:21 - 00:30\nYou know, we we have an external stomach. We call it kitchen. Now we're cre...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n如果你接受我们将在极限运行这一事实，那么这意味着获得更多智能的方法就是提高效率。如果我们已经达到极限，我们就无法通过施加更多的力量来获得更多的情报。我们必须更加仔细地考虑如何使用我们所拥有的东西。我们构建工具。我们建造外部器官来帮助我们解决问题。\n\n演讲者 1 | 00:21 - 00:30\n你知道，我们有一个外部胃。我们称之为厨房。现在我们是cre",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
