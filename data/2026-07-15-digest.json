@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "SF Personal AI engineers - if you are building personal agents, come demo at new media lab this thursday night (and meet @shloked, one of the best builder-writers I've had the fortune to meet this year).\n\nlast time we held this meetup our featured speakers got acquired by @Amazon hardware division... and 2 years later I'm still a daily active user. just incredible to see the staying power of PAI.",
+      "zh": "SF 个人人工智能工程师 - 如果您正在构建个人代理，请在本周四晚上到新媒体实验室进行演示（并会见 @shloked，他是我今年有幸遇到的最好的构建者兼作家之一）。\n\n上次我们举行这次聚会时，我们的特色扬声器被@Amazon 硬件部门收购了……两年后，我仍然是日常活跃用户。看到 PAI 的持久力真是令人难以置信。"
+    },
+    "thsottiaux": {
+      "en": "Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched?\n\nTweet it, claim your gift, enjoy more usage. First 10k get the free tokens!",
+      "zh": "或者……如果您告诉我们您喜欢 GPT-5.6 Sol 的哪些方面或者您为何更换，我们会为您提供 100 美元的 Codex 积分，结果会怎样？\n\n发推文，领取你的礼物，享受更多使用。前 10k 即可获得免费代币！"
+    },
+    "petergyang": {
+      "en": "Holy shit a time traveler or cope?",
+      "zh": "天啊，时间旅行者还是应付者？"
+    },
+    "trq212": {
+      "en": "I've been playing a lot of Pokemon Champions recently and started using Claude Code to help me.\n\nIt writes code using Smogon's npm library, pulls live usage stats and then writes reports to understand matchups, breakpoints or theorycraft teams.",
+      "zh": "我最近玩了很多 Pokemon Champions，并开始使用 Claude Code 来帮助我。\n\n它使用 Smogon 的 npm 库编写代码，提取实时使用统计数据，然后编写报告以了解比赛、断点或理论团队。"
+    },
+    "rauchg": {
+      "en": "The @agentmail team has been cooking. Tell your agent to 𝚟𝚎𝚛𝚌𝚎𝚕 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚊𝚐𝚎𝚗𝚝𝚖𝚊𝚒𝚕 – no signup, automatic setup and unified billing.",
+      "zh": "@agentmail 团队一直在做饭。告诉您的代理𝚟𝚎𝚛𝚌𝚎𝚕 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚊𝚐𝚎𝚗𝚝𝚖𝚊𝚒𝚕 – 无需注册，自动设置和统一计费。"
+    },
+    "levie": {
+      "en": "One of the many properties that code has that makes it highly amenable to agents is that you can more or less quickly test it. You can either go see if the application works manually, or you can actually run a test on what you built.\n\nMost other areas of work don’t have this benefit. You only get the testing when the final product hits the real world in some capacity - a stock trade is executed, a contract is negotiated, a sales pitch is delivered, and so on.\n\nThere’s probably going to be a whole new set of opportunities for how we begin to test the rest of work in this way. Ultimately it will mean more agents being layered into workflows. \n\nIt also means we need much better evals on most of our workflows. Most work today in enterprises doesn’t have an associated eval to know if something broke or improved with a model, prompt, or system change.\n\nThe enterprises that are able to eval their knowledge work the best also stand to gain the most from AI. Will become a critical aspect of agent adoption over time.",
+      "zh": "代码具有的众多属性使其非常适合代理，其中之一是您可以或多或少地快速测试它。您可以手动查看应用程序是否可以运行，也可以对您构建的内容进行实际运行测试。\n\n大多数其他工作领域没有这种好处。只有当最终产品以某种方式进入现实世界时，您才能进行测试——执行股票交易、谈判合同、交付销售宣传等等。\n\n我们可能会有一系列全新的机会来开始以这种方式测试其余的工作。最终，这将意味着更多的代理将被分层到工作流程中。 \n\n这也意味着我们需要对大多数工作流程进行更好的评估。如今，企业中的大多数工作都没有相关的评估来了解模型、提示或系统更改是否导致某些问题或改进。\n\n能够最好地评估其知识工作的企业也将从人工智能中获得最大收益。随着时间的推移，将成为代理采用的一个关键方面。"
+    },
+    "ryolu_": {
+      "en": "assembling the best design team\n(looking for design engs, too)",
+      "zh": "组建最优秀的设计团队\n（也在寻找设计工程师）"
+    },
+    "garrytan": {
+      "en": "Your tax dollars at work\n\nThe doom loop in SF isn’t just about ruining the city for normal citizens\n\nIt’s also about looting the public good",
+      "zh": "您在工作中缴纳的税款\n\n旧金山的末日循环不仅仅会毁掉普通公民的城市\n\n这也是掠夺公共利益"
+    },
+    "mattturck": {
+      "en": "How France played 10/10 football throughout the World Cup and 4/10 football in the semi final will need to be studied in football school as the ultimate cautionary tale.",
+      "zh": "法国队在整个世界杯期间如何踢10/10足球以及在半决赛中如何踢4/10足球需要在足球学校进行研究，作为最终的警示故事。"
+    },
+    "nikunj": {
+      "en": "The pre-AI engineering leader mind can’t comprehend that their most cracked engineer is also extremely online..\n\nWhile the agents are working, X becomes the dopamine spike they need as they wait. \n\nI think time on X numbers especially in tech will continue to go up!",
+      "zh": "前人工智能时代的工程领导者无法理解他们最出色的工程师也非常在线。\n\n当特工工作时，X 成为他们等待时所需的多巴胺峰值。 \n\n我认为花在 X 个数字上的时间，尤其是科技领域的时间将会继续增加！"
+    },
+    "steipete": {
+      "en": "Suno AI is delivering bangers!",
+      "zh": "Suno AI 正在带来爆款！"
+    },
+    "danshipper": {
+      "en": "if you are reading @every, you knew codex was about to take off 6 months ago :)\n\nsuccess kid pointing to when i started getting extremely, absolutely, annoyingly codex pilled and we began covering it",
+      "zh": "如果您正在阅读 @every，您就知道 Codex 即将在 6 个月前起飞:)\n\n成功的孩子指出，当我开始变得极其、绝对、令人恼火的法典起球时，我们开始报道它"
+    },
+    "adityaag": {
+      "en": "Is there any move involving Lamine Yamal where Yamal doesn't end up on the floor rolling around?",
+      "zh": "是否有任何涉及拉明·亚马尔的举动，亚马尔最终不会在地板上打滚？"
+    },
+    "sama": {
+      "en": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "zh": "5.6 溶胶的增长是疯狂的。\n\n为了支持需求，推理团队付出了巨大的努力。\n\n我们将移山继续扩大规模，但很快就会出现一些问题。"
+    },
+    "claudeai": {
+      "en": "Ask for a lesson plan, and Claude starts from your state standards and high-quality curricula by connecting through Learning Commons. It then drafts a plan and student-facing materials you can revise and take into class.",
+      "zh": "如果您需要一个课程计划，克劳德就会通过学习共享区进行连接，从您所在州的标准和高质量课程开始。然后，它会起草一份计划和面向学生的材料，您可以修改并带入课堂。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:31\nThe last layer of abstraction on top of this is probably the coordination layer. So you have knowledge, and you have execution, and you have coordination. And at the coordination layer, we're beginning to think of these things called, like, strategies where, basically, it's almost like a meta harness. The true low level harness is designed for execution. But the next one is about, okay, if tokens aren't really fungible and you need to give them different jobs, like mayb...",
+      "zh": "演讲者 1 | 00:00 - 00:31\n在此之上的最后一个抽象层可能是协调层。所以你有知识，你有执行力，你有协调。在协调层，我们开始考虑这些称为策略的东西，基本上，它几乎就像一个元线束。真正的低级安全带是为执行而设计的。但下一个是关于，好吧，如果代币不是真正可替代的，你需要给它们不同的工作，比如也许",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
