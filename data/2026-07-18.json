@@ -1,0 +1,373 @@
+{
+  "generatedAt": "2026-07-18T14:52:50.027Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2078364141878952242",
+          "text": "still true https://t.co/2eYqwze1Ae",
+          "createdAt": "2026-07-18T06:20:00.000Z",
+          "url": "https://x.com/swyx/status/2078364141878952242",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "1470788640846462979"
+        },
+        {
+          "id": "2078293998398263587",
+          "text": "alpha only gone when we all stop asking these level of questions and start discussion about on-policy autoaeo (does claude optimizing your aeo disproportionately work on claude?) vs generalizable aeo\n\nhttps://t.co/GrymTTqz6O",
+          "createdAt": "2026-07-18T01:41:16.000Z",
+          "url": "https://x.com/swyx/status/2078293998398263587",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2078253254652108806"
+        },
+        {
+          "id": "2078244735794413786",
+          "text": "btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha",
+          "createdAt": "2026-07-17T22:25:31.000Z",
+          "url": "https://x.com/swyx/status/2078244735794413786",
+          "likes": 1019,
+          "retweets": 24,
+          "replies": 51,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2078321266524881065",
+          "text": "And transitively might also have reset other rate limits out there. Let's see. You're welcome if so.",
+          "createdAt": "2026-07-18T03:29:37.000Z",
+          "url": "https://x.com/thsottiaux/status/2078321266524881065",
+          "likes": 1159,
+          "retweets": 29,
+          "replies": 111,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078320950488297917",
+          "text": "Oops... I did it again. \n\nEnjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team who is iterating at lightspeed and keeping the infra up as we scale faster than ever.\n\nEnjoy the weekend! https://t.co/WIuS07doKA https://t.co/3NwNqHG7TV",
+          "createdAt": "2026-07-18T03:28:22.000Z",
+          "url": "https://x.com/thsottiaux/status/2078320950488297917",
+          "likes": 9072,
+          "retweets": 606,
+          "replies": 1803,
+          "isQuote": true,
+          "quotedTweetId": "2078310751878647932"
+        },
+        {
+          "id": "2078310751878647932",
+          "text": "GPT-5.6 Sol confirmed to be an extremely good model https://t.co/nZaAnFhsPX",
+          "createdAt": "2026-07-18T02:47:51.000Z",
+          "url": "https://x.com/thsottiaux/status/2078310751878647932",
+          "likes": 10876,
+          "retweets": 432,
+          "replies": 765,
+          "isQuote": true,
+          "quotedTweetId": "2078302415804379218"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2078303748649320529",
+          "text": "Codex browser use has finally been defeated. https://t.co/qGAIvxtjnJ",
+          "createdAt": "2026-07-18T02:20:01.000Z",
+          "url": "https://x.com/petergyang/status/2078303748649320529",
+          "likes": 29,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078293685238993072",
+          "text": "Legendary episode dropping this weekend featuring the one and only @trq212, who showed me his AI video workflows and much more.\n\n📌 Subscribe to get it on Sunday: https://t.co/744uInp9aE https://t.co/ZTh2IpXRnM",
+          "createdAt": "2026-07-18T01:40:02.000Z",
+          "url": "https://x.com/petergyang/status/2078293685238993072",
+          "likes": 33,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078276992470794531",
+          "text": "The reason I want this btw is spending an entire day staring at screens trying to manage agents fries my brain.\n\nMuch better to be walking around outside talking to the agents \"on the phone\" giving them work to do and having them update me on status via voice.\n\nCan't wait for the first lab to ship this.",
+          "createdAt": "2026-07-18T00:33:42.000Z",
+          "url": "https://x.com/petergyang/status/2078276992470794531",
+          "likes": 26,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2077572198655754583"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2078210889778708744",
+          "text": "Why do you think kimi hurts Google?\n\nMany enterprises won’t consume Kimi directly. They’ll get it through Google Cloud because they still need enterprise guarantees - security, data residency, compliance and most importantly, chips.\n\nMoney out one pocket into the other.",
+          "createdAt": "2026-07-17T20:11:02.000Z",
+          "url": "https://x.com/realmadhuguru/status/2078210889778708744",
+          "likes": 85,
+          "retweets": 3,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078131628262752550",
+          "text": "The reason enterprises struggle to go beyond basic chat bots is the talent gap to build harnesses and evals.\n\n1. Evals: do you clearly understand your use cases and can you replicate that in the form of offline and online evals. Do the evals express your ambition and do they push the jagged frontier of the models? Do they help you pick the right models on the quality-cost-latency curve? \n\n2. Harness: do you have a system that manages routing, multiagency orchestration, context management, tool calling, memory that is independent of the models?\n\n3. Talent: do you have the talent to build this all out on the frontier? \nThis is the scarcest piece.",
+          "createdAt": "2026-07-17T14:56:04.000Z",
+          "url": "https://x.com/realmadhuguru/status/2078131628262752550",
+          "likes": 264,
+          "retweets": 22,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2077884950255370261"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2078189833445654714",
+          "text": "building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons of tokens before realizing you don't want the output https://t.co/BjYeXC7zfk",
+          "createdAt": "2026-07-17T18:47:21.000Z",
+          "url": "https://x.com/trq212/status/2078189833445654714",
+          "likes": 634,
+          "retweets": 32,
+          "replies": 59,
+          "isQuote": true,
+          "quotedTweetId": "2078154117441069227"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2078273728618877326",
+          "text": "This is a sick exploration of chess history.\n\nThe Replit community is ChessMaxxing https://t.co/JqBIq5WRct https://t.co/FyMdf7nIhS",
+          "createdAt": "2026-07-18T00:20:44.000Z",
+          "url": "https://x.com/amasad/status/2078273728618877326",
+          "likes": 94,
+          "retweets": 6,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2078246874390179859"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2078305023784620342",
+          "text": "🆓 Sandbox data for downloads.\nHappy Friday! Time to ship more agents https://t.co/xkRucYqs8I",
+          "createdAt": "2026-07-18T02:25:05.000Z",
+          "url": "https://x.com/rauchg/status/2078305023784620342",
+          "likes": 70,
+          "retweets": 5,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2078304260824187350"
+        },
+        {
+          "id": "2078299647689310270",
+          "text": "Ship like @shadcn https://t.co/J6YwECf2Wi",
+          "createdAt": "2026-07-18T02:03:43.000Z",
+          "url": "https://x.com/rauchg/status/2078299647689310270",
+          "likes": 193,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2078145156524449952"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2078139206946459853",
+          "text": "This post is key. The cheaper AI gets, the more opportunity there is for the entire ecosystem  - especially including end-customers - to benefit.\n\nEverything is bottlenecked by being able to successfully and cost effectively deploy AI in real workloads. Any time we can lower the cost of AI, the total usage goes up. When that happens, the value accrues to all layers of the stack, as noted.\n\nThe only modification is I think as AI gets more efficient, demand even for the frontier closed models can go up too. You often need the strongest model possible for the orchestration of a task, then you can farm out work to cheaper or more tuned models for the bulk of tokens. \n\nThis efficiency gain can ironically lead to even more frontier spend in the process because you can cost effectively deploy AI against more tasks. The thing at most risk is margins, which is fair, and in general it seems that intelligence eventually should converge with the margins of the infrastructure stack.\n\nAnyway, super fun times to see competition play out to drive down the cost of AI.",
+          "createdAt": "2026-07-17T15:26:11.000Z",
+          "url": "https://x.com/levie/status/2078139206946459853",
+          "likes": 331,
+          "retweets": 36,
+          "replies": 45,
+          "isQuote": true,
+          "quotedTweetId": "2078110934740980193"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2078033435398897982",
+          "text": "Why is no one awake and on the streets, Dad?\n\nBecause it’s 5:32 am buddy 😴 https://t.co/qnPaaQTt3D",
+          "createdAt": "2026-07-17T08:25:53.000Z",
+          "url": "https://x.com/nikunj/status/2078033435398897982",
+          "likes": 143,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2078318731785359634",
+          "text": "It's both amazing and painful to watch codex use browser + computer use to open Chrome, go to my PR, tap on comment and wrangle with the macOS picker - all TO UPLOAD AN IMAGE. GitHub has no API doesn't stop anyone.\n\nI let my codex run in VMs so they don't steal app focus. https://t.co/Dd5KzNs6E5",
+          "createdAt": "2026-07-18T03:19:33.000Z",
+          "url": "https://x.com/steipete/status/2078318731785359634",
+          "likes": 317,
+          "retweets": 9,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078277297791189132",
+          "text": "Are we still talking loops or did we shift to graphs yet?",
+          "createdAt": "2026-07-18T00:34:54.000Z",
+          "url": "https://x.com/steipete/status/2078277297791189132",
+          "likes": 2502,
+          "retweets": 94,
+          "replies": 475,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078264088644276598",
+          "text": "ya'all made me go crazy with codexbar icon customization issues, so I built an editor.\n(by me, I mean codex) https://t.co/edAthj1eZw",
+          "createdAt": "2026-07-17T23:42:25.000Z",
+          "url": "https://x.com/steipete/status/2078264088644276598",
+          "likes": 306,
+          "retweets": 7,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2078244242993164716",
+          "text": "this is cool:\n\nhttps://t.co/X4HEmFym68",
+          "createdAt": "2026-07-17T22:23:34.000Z",
+          "url": "https://x.com/sama/status/2078244242993164716",
+          "likes": 2028,
+          "retweets": 124,
+          "replies": 320,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+      "tweets": [
+        {
+          "id": "2078302417100394737",
+          "text": "We know this has been frustrating, and we want to give you more certainty about what your plan includes. We are making access standard at 50% usage for the plans that use Fable most intensively.\n\nThank you for your patience over the past several weeks. We're continuing to invest in new capacity and will keep everyone updated as we do.",
+          "createdAt": "2026-07-18T02:14:43.000Z",
+          "url": "https://x.com/claudeai/status/2078302417100394737",
+          "likes": 3108,
+          "retweets": 121,
+          "replies": 169,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078302415804379218",
+          "text": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to predict, which is why we rolled it out to subscription plans in stages, extending access several times as we secured additional capacity.",
+          "createdAt": "2026-07-18T02:14:43.000Z",
+          "url": "https://x.com/claudeai/status/2078302415804379218",
+          "likes": 28134,
+          "retweets": 4023,
+          "replies": 2494,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078189443878469950",
+          "text": "Explore more projects from the hackathon here: https://t.co/NTQ5I4RGby",
+          "createdAt": "2026-07-17T18:45:48.000Z",
+          "url": "https://x.com/claudeai/status/2078189443878469950",
+          "likes": 70,
+          "retweets": 5,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti",
+      "url": "https://www.youtube.com/watch?v=wEZBlmvxx4o",
+      "publishedAt": "2026-07-16T11:30:01.000Z"
+    }
+  ]
+}

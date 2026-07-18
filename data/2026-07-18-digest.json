@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha",
+      "zh": "顺便说一句，如果你还没有设置你的 {codex |克劳德|双子座| devin} 自动化来自动研究如何每周改进你的 seo/aeo 你真的错过了免费的、应该商品化但奇怪的未开发的 alpha"
+    },
+    "thsottiaux": {
+      "en": "GPT-5.6 Sol confirmed to be an extremely good model",
+      "zh": "GPT-5.6 Sol 被证实是一个非常好的模型"
+    },
+    "petergyang": {
+      "en": "Legendary episode dropping this weekend featuring the one and only @trq212, who showed me his AI video workflows and much more.\n\n📌 Subscribe to get it on Sunday:",
+      "zh": "本周末推出的传奇剧集是独一无二的@trq212，他向我展示了他的人工智能视频工作流程等等。\n\n📌 订阅即可在周日获取："
+    },
+    "realmadhuguru": {
+      "en": "The reason enterprises struggle to go beyond basic chat bots is the talent gap to build harnesses and evals.\n\n1. Evals: do you clearly understand your use cases and can you replicate that in the form of offline and online evals. Do the evals express your ambition and do they push the jagged frontier of the models? Do they help you pick the right models on the quality-cost-latency curve? \n\n2. Harness: do you have a system that manages routing, multiagency orchestration, context management, tool calling, memory that is independent of the models?\n\n3. Talent: do you have the talent to build this all out on the frontier? \nThis is the scarcest piece.",
+      "zh": "企业难以超越基本聊天机器人的原因是构建工具和评估的人才缺口。\n\n1. 评估：您是否清楚地了解您的用例，是否可以通过离线和在线评估的形式复制它。评估是否表达了您的雄心？它们是否推动了模型的锯齿状边界？它们是否可以帮助您在质量-成本-延迟曲线上选择正确的模型？ \n\n2. 工具：您是否有一个独立于模型的系统来管理路由、多机构编排、上下文管理、工具调用、内存？\n\n3. 人才：您是否有能力在前沿打造这一切？ \n这是最稀缺的一块。"
+    },
+    "trq212": {
+      "en": "building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons of tokens before realizing you don't want the output",
+      "zh": "构建模型、模式、数据模型、概念证明等的原型是避免在意识到不需要输出之前花费大量代币的最佳方法"
+    },
+    "amasad": {
+      "en": "This is a sick exploration of chess history.\n\nThe Replit community is ChessMaxxing",
+      "zh": "这是对国际象棋历史的病态探索。\n\nReplit 社区是 ChessMaxxing"
+    },
+    "rauchg": {
+      "en": "Ship like @shadcn",
+      "zh": "像@shadcn 一样发货"
+    },
+    "levie": {
+      "en": "This post is key. The cheaper AI gets, the more opportunity there is for the entire ecosystem  - especially including end-customers - to benefit.\n\nEverything is bottlenecked by being able to successfully and cost effectively deploy AI in real workloads. Any time we can lower the cost of AI, the total usage goes up. When that happens, the value accrues to all layers of the stack, as noted.\n\nThe only modification is I think as AI gets more efficient, demand even for the frontier closed models can go up too. You often need the strongest model possible for the orchestration of a task, then you can farm out work to cheaper or more tuned models for the bulk of tokens. \n\nThis efficiency gain can ironically lead to even more frontier spend in the process because you can cost effectively deploy AI against more tasks. The thing at most risk is margins, which is fair, and in general it seems that intelligence eventually should converge with the margins of the infrastructure stack.\n\nAnyway, super fun times to see competition play out to drive down the cost of AI.",
+      "zh": "这篇文章是关键。人工智能越便宜，整个生态系统（尤其包括最终客户）受益的机会就越多。\n\n能否在实际工作负载中成功且经济高效地部署人工智能，是一切的瓶颈。只要我们能够降低人工智能的成本，总使用量就会上升。如上所述，当发生这种情况时，该值将累加到堆栈的所有层。\n\n唯一的修改是，我认为随着人工智能变得更加高效，即使是对前沿封闭模型的需求也会增加。您通常需要最强大的模型来编排任务，然后您可以将工作外包给更便宜或更优化的模型来处理大量代币。 \n\n具有讽刺意味的是，这种效率提升可能会导致流程中更多的前沿支出，因为您可以经济有效地针对更多任务部署人工智能。风险最大的是利润，这是公平的，总的来说，智能最终应该与基础设施堆栈的利润趋同。\n\n不管怎样，这是观看竞争以降低人工智能成本的超级有趣的时刻。"
+    },
+    "nikunj": {
+      "en": "Why is no one awake and on the streets, Dad?\n\nBecause it’s 5:32 am buddy 😴",
+      "zh": "爸爸，为什么街上没人醒来？\n\n因为现在是凌晨 5:32 伙计😴"
+    },
+    "steipete": {
+      "en": "Are we still talking loops or did we shift to graphs yet?",
+      "zh": "我们还在谈论循环还是已经转向图表了？"
+    },
+    "sama": {
+      "en": "this is cool:",
+      "zh": "这很酷："
+    },
+    "claudeai": {
+      "en": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to predict, which is why we rolled it out to subscription plans in stages, extending access several times as we secured additional capacity.",
+      "zh": "从 7 月 20 日开始，《克劳德寓言 5》将包含在所有 Max 和 Team Premium 计划中，限额为 50%。\n\nPro 和 Team Standard 用户将继续通过使用积分访问《神鬼寓言》，并将获得一次性 100 美元的积分。\n\n《神鬼寓言》的需求一直难以预测，这就是为什么我们分阶段将其推出订阅计划，并在获得额外容量时多次扩展访问范围。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:19\nAnytime you have thought you have enough compute, we can slow down. Always negatively surprises like, oh, we should not have slowed down. Demand far outstrips compute supply today. So anything we can bring online, we consume immediately. Our biggest worry is that still at the scale at which we are trying to get compute and build compute.\n\nSpeaker 1 | 00:19 - 00:30\nThe physical world does not move that fast. We do believe that the world of recursion is not that far where...",
+      "zh": "演讲者 1 | 00:00 - 00:19\n任何时候你认为你有足够的计算能力，我们就可以放慢速度。总是带来负面的惊喜，比如，哦，我们不应该放慢速度。如今的需求远远超过计算供应。因此，任何我们可以带到网上的东西，我们都会立即消费。我们最大的担忧是，我们试图获得计算和构建计算的规模仍然如此。\n\n演讲者 1 | 00:19 - 00:30\n物质世界的发展速度并没有那么快。我们确实相信递归的世界并不遥远",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
