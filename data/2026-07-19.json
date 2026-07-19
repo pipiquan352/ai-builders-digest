@@ -1,0 +1,324 @@
+{
+  "generatedAt": "2026-07-19T14:55:56.048Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2078628617987518855",
+          "text": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF enters the eval window",
+          "createdAt": "2026-07-18T23:50:56.000Z",
+          "url": "https://x.com/swyx/status/2078628617987518855",
+          "likes": 53,
+          "retweets": 1,
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078581967768166591",
+          "text": "btw at current rate i think AEO will be fully responsible for $1m in my revenue next yr https://t.co/nTW949SsAy",
+          "createdAt": "2026-07-18T20:45:33.000Z",
+          "url": "https://x.com/swyx/status/2078581967768166591",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2071319972882911687"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2078702412085498087",
+          "text": "What I just dictated into ChatGPT Work\n\n> Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, basically early access beta group. I want you to go through all my DMs on Twitter and then just take all of them that mention ChatGPT Work. It's like a lot of them, thousands, and put them all in a spreadsheet. What I want in the spreadsheet is the name, I want the link to the the DM, so I can go back to it quickly. I want the post that they did, but remove any new lines, so it's just in a single cell. And then I want a column which is basically your assessment of what they're doing, right? So for example, if it's like sales, put sales, if it's marketing, put marketing, if it's design, put design. Come up with your own taxonomy for how to classify their work. I expect the taxonomy to have like, you know, roughly 8 to 12 labels maybe, total. And then also put a rating for, like, they normally have to describe what they're currently doing with ChatGPT Work, use that to put a rating in the fifth column on how sophisticated their workflow already is. We're gonna be selecting a cohort of different people of different levels of sophistication, so we're gonna be like taking, you know, maybe like a couple dozens from like, a high level of sophistication, we're gonna take in the middle of a cohort, and then like low level of sophistication, so we have good representation and can test new features and get good feedback from a diverse group at different levels of adoption. So create that spreadsheet, go through all my DMs. Good luck!",
+          "createdAt": "2026-07-19T04:44:10.000Z",
+          "url": "https://x.com/thsottiaux/status/2078702412085498087",
+          "likes": 136,
+          "retweets": 1,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078697741455356367",
+          "text": "My job is basically delegating to ChatGPT Work now. Can't stop using dictation and have it do everything",
+          "createdAt": "2026-07-19T04:25:36.000Z",
+          "url": "https://x.com/thsottiaux/status/2078697741455356367",
+          "likes": 229,
+          "retweets": 2,
+          "replies": 50,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078697631019303273",
+          "text": "ChatGPT Work is for\n\n✅ Creating and hosting sites\n✅ Managing your emails for you\n✅ Summarizing mountains of documents\n✅ Creating top-notch docs, sheet and slides\n\nAlready in your mobile app or on https://t.co/WtXdTqu9lT, included in Plus, Pro, Business and Enterprise plans",
+          "createdAt": "2026-07-19T04:25:10.000Z",
+          "url": "https://x.com/thsottiaux/status/2078697631019303273",
+          "likes": 1465,
+          "retweets": 68,
+          "replies": 266,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2078638568784994686",
+          "text": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables.\n\nShe loves animals, so we:\n\n→ Used ChatGPT Images to generate the UI and characters\n→ Added some awesome music\n→ Even added a timed boss level\n\n📌 Play it here: https://t.co/sN7YBohW5R https://t.co/jEzmQjgBUe https://t.co/ghLmCVRmkk",
+          "createdAt": "2026-07-19T00:30:28.000Z",
+          "url": "https://x.com/petergyang/status/2078638568784994686",
+          "likes": 221,
+          "retweets": 8,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2078264521748312302"
+        },
+        {
+          "id": "2078622146247733320",
+          "text": "People saying this is the greatest World Cup match of this tournament...smh",
+          "createdAt": "2026-07-18T23:25:13.000Z",
+          "url": "https://x.com/petergyang/status/2078622146247733320",
+          "likes": 25,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078608551745146928",
+          "text": "This is the weirdest match https://t.co/uJJsJW16d1",
+          "createdAt": "2026-07-18T22:31:12.000Z",
+          "url": "https://x.com/petergyang/status/2078608551745146928",
+          "likes": 56,
+          "retweets": 0,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2078590399619506499"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
+      "tweets": [
+        {
+          "id": "2078514180051906864",
+          "text": "This was due to a heroic effort by many people at Anthropic working sometimes literally around the clock\n\nIt was not at all clear that we'd be able to do this in time, and so proud of everyone who made it happen.\n\nEnjoy Fable. https://t.co/qAtqPadj3L",
+          "createdAt": "2026-07-18T16:16:12.000Z",
+          "url": "https://x.com/trq212/status/2078514180051906864",
+          "likes": 6723,
+          "retweets": 146,
+          "replies": 864,
+          "isQuote": true,
+          "quotedTweetId": "2078302415804379218"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2078647648307880209",
+          "text": "Based on internal evals:\n\n▪️ Kimi K3 is top-tier at cybersecurity\nThere is chatter on X that Moonshot benchmark-overfit. These are stealth evals. Model has raw IQ.\n\n▪️ Sol is a leap ahead in cyber capability\nAt a significantly higher cost, but quite remarkable still.\n\n▪️ Fable refuses everything\nWe couldn’t get it to complete the run at all. What’s interesting is that Sol in comparison was much more open to helping with defensive cyber hardening\n\nTL;DR: frontier, open-weight cybersecurity capability is here. Try it on https://t.co/HedSpZpo1a for defensive purposes.",
+          "createdAt": "2026-07-19T01:06:33.000Z",
+          "url": "https://x.com/rauchg/status/2078647648307880209",
+          "likes": 1856,
+          "retweets": 116,
+          "replies": 65,
+          "isQuote": true,
+          "quotedTweetId": "2078574147333152957"
+        },
+        {
+          "id": "2078548458714406959",
+          "text": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks.\n\nBut that doesn't make AIs better than humanity. There are wonderful things humans can do that these superintelligences (the better term) can't. \n\nFor one, we care-for and care-about other humans in a powerful and inherent way, that we then teach machines to emulate. We must keep that as the top priority in everything we do. We have to be as pro-human-life as it gets.\n\nAIs can replace tasks you do, but they can't replace the proverbial you. This is why they horribly suck at writing! Even when given a corpus of your writing and 200 Skills and 50 subagents running in gRaPh LoOps, they produce robotic prose… because they are robots. \n\nI know one definitive way that people can become irrelevant. They stop being themselves: lose their identity, delegate all their writing, their unique thoughts, the creative ways in which they can use the machines. Opting out of 'weighing in'.\n\nI think we're safe though. There's nothing more distasteful right now than AI replies in social media or (🟢 T H I S    T H I N G ) in landing pages. Quality and humanity will prevail.",
+          "createdAt": "2026-07-18T18:32:24.000Z",
+          "url": "https://x.com/rauchg/status/2078548458714406959",
+          "likes": 577,
+          "retweets": 39,
+          "replies": 91,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2078567715544121815",
+          "text": "If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have represented a turning point in what the future of AI might look like. \n\nIt's clear that there's going to be incredible innovation and growth coming out of the frontier AI labs, and they will continue to push the limits of what model progress looks like. They have the scale of compute, large revenue streams and customer bases, incredible researchers, large data pipelines, and more, to continue to stay at the forefront.\n\nAnd at the same time, there’s an amazing ecosystem starting to play out to diffuse AI into the real world, taking on a variety of approaches that build on top of these frontier models or offer alternative visions that can credibly work as well. \n\nHere are just a few of the categories that seem to be working right now: \n\n* There’s an ecosystem of companies that will help enterprises and applied AI companies develop their own models tuned for specific use cases, and run the inference for them. This can drive additional performance gains and cost effective approaches to getting AI into workloads across different domains. \n\n* Applied AI companies that are delivering the end-user experience and business process tools necessary to actually driving enterprise adoption - including legal, IT, security, HR, customer support, coding, and more. These companies can work with any model and act as a routing layer, and deeply understand the enterprise workflow, can drive change management, actually get to the data necessary to work with, and more. \n\n* New labs are emerging that go deep in particular domains that are either not the focus areas of frontier labs or require a deep level of vertical expertise to stay ahead. Life sciences, financial services, healthcare, and more all have labs that will be able to bring completely new approaches to large enterprises across the economy.\n\n* There’s all new infrastructure emerging to run models and agents effectively, protect and govern how they operate, store and secure the data they work with, and help enterprises orchestrate their activities. Multiple layers of this stack all are being built up right now that will help drive enterprise adoption.  \n\n* New services firms that can actually drive the change management in enterprises necessary to the diffusion of AI. There will be hundreds or even thousands of new firms that emerge in lines of business or specific industries that can enable agents to be adopted.\n\nI’m probably even missing a few categories, but this is what an incredible healthy technology ecosystem looks like. \n\nWay too early to call the winning architectures, and in reality it’s going to be a heterogenous environment as all other tech markets have become. Very exciting.",
+          "createdAt": "2026-07-18T19:48:55.000Z",
+          "url": "https://x.com/levie/status/2078567715544121815",
+          "likes": 327,
+          "retweets": 43,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078481578779685245",
+          "text": "It’s fairly obvious that gate keeping models will not work at scale. \n\nCompeting in AI is too economically and strategically important for China at this point, and we’ve now crossed the rubicon where it’s clear that they can compete at near frontier levels. If this were even just 1 month ago and we saw kimi k3 our brains would be broken.\n\nThe solution to this isn’t to get more locked down and slow your own ecosystem. If that happens, you can guarantee that America loses the global battle (or just fights with more and more regulation to mixed success).\n\nThe solution is to -safely- ensure that you keep a high rate of progress and drive diffusion of the technology, build out infrastructure, enable US OSS, and more.",
+          "createdAt": "2026-07-18T14:06:39.000Z",
+          "url": "https://x.com/levie/status/2078481578779685245",
+          "likes": 366,
+          "retweets": 39,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2078312342568530286"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2078700313461301470",
+          "text": "Socialists want state controlled bread lines\n\nYou know what creates abundance? Great functioning markets. https://t.co/fCnlPPGSEP",
+          "createdAt": "2026-07-19T04:35:49.000Z",
+          "url": "https://x.com/garrytan/status/2078700313461301470",
+          "likes": 160,
+          "retweets": 10,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2078469187068936529"
+        },
+        {
+          "id": "2078699319209984033",
+          "text": "Actually fund recovery and treatment\n\nHeavily audit and defund any harm reduction organization that actively encourages, aids, and causes overdose deaths and supports drug dealers\n\nIt’s very easy, SF just needs the will to do it https://t.co/KtIh6p2I0P",
+          "createdAt": "2026-07-19T04:31:52.000Z",
+          "url": "https://x.com/garrytan/status/2078699319209984033",
+          "likes": 43,
+          "retweets": 2,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2078516982014718027"
+        },
+        {
+          "id": "2078640121369485611",
+          "text": "The Standard probably should try to stick with more journalism and less partisanship\n\nDisappointing how journalism is sometimes weaponized like this \n\nIt’s not unreasonable to ask for accountability from our cities and attacking accountability is speaking power to truth https://t.co/h8Lspm1wyf",
+          "createdAt": "2026-07-19T00:36:38.000Z",
+          "url": "https://x.com/garrytan/status/2078640121369485611",
+          "likes": 91,
+          "retweets": 7,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2078193773352477182"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2078608152086327529",
+          "text": "Good luck to the final trying to top the 3rd-place match.",
+          "createdAt": "2026-07-18T22:29:36.000Z",
+          "url": "https://x.com/mattturck/status/2078608152086327529",
+          "likes": 96,
+          "retweets": 4,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078585551729643573",
+          "text": "MERCI DIDIER. Can barely remember a moment when he was not woven into our love and support for Les Bleus. A legend. End of an era.\n\nAs coach:\n184 matches managed\n120 wins\n 2018 FIFA World Cup Champion\n 2021 UEFA Nations League Champion\n 2022 FIFA World Cup Finalist\n 2016 UEFA European Championship Finalist\n\nAs Captain\n1998 FIFA World Cup\n2000 UEFA European Championship Champion",
+          "createdAt": "2026-07-18T20:59:48.000Z",
+          "url": "https://x.com/mattturck/status/2078585551729643573",
+          "likes": 31,
+          "retweets": 3,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078520552680046920",
+          "text": "2024: \"The model layer is commodotizing\"\n2025: \"The model layer is commodotizing\" \n2026: \"The model layer is commodotizing\"\n\nThe model layer: still not commodotized.",
+          "createdAt": "2026-07-18T16:41:31.000Z",
+          "url": "https://x.com/mattturck/status/2078520552680046920",
+          "likes": 82,
+          "retweets": 4,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2078453525080629683",
+          "text": "Favorite place in Paris (so far) has to be the Orangerie. \n\nThe water lilies were obviously the highlight but it had also the most thoughtful kids room! https://t.co/oDKZ3kREl6",
+          "createdAt": "2026-07-18T12:15:10.000Z",
+          "url": "https://x.com/nikunj/status/2078453525080629683",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2078501506169340099",
+          "text": "I love capitalism. https://t.co/NVhqNQwe2x",
+          "createdAt": "2026-07-18T15:25:50.000Z",
+          "url": "https://x.com/adityaag/status/2078501506169340099",
+          "likes": 98,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today",
+      "url": "https://www.youtube.com/watch?v=RKjR8DQ40po",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
+    }
+  ]
+}
