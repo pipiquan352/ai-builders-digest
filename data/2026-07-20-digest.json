@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool.",
+      "zh": "即使作为一个绝对不是定制键盘的人，我也必须承认这非常酷。"
+    },
+    "thsottiaux": {
+      "en": "I was so inspired reading all the DMs on how folks here use ChatGPT Work. Let’s try something else that will make the team smile.\n\nWhat’s a time you saw ChatGPT have a deeply positive impact on your or someone’s life?",
+      "zh": "阅读所有关于这里的人们如何使用 ChatGPT Work 的私信，我深受启发。让我们尝试一些其他能让团队微笑的事情。\n\n您在什么时候看到 ChatGPT 对您或某人的生活产生了深刻的积极影响？"
+    },
+    "petergyang": {
+      "en": "2. I don't think the people using ChatGPT Work (e.g., non technical) know what \"run this chat in the cloud\" means.\n\nOn Codex it tells me to send to Codex Web and then I click the link and it just tells me to download the app again? \n\nCopy matters.",
+      "zh": "2. 我认为使用 ChatGPT Work 的人（例如，非技术人员）不知道“在云中运行此聊天”意味着什么。\n\n在 Codex 上，它告诉我发送到 Codex Web，然后我单击链接，它只是告诉我再次下载该应用程序？ \n\n复制很重要。"
+    },
+    "AmandaAskell": {
+      "en": "Argentinian goalkeeper sure is earning his salary.",
+      "zh": "阿根廷门将确实赚到了他的薪水。"
+    },
+    "_catwu": {
+      "en": "I love using Claude Cowork to manage my calendar. Here's my prompt for it:\n\nManage my calendar for the week. Requirements: 1. <20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count against the 20 hours. Build a skill that you refine. Ask me before updating invites. \n\nWhat do you use Cowork for?",
+      "zh": "我喜欢使用 Claude Cowork 来管理我的日历。这是我的提示：\n\n管理我本周的日历。要求： 1. 会议时间<20 小时 2. 消除冲突会议的重复数据。看看过去几周我拒绝了哪些类型的会议。晚餐不计入 20 小时。培养一项可以完善的技能。更新邀请之前询问我。 \n\n你用 Cowork 做什么？"
+    },
+    "trq212": {
+      "en": "working more on a post about what we learned doing this and how you can apply this to your skills and system prompts",
+      "zh": "在一篇文章中详细介绍了我们在这方面学到了什么以及如何将其应用到您的技能和系统提示中"
+    },
+    "amasad": {
+      "en": "Let’s go España!",
+      "zh": "我们去西班牙吧！"
+    },
+    "rauchg": {
+      "en": "gm 🇦🇷",
+      "zh": "总经理🇦🇷"
+    },
+    "levie": {
+      "en": "Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world. \n\nThe reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add value- without anyone in the outside world ever having to do anything differently. A single person, from a computer, can just make something work end-to-end differently.\n\nThis is not true for life sciences, where new drug development eventually needs to be tested for years. Doing a sale, which requires going back and forth with a prospect. Or even a contract, which has to be negotiated on the other side by your counterparty. \n\n“An AI will hand you a genuinely clever design for a jet turbine blade. It might be far more likely to work than anything your engineers came up with. It'll still probably fail, because that's the base rate at the edge of what anyone knows. The only way to find out is to build the blade and try to break it.\n\nThat's the real limit on learning, and it doesn't care how smart you are. Coming up with ideas was never the hard part. The hard part is how fast reality answers them.”\n\nIncidentally, this is why you need an applied AI that actually takes intelligence and makes it useful within the workflows of existing industries. Model outputs -alone- are not enough in most cases. You need to actually change the underlying workflows, and you need systems to deal with the realities of the real world feedback loops that are in these industries.\n\nThis is why there’s so much opportunity in the applied AI layer.",
+      "zh": "如果你想了解人工智能扩散，这是一篇好文章。人工智能驱动的进步最终将受到其与现实世界互动的限制。 \n\n例如，编码之所以如此迅速地被采用，是因为您可以编写近乎无限量的代码、测试它并运行它——而且它可以增加价值——而外界的任何人都不必做任何不同的事情。一个人，通过一台计算机，就可以让某些东西以不同的方式端到端地工作。\n\n对于生命科学来说情况并非如此，新药开发最终需要进行多年的测试。进行销售需要与潜在客户进行反复交流。甚至是一份合同，必须由您的交易对手在另一方进行谈判。 \n\n“人工智能将为你提供一个真正聪明的喷气涡轮叶片设计。它可能比你的工程师想出的任何东西都更有可能发挥作用。它仍然可能会失败，因为这是任何人都知道的边缘的基本速度。找出答案的唯一方法是建造叶片并尝试打破它。\n\n这才是学习的真正极限，它与你有多聪明无关。提出想法从来都不是困难的部分。困难的部分是现实如何快速地回答他们。”\n\n顺便说一句，这就是为什么您需要一个应用人工智能，它实际上可以获取智能并使其在现有行业的工作流程中发挥作用。在大多数情况下，仅靠模型输出是不够的。您需要实际改变底层工作流程，并且需要系统来处理这些行业中现实世界反馈循环的现实。\n\n这就是为什么应用人工智能层有如此多的机会。"
+    },
+    "garrytan": {
+      "en": "Markdown files are universal and will survive millennia\n\nUnsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace",
+      "zh": "Markdown 文件是通用的并且可以保存数千年\n\n毫不奇怪，当情报堆栈以如此极端的速度变化时，它们是一种出色的数据格式"
+    },
+    "mattturck": {
+      "en": "🟥 what a moron through and through",
+      "zh": "🟥 真是个彻头彻尾的白痴"
+    },
+    "nikunj": {
+      "en": "Really frustrating that a talented team like Argentina is resorting to such dirty tactics..\n\nLike each player is so SO good. \n\nWhy all the antics? \n\nConstantly complaining and looking for a foul while playing haramball the entire game. \n\nOn a WC final too (sigh)\n\nVamos Spain 🇪🇸",
+      "zh": "像阿根廷这样一支才华横溢的球队竟然采取如此肮脏的战术，真是令人沮丧。\n\n就像每个球员都那么出色。 \n\n为什么所有的滑稽动作？ \n\n整场比赛打哈兰球时不断抱怨并寻找犯规。 \n\n也参加过世界杯决赛（叹气）\n\n西班牙瓦莫斯🇪🇸"
+    },
+    "steipete": {
+      "en": "IYKYK",
+      "zh": "伊吉克"
+    },
+    "danshipper": {
+      "en": "Yes it just passed some barrier\n\nHave been able to automatically do ~70% of the copy edits we would ordinarily do by hand internally @every for the last week \n\nFirst time that’s happened and I’ve been trying it for years",
+      "zh": "是的，它刚刚通过了一些障碍\n\n上周我们通常会在 @every 内部手动完成大约 70% 的文案编辑，能够自动完成 \n\n第一次发生这种情况，我已经尝试了很多年"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:17\nFraudsters have figured out that in AI, you actually don't really need to steal money or credentials. You can just steal tokens. And the scale of this actually shocked me when I looked at the data. So more than one in six signups at AI companies are this kind of abuse. Whatever.\n\nSpeaker 1 | 00:17 - 00:41\nThe dine and dash, but it's for token. When I go and ask my friends and family whether they'd be comfortable letting an agent buy things on their behalf, they usually ...",
+      "zh": "演讲者 1 | 00:00 - 00:17\n欺诈者已经发现，在人工智能中，你实际上并不需要窃取金钱或凭证。你可以偷取代币。当我查看数据时，其规模确实令我震惊。因此，超过六分之一的人工智能公司注册者都是这种滥用行为。任何。\n\n演讲者 1 | 00:17 - 00:41\n吃饭和冲刺，但这是为了象征。当我去询问我的朋友和家人是否愿意让代理人代表他们购买东西时，他们通常会说",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
