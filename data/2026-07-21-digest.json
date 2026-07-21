@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.\n\nan open secret of \"frontier\" model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.\n\nhowever when they are released open weights, 99% of the time the norm is that you do not get the datasets/rlenvs that would easily show you if someone was training on Temu Tbench, so there is plausible deniability. Alex and Omar discuss applying standard NLP distance metrics on hidden trajectories. There's no ultimate solution here, but they have some prelim explorations. It happens to support the finding that RLMs can generalize to unseen tasks that share latent structure observed in training.",
+      "zh": "非常值得注意的轨迹比较文章埋藏在 @a1zhang 和 @lateinteraction 的 RLM 论文中。\n\n“前沿”模型训练的一个公开秘密是，即使没有测试训练，您基本上也可以通过类似测试的训练来作弊，使您能够目标寻找几乎任何您想要的基准数字。\n\n然而，当它们发布开放权重时，99% 的情况是，您无法获得可以轻松显示是否有人在 Temu Tbench 上训练的数据集/rlenv，因此存在合理的否认。 Alex 和 Omar 讨论了在隐藏轨迹上应用标准 NLP 距离度量。这里没有最终的解决方案，但他们有一些初步的探索。它恰好支持了这样的发现：RLM 可以推广到共享训练中观察到的潜在结构的看不见的任务。"
+    },
+    "thsottiaux": {
+      "en": "Never a dull moment when you work at OpenAI. Absolutely incredible place.",
+      "zh": "在 OpenAI 工作永远不会有沉闷的时刻。绝对令人难以置信的地方。"
+    },
+    "petergyang": {
+      "en": "Banning Chinese models will be the same self own as banning Chinese EVs.",
+      "zh": "禁止中国车型与禁止中国电动汽车是一样的。"
+    },
+    "realmadhuguru": {
+      "en": "it's literally the greatest time ever to have product sense",
+      "zh": "这确实是有史以来最有产品意识的时代"
+    },
+    "trq212": {
+      "en": "this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though",
+      "zh": "这是一个仅存在几分钟的错误，在我的个人帐户上进行一些深夜编码时遇到了它"
+    },
+    "amasad": {
+      "en": "First physical product shipped by a coding agent?",
+      "zh": "编码代理运送的第一个实物产品？"
+    },
+    "rauchg": {
+      "en": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "zh": "人工智能的重要教训是一切都是代码。幻灯片就是代码。设计就是代码。那个很酷的宣传视频？代码。 Excel 自动化？代码。宇宙？可能也是由代码组成的。"
+    },
+    "levie": {
+      "en": "Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.\n\n“Few moments in a large task genuinely require frontier intelligence, such as the original decomposition, the design decisions, and certain trade-offs. Once a frontier planner has collapsed the ambiguity into a detailed, explicit instruction, less expensive models simply have to follow it.”\n\nThis is increasingly becoming the core design pattern of complex agents, because the tokens used on large amounts of work on many tasks don’t require the same intelligence threshold as the planning step. By routing to different models based on where you are in the task, you get much greater efficiency overall. \n\nThis provides the template for where the applied layer in AI will differentiate. You can only drive this efficiency if you know the domain well and have the ability to work with multiple model tiers; companies that can do this will across coding, finance, legal, healthcare, life sciences, and other critical spaces will be in a strong position to get larger workloads that would otherwise be too expensive for the customer to deploy.",
+      "zh": "多模型代理系统显然是未来。光标发布的很棒的帖子。他们的新研究表明，作为规划者和协调者的前沿模型与主力更便宜的模型可以显着降低项目的总代币成本，从而使成本提高 15 倍。\n\n“大型任务中很少有时刻真正需要前沿情报，例如原始分解、设计决策和某些权衡。一旦前沿规划者将模糊性分解为详细、明确的指令，较便宜的模型就必须遵循它。”\n\n这日益成为复杂代理的核心设计模式，因为在许多任务的大量工作中使用的代币不需要与规划步骤相同的智能阈值。通过根据您在任务中的位置路由到不同的模型，您可以获得更高的整体效率。 \n\n这为人工智能应用层的差异化提供了模板。只有当您熟悉该领域并有能力使用多个模型层时，您才能提高这种效率；能够做到这一点的公司将在编码、金融、法律、医疗保健、生命科学和其他关键领域占据有利地位，以获取更大的工作负载，否则客户部署这些工作负载的成本将太高。"
+    },
+    "garrytan": {
+      "en": "Great reminder to stay frosty",
+      "zh": "很好的提醒要保持冷淡"
+    },
+    "mattturck": {
+      "en": "OpenAI and Anthropic when a top free Chinese open source model drops",
+      "zh": "当中国顶级免费开源模型落下时，OpenAI 和 Anthropic"
+    },
+    "nikunj": {
+      "en": "Many founders in the last 18 months are going to realize that just because there are no “moats” in AI left anymore doesn’t mean “scale and capital” become your main moat.\n\nWe have seen this movie before.. all of us will benefit from reading a little bit of history.\n\nWebvan\nGroupon\nMySpace\nYahoo\nAltaVista\nBlockbuster\nNokia\n(zombiecorns of 2021)\n\nEach one was structurally and capital-wise in a very good position, but eventually got beat by a company with a much better unique insight. Or just collapsed under the weight of their own scale. \n\nThis is the needle founders have to thread: find a unique insight worth a 10+ year journey, while being prudent enough to not let capital & scale become a substitute for it.",
+      "zh": "过去 18 个月里，许多创始人将意识到，仅仅因为人工智能不再有“护城河”，并不意味着“规模和资本”成为你的主要护城河。\n\n我们以前看过这部电影……我们所有人都会从阅读一点历史中受益。\n\n韦伯货车\n团购网\n我的空间\n雅虎\n阿尔塔维斯塔\n百视达\n诺基亚\n（2021 年的僵尸玉米）\n\n每一家公司在结构和资本方面都处于非常有利的地位，但最终都被一家拥有更好独特洞察力的公司击败。或者只是在自身体重秤的重压下崩溃了。 \n\n这是创始人必须穿线的针：找到值得10多年旅程的独特见解，同时保持足够谨慎，不要让资本和规模成为它的替代品。"
+    },
+    "sama": {
+      "en": "it is good now!",
+      "zh": "现在好了！"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:13\nThere is no such thing as a moat. There is no such thing as somewhere you're gonna be protected against innovation. Today, we have a competitive advantage on areas. Absolutely. But those can go away tomorrow.\n\nSpeaker 1 | 00:13 - 00:24\nThe only one to win long term is to continue to develop new services, new ways to do things. How can we do your business better? What do you need? Where you need more demand? Where are you hurting?\n\nSpeaker 1 | 00:24 - 00:36\nIt's so much ...",
+      "zh": "演讲者 1 | 00:00 - 00:13\n不存在护城河这样的东西。没有什么地方可以保护你免受创新的影响。今天，我们在领域上具有竞争优势。绝对地。但这些明天可能就会消失。\n\n演讲者 1 | 00:13 - 00:24\n赢得长期胜利的唯一方法就是继续开发新服务、新做事方式。我们如何才能更好地开展您的业务？你需要什么？哪里需要更多需求？你哪里痛了？\n\n演讲者 1 | 00:24 - 00:36\n就这么多了",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
