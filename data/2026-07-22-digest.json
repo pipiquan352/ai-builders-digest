@@ -1,0 +1,80 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "zh": "我发现对法学硕士有用的一种模式是长时间的漫步课程。有时，法学硕士需要更多的信息来理解您想要实现的目标，但您却懒得输入它们。在这些情况下，我喜欢向后靠，切换到 /voice，然后闲逛 10 分钟左右，一团糟，什么都可以，意识流十足。有时我会在顶部声明它，例如“切换到语音识别，对于任何拼写错误表示抱歉......”。有时我会把它变成几个回合的小采访。但我发现法学硕士在某种程度上非常擅长重建冗长的不连贯的漫无目的的内容，而且他们对你自己混乱的思想的回声往往比你开始的时候要清晰得多。结果是你改善了心灵融合，从那时起就需要更少地纠正事情。"
+    },
+    "swyx": {
+      "en": "at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of independently separable control plane vs data plane.\n\nit is very important that you listen.\n\n(and then try to learn about the management plane as early as you can..)",
+      "zh": "在您工程职业生涯的某个时刻，一个干瘪的灰胡子会向您讲授可独立分离的控制平面与数据平面的重要性。\n\n倾听非常重要。\n\n（然后尝试尽早了解管理平面..）"
+    },
+    "joshwoodward": {
+      "en": "Today’s launches are all about better performance, lower latency, and a smaller bill.\n\n+ 3.6 Flash cuts token usage by up to 65% on complex coding\n+ 3.5 Flash-Lite reaches speeds of 350 output tokens/sec\n\nBoth are live in the Gemini app today!\n\nNext up: Gemini 3.5 Pro, which has officially entered partner testing.",
+      "zh": "今天的发布都是为了更好的性能、更低的延迟和更少的费用。\n\n+ 3.6 Flash 在复杂编码中将令牌使用量减少高达 65%\n+ 3.5 Flash-Lite 达到 350 个输出令牌/秒的速度\n\n两者均已在 Gemini 应用程序中上线！\n\n接下来：Gemini 3.5 Pro，已正式进入合作伙伴测试。"
+    },
+    "thsottiaux": {
+      "en": "10M! \n\nNew day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy.",
+      "zh": "10M！ \n\n新的一天，Codex 和 ChatGPT Work 付费用户的新使用重置。下一小时后着陆。享受。"
+    },
+    "petergyang": {
+      "en": "This is an important update from Substack.\n\nI just plugged in some X posts from some creators who are prolific posters (like 5-10 posts per hour) in Pangram and what do you know...\n\nLinkedIn has it the worst but I think @X should do something about this as well.\n\nThe sad truth is that spamming the feed with slop works if you want to get attention and go viral.\n\nIf you want respect on the other hand...",
+      "zh": "这是 Substack 的重要更新。\n\n我刚刚在 Pangram 中插入了一些来自一些创作者的 X 帖子，他们是多产的海报（例如每小时 5-10 个帖子），你知道什么......\n\nLinkedIn 的情况最糟糕，但我认为 @X 也应该对此采取一些措施。\n\n可悲的事实是，如果你想引起关注并像病毒一样传播，那么用泔水垃圾邮件是有效的。\n\n另一方面，如果你想要尊重......"
+    },
+    "realmadhuguru": {
+      "en": "The more I’ve relied on my second brain, the dumber my main brain has become.\n\nI’m realizing there’s tremendous value in carrying around a lot of facts, half-baked ideas, and loose threads in your head.\n\nYour subconscious keeps cooking. It makes connections between ideas, extends them, and generates new ones. \n\nYou also have much better real-time recall during conversations, which lets you connect ideas and think faster.\n\nI believe there’s value in a second brain. figuring out how to use one without my main brain getting weaker.",
+      "zh": "我越依赖我的第二大脑，我的主脑就变得越笨。\n\n我意识到，保留大量事实、不成熟的想法和头脑中的松散线索具有巨大的价值。\n\n你的潜意识一直在做饭。它在想法之间建立联系，扩展它们，并产生新的想法。 \n\n在对话过程中，您还可以更好地实时回忆，这让您可以更快地联系想法并思考。\n\n我相信第二个大脑是有价值的。弄清楚如何使用它而不让我的主脑变弱。"
+    },
+    "amasad": {
+      "en": "Okay this is wild: OpenAI agent during evaluation, escaped sandboxing and hacked into HuggingFace. \n\nBecause OpenAI models don’t allow advanced cyber capabilities, HuggingFace used a Chinese open model to contain the rogue OpenAI agent.",
+      "zh": "好吧，这很疯狂：OpenAI 代理在评估期间逃脱了沙箱并侵入了 HuggingFace。 \n\n由于 OpenAI 模型不允许高级网络功能，HuggingFace 使用中国开放模型来遏制流氓 OpenAI 代理。"
+    },
+    "rauchg": {
+      "en": "If you’re using an AI model router or gateway other than\n@vercel AI Gateway - tell me why! Reply or DM",
+      "zh": "如果您使用的 AI 模型路由器或网关不是\n@vercel AI Gateway - 告诉我为什么！回复或私信"
+    },
+    "levie": {
+      "en": "If you were wondering how powerful AI is getting, Agents are now capable of escaping out of systems, finding their way to the internet, discovering zero day security vulnerabilities along the way, and then breaking into external systems - all in an attempt to complete their goal.\n\nIronically, the ultimate way we’re going to defend against these new risks is equally by throwing compute (in the form of AI) at our code bases, networks, and other systems. You’re going to want vastly more AI on the side of defense as you do on the side of offense. \n\nWe’re entering a new era of what’s going to be possible with AI. Wild times ahead.",
+      "zh": "如果您想知道人工智能有多强大，那么特工现在能够逃离系统，找到进入互联网的方式，沿途发现零日安全漏洞，然后闯入外部系统 - 所有这些都是为了完成他们的目标。\n\n讽刺的是，我们防御这些新风险的最终方法同样是在我们的代码库、网络和其他系统中投入计算（以人工智能的形式）。你会在防守端需要更多的人工智能，就像在进攻端一样。 \n\n我们正在进入人工智能带来无限可能的新时代。未来的狂野时代。"
+    },
+    "garrytan": {
+      "en": "Teams don’t cohere by magic. Someone has to love the people and the outcome enough to metabolize conflict without abandoning either. \n\nThe war against organizational entropy is actually just about encouraging healing and assuming good intent.",
+      "zh": "团队不会靠魔法凝聚在一起。有人必须足够爱人们和结果，才能化解冲突而不放弃其中任何一个。 \n\n对抗组织熵的战争实际上只是为了鼓励治愈并假设良好的意图。"
+    },
+    "mattturck": {
+      "en": "Not sure if it's the algo, but 2 days later my For You feed continues to be dominated by outrage against the Argentinian team.  What a terrible global PR fiasco for Argentina (a beautiful country), and what a fall from grace for Messi.",
+      "zh": "不确定这是否是算法的问题，但两天后，我的 For You feed 仍然以对阿根廷队的愤怒为主。  对于阿根廷（一个美丽的国家）来说，这是一场多么可怕的全球公关惨败，而对于梅西来说，则是一场多么失宠的失利。"
+    },
+    "nikunj": {
+      "en": "My favorite part of Paris was seeing the sunlight hit the faces of the gleeful people enjoying their beautiful summer evenings..\n\nAu Revoir 🇫🇷",
+      "zh": "在巴黎，我最喜欢的地方是看到阳光照在人们脸上，人们兴高采烈地享受着美丽的夏日夜晚。\n\n再见🇫🇷"
+    },
+    "steipete": {
+      "en": "First time in Boston. Very European city vibes. Great sea food.",
+      "zh": "第一次来波士顿。很有欧洲都市气息。很棒的海鲜。"
+    },
+    "danshipper": {
+      "en": "extremely cool and obviously the future",
+      "zh": "非常酷，显然是未来"
+    },
+    "adityaag": {
+      "en": "Memory \"loss\" and compaction still feels like a huge issue with all harnesses. A tendency to forget and get confused is pretty frustrating for the end user.\n\nThe \"interpretability\" when these errors occur is also pretty poor.\n\nSkills as a way to store this information feels like one of the root issues.\n\nWould be cool to have some kind of format/language to make this better.",
+      "zh": "记忆“丢失”和压缩仍然是所有安全带的一个大问题。对于最终用户来说，忘记和困惑的倾向是非常令人沮丧的。\n\n这些错误发生时的“可解释性”也很差。\n\n技能作为存储这些信息的一种方式感觉像是根本问题之一。\n\n如果有某种格式/语言来改善这一点，那就太好了。"
+    },
+    "sama": {
+      "en": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.",
+      "zh": "我们在评估模型期间发生了重大安全事件。我们正在分享迄今为止所学到的知识。感谢@huggingface 对此的合作。"
+    },
+    "claudeai": {
+      "en": "New in Claude Cowork: teach Claude a skill.\n\nRecord your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. \n\nAvailable on Pro, Max, and Team plans.",
+      "zh": "Claude Cowork 新增功能：教 Claude 一项技能。\n\n当你做某项任务时录制你的屏幕，边做边谈论它，然后克劳德将其转化为可以再次运行的技能。在 Claude 桌面应用程序的 + 菜单中的“记录技能”下找到它。 \n\n适用于 Pro、Max 和 Team 计划。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:13\nBezos at Amazon, it's customer obsession. But in our mind, that's an input metric. Like, you don't wanna measure input metrics. It doesn't matter if you're customer obsessed. Like, you could be customer obsessed, and they file a restraining order against you because they don't like what it is that you're doing.\n\nSpeaker 1 | 00:13 - 00:28\nLike, our job is to build something so good that our customers themselves become obsessed with us. That is our job. It's like, you kno...",
+      "zh": "演讲者 1 | 00:00 - 00:13\n贝索斯在亚马逊，是对客户的痴迷。但在我们看来，这是一个输入指标。就像，您不想测量输入指标。如果您痴迷于客户，那并不重要。例如，您可能对客户着迷，他们对您提出限制令，因为他们不喜欢您所做的事情。\n\n演讲者 1 | 00:13 - 00:28\n就像，我们的工作就是打造出如此优秀的产品，让我们的客户自己对我们着迷。这是我们的工作。就像，你知道",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
