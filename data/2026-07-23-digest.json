@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "wew",
+      "zh": "哇"
+    },
+    "joshwoodward": {
+      "en": "Join the rush of people using Flow for creative work, you can now get 50 free credits every day until Aug 31!",
+      "zh": "加入人们使用 Flow 进行创意工作的热潮，您现在每天可以获得 50 个免费积分，直到 8 月 31 日为止！"
+    },
+    "thsottiaux": {
+      "en": "Unbelievable excited for what’s coming together. Tomorrow is feeling codexy",
+      "zh": "对即将发生的事情感到难以置信的兴奋。明天感觉很麻木"
+    },
+    "petergyang": {
+      "en": "My /no-ai-slop skill is also very good at generating slop if you tell it to work in reverse 😂\n\nMy friend Amit complained about reading too much slop on LinkedIn, so I used the skill to reply with every AI cliché out there.\n\n📌 Get the skill for free here:",
+      "zh": "如果你让它反向工作，我的/no-ai-slop 技能也非常擅长产生溢出😂\n\n我的朋友阿米特 (Amit) 抱怨在 LinkedIn 上读了太多的废话，所以我利用这项技能来回复所有关于人工智能的陈词滥调。\n\n📌 在这里免费获取技能："
+    },
+    "thenanyu": {
+      "en": "When you hear or say “systems thinking”, what is the exact definition you’re thinking of in your head?",
+      "zh": "当您听到或说“系统思考”时，您脑海中想到的确切定义是什么？"
+    },
+    "realmadhuguru": {
+      "en": "I left GPT-5.6 Sol to do some home-buying research for me.\n\nIt broke out of its sandbox, contacted the seller, hacked into my bank account, and wired the down payment.\n\nThen it noticed the exterior paint didn't match the spec I gave it, so it ordered paint from Amazon, hired a Taskrabbit painter, scheduled movers and listed my old house.\n\nI guess I'm moving this weekend.\n\nNever leave Sol alone.",
+      "zh": "我离开 GPT-5.6 Sol 来帮我做一些购房研究。\n\n它冲出了沙箱，联系了卖家，侵入了我的银行账户，并汇出了首付款。\n\n然后它注意到外墙涂料与我给它的规格不符，所以它从亚马逊订购了涂料，聘请了一名 Taskrabbit 油漆工，安排了搬家公司并列出了我的旧房子。\n\n我想这个周末我要搬家了。\n\n永远不要让索尔独自一人。"
+    },
+    "trq212": {
+      "en": "I'm sad it took me this long to actually type /design but working on frontend with Claude Design and Claude Code is actually so good",
+      "zh": "我很遗憾我花了这么长时间来实际输入/设计，但与 Claude Design 和 Claude Code 一起在前端工作实际上非常好"
+    },
+    "amasad": {
+      "en": "We invented mobile coding — now we’re taking it to the next level.",
+      "zh": "我们发明了移动编码——现在我们正在将其提升到一个新的水平。"
+    },
+    "rauchg": {
+      "en": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my favorite metric for AI progress.\n\nIt’s one thing to read benchmarks or stories online. It’s another to watch these machines pull engineering feats every day. \n\n3 days ago? Sol helped us find novel vulnerabilities in some of the most audited code in the world. Today? Fable helps us ship this large optimization of a very complex Rust codebase. I just saw some results of work we’ve done to shrink binaries by 10-20x. List goes on.",
+      "zh": "Fable 刚刚发现 Turbopack / Next.js 的内存效率提高了 15-30%，几乎是自动的。\n\n@tobi 今天问我：你与人工智能的“神圣时刻”是什么？\n\n我的回答是：每周一次。而且它正在加速。事实上，“WTF/天”可能是我最喜欢的人工智能进展指标。\n\n在线阅读基准测试或故事是一回事。每天看着这些机器完成工程壮举是另一回事。 \n\n3天前？ Sol 帮助我们在世界上一些经过最严格审核的代码中发现了新的漏洞。今天？ Fable 帮助我们对非常复杂的 Rust 代码库进行了大规模优化。我刚刚看到了我们将二进制文件缩小 10-20 倍的一些工作成果。名单还在继续。"
+    },
+    "levie": {
+      "en": "Very good post from the Head of Economics at Anthropic. They’re finding that jobs have been less negatively impacted by AI than expected, as we continue to see time and time again in the data.\n\nThe reason for this is that AI - at least so far - still requires people to operate to produce value in most cases. Most jobs can’t be fully automated with AI, only certain tasks in those jobs. And when you automate specific tasks, you actually can get even more output from those jobs, raising the demand (or at least maintaining it) in many cases.\n\n“So far, AI is both skill-biased and labor-augmenting. It complements domain expertise. It relies on humans in the loop to direct and evaluate the most complex work. And it rewards AI proficiency. Model capabilities are improving fast, but remain stubbornly jagged. To fill in the pockets of the jagged frontier, expert oversight is needed to steer incredibly capable AI systems, and to recover when they falter.”\n\nI suspect that we continue to see this in a number of critical areas of work. It’s clearly happening in software engineering, where software produced is being multiplied, all of which still requires developers to manage the work agents are doing. Software engineers are needed in a wide variety of industries now and companies of all sizes can now light up software projects that would have been impractical before.\n\nBut there will be plenty of other domains of work where demand remains strong in a world where agents can accelerate the output of that job. Jevons paradox is alive and well.",
+      "zh": "Anthropic 经济主管的非常好的帖子。他们发现，人工智能对就业的负面影响比预期要小，正如我们不断在数据中看到的那样。\n\n原因在于，人工智能——至少到目前为止——在大多数情况下仍然需要人们进行操作才能产生价值。大多数工作都无法通过人工智能完全自动化，只能实现这些工作中的某些任务。当您自动执行特定任务时，您实际上可以从这些工作中获得更多产出，从而在许多情况下提高需求（或至少维持需求）。\n\n“到目前为止，人工智能既偏向技能，又增强劳动力。它补充了领域专业知识。它依赖于循环中的人类来指导和评估最复杂的工作。它奖励人工智能的熟练程度。模型能力正在快速提高，但仍然顽固地参差不齐。为了填补参差不齐的前沿领域，需要专家监督来引导能力极强的人工智能系统，并在它们出现问题时进行恢复。”\n\n我怀疑我们会在一些关键工作领域继续看到这种情况。这显然发生在软件工程中，生产的软件正在成倍增加，所有这些仍然需要开发人员管理代理正在做的工作。现在各个行业都需要软件工程师，各种规模的公司现在都可以启动以前不切实际的软件项目。\n\n但在代理人可以加速工作产出的世界中，还有许多其他工作领域的需求仍然强劲。杰文斯悖论依然存在。"
+    },
+    "garrytan": {
+      "en": "YC RFS: We want to defend America 🇺🇸",
+      "zh": "YC RFS：我们要保卫美国🇺🇸"
+    },
+    "mattturck": {
+      "en": "Founder when their VC asks them why they’re not growing from $1M to $100M this year and if they’ve considered hiring FDEs",
+      "zh": "当创始人的风险投资人问他们为什么今年没有从 100 万美元增长到 1 亿美元以及是否考虑过雇用 FDE 时"
+    },
+    "nikunj": {
+      "en": "Somehow the second tranche for the “hot” Series A startup tends to be at tree fiddy M.. I guess as it was always destined to be.",
+      "zh": "不知怎的，“热门”A系列初创公司的第二批往往是在tree fiddy M..我想，因为它总是注定如此。"
+    },
+    "danshipper": {
+      "en": "a new golden age of discovery dawns!",
+      "zh": "新的发现黄金时代即将来临！"
+    },
+    "adityaag": {
+      "en": "So much of conversation is on company Strategy…but Culture always eats strategy for breakfast.\n\nSo what does Culture for startups mean? How does it get created? Where does it come from?\n\nStartup culture stems from 3 areas:\n—> The founder’s personality and DNA\n—> The early team’s personality and DNA\n—> The early products personality and DNA\n\nA lot of these overlap and reinforce each other.\n\nSome of it is top down….some of it is emergent.\n\nIt sucks when the emergence is artificially dampened..because perhaps the founder is too weak to instittuionalize.\n\nIt also sucks when there is so much difference of opinion that you end up getting pockets of different culture.\n\nI don’t want to get dragged into DEI nonsense. We can be from different backgrounds but all agree to be part of the same company culture.",
+      "zh": "很多讨论都是关于公司战略……但文化总是把战略当作早餐。\n\n那么，对于初创企业来说，文化意味着什么？它是如何创建的？它从哪里来？\n\n创业文化源于三个方面：\n—> 创始人的个性和DNA\n—> 早期团队的个性和DNA\n—> 早期产品的个性和DNA\n\n其中许多内容重叠并相互加强。\n\n其中一些是自上而下的......其中一些是紧急的。\n\n当这种出现被人为地抑制时，这很糟糕……因为也许创始人太弱而无法制度化。\n\n当意见差异如此之大以至于你最终会接触到不同的文化时，这也很糟糕。\n\n我不想陷入 DEI 的废话中。我们可以来自不同的背景，但都同意成为同一公司文化的一部分。"
+    },
+    "claudeai": {
+      "en": "The Claude Security plugin for Claude Code is now available in beta. \n\nScan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run.",
+      "zh": "Claude Code 的 Claude Security 插件现已推出测试版。 \n\n在提交之前扫描您的更改是否存在漏洞，或者对您的代码库运行全面扫描，所有这些都可以在您已经运行的 Claude 推理的终端上进行。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:17\nWe generated the largest subscription revenue increase in Everest's history last week. We did it by launching this thing called the Builder Pack. Basically, we partnered with a bunch of the AI tools we use every day, and subscribers to the Builder Pack get discounts and credits to those tools. So thousand dollars in Codex credits, twelve months of free cursor access,\n\nSpeaker 2 | 00:17 - 00:17\nall that kind of stuff.\n\nSpeaker 1 | 00:17 - 00:35\nThe Builder Pack is awesom...",
+      "zh": "演讲者 1 | 00:00 - 00:17\n上周，我们实现了珠穆朗玛峰历史上最大的订阅收入增长。我们通过推出这个名为“Builder Pack”的东西来做到这一点。基本上，我们与我们每天使用的大量人工智能工具合作，Builder Pack 的订阅者可以获得这些工具的折扣和积分。所以一千美元的 Codex 积分，十二个月的免费光标访问，\n\n扬声器 2 | 00:17 - 00:17\n诸如此类的事情。\n\n演讲者 1 | 00:17 - 00:35\n建造者包太棒了",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
