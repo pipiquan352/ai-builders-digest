@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat @thinkymachines at coding, but most people (like @eliebakouch) have been shouting out their excellent papers, but also they're among a rare few to actually expose their full eval dataset as well - beautifully published, with across 6 public benchmarks  with 4 runs each and hundreds of turns per run. you can satisfy for yourself if they rewardhack. brilliant.",
+      "zh": "我认为人们对@poolsideai不够欣赏的一件事是他们不同寻常的开放程度——他们不仅发布了一个出色的小型模型，在编码方面以某种方式击败了@thinkymachines，而且大多数人（如@eliebakouch）都在大声喊出他们的优秀论文，而且他们也是少数真正公开其完整评估数据集的人之一——精美地发布了6个公共基准测试，每次运行4次，每次运行数百次。如果他们奖励黑客，你就可以满足自己。杰出的。"
+    },
+    "thsottiaux": {
+      "en": "Jarvis / Samantha / TARS / Etc\n\nTry it, and do your best work all while being away from that keyboard. Time to have fun!\n\nAvailable in the ChatGPT desktop app now.",
+      "zh": "贾维斯/萨曼莎/TARS/等\n\n尝试一下，在远离键盘的情况下尽最大努力工作。是时候玩得开心了！\n\n现已在 ChatGPT 桌面应用程序中提供。"
+    },
+    "petergyang": {
+      "en": "Before and after with ChatGPT Voice",
+      "zh": "使用 ChatGPT 语音之前和之后"
+    },
+    "realmadhuguru": {
+      "en": "Chatted with a friend who leads security at a public company following the GPT Sol incident. some interesting takeaways.. \n\nHow do you manage security for effectively infinite agents when identity and access management was designed for a finite number of employees?\n\nOne employee can now spin up hundreds of agents. Those agents can spawn more agents.\n\nTraditionally, each employee has an identity, a role, permissions, and a lifecycle.\n\nDo agents inherit the spawning employee’s permissions? What’s their lifecycle - a task, a ticket, a week? Do child agents inherit the same permissions? How do you audit all of this?",
+      "zh": "GPT Sol 事件发生后，与一位在一家上市公司负责安全事务的朋友聊天。一些有趣的要点.. \n\nHow do you manage security for effectively infinite agents when identity and access management was designed for a finite number of employees?\n\n一名员工现在可以启动数百个代理。这些特工可以产生更多的特工。\n\nTraditionally, each employee has an identity, a role, permissions, and a lifecycle.\n\nDo agents inherit the spawning employee’s permissions? What’s their lifecycle - a task, a ticket, a week?子代理是否继承相同的权限？您如何审核这一切？"
+    },
+    "amasad": {
+      "en": "Viktor was able to disrupt the agency model and make a lot of money by using Replit.\n\nThen he figured: Why not automate the entire thing, not just the coding part?\n\nThe Agency: It's merely an agent loop...\n\nSo he asked our team for an MCP, and we built one and he's now built his autonomous agency.",
+      "zh": "Viktor 能够颠覆代理模式，并通过使用 Replit 赚了很多钱。\n\n然后他想：为什么不将整个事情自动化，而不仅仅是编码部分呢？\n\n该机构：这只是一个代理循环......\n\n所以他向我们的团队请求建立一个 MCP，我们建立了一个，他现在建立了他的自治机构。"
+    },
+    "rauchg": {
+      "en": "🔴🔊 AI Gateway keeps getting better. Unreal product velocity from the team.",
+      "zh": "🔴🔊AI网关不断进步。团队的产品速度不真实。"
+    },
+    "levie": {
+      "en": "The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at which you want to learn about a new one). The 3rd category -no existing judgment, no interest in developing it- will basically produce slop and won’t drive that much economically productive activity. \n\nWhat will happen is that the experts will get better and better at their craft and be able to do so much more. Because they can wield these tools in ways that actually drive high quality output, veer agents in the right direction when they go off, and actually incorporate the work into something useful.\n\nThe expert engineer with agents will do far more productive work, precisely because they know how to steer the agent properly. The designer will product far better outcomes using AI than someone without an eye for design. And so on.\n\nAs a result of this dynamic, specialization will continue to be important, if not even more so as the tools get more powerful. Because the expectation of the market gets to be much higher. Getting good at any craft will continue to be necessary in the future.",
+      "zh": "思考人工智能的最佳方式是将其视为你已经了解的领域的力量倍增器（或者你想要了解新领域的速度）。第三类——没有现有的判断，没有兴趣开发它——基本上会产生废品，不会推动那么多的经济生产活动。 \n\n将会发生的事情是，专家们的技术会越来越好，并且能够做更多的事情。因为他们可以以实际推动高质量输出的方式运用这些工具，在代理离开时引导他们走向正确的方向，并实际上将工作融入到有用的东西中。\n\n代理的专家工程师将完成更有成效的工作，正是因为他们知道如何正确引导代理。与没有设计眼光的人相比，使用人工智能的设计师会产生更好的结果。等等。\n\n由于这种动态，专业化将继续变得重要，甚至随着工具变得更加强大而变得更加重要。因为市场的预期会变得更高。未来，精通任何一门手艺仍然是必要的。"
+    },
+    "garrytan": {
+      "en": "Open weight models are very very important",
+      "zh": "开放权重模型非常非常重要"
+    },
+    "mattturck": {
+      "en": "My conversation with @andrewdfeldman, CEO of @cerebras.  We started from \"what is a wafer?\" and built up to why the entire chip industry is reorganizing around inference speed.\n\n00:00 Cold open & Intro\n01:31 Why speed became the AI bottleneck\n02:32 Tokens per second per user, explained\n03:16 AI’s broadband moment and the Netflix analogy\n04:35 The AI chip landscape: GPUs, TPUs, Trainium, ASICs\n06:36 What is an ASIC? \n08:08 Nvidia, Groq, and the fast inference war\n09:16 OpenAI, Broadcom, and specialized silicon\n12:10 China, power, and sovereign AI infrastructure\n15:05 Is the AI infrastructure boom a bubble?\n18:56 The hidden bottlenecks: HBM, CoWoS, and 3nm\n22:57 Why agents are creating CPU demand\n25:36 Andrew’s path from SeaMicro to Cerebras\n26:13 Why Cerebras bet on AI in 2016\n31:14 SRAM vs. HBM: why inference is a memory problem\n33:19 What wafer-scale computing actually means\n34:28 The deep-tech “Everest” problem\n36:07 The moment the first Cerebras system worked\n36:49 Ringing the bell and surviving deep tech\n39:08 How a giant chip handles failure\n41:22 Why GPUs struggle with decode\n42:17 Prefill vs. decode explained\n44:01 The “100 HD movies” problem in AI inference\n45:04 How fast inference changes RL and training 48:08 Reasoning models and why they cost more compute\n50:08 Verification, guardrails, and small models checking big models\n52:37 Multimodal AI and the path to video\n53:51 Cerebras’ business model: hardware, cloud, API\n55:14 OpenAI’s 750MW inference deal\n55:36 Why data centers are measured in megawatts\n58:01 AWS Trainium + Cerebras decode\n59:29 Fast tokens as a cloud product\n01:00:52 Is CUDA still a moat?\n01:03:53 How TSMC helped Cerebras build the giant chip\n01:07:41 Why nobody cared in 2020\n01:08:15 Why chip supply chains are hard to diversify\n01:09:54 Why today’s AI models will be the worst you ever use\n01:10:38 What fast AI could do to SaaS",
+      "zh": "我与@cerebras 首席执行官@andrewdfeldman 的对话。  我们从“什么是晶圆？”开始。并解释了为什么整个芯片行业正在围绕推理速度进行重组。\n\n00:00 冷开场&介绍\n01:31 为什么速度成为AI瓶颈\n02:32 每个用户每秒的令牌数，解释\n03:16 人工智能的宽带时刻和 Netflix 的类比\n04:35 人工智能芯片格局：GPU、TPU、Trainium、ASIC\n06:36 什么是ASIC？ \n08:08 Nvidia、Groq 和快速推理大战\n09:16 OpenAI、Broadcom 和专用芯片\n12:10 中国、电力和主权人工智能基础设施\n15:05 AI基础设施热潮是泡沫吗？\n18:56 隐藏的瓶颈：HBM、CoWoS 和 3nm\n22:57 为什么代理商正在创造CPU需求\n25:36 Andrew 从 SeaMicro 到 Cerebras 的路径\n26:13 为什么 Cerebras 在 2016 年押注人工智能\n31:14 SRAM 与 HBM：为什么推理是一个内存问题\n33:19 晶圆级计算实际上意味着什么\n34:28 深科技“珠穆朗玛峰”问题\n36:07 第一个 Cerebras 系统工作的那一刻\n36:49 敲响警钟并幸存的深科技\n39:08 巨型芯片如何处理故障\n41:22 为什么 GPU 难以解码\n42:17 预填充与解码的解释\n44:01 人工智能推理中的“100部高清电影”问题\n45:04 推理如何快速改变强化学习和训练 48:08 推理模型以及为什么它们需要更多计算\n50:08 验证、护栏和小模型检查大模型\n52:37 多模式人工智能和视频之路\n53:51 Cerebras 的商业模式：硬件、云、API\n55:14 OpenAI 的 750MW 推理交易\n55:36 为什么数据中心以兆瓦来衡量\n58:01 AWS Trainium + Cerebras 解码\n59:29 快速代币作为云产品\n01:00:52 CUDA 仍然是护城河吗？\n01:03:53 台积电如何帮助 Cerebras 打造巨型芯片\n01:07:41 为什么2020年没人关心\n01:08:15 为什么芯片供应链难以多元化\n01:09:54 为什么今天的人工智能模型将是你用过的最糟糕的\n01:10:38 快速人工智能可以为 SaaS 带来什么"
+    },
+    "nikunj": {
+      "en": "Things in tech that have lost all signal given how liberally we use this title..\n\n&gt; “neo”-something\n&gt; full stack\n&gt; fellows*\n&gt; labs\n&gt; partner*\n&gt; forward deployed\n&gt; RL (getting there slowly)\n\n* yes I know the irony since a) we run a fellowship and b) my own title is partner",
+      "zh": "鉴于我们如此随意地使用这个标题，科技领域的事物已经失去了所有信号。\n\n> “neo”-某物\n> 全栈\n> 研究员*\n> 实验室\n> 合作伙伴*\n> 前沿部署\n> RL（慢慢到达那里）\n\n* 是的，我知道这很讽刺，因为 a) 我们经营一个奖学金 b) 我自己的头衔是合伙人"
+    },
+    "steipete": {
+      "en": "We see that as well and added code paths that use the claude cli directly - hard to fight the system.",
+      "zh": "我们也看到了这一点，并添加了直接使用 claude cli 的代码路径 - 很难与系统对抗。"
+    },
+    "claudeai": {
+      "en": "Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation.\n\nTalk through the hard problems out loud, in many more languages.",
+      "zh": "语音模式现在可以在 Claude 功能更强大的模型上运行，并可以使用您在对话中连接的工具。\n\n用更多语言大声讨论难题。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nThis is the largest chip built in the history of the computer industry. It's 58 times larger than a GPU. And for AI, bigger chips process information more quickly, and therefore, you get answers in less time. For AI world, big chips are undoubtedly the best way to go. There's no mode in inference.\n\nSpeaker 1 | 00:21 - 00:36\nIt takes you eight keystrokes to move from a GPU to us in the cloud. We solved a problem that nobody in the history of computing solved, and we deli...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n这是计算机行业历史上最大的芯片。它比 GPU 大 58 倍。对于人工智能来说，更大的芯片处理信息的速度更快，因此您可以在更短的时间内获得答案。对于AI世界来说，大芯片无疑是最好的出路。推理中没有模式。\n\n演讲者 1 | 00:21 - 00:36\n您需要敲击八次按键才能从 GPU 转移到云端。我们解决了计算史上无人解决的问题，并且我们解决了",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
