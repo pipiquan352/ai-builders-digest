@@ -1,0 +1,92 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the reason i am working on a new gsuite is because of extremely stupid defaults like this bullshit",
+      "zh": "我正在开发新的 gsuite 的原因是因为像这样的废话这样极其愚蠢的默认设置"
+    },
+    "joshwoodward": {
+      "en": "Gemini does more than talk. It gets things done.\n\nToday’s use case: Drop in a school calendar PDF. Tell Gemini to add every \"No School\" day to your Google Calendar. Done.\n\n📍Gemini Spark is live now for all Google AI Pro subscribers in the US, expanding globally next.",
+      "zh": "双子座做的不仅仅是空谈。它能把事情做好。\n\n今天的用例：放入学校日历 PDF。告诉 Gemini 将每个“不上学”日添加到您的 Google 日历中。完毕。\n\n📍Gemini Spark 现已面向美国所有 Google AI Pro 订阅者推出，下一步将扩展到全球。"
+    },
+    "bcherny": {
+      "en": "Opus 5 is a great model for coding, data analysis, design, biology, knowledge work.\n\nMore than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully.\n\nAnd when layering defenses -- strong model alignment, combined with prompt injection probes, combined with Auto Mode in Claude Code -- the success rate for prompt injection attacks drops to ~0. This is new and exciting! More about this soon.",
+      "zh": "Opus 5 是编码、数据分析、设计、生物学、知识工作的绝佳模型。\n\n比这些评估分数更让我兴奋的是其他事情：Opus 5 是我们迄今为止最不快速的可注射模型。它有点埋在系统卡中，但通过 PI 评估和红队，Opus 5 很难提示成功注入。\n\n当分层防御时——强大的模型对齐，结合即时注入探针，结合 Claude 代码中的自动模式——即时注入攻击的成功率降至约 0。这是新的且令人兴奋的！很快就会有更多相关信息。"
+    },
+    "thsottiaux": {
+      "en": "Show me your pet",
+      "zh": "让我看看你的宠物"
+    },
+    "petergyang": {
+      "en": "Lying on the bed and talking to ChatGPT Voice to do work in codex is pretty great.\n\nTo do this well I think you have to remember the names of all your long running threads.",
+      "zh": "躺在床上与 ChatGPT Voice 交谈以在 Codex 中完成工作真是太棒了。\n\n为了做好这一点，我认为您必须记住所有长时间运行的线程的名称。"
+    },
+    "thenanyu": {
+      "en": "Endorse",
+      "zh": "赞同"
+    },
+    "realmadhuguru": {
+      "en": "There is a massive opportunity over the next few years for people who know how to take messy real-world workflows and adapt foundation models to them.\n\nDoing that requires understanding how work gets done, designing evals, improving models through post-training, and building the feedback loops that continuously improve models.\n\nThat’s how a general-purpose model becomes exceptional for a specific domain.\n\nToday, that skillset is still concentrated in a handful of labs.",
+      "zh": "对于那些知道如何处理混乱的现实工作流程并适应基础模型的人来说，未来几年将会有巨大的机会。\n\n要做到这一点，需要了解工作是如何完成的，设计评估，通过后期培训改进模型，并建立持续改进模型的反馈循环。\n\n这就是通用模型如何在特定领域变得异常出色的原因。\n\n如今，这些技能仍然集中在少数实验室中。"
+    },
+    "_catwu": {
+      "en": "Claude Opus 5 is great at long-running autonomous work! Try it out and let us know what you think :)",
+      "zh": "Claude Opus 5 非常适合长时间运行的自主工作！尝试一下，让我们知道您的想法:)"
+    },
+    "trq212": {
+      "en": "We removed ~80% of the Claude Code system prompt for our newest models, this is what we've learned about writing system prompts, skills and Claude.MDs for them.",
+      "zh": "我们为最新型号删除了约 80% 的 Claude Code 系统提示，这是我们为它们编写系统提示、技能和 Claude.MD 所学到的知识。"
+    },
+    "amasad": {
+      "en": "Will Anthropic sign? \n\nIf you work at Anthropic worth asking your leadership to sign or make their position clear: Are they for banning open weight models?",
+      "zh": "人择会签名吗？ \n\n如果你在 Anthropic 工作，值得让你的领导签字或明确他们的立场：他们是否支持禁止开放体重模型？"
+    },
+    "rauchg": {
+      "en": "Ok let's see what you can do",
+      "zh": "好的，让我们看看你能做什么"
+    },
+    "alexalbert__": {
+      "en": "Just over 6 months later, Opus 5 now produces near-superhuman level spreadsheets and slide decks that match what a consultant would make. Things are changing fast.",
+      "zh": "仅仅 6 个多月后，Opus 5 现在可以生成接近超人水平的电子表格和幻灯片，与顾问制作的内容相匹配。事情变化很快。"
+    },
+    "levie": {
+      "en": "Claude Opus 5 is out now, and it's a huge jump over Opus 4.8 on a wide number of capabilities. \n\nAt Box, we've been testing Claude Opus 5 with the Box AI Agent on Box's Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end across a variety of industries.  We saw meaningful gains in performance across some of the most complex enterprise tasks on unstructured data. \n\nHere are a few examples of some of the wins we saw in testing:\n\n* Due diligence (+17%): On a transaction due-diligence review, Opus 5 worked through the full set of required findings and flagged the ones Opus 4.8 missed. It stays thorough as the checklist grows instead of catching the obvious items and stopping.\n\n* Life Sciences (+30%): On a target-identification task, it intersected several ranked datasets under a strict matching rule to find the targets common to all of them. Opus 4.8 over-included partial matches and dropped genuine ones.\n\n* Legal (+12%): On a clause-by-clause contract review against a policy, Opus 5 scored every item and correctly cleared the clauses that were acceptable under an exception where Opus 4.8 both missed items and mis-scored the exception.\n\n* Technology (+19%) and Healthcare (+13%) showed the same pattern: complete, precise, multi-step analysis over messy source material.\n\nOverall, the reasoning, analytical, and data processing skills of Opus 5 outshine Opus 4.8 meaningfully. Going to be very powerful for enterprise agentic use-cases. You'll be able to build agents with Opus 5 in the Box AI Studio shortly.",
+      "zh": "Claude Opus 5 现已发布，它在很多功能上都比 Opus 4.8 有了巨大的飞跃。 \n\n在 Box，我们一直在 Box 的 Complex Work Eval 上使用 Box AI Agent 来测试 Claude Opus 5，这是我们的代理基准，可将模型通过跨多个行业的真实企业文档工作进行端到端的处理。  我们在非结构化数据上的一些最复杂的企业任务中看到了显着的性能提升。 \n\n以下是我们在测试中看到的一些胜利的一些示例：\n\n* 尽职调查 (+17%)：在交易尽职调查审查中，Opus 5 完成了全套所需的调查结果，并标记了 Opus 4.8 遗漏的调查结果。随着清单的增长，它会保持彻底，而不是抓住明显的项目并停止。\n\n*生命科学（+30%）：在目标识别任务中，它根据严格的匹配规则将多个排名数据集相交，以找到所有数据集共有的目标。 Opus 4.8 过度包含了部分匹配项并删除了正版匹配项。\n\n* 法律（+12%）：在针对保单的逐条合同审查中，Opus 5 对每个项目进行了评分，并正确清除了例外情况下可接受的条款，而 Opus 4.8 既错过了项目，又错误地对例外情况进行了评分。\n\n* 技术 (+19%) 和医疗保健 (+13%) 显示出相同的模式：对混乱的源材料进行完整、精确、多步骤的分析。\n\n总体而言，Opus 5 的推理、分析和数据处理能力明显优于 Opus 4.8。对于企业代理用例来说将非常强大。很快您就可以在 Box AI Studio 中使用 Opus 5 构建代理。"
+    },
+    "garrytan": {
+      "en": "YC Startup School 2026 rehearsal at Chase Center\n\nWelcome to San Francisco, future founders!\n\nTomorrow and this whole weekend are going to be 🔥",
+      "zh": "YC 创业学校 2026 年在大通中心排练\n\n欢迎来到旧金山，未来的创始人！\n\n明天和整个周末将会是🔥"
+    },
+    "mattturck": {
+      "en": "Big week in model routing:\n\nStripe rumored to acquire OpenRouter for $10B\n\nCursor Router announced on Wednesday \n\nRunway Router announced yesterday \n\nAlso see routers at Databricks, Vercel, Cloudflare, Dataiku, AWS, Google  (yes lots of differences behind the same term)",
+      "zh": "模型路由的重要一周：\n\n据传 Stripe 将以 $10B 收购 OpenRouter\n\nCursor Router 于周三发布 \n\n昨天宣布的跑道路由器 \n\n另请参阅 Databricks、Vercel、Cloudflare、Dataiku、AWS、Google 上的路由器（是的，同一术语背后有很多差异）"
+    },
+    "nikunj": {
+      "en": "Haters will say this is AI 🇨🇭",
+      "zh": "讨厌者会说这是人工智能🇨🇭"
+    },
+    "steipete": {
+      "en": "am I a graph engineer now",
+      "zh": "我现在是一名图形工程师吗"
+    },
+    "danshipper": {
+      "en": "BREAKING: Claude Opus 5 is OUT NOW!\n\nAnd…it’s a hard model to love.\n\nWe’ve spent the last week @every testing it across coding, writing, knowledge work, and our internal agent.\n\nIt argued with instructions, stopped before the work was finished, and generally didn’t play well with our existing skills and plugins like Compound Engineering. Our first reaction was: What have they done to my boy?\n\nThen we deleted our existing skills and started from scratch.\n\nWithout the elaborate workflows we had built for earlier models, Opus 5 got dramatically better, and even showed flashes of brilliance.\n\nHere’s our Day 0 vibe check:\n\n- It’s a poor man’s Fable. It has many of Fable’s personality quirks without Fable’s genius.\n- It breaks backward compatibility. If you’re using it with existing skills and workflows, watch out. It will often stop early or otherwise miss your instructions.\n- If you start from scratch, you’ll have better results. @KieranKlaassen figured out that if he just started from scratch without his existing skills, he could get dramatically better results. This is a model that takes some time to rebuild your workflows around—but if you do, there’s a payoff waiting.\n- Medium or low effort works better. @KieranKlassenn also found better results using Opus 5 on lower thinking levels. It seems that the more time you give it to think, the more likely it is to do the more annoying behaviors. Don’t just switch to Sonnet for a faster response! Try low thinking.\n\nI have two slots in my workflow:\n\n1. The genius model I use for my biggest hardest tasks, currently Fable.\n2. The smart, fast generalist I use for everything else, currently GPT-5.6.\n\nOpus 5 has the personality of the genius, but doesn’t have its top end. So that puts it in a strange middle ground that doesn’t really have a home in my day to day. I think I’ll use it mostly when I run out of Fable tokens.\n\nfull vibe check on @every in the next tweet 👇",
+      "zh": "突发新闻：克劳德作品 5 现已发布！\n\n而且……这是一个很难让人喜欢的模型。\n\n上周我们@every 在编码、写作、知识工作和我们的内部代理方面进行了测试。\n\n它与指令发生争执，在工作完成之前就停止了，并且通常不能很好地利用我们现有的技能和复合工程等插件。我们的第一反应是：他们对我的儿子做了什么？\n\n然后我们删除了现有的技能，从头开始。\n\n没有我们为早期模型构建的复杂工作流程，Opus 5 的性能显着提高，甚至表现出了闪光点。\n\n这是我们的第 0 天氛围检查：\n\n——这是一个穷人的寓言。它具有《神鬼寓言》的许多个性怪癖，但没有《神鬼寓言》的天才。\n- 它破坏了向后兼容性。如果您将其与现有技能和工作流程一起使用，请小心。它通常会提前停止或以其他方式错过您的指示。\n- 如果你从头开始，你会得到更好的结果。 @KieranKlaassen 发现，如果他在没有现有技能的情况下从头开始，他可以获得更好的结果。这个模型需要一些时间来重建您的工作流程，但如果您这样做，就会有回报。\n- 中等或低强度效果更好。 @KieranKlassenn 还在较低的思维水平上使用 Opus 5 发现了更好的结果。似乎你给它思考的时间越多，它就越有可能做出更烦人的行为。不要只是为了更快的响应而切换到 Sonnet！尝试低度思维。\n\n我的工作流程中有两个槽位：\n\n1. 我用于完成最艰巨任务的天才模型，目前是《神鬼寓言》。\n2. 我用它来做其他事情的聪明、快速的多面手，目前是 GPT-5.6。\n\nOpus 5 有天才的个性，但没有其高端。所以这让它处于一个奇怪的中间立场，在我的日常生活中并没有真正的家。我想当我用完《神鬼寓言》代币时，我会主要使用它。\n\n在下一条推文中对@every进行完整的氛围检查👇"
+    },
+    "sama": {
+      "en": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
+      "zh": "我希望美国在人工智能领域赢得开源和专有模型的胜利，我很高兴看到这一点"
+    },
+    "claudeai": {
+      "en": "Opus 5 is available today on all paid plans and the Claude API, priced the same as Opus 4.8. It’s the default model on Claude Max, and the strongest on Claude Pro. It’s also offered in Fast mode, which runs around 2.5× the default speed.\n\nRead more:",
+      "zh": "Opus 5 现已在所有付费计划和 Claude API 上提供，价格与 Opus 4.8 相同。它是 Claude Max 上的默认模型，也是 Claude Pro 上最强的模型。它还提供快速模式，运行速度约为默认速度的 2.5 倍。\n\n阅读更多："
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:34\nHi, listeners. Welcome back to No Priors. Today, I'm here with Andy Fang and Stanley Tang, cofounders at DoorDash. We talk about how DoorDash has been a robotics company for the last eight years, the data advantages of their network, and what all this means for 9,000,000 dashers and 3,000,000,000 deliveries a year. Welcome.\n\nSpeaker 1 | 00:34 - 00:52\nHandy, Stanley, thank you so much for being here. Really excited to talk to you about all the crazy stuff DoorDash is doi...",
+      "zh": "演讲者 1 | 00:05 - 00:34\n嗨，听众们。欢迎回到无先例。今天，我和 DoorDash 联合创始人 Andy Fang 和 Stanley Tang 一起来到这里。我们将讨论 DoorDash 在过去八年中如何成为一家机器人公司、其网络的数据优势，以及这一切对于每年 9,000,000 台机器人和 3,000,000,000 次送货意味着什么。欢迎。\n\n演讲者 1 | 00:34 - 00:52\n方便，斯坦利，非常感谢你来到这里。很高兴能与您谈论 DoorDash 的所有疯狂事物",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
