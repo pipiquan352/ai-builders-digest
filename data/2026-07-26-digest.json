@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "lmao @ClementDelangue doing the 🇳🇴",
+      "zh": "lmao @ClementDelangue 正在做🇳🇴"
+    },
+    "thsottiaux": {
+      "en": "ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
+      "zh": "ChatGPT Work 的活跃用户数量正式超过 Codex。一路走好。"
+    },
+    "petergyang": {
+      "en": "My friend Kun gives some of the best analysis on models there is, read it below:",
+      "zh": "我的朋友 Kun 给出了一些关于模型的最佳分析，请阅读以下内容："
+    },
+    "thenanyu": {
+      "en": "The real reason we don’t have a true SoftwareFactory",
+      "zh": "我们没有真正的 SoftwareFactory 的真正原因"
+    },
+    "realmadhuguru": {
+      "en": "In uncharted territory, answers to hard questions only come from repeated contact with reality.\n\nBeen thinking about how quickly the US AI community converged on support for open-weight models.\nIt feels obvious now. It wasn't even a month ago.\n\nIt took a series of public “experiments” to play out.\nDeepSeek. Microsoft-OpenAI breakup. GLM. Kimi. Fable. The OpenAI-Hugging Face episode.\n\nEach revealed something different about incentives, innovation, geopolitics, and the cards the different players were holding.\n\nWe got a chance to jointly observe the first- and second-order effects of different directions and update our beliefs.\n\nI think that's how we'll figure out many of AI's biggest societal questions over the next decade.",
+      "zh": "在未知领域，难题的答案只能来自于与现实的反复接触。\n\n一直在思考美国人工智能社区对开放权重模型的支持有多快。\n现在感觉很明显了。这还不到一个月前。\n\n经过一系列公开“实验”才得以实现。\n深度搜索。微软与 OpenAI 分手。 GLM。基米。寓言。 OpenAI 拥抱脸剧集。\n\n每一个都揭示了有关激励、创新、地缘政治以及不同参与者手中的牌的不同内容。\n\n我们有机会共同观察不同方向的一阶和二阶效应并更新我们的信念。\n\n我认为这就是我们在未来十年解决人工智能许多最大社会问题的方法。"
+    },
+    "amasad": {
+      "en": "I find them baffling even to me. Especially bad for the ADHD brain.",
+      "zh": "我发现它们甚至对我来说也令人困惑。对多动症大脑尤其不利。"
+    },
+    "rauchg": {
+      "en": "The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it.\n\nThis is what @elonmusk figured out about Tesla, and it's now true for the software world.",
+      "zh": "（软件）工厂就是产品。您的产品的好坏取决于您设置的自主维护代理。\n\n这就是 @elonmusk 对 Tesla 的理解，现在对于软件世界来说也是如此。"
+    },
+    "levie": {
+      "en": "Now with Google on board, this is a complete endorsement of open weights AI. Pretty big moment for the industry.",
+      "zh": "现在有了谷歌的加入，这是对开放权重人工智能的完全认可。对于这个行业来说是一个非常重要的时刻。"
+    },
+    "garrytan": {
+      "en": "My dad was cheering real loud from the stands\n\nDad stop you’re embarrassing me",
+      "zh": "我爸爸在看台上大声欢呼\n\n爸爸别再让我难堪了"
+    },
+    "mattturck": {
+      "en": "VC trying to resist the temptation to buy three shares of Anthropic through an SPV before the IPO so that they can call themselves early investors",
+      "zh": "VC 试图抵制诱惑，在 IPO 之前通过 SPV 购买三股 Anthropic 股票，以便他们可以称自己为早期投资者"
+    },
+    "nikunj": {
+      "en": "No one will admit this but you can only do this sort of thing if a) the CEO has complete control of the company (profitable, no board and VC that I know of) and b) you are as ambitious and crazy as @DavidSHolz\n\nOtherwise imagine telling your broader team a generative media company is acquiring an astrology app. Let’s not even get into their scanners. It’ll be fascinating to see what the future holds! \n\nPS: for a second, I genuinely thought they were acquiring the real estate platform 😅",
+      "zh": "没有人会承认这一点，但你只能做这种事情，如果a）首席执行官完全控制公司（盈利，据我所知没有董事会和风险投资）和b）你像@DavidSHolz一样雄心勃勃和疯狂\n\n否则，想象一下告诉您的更广泛的团队，一家生成媒体公司正在收购一款占星应用程序。我们甚至不要进入他们的扫描仪。看看未来会怎样，这将会很有趣！ \n\nPS：有一瞬间，我真的以为他们正在收购房地产平台😅"
+    },
+    "steipete": {
+      "en": "1) Competition is good for the ecosystem.\n2) Serving models at scale is hard.\n\nProud that @OpenAI signed the letter. Ant is silent on it.",
+      "zh": "1）竞争有利于生态系统。\n2）大规模服务模型很困难。\n\n很自豪 @OpenAI 签署了这封信。蚂蚁对此保持沉默。"
+    },
+    "danshipper": {
+      "en": "this is crazy",
+      "zh": "这太疯狂了"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:03\nYou can wave your hands and say, no. This is like electricity. Okay. Fine. It's like electricity.\n\nSpeaker 1 | 00:03 - 00:09\nWell, what happened with electricity? And there was a time before electricity, and people before electricity weren't dumb either. Do you\n\nSpeaker 2 | 00:09 - 00:12\nthink it's irrational that, like, the heads of these labs are talking so much about job loss?\n\nSpeaker 1 | 00:12 - 00:20\nWe get deep into logical fallacies here. So we've got Jeff Hinto...",
+      "zh": "演讲者 1 | 00:00 - 00:03\n你可以摆摆手说，不。这就像电一样。好的。美好的。就像电一样。\n\n演讲者 1 | 00:03 - 00:09\n那么，电力发生了什么？曾经有一段时间，电力还没有出现，电力出现之前的人们也不傻。你呢\n\n扬声器 2 | 00:09 - 00:12\n你认为这些实验室的负责人如此多地谈论失业问题是不合理的吗？\n\n演讲者 1 | 00:12 - 00:20\n我们在这里陷入了逻辑谬误。所以我们有杰夫辛托",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
