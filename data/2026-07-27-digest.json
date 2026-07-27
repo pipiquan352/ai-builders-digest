@@ -1,0 +1,52 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "Let ChatGPT *work* for you. How many time have you wanted to negotiate your internet bill, get rid of all those spam emails you’re subscribed to, or find the perfect deal for something you wanted to do or buy. It’s quite literally just one prompt away, all from the comfort of your phone. It does at least 20 things for me every single day and I’m still surprised.",
+      "zh": "让 ChatGPT *为您工作*。您有多少次想要协商您的互联网账单，摆脱您订阅的所有垃圾邮件，或者为您想做或购买的东西找到完美的交易。毫不夸张地说，只需一个提示，一切都可以通过您舒适的手机完成。它每天至少为我做 20 件事，我仍然感到惊讶。"
+    },
+    "petergyang": {
+      "en": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tokens it's \"do I trust ChatGPT enough to share my Gmail, Calendar, Google Workspace, Microsoft Office, etc.\"",
+      "zh": "现在我在加拿大，与没有人工智能精神病的人交谈，最关心的问题不是代币耗尽，而是“我是否足够信任 ChatGPT 来共享我的 Gmail、日历、Google Workspace、Microsoft Office 等”。"
+    },
+    "realmadhuguru": {
+      "en": "When people say AI hasn’t led to shipped impact in products, here’s the piece they are missing.\n\nThis is phase 1. Companies with distribution are rapidly expanding to adjacent problem areas - AI helps them execute fast and build functionality that previously required a bunch custom sw (e.g. clothes try on).\n\nCompanies are figuring out the playbook and the impact is not yet visible at the ecosystem level.\n\nPhase 2 will be a lot more net new features and innovation.\n\nThat’s when we will see the undeniable impact of AI on the shape of the software ecosystem.",
+      "zh": "当人们说人工智能没有对产品的出货产生影响时，他们忽略了这一点。\n\n这是第一阶段。拥有分销的公司正在迅速扩展到邻近的问题领域 - 人工智能帮助他们快速执行并构建以前需要一堆自定义软件的功能（例如试穿衣服）。\n\n公司正在制定策略，其影响在生态系统层面尚不明显。\n\n第二阶段将有更多的新功能和创新。\n\n那时我们将看到人工智能对软件生态系统的形态产生不可否认的影响。"
+    },
+    "amasad": {
+      "en": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models.",
+      "zh": "前 Anthropic 员工的一个有趣的下降是：黑客更喜欢使用大量补贴的实验室人工智能订阅来进行攻击，而不是开放模型。"
+    },
+    "rauchg": {
+      "en": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols &amp; research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier:",
+      "zh": "Vercel 自豪地共同签署了 Open Weights 和美国人工智能领导力信函。 \n\n开源、数据、协议和研究使我们每天都能享受到技术奇迹，丰富我们的生活和世界。\n\n开放权重是合乎逻辑的下一个前沿："
+    },
+    "levie": {
+      "en": "There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to their workflows.\n\nIntelligence alone is not enough to transform most processes because you need to bridge that intelligence with real world feedback loops. That requires connecting to various enterprise systems, getting the right data to the AI, enabling humans to make decisions at different steps in a process through the right UX, having workflows that improve the underlying data and models over time, dealing with regulatory and compliance challenges, and more. \n\nThe way you implement AI agents for doing client onboarding in a bank is entirely different from contract review in a legal team. In life sciences, financial services, legal, manufacturing, and many other critical industries, AI is only valuable if it makes contact with the real world in a contextual way. \n\nThe way that interaction is going to happen is through an applied AI layer. Some of that will come from the labs directly, but lots of the opportunity will necessarily come from independent companies that can go deep in each industry.\n\nAnd counter to some beliefs, this need isn’t reduced even as AI model capability improves over time. In fact, the better the models get, the more ambitious you can be in the workflows you can automate, which generally requires even more of this applied layer. Tons of opportunity right now.",
+      "zh": "人工智能向现实世界的扩散仍然有很多机会。大多数企业都需要大量的支持才能将模型突破应用到他们的工作流程中。\n\n仅靠智能不足以改变大多数流程，因为您需要将智能与现实世界的反馈循环联系起来。这需要连接到各种企业系统，为人工智能提供正确的数据，使人们能够通过正确的用户体验在流程的不同步骤做出决策，拥有随着时间的推移改进底层数据和模型的工作流程，应对监管和合规挑战等等。 \n\n在银行中实施人工智能代理进行客户入职的方式与法律团队中合同审查的方式完全不同。在生命科学、金融服务、法律、制造和许多其他关键行业中，人工智能只有在以情境方式与现实世界接触时才有价值。 \n\n交互发生的方式是通过应用的人工智能层。其中一些机会将直接来自实验室，但很多机会必然来自能够深入每个行业的独立公司。\n\n与一些观点相反，即使人工智能模型的能力随着时间的推移而提高，这种需求也不会减少。事实上，模型越好，您在自动化工作流程中的野心就越大，这通常需要更多的应用层。现在有很多机会。"
+    },
+    "garrytan": {
+      "en": "Don’t LARP\n\nBe earnest",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "proof of prompt is soon going to replace proof of work",
+      "zh": "提示证明很快就会取代工作证明"
+    },
+    "danshipper": {
+      "en": "i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insiders @openai) \n\npublishing on @every in a few weeks\n\ni will be dropping breadcrumbs and learnings as i go :)",
+      "zh": "我将利用一周的时间来写下法典如何发生的确切历史（正如对内部人士 @openai 的深度采访所述） \n\n几周后在 @every 上发布\n\n我会一边走一边留下面包屑和学到的东西:)"
+    },
+    "sama": {
+      "en": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
+      "zh": "chatgpt 的工作是非凡的，而“工作”却低估了它。\n\n我从我的手机发送：\n\n“利用我所有的聊天记录来找出与 8 个朋友一起进行长周末旅行的想法，计划最好的三个选择，制作一个全栈网站，我们 9 个人可以在每个地方协调我们想要做的事情并决定去哪里，然后在我们达成集体协议后进行预订。在我的 Gmail 中起草一封电子邮件，当网站准备好时，我可以发送给我的朋友。”\n\n它...刚刚起作用了。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:19\nAnytime you have thought you have enough compute, we can slow down. Always negatively surprises like, oh, we should not have slowed down. Demand far outstrips compute supply today. So anything we can bring online, we consume immediately. Our biggest worry is that still at the scale at which we are trying to get compute and build compute.\n\nSpeaker 1 | 00:19 - 00:30\nThe physical world does not move that fast. We do believe that the world of recursion is not that far where...",
+      "zh": "演讲者 1 | 00:00 - 00:19\n任何时候你认为你有足够的计算能力，我们就可以放慢速度。总是带来负面的惊喜，比如，哦，我们不应该放慢速度。如今的需求远远超过计算供应。因此，任何我们可以带到网上的东西，我们都会立即消费。我们最大的担忧是，我们试图获得计算和构建计算的规模仍然如此。\n\n演讲者 1 | 00:19 - 00:30\n物质世界的发展速度并没有那么快。我们确实相信递归的世界并不遥远",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
