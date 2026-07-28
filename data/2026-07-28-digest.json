@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
+      "zh": "顺便说一句，去年某个时候，每个输入/输出代币的美元作为相关成本衡量标准已经消失\n\n如果你还没有根据@ArtificialAnlys将你的x轴更新为$/task，那么我不知道这些天你是否可以再被认真对待"
+    },
+    "thsottiaux": {
+      "en": "We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.\n\nHold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!",
+      "zh": "我们庆祝 chatGPT Work 的快速采用以及今天为此付出的所有令人难以置信的努力。我感觉自己的极限被重置了。\n\n紧紧抓住你的超和/快速，几个小时后我回到笔记本电脑前见！"
+    },
+    "petergyang": {
+      "en": "I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?”\n\nHere’s his answer:\n\n“I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Slack.\n\nTwenty minutes later, there was a new video in the Slack thread. Then I told Codex:\n\n‘Every 30 minutes, check the thread for feedback and export V2, V3, V4.’\n\nBy the time I got home, the launch video was greenlit.”\n\nCodex had handled the revisions by repeatedly checking Slack for feedback.\n\n📌 Watch the full episode here:",
+      "zh": "我问@jxnlco（OpenAI 的 DevEx）：“Codex 为你做过的最疯狂的事情是什么？”\n\n这是他的回答：\n\n“当时我正在骑自行车，一位同事要求我修复发布视频。所以我通过手机远程连接，并要求 Codex 使用计算机来编辑视频、导出视频并将其发布回 Slack。\n\n二十分钟后，Slack 线程中出现了一个新视频。然后我告诉法典：\n\n“每 30 分钟检查一次线程的反馈并导出 V2、V3、V4。”\n\n当我回到家时，发布视频已获批准。”\n\nCodex 通过反复检查 Slack 的反馈来处理修订。\n\n📌 在这里观看完整剧集："
+    },
+    "thenanyu": {
+      "en": "A lot of very smart people work very hard to make the product very good and nice to use. \n\nIf you have very smart people, you should have them make your own product very good and nice to use. And pay us a nominal fee to use our product.",
+      "zh": "许多非常聪明的人非常努力地工作，以使产品变得非常好并且易​​于使用。 \n\n如果你有非常聪明的人，你应该让他们让你自己的产品非常好用。并向我们​​支付象征性的费用以使用我们的产品。"
+    },
+    "realmadhuguru": {
+      "en": "Most product review meetings are annoying because they’re poorly run.\n\nThe best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas. \n\nThat only works if the people in the room deeply understand the space, have great product sense, strong opinions, and are often right.\n\nToo many product reviews have drifted toward status updates, leadership visibility, and cross-functional alignment.\n\nWhen that happens, people naturally resent them because it feels more like overhead and less like learning.",
+      "zh": "大多数产品评审会议都很烦人，因为它们运行得不好。\n\n最好的产品评论通过模拟市场对您的想法的反应，将数月的学习时间压缩为一个小时。 \n\n只有当房间里的人深入了解这个空间、具有良好的产品意识、强烈的意见并且通常是正确的时，这才有效。\n\n太多的产品评论已经转向状态更新、领导力可见性和跨职能协调。\n\n当这种情况发生时，人们自然会怨恨他们，因为这感觉更像是开销，而不是学习。"
+    },
+    "amasad": {
+      "en": "We’re entering a new era of exploration.\n\nOur ancestors mapped the Earth. Then they explored space.\n\nOur generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search.",
+      "zh": "我们正在进入一个新的探索时代。\n\n我们的祖先绘制了地球地图。然后他们探索了太空。\n\n我们这一代人可能会探索计算宇宙：人工智能代理可以搜索的算法、程序、证明和设计的广阔空间。"
+    },
+    "rauchg": {
+      "en": "In our latest  benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.\n\nIt's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.\n\nSol remains the frontier, ahead of Opus 5.",
+      "zh": "在我们最新的基准测试中，Grok 4.5 已成为性价比最佳的网络安全人工智能模型。\n\n它比 Sol 便宜 10 倍，比 Opus 5 便宜 5.7 倍，比 Kimi K3 便宜 2.2 倍，但性能却与 Kimi 相当。\n\nSol 仍然处于领先地位，领先于 Opus 5。"
+    },
+    "levie": {
+      "en": "The k3 weights have arrived",
+      "zh": "k3 配重已经到了"
+    },
+    "mattturck": {
+      "en": "New study shows that less than 40% of VCs have any successful investment\n\nEvery VC: “I’m so glad I’m in the 40%!”",
+      "zh": "新研究表明，只有不到 40% 的风险投资公司有过成功的投资\n\n每个 VC 都会说：“我很高兴我能跻身 40%！”"
+    },
+    "nikunj": {
+      "en": "TIL Micro, the company that makes those kids scooters you see everywhere , also makes a fully electric car that opens from the front.. \n\nIt’s so freaking cute!",
+      "zh": "TIL Micro 是一家生产随处可见的儿童滑板车的公司，也生产一款从前面打开的全电动汽车。 \n\n实在是太可爱了！"
+    },
+    "steipete": {
+      "en": "We do all the amazing security work with some of the best teams in the world and people still think we're unsafe. 🙃",
+      "zh": "我们与世界上一些最好的团队一起完成了所有令人惊叹的安全工作，但人们仍然认为我们不安全。 🙃"
+    },
+    "danshipper": {
+      "en": "if true, this sucks and shouldn't continue with rare books",
+      "zh": "如果属实，这很糟糕，不应该继续用于善本"
+    },
+    "sama": {
+      "en": "wrong",
+      "zh": "错误的"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:07\nYou are the cofounder and CEO of Granolah. One of the first new AI apps where people were like, holy shit. This actually works.\n\nSpeaker 2 | 00:07 - 00:24\nMeeting notes are not the end all, be all value that everyone's running after. There's something much bigger. I think we are in the very, very early steps of a computing revolution. What has come thus far will pale in comparison to what will come soon. Startups are like knife fights.\n\nSpeaker 2 | 00:24 - 00:29\nAnd I t...",
+      "zh": "演讲者 1 | 00:00 - 00:07\n您是 Granolah 的联合创始人兼首席执行官。这是第一批新的人工智能应用程序之一，人们的反应是，天哪。这确实有效。\n\n扬声器 2 | 00:07 - 00:24\n会议记录并不是最终的一切，而是每个人都在追求的价值。还有更大的事情。我认为我们正处于计算革命的非常非常早期的阶段。与即将发生的事情相比，迄今为止所发生的事情将显得黯然失色。初创公司就像刀战。\n\n扬声器 2 | 00:24 - 00:29\n而且它",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
