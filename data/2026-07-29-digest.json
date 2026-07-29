@@ -1,0 +1,41 @@
+{
+  "x": {
+    "swyx": {
+      "en": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &gt; 10 years experience managing 10-100 people",
+      "zh": "回复：现在正在招聘\n\n对于 AI 原生 IC/球员教练来说这是一个巨大的牛市\n对于“X头”经理人来说，这是一个巨大的熊市\n\n从未见过如此激烈的分歧。过于简单化： 1 年管理 10 名代理的经验 > 10 年管理 10-100 人的经验"
+    },
+    "thsottiaux": {
+      "en": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.\n\nOver the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans.\n\nWe’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating.\n\nHere’s what we found:\n- GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended.\n- Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5.\n- Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected.\n- This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient.\n- The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage.\n\nSol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it.\n\nYou keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go.",
+      "zh": "索尔的人们大家好！我已重置所有 ChatGPT Work 和 Codex 用户的使用限制。除此之外，还有 GPT-5.6 Sol 使用限制的快速更新。\n\n在过去的几周里，你们中的许多人告诉我们，Sol 使用你们的 Codex 限制的速度比预期的要快。需要明确的是，我们没有减少任何订阅计划的使用量。\n\n我们一直在深入研究发生的事情并做出了一些改进。因此，我们预计在 Sol 的典型使用过程中，您的使用时间将延长约 18%。从今天开始，你们中的一些人应该已经看到了显着的更大改进。明天，我们还将恢复调查期间暂时暂停的五个小时限制。\n\n这是我们发现的：\n- GPT-5.6 Sol 更愿意工作更长时间，进行额外的工具调用，并跨工具和子代理协调复杂的工作流程。这使得它能够更好地解决难题，但有些任务的使用量远远超出了我们的预期。\n- Sol 在同样的推理工作上也比以前的模型更加努力。 High 在 Sol 上可以使用比 High 在 GPT-5.5 上使用更多的代币。\n- 编程工具调用，也称为代码模式，为 Sol 提供了更大的灵活性，可以并行运行工具调用或在等待时继续工作。但它也导致了每回合更多的响应、更多的缓存输入令牌以及比预期更高的使用率。\n- 当 Sol 等待工具调用完成或运行许多网络搜索时，这一点尤其明显。我们改进了处理这两种情况的方式，并继续提高代码模式的效率。\n- 影响也很不均匀。中位用户实际上发现 Sol 的代币效率相当高，而一些从事更艰巨任务的高级用户发现他们的使用量消耗得更快。在发布之前，我们非常关注平均和中值使用情况，错过了一些长尾可以使用更多使用情况的情况。\n\nSol 是 Codex 功能上向前迈出的重要一步，但能力和效率并不总是以同样的速度提高，并且只有当人们在现实世界规模使用该模型时，一些问题才会变得清晰。我们应该更早地认识到这一点并且更坦率地对待它。\n\n您不断突破前沿，我们将不断提高效率并分享最新动态。"
+    },
+    "petergyang": {
+      "en": "I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games.\n\nSo I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile.\n\nYou can use it to:\n\n→ Rate and review your favorites\n→ Create and share lists\n→ Discover what to watch or play next\n\nBecause of API limits, I’m launching this as a limited release for the first 100 profiles only.\n\n📌 Claim your free profile now:",
+      "zh": "我厌倦了使用 IMDb 来评价电影和电视节目，而且 Letterboxd 不支持视频游戏。\n\n因此，我构建了 Tastemaker，让任何人都能在一个精美的配置文件中策划自己喜欢的电影、电视节目和游戏。\n\n您可以用它来：\n\n→ 评价并评论您的最爱\n→ 创建和共享列表\n→ 探索接下来看什么或玩什么\n\n由于 API 限制，我将其作为仅限前 100 个配置文件的有限版本发布。\n\n📌 立即索取您的免费个人资料："
+    },
+    "realmadhuguru": {
+      "en": "I saw a SWE at work today. No Claude. No wispr. No tab key.\n\nJust writing code. With his bare hands.",
+      "zh": "我今天看到一个 SWE 在工作。没有克劳德。没有一丝丝。没有 Tab 键。\n\n只是写代码。用他的双手。"
+    },
+    "amasad": {
+      "en": "Who’s writing an open letter against destroying rare books?",
+      "zh": "谁在写一封反对销毁善本的公开信？"
+    },
+    "garrytan": {
+      "en": "It's OK to joke, but when it comes to your life, your intention, and your weltanschauung, be earnest as fuck",
+      "zh": "开玩笑是可以的，但是当涉及到你的生活、你的意图和你的世界观时，他妈的要认真起来"
+    },
+    "steipete": {
+      "en": "Serving large models is hard.",
+      "zh": "为大型模型提供服务很困难。"
+    },
+    "danshipper": {
+      "en": "i spent the morning writing the definitive history of codex on my couch \n\nit comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb \n\nmy hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work’s voice mode \n\nabsolutely goated for creative work. \n\nwhole piece will be published on @every in a few weeks",
+      "zh": "我花了一上午的时间在沙发上写下法典的权威历史 \n\n它来自对团队（包括 @thsottiaux、@ajambrosino 和 @gdb）进行数小时的深入采访 \n\n我的手一次都没有碰过键盘或鼠标……我完成了所有的事情，包括组织采访、制定时间表、通过 ChatGPT for Work 的语音模式进行写作、编辑和修改 \n\n绝对适合创造性工作。 \n\n整篇文章将在几周内发布在 @every 上"
+    },
+    "adityaag": {
+      "en": "A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight:\n\n1/ I want to build new things in the world\n2/ I want to work with brilliant and intense people\n\nOn days such as this both feel abundant.",
+      "zh": "十年前……当我经历自己的负一之旅并迷失在不确定性的迷雾中时，我得到了两条深刻的个人见解：\n\n1/我想在世界上创造新事物\n2/ 我想与才华横溢、热情的人一起工作\n\n在这样的日子里，两人都感觉很充实。"
+    }
+  },
+  "podcasts": {}
+}
