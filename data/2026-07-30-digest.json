@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "today i tried to sign up for @docusign and was presented a captcha that i could not solve\n\nthis is an $11B company that everyone hates\n\npeople who say \"make something people want\" dont have the full picture",
+      "zh": "今天我尝试注册 @docusign 并收到了一个我无法解决的验证码\n\n这是一家人人都讨厌的 11B 美元公司\n\n那些说“做人们想要的东西”的人并没有全面了解"
+    },
+    "thsottiaux": {
+      "en": "Turns out GPT-5.6 Sol is actually SoTA on ARC-AGI-3. \n\nJust took two setting changes. You just have to allow it to reason and work over multiple context windows with the help of our canonical compaction implementation.",
+      "zh": "事实证明，GPT-5.6 Sol 实际上是 ARC-AGI-3 上的 SoTA。 \n\n只需更改两次设置即可。您只需在我们规范压缩实现的帮助下允许它在多个上下文窗口上进行推理和工作。"
+    },
+    "petergyang": {
+      "en": "We’ve gone from AI defaulting to designs that look like purple slop to those that have that recognizable Claude look.\n\nTo avoid this, I always create a design md file with guidelines for color, typography, and more.\nHere are a few places to find inspiration for your design md:\n\n1. Go to @mobbin and install its MCP to find design patterns and app screens you like. Paste the screens and ask AI to make a design md.\n\n2. Check out designmd sh, which has a library of design md files for popular websites and apps.\n\n📌 I walk through an example of creating a design md in my new tutorial:",
+      "zh": "我们已经从人工智能默认的设计看起来像紫色的斜坡变成了那些具有可识别的克劳德外观的设计。\n\n为了避免这种情况，我总是创建一个设计 md 文件，其中包含颜色、排版等指南。\n这里有一些地方可以为您的设计寻找灵感：\n\n1. 转到@mobbin并安装其MCP以查找您喜欢的设计模式和应用程序屏幕。粘贴屏幕并要求 AI 制作设计 MD。\n\n2. 查看 designmd sh，它有一个流行网站和应用程序的设计 md 文件库。\n\n📌 我在新教程中介绍了创建设计 md 的示例："
+    },
+    "thenanyu": {
+      "en": "Love this POV -- what products do you use which would absolutely suck to switch to an alternative, besides apple products?\n\nWhen I think about it, a couple of mundane examples come to mind. 3M post-it notes, and Expo whiteboard markers are unmatched. The alternatives are garbage",
+      "zh": "喜欢这个 POV——除了苹果产品之外，你还使用哪些产品，如果改用其他产品绝对会很糟糕？\n\n当我思考这个问题时，我的脑海中浮现出几个平凡的例子。 3M 便利贴和 Expo 白板笔是无与伦比的。替代品都是垃圾"
+    },
+    "realmadhuguru": {
+      "en": "7 months on, this continues to be true. Biggest alpha lies in understanding the model frontier.",
+      "zh": "7个月过去了，情况依然如此。最大的阿尔法在于理解模型前沿。"
+    },
+    "GoogleLabs": {
+      "en": "Expecting A Minor update? We prefer to B Major. 🎶\n\n@GoogleDeepMind just released Lyria 3.5, and we’ve plugged it directly into @GoogleFlowMusic to power your next session.\n\nWhat this means for your tracks:\n\n✨ Better prompt adherence: Flow Music understands your creative direction with much more accuracy. Set exact BPMs and export stems for full-length songs!\n\n🎤 Upgraded vocals: More expressive, dynamic, and rich singing.\n\n🎸 Richer musicality: Arrangements flow more naturally from note to note.\n\nHear it for yourself and start creating at  👇",
+      "zh": "期待小更新？我们更喜欢B大调。 🎶\n\n@GoogleDeepMind 刚刚发布了 Lyria 3.5，我们已将其直接插入 @GoogleFlowMusic 来为您的下一个会话提供支持。\n\n这对您的曲目意味着什么：\n\n✨ 更好的及时坚持：Flow Music 更准确地了解您的创作方向。设置精确的 BPM 并导出完整歌曲的主干！\n\n🎤 人声升级：歌声更具表现力、动感、丰富。\n\n🎸 更丰富的音乐性：编曲从一个音符到另一个音符更加自然。\n\n亲自聆听并开始创作：👇"
+    },
+    "amasad": {
+      "en": "This is hands down the best AI design tool, both in taste and how fun and easy it is to use.\n\nTry it out!",
+      "zh": "这无疑是最好的人工智能设计工具，无论是味道还是使用起来的乐趣和简单性。\n\n尝试一下！"
+    },
+    "levie": {
+      "en": "The openai agent sandbox escape actually has very real implications for the diffusion of AI in the enterprise. The incident showed the power and capability of agents, and the need to harden systems and environments to prepare for agents.\n\nThere are tons of measures that enterprises must take to ensure that agents are only able to operate on the data they give it, the ability to have audit trails and governance of what agents can do, figure out what systems should remain deterministic vs. nondeterministic, get access controls under control, have the ability to quickly block and defend if an agent goes rogue, and much more.\n\nEven in the happy path case with a good actor, if you give an agent a task like \"find all of our most important IP on project Maven\" it will gladly go out and execute that work -no matter how long- and find any resource relevant to the task. It might run into data with out of date access controls or reveal something that you shouldn't know about. Then, in the non-happy path case with a malicious actor the risk is clearly far worse.\n\nIn theory, you had to worry about this for people as well, but with AI the risks are inherently amplified. Agents will happily spend any amount of time on a task, don’t actually face any *real* risks by going rogue, and don’t have the inherent judgment (yet) that a person does that a task might make no sense. This means you need an all new way of managing data and protecting environments.\n\nThis obviously creates a huge opportunity for the startup and security ecosystems because there will be many different approaches to how we lock down agents or at least the underlying systems they work with. It should update everyone’s timelines on diffusion, though, as it also means that enterprises will have another step of work they have to go through for agents to handle more autonomous work.",
+      "zh": "openai 代理沙箱逃逸实际上对人工智能在企业中的传播具有非常现实的影响。该事件显示了特工的力量和能力，以及强化系统和环境为特工做好准备的必要性。\n\n企业必须采取大量措施来确保代理只能对他们提供的数据进行操作，能够对代理可以执行的操作进行审计跟踪和治理，确定哪些系统应该保持确定性与非确定性，控制访问控制，能够在代理失控时快速阻止和防御等等。\n\n即使在一个好的演员的幸福路径案例中，如果你给一个代理一个任务，比如“在 Maven 项目上找到我们所有最重要的 IP”，它会很乐意出去执行这项工作——无论多长时间——并找到与该任务相关的任何资源。它可能会遇到访问控制过时的数据，或者泄露一些您不应该知道的信息。然后，在恶意行为者的非快乐路径案例中，风险显然要严重得多。\n\n从理论上讲，人们也必须担心这个问题，但对于人工智能来说，风险本质上会被放大。特工们会很乐意在一项任务上花费任何时间，实际上不会因为失控而面临任何“真正”的风险，并且（还）没有固有的判断力，认为一个人所做的任务可能没有意义。这意味着您需要一种全新的方式来管理数据和保护环境。\n\n这显然为初创企业和安全生态系统创造了巨大的机会，因为我们将有许多不同的方法来锁定代理或至少锁定他们使用的底层系统。不过，它应该更新每个人的扩散时间表，因为这也意味着企业还需要完成另一步工作，让代理能够处理更多自主工作。"
+    },
+    "ryolu_": {
+      "en": "your agents, anywhere\n\ntry Cursor on iOS today",
+      "zh": "您的代理人，无论身在何处\n\n今天在 iOS 上尝试 Cursor"
+    },
+    "garrytan": {
+      "en": "Seasoned founders in the age of intelligence are aging like fine wine",
+      "zh": "智慧时代经验丰富的创始人如美酒般陈年"
+    },
+    "nikunj": {
+      "en": "First kid teaches you unconditional love. \n\nSecond kid teaches you unbridled joy. \n\nAs AGI (digital & physical) comes close, having close family and friends is going to be the most important (only?) human connection we have. So if you are on the fence, let this be a vote in the yes direction!\n\nDon’t get me wrong having kids is really hard and one of life’s only irreversible choices - the highs are really high and the lows well sometimes can be very low (mostly temporary though). \n\nBut oh my, it’s such a privilege to have these two and I honestly wouldn’t trade it for anything else!",
+      "zh": "第一个孩子教你无条件的爱。 \n\n第二个孩子教你无拘无束的快乐。 \n\n随着 AGI（数字和物理）的日益接近，拥有亲密的家人和朋友将成为我们拥有的最重要（唯一？）的人际关系。因此，如果您持观望态度，请投赞成票！\n\n不要误会我的意思，生孩子真的很困难，也是生活中唯一不可逆转的选择之一——高潮确实很高，而低谷有时可能非常低（尽管大多是暂时的）。 \n\n但是天哪，拥有这两个人真是太荣幸了，老实说我不会用它来换取其他任何东西！"
+    },
+    "steipete": {
+      "en": "lol did nobody at Anthropic stop for a second and wonder why the numbers looked this absurd before posting the “victory”-tweet?",
+      "zh": "哈哈，在发布“胜利”推文之前，Anthropic 没有人停下来想知道为什么这些数字看起来如此荒谬？"
+    },
+    "danshipper": {
+      "en": "Almost every single person @every is freaking out about how good voice mode in ChatGPT for Work is\n\nHave not seen vibes this high in a while. If you haven’t tried it yet, you should",
+      "zh": "几乎每个人@every 都对 ChatGPT for Work 中的语音模式有多好感到震惊\n\n好久没有看到这么高的共鸣了。如果您还没有尝试过，您应该尝试一下"
+    },
+    "adityaag": {
+      "en": "Imagine if you were LeBron at 19 years old but believed you only had 2 years to maximize earnings before basketball was played by robots.\n\nThis is what AI researchers are going through and explains all the goddamn drama.\n\nThey are MVPs with 18 months on the shot clock.",
+      "zh": "想象一下，如果你是 19 岁的勒布朗，但相信在机器人打篮球之前你只有两年的时间来最大化收入。\n\n这就是人工智能研究人员正在经历的事情，并解释了所有该死的戏剧性事件。\n\n他们是 MVP，还有 18 个月的投篮时间。"
+    },
+    "sama": {
+      "en": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits.",
+      "zh": "对此感到非常兴奋。\n\n非常接近将显着加速科学发现的模型；做到这一点的最好方法是我们赋予科学家权力，而不是试图自己弄清楚一切。\n\n我们都应该得到好处。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:28\nWhat I've learned with the future is that it's easy to make predictions and hard to make predictions that are true. Gerard Lanier showed me VR in '87. I was completely blown away and I thought, oh my gosh, this is the future. The VR that we had back then is not that much different than the VR you get now. The difference was that was multimillion dollars and it's a $100.\n\nSpeaker 1 | 00:28 - 00:36\nI've been very, very surprised about how slow that has been. You could say...",
+      "zh": "演讲者 1 | 00:00 - 00:28\n我对未来的认识是，做出预测很容易，但做出正确的预测却很难。 Gerard Lanier 在 87 年向我展示了 VR。我完全被震撼了，我想，天哪，这就是未来。我们当时的 VR 和现在的 VR 没有太大区别。区别在于，这是数百万美元，而这是 100 美元。\n\n演讲者 1 | 00:28 - 00:36\n我对进展如此缓慢感到非常非常惊讶。你可以说",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
