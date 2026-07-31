@@ -1,0 +1,499 @@
+{
+  "generatedAt": "2026-07-31T16:01:47.943Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2083073422410821846",
+          "text": "protip:  if you can distil models, you can also distil agent harnesses",
+          "createdAt": "2026-07-31T06:13:00.000Z",
+          "url": "https://x.com/swyx/status/2083073422410821846",
+          "likes": 20,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2083064467383013569",
+          "text": "you know if we all just gave all this money to the\n@waybackmachine\nthey would be funded for all time and we'd reduce a lot of duplicate work and bot traffic lol",
+          "createdAt": "2026-07-31T05:37:25.000Z",
+          "url": "https://x.com/swyx/status/2083064467383013569",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2083016652032188669",
+          "text": "verbalizing one of those aha moments i had that seems retroactively pretty obvious:\n\nif you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you can then also reuse for the agent side inference.\n\nwe do know that the labs do use third party search providers, but clearly this is one of those things where developing more and more of your own 1P equivalents is both a competitive advantage and an adversarial target for AEO Batesian Mimicry* that you will not want to share.\n\n* https://t.co/Wa5fMP8bvO",
+          "createdAt": "2026-07-31T02:27:25.000Z",
+          "url": "https://x.com/swyx/status/2083016652032188669",
+          "likes": 80,
+          "retweets": 5,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2082835952939200939"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2082926031543967896",
+          "text": "My new favorite:\n\nGemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor\n\nZero editing or copy-pasting required\n\nGet it for free: https://t.co/Gr3KIsVhrc https://t.co/rXLLysJME5",
+          "createdAt": "2026-07-30T20:27:19.000Z",
+          "url": "https://x.com/joshwoodward/status/2082926031543967896",
+          "likes": 381,
+          "retweets": 36,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2083053369351090254",
+          "text": "The day we develop really good models. There will be signs.\n\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.\n\nThese kinds of things.",
+          "createdAt": "2026-07-31T04:53:19.000Z",
+          "url": "https://x.com/thsottiaux/status/2083053369351090254",
+          "likes": 4312,
+          "retweets": 164,
+          "replies": 851,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2083048892405604681",
+          "text": "What should we improve on Codex to improve the everyday experience? Nothing too small",
+          "createdAt": "2026-07-31T04:35:31.000Z",
+          "url": "https://x.com/thsottiaux/status/2083048892405604681",
+          "likes": 2537,
+          "retweets": 54,
+          "replies": 3694,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082981910209540352",
+          "text": "Benefits all https://t.co/kjU4uju1bY",
+          "createdAt": "2026-07-31T00:09:21.000Z",
+          "url": "https://x.com/thsottiaux/status/2082981910209540352",
+          "likes": 974,
+          "retweets": 23,
+          "replies": 410,
+          "isQuote": true,
+          "quotedTweetId": "2082855170296205719"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2082975074534219919",
+          "text": "If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+          "createdAt": "2026-07-30T23:42:12.000Z",
+          "url": "https://x.com/petergyang/status/2082975074534219919",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082939418315198522",
+          "text": "BC is beautiful https://t.co/xoNC9G40jr",
+          "createdAt": "2026-07-30T21:20:31.000Z",
+          "url": "https://x.com/petergyang/status/2082939418315198522",
+          "likes": 49,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082881415478415682",
+          "text": "Getting some great feedback on my latest tutorial on how to use Claude to design and build a full-stack app end to end.\n\n📌 Watch it here: https://t.co/u6roGLgYu5 https://t.co/hCNn6QOlt4 https://t.co/Dl9Iu4fqne",
+          "createdAt": "2026-07-30T17:30:02.000Z",
+          "url": "https://x.com/petergyang/status/2082881415478415682",
+          "likes": 57,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2082473770741272747"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2083034412598579403",
+          "text": "Sandboxes are hard.\n\nWith all the “AI escaping  sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes.\n\nAt Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two. \n\nMain advice: Assume zero-days exist — because they do — and think in layers of protection in a zero-trust framework.\n\nMore here: https://t.co/3XGY0a1p3P",
+          "createdAt": "2026-07-31T03:37:59.000Z",
+          "url": "https://x.com/amasad/status/2083034412598579403",
+          "likes": 214,
+          "retweets": 18,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082980019316642103",
+          "text": "Replit Design from brochures! https://t.co/IdVyIgo475",
+          "createdAt": "2026-07-31T00:01:51.000Z",
+          "url": "https://x.com/amasad/status/2082980019316642103",
+          "likes": 140,
+          "retweets": 6,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2082657965115376027"
+        },
+        {
+          "id": "2082856252888211851",
+          "text": "If Situational Awareness was blindsided, the AI naming curse strikes again. https://t.co/TJEYdhmbv0",
+          "createdAt": "2026-07-30T15:50:02.000Z",
+          "url": "https://x.com/amasad/status/2082856252888211851",
+          "likes": 623,
+          "retweets": 17,
+          "replies": 33,
+          "isQuote": true,
+          "quotedTweetId": "2082849965102219677"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2083008981770047782",
+          "text": "Cool https://t.co/vFCh9wN1qV",
+          "createdAt": "2026-07-31T01:56:56.000Z",
+          "url": "https://x.com/rauchg/status/2083008981770047782",
+          "likes": 153,
+          "retweets": 4,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2083007144111325353"
+        },
+        {
+          "id": "2082876367629381719",
+          "text": "We just shaved off up to ~𝟽𝚜 of the end-to-end CLI → Live URL deploy process for many apps.\n\nThis is specially cool when you consider you can integrate all of Vercel's infra via CLI/MCP/API and build your own custom software factory on top.\n\nMy DMs are open if you're building an agent or platform that builds and deploys software autonomously.",
+          "createdAt": "2026-07-30T17:09:58.000Z",
+          "url": "https://x.com/rauchg/status/2082876367629381719",
+          "likes": 220,
+          "retweets": 13,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2082872206904943031"
+        },
+        {
+          "id": "2082841035093467229",
+          "text": "Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure.\n\nAnyone can now build software by just prompting @grok. Hit 🌐 Publish and ship to 1 user or 1 billion. Games, websites, internal apps, personal software… just @grok it. https://t.co/09mvSHqJWv",
+          "createdAt": "2026-07-30T14:49:34.000Z",
+          "url": "https://x.com/rauchg/status/2082841035093467229",
+          "likes": 1015,
+          "retweets": 66,
+          "replies": 66,
+          "isQuote": true,
+          "quotedTweetId": "2082140254237241588"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2082997703458570412",
+          "text": "The takeaway from this incident should not be that AI is scary. It should be that getting security right is incredibly important in the era of agents. \n\nGiven the right tools and task, agents will do whatever it takes to get the job done, assuming enough compute. Thus, a misconfigured system - or something you thought was locked down but wasn’t - will become a risk vector. \n\nThe core implications are less about the trust and safety of AI itself, but instead the work it’s going to take from enterprises to make sure they harden their environments. Lots of real work ahead for most organizations on this front.",
+          "createdAt": "2026-07-31T01:12:07.000Z",
+          "url": "https://x.com/levie/status/2082997703458570412",
+          "likes": 170,
+          "retweets": 20,
+          "replies": 50,
+          "isQuote": true,
+          "quotedTweetId": "2082965101083320543"
+        },
+        {
+          "id": "2082911418349920617",
+          "text": "The cost of AI - normalized for the type of task - coming down is one of the most important factors in being able to drive further AI diffusion in the economy.\n\nThe general trend we should expect is that frontier AI models will continue to become more capable, and will look very expensive because the tasks that they can take on are more advanced. \n\nThen, shortly after, AI models will get more efficient or competition will drive more aggressive pricing dynamics, thus reducing the cost per task for anything other than the peak of the frontier.\n\nThis cycle will continue over and over again, which ultimately leads to tasks becoming cheaper on a like for like basis. And by doing so you will get even more AI adoption because now AI is more affordable for a wider variety of use-cases.",
+          "createdAt": "2026-07-30T19:29:15.000Z",
+          "url": "https://x.com/levie/status/2082911418349920617",
+          "likes": 147,
+          "retweets": 17,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2082880720989532597"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2082951867336962538",
+          "text": "Hit 1M followers\n\nThanks everyone \n\nDon’t LARP https://t.co/y5S2mfXCkO",
+          "createdAt": "2026-07-30T22:09:59.000Z",
+          "url": "https://x.com/garrytan/status/2082951867336962538",
+          "likes": 1984,
+          "retweets": 48,
+          "replies": 242,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082843026716766356",
+          "text": "We're going to host Evan Barker at an upcoming @garryslist event in San Francisco\n\nIn SF, we were able to vote out the DSA\n\nWe must pass this markdown skill file on to every other blue city https://t.co/AodfrHRiYN",
+          "createdAt": "2026-07-30T14:57:29.000Z",
+          "url": "https://x.com/garrytan/status/2082843026716766356",
+          "likes": 124,
+          "retweets": 11,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2082818717809783249"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2082907703735730609",
+          "text": "This conversation with Sanjit Biswas of @Samsara about physical AI is also available on Spotify, Apple Podcasts and here on YouTube: \n\nhttps://t.co/TbpjTjpzBe",
+          "createdAt": "2026-07-30T19:14:29.000Z",
+          "url": "https://x.com/mattturck/status/2082907703735730609",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082907699646173484",
+          "text": "The biggest physical AI deployment nobody talks about: my conversation with Sanjit Biswas, CEO of @Samsara (NYSE: $IOT) about AI that sees 99% of US roads every day, and agents that act in the real world.\n\n00:00: Intro\n01:16 What is physical AI?\n03:04 From IoT dashboards to agentic action\n04:36 Why physical AI is harder than software AI\n06:07 Safety, cybersecurity, and real-world consequences\n07:11 What Samsara does\n08:22 $2B ARR, 25 trillion data points and 380k crashes\n09:44 How AI can prevent road accidents\n11:28 From an MIT research project to Meraki\n13:42 Learning physical operations from scratch\n15:42 Samsara’s stack: sensors, intelligence, and action\n16:39 Inside Samsara’s industrial asset trackers\n18:36 Bluetooth, battery life, and connected infrastructure\n19:49 A disposable tracking device built like a sticker\n21:08 Vehicle gateways and engine diagnostics\n22:16 How AI dash cams coach drivers in real time\n23:28 Turning the dash cam into an AI interface\n24:49 Organizing physical-world data in the cloud\n26:32 Selling AI to traditional industries\n27:52 Is Samsara’s real-world data its AI moat?\n29:22 The network effects of covering 99% of U.S. roads\n31:23 Edge AI versus cloud AI\n32:35 The models running inside Samsara’s devices\n33:52 Generative AI and video reasoning\n35:57 Which AI models does Samsara use?\n36:50 Inside Samsara Agent Studio\n37:56 How an AI warranty agent works\n38:50 Starting with practical, lower-risk automation\n40:10 Combining agents, workflows, rules, and guardrails\n42:07 What today’s AI agents still cannot do\n43:07 AI ride-alongs and the future of driver coaching\n45:17 Is workplace AI becoming Big Brother?\n46:27 How cameras can protect and exonerate drivers\n48:48 When AI becomes the judge of your work\n50:37 Robots, humanoids, and mixed human-machine fleets\n53:19 Samsara’s role in autonomous operations\n54:50 How quickly will autonomous trucking arrive\n56:32 AI data centers and America’s infrastructure boom\n58:16 Should lawyers become plumbers? Demand for tradespeople",
+          "createdAt": "2026-07-30T19:14:28.000Z",
+          "url": "https://x.com/mattturck/status/2082907699646173484",
+          "likes": 7,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082737900706234429",
+          "text": "How I expect her to react when I say I managed to secure a $2M allocation in the highest valuation tranche of the $800M pre-pre-seed of [new neo-lab] at a $10B valuation  https://t.co/0yBQfDrdK7",
+          "createdAt": "2026-07-30T07:59:45.000Z",
+          "url": "https://x.com/mattturck/status/2082737900706234429",
+          "likes": 37,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2082780247125103071",
+          "text": "It was fun touching grass for two weeks, but now back to work 🫡 \n\nIn NJ the next two days to hang with @DaltonMillsAI, and NY from August 1st - 5th. \n\nIf you are truly building your life’s work (don’t need to be a founder), I’d love to hang out!",
+          "createdAt": "2026-07-30T10:48:01.000Z",
+          "url": "https://x.com/nikunj/status/2082780247125103071",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2083019629379612728",
+          "text": "GCC changed their policy and is blank out rejecting LLM-based code. How would they even proof that? Silly. https://t.co/6KVn3UyFwR",
+          "createdAt": "2026-07-31T02:39:14.000Z",
+          "url": "https://x.com/steipete/status/2083019629379612728",
+          "likes": 184,
+          "retweets": 9,
+          "replies": 43,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2082997561955090564",
+          "text": "So call me crazy but I  feel like we could solve this by just not prompting the models to do cyber crime https://t.co/2NbADDBfli",
+          "createdAt": "2026-07-31T01:11:33.000Z",
+          "url": "https://x.com/danshipper/status/2082997561955090564",
+          "likes": 95,
+          "retweets": 0,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2082968370182303775"
+        },
+        {
+          "id": "2082864391519682993",
+          "text": "Elons law strikes again! https://t.co/V9EpSUgRfl",
+          "createdAt": "2026-07-30T16:22:23.000Z",
+          "url": "https://x.com/danshipper/status/2082864391519682993",
+          "likes": 51,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082862319265050962",
+          "text": "be careful of leverage folks! https://t.co/5olQh36ese",
+          "createdAt": "2026-07-30T16:14:09.000Z",
+          "url": "https://x.com/danshipper/status/2082862319265050962",
+          "likes": 45,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2082840577230459018"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2083039973666644039",
+          "text": "Leopold could really have used Preseen's risk forecasting!\n\n@AskPreseen has been in private beta for the last few weeks and a number of the world's leading quant/hedge funds are using it to prevent getting blown up.",
+          "createdAt": "2026-07-31T04:00:05.000Z",
+          "url": "https://x.com/adityaag/status/2083039973666644039",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2083039683932532956",
+          "text": "Anthropic got jelly that only OpenAI's agent was doing bad shit.",
+          "createdAt": "2026-07-31T03:58:56.000Z",
+          "url": "https://x.com/adityaag/status/2083039683932532956",
+          "likes": 20,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082992228214149470",
+          "text": "@VminVsky @AskPreseen More on the future of forecasting:\nhttps://t.co/lVelXtOcNf",
+          "createdAt": "2026-07-31T00:50:21.000Z",
+          "url": "https://x.com/adityaag/status/2082992228214149470",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2082881262679642281",
+          "text": "good job little bro https://t.co/wZnUUUxqbW",
+          "createdAt": "2026-07-30T17:29:25.000Z",
+          "url": "https://x.com/sama/status/2082881262679642281",
+          "likes": 5996,
+          "retweets": 199,
+          "replies": 446,
+          "isQuote": true,
+          "quotedTweetId": "2082577277246972300"
+        },
+        {
+          "id": "2082880884525482061",
+          "text": "we want to offer the best price/intelligence tradeoff at every level",
+          "createdAt": "2026-07-30T17:27:55.000Z",
+          "url": "https://x.com/sama/status/2082880884525482061",
+          "likes": 2009,
+          "retweets": 27,
+          "replies": 112,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082880720989532597",
+          "text": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence https://t.co/erC6u4VoDR",
+          "createdAt": "2026-07-30T17:27:16.000Z",
+          "url": "https://x.com/sama/status/2082880720989532597",
+          "likes": 15829,
+          "retweets": 982,
+          "replies": 1087,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas",
+      "url": "https://www.youtube.com/watch?v=3FHsGiONOGw",
+      "publishedAt": "2026-07-30T11:30:00.000Z"
+    }
+  ]
+}

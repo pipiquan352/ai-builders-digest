@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "verbalizing one of those aha moments i had that seems retroactively pretty obvious:\n\nif you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you can then also reuse for the agent side inference.\n\nwe do know that the labs do use third party search providers, but clearly this is one of those things where developing more and more of your own 1P equivalents is both a competitive advantage and an adversarial target for AEO Batesian Mimicry* that you will not want to share.\n\n*",
+      "zh": "用语言描述我所经历的那些恍然大悟的时刻之一，回想起来似乎非常明显：\n\n如果你优先考虑预训练数据质量，而 commoncrawl 对你来说不够好，那么无论如何你都必须构建一个全网抓取工具，如果你想保持它最新，你必须有索引，很快你就会发现自己已经构建了一个完全私有的 Google 低频克隆作为预训练的侧面项目，然后你也可以将其重新用于代理端推理。\n\n我们确实知道实验室确实使用第三方搜索提供商，但显然，开发越来越多的您自己的 1P 等效项既是一种竞争优势，也是您不想分享的 AEO Batesian Mimicry* 的敌对目标。\n\n*"
+    },
+    "joshwoodward": {
+      "en": "My new favorite:\n\nGemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor\n\nZero editing or copy-pasting required\n\nGet it for free:",
+      "zh": "我的新最爱：\n\nGemini Mac 应用程序 ➔ 按住 Fn ➔ 说话 ➔ 直接在光标处显示干净、优美的文本\n\n需要零编辑或复制粘贴\n\n免费获取："
+    },
+    "thsottiaux": {
+      "en": "The day we develop really good models. There will be signs.\n\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.\n\nThese kinds of things.",
+      "zh": "我们开发出非常好的模型的那一天。会有迹象。\n\n尽管负载不断增加，可靠性却不断提高。效率突然提高。事情变得越来越快。重置。\n\n诸如此类的事情。"
+    },
+    "petergyang": {
+      "en": "Getting some great feedback on my latest tutorial on how to use Claude to design and build a full-stack app end to end.\n\n📌 Watch it here:",
+      "zh": "关于如何使用 Claude 端到端设计和构建全栈应用程序的最新教程获得了一些很好的反馈。\n\n📌 在这里观看："
+    },
+    "amasad": {
+      "en": "If Situational Awareness was blindsided, the AI naming curse strikes again.",
+      "zh": "如果态势感知出其不意，人工智能命名诅咒将再次袭来。"
+    },
+    "rauchg": {
+      "en": "Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure.\n\nAnyone can now build software by just prompting @grok. Hit 🌐 Publish and ship to 1 user or 1 billion. Games, websites, internal apps, personal software… just @grok it.",
+      "zh": "Grok Build 应用程序 (*.𝚐𝚛𝚘𝚔.𝚖𝚎) 由 @vercel 托管和 CDN 基础设施提供支持。\n\n现在任何人都可以通过提示@grok 来构建软件。点击 🌐 发布并发送给 1 位用户或 10 亿人。游戏、网站、内部应用程序、个人软件……只需 @grok it。"
+    },
+    "levie": {
+      "en": "The takeaway from this incident should not be that AI is scary. It should be that getting security right is incredibly important in the era of agents. \n\nGiven the right tools and task, agents will do whatever it takes to get the job done, assuming enough compute. Thus, a misconfigured system - or something you thought was locked down but wasn’t - will become a risk vector. \n\nThe core implications are less about the trust and safety of AI itself, but instead the work it’s going to take from enterprises to make sure they harden their environments. Lots of real work ahead for most organizations on this front.",
+      "zh": "从这一事件中得出的结论不应该是人工智能是可怕的。应该说，在特工时代，确保安全是非常重要的。 \n\n有了正确的工具和任务，代理将尽一切努力来完成工作，前提是有足够的计算能力。因此，配置错误的系统 - 或者您认为已锁定但并未锁定的系统 - 将成为风险向量。 \n\n其核心影响并不是人工智能本身的信任和安全，而是企业为确保强化环境而需要做的工作。大多数组织在这方面还有大量实际工作要做。"
+    },
+    "garrytan": {
+      "en": "Hit 1M followers\n\nThanks everyone \n\nDon’t LARP",
+      "zh": "粉丝数达到 100 万\n\n谢谢大家 \n\n不要拉普"
+    },
+    "mattturck": {
+      "en": "How I expect her to react when I say I managed to secure a $2M allocation in the highest valuation tranche of the $800M pre-pre-seed of [new neo-lab] at a $10B valuation",
+      "zh": "当我说我设法以 100 亿美元的估值在 [new neo-lab] 的 8 亿美元预种子期的最高估值部分中获得 200 万美元的分配时，我希望她有何反应"
+    },
+    "nikunj": {
+      "en": "It was fun touching grass for two weeks, but now back to work 🫡 \n\nIn NJ the next two days to hang with @DaltonMillsAI, and NY from August 1st - 5th. \n\nIf you are truly building your life’s work (don’t need to be a founder), I’d love to hang out!",
+      "zh": "两周的接触草地很有趣，但现在又回去工作了🫡 \n\n接下来的两天在新泽西州与@DaltonMillsAI 一起，在纽约州则从 8 月 1 日到 5 日。 \n\n如果你真正在打造你一生的事业（不需要成为创始人），我很乐意出去玩！"
+    },
+    "steipete": {
+      "en": "GCC changed their policy and is blank out rejecting LLM-based code. How would they even proof that? Silly.",
+      "zh": "GCC 改变了他们的政策，并且完全拒绝拒绝基于 LLM 的代码。他们如何证明这一点？愚蠢的。"
+    },
+    "danshipper": {
+      "en": "So call me crazy but I  feel like we could solve this by just not prompting the models to do cyber crime",
+      "zh": "所以你可以说我疯了，但我觉得我们可以通过不促使模型进行网络犯罪来解决这个问题"
+    },
+    "adityaag": {
+      "en": "Anthropic got jelly that only OpenAI's agent was doing bad shit.",
+      "zh": "Anthropic 很惊讶，只有 OpenAI 的代理在做坏事。"
+    },
+    "sama": {
+      "en": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
+      "zh": "今日大幅降价：\n\n*GPT-5.6 Luna 下降 80%，现在每百万输入代币 0.20 美元，每百万输出 1.20 美元\n*GPT-5.6 Terra 下降 20%，至 2 美元/12 美元\n*GPT-5.6 Sol 在 API 中获得快速模式，速度提高 2.5 倍，价格提高 2 倍，智能相同"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nThese are not the tokens you're gonna find online. Like, you can't crawl Reddit and find out about what happened on a construction site. The Samsara system, in a given day, we're driving 99% of The US roads, usually multiple times a day. I was just in the field last week with a large energy utility, and they shared with me a really interesting stat. They said over the last hundred twenty five years, we built a certain amount of grid capacity.\n\nSpeaker 1 | 00:21 - 00:31\n...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n这些不是您在网上找到的代币。比如，你无法爬行 Reddit 来了解建筑工地上发生的事情。 Samsara 系统，在某一天，我们在美国 99% 的道路上行驶，通常一天多次。上周我刚刚到一家大型能源公用事业公司现场，他们与我分享了一个非常有趣的统计数据。他们说，在过去的一百二十五年里，我们建立了一定数量的电网容量。\n\n演讲者 1 | 00:21 - 00:31",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
