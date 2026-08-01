@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "noticed that the perjorative connotation around \"vibe coding\" has completely disappeared since ~everyone, from nontechnical to supertechnical, is now doing it",
+      "zh": "注意到围绕“氛围编码”的贬义含义已经完全消失，因为〜每个人，从非技术人员到超级技术人员，现在都在这样做"
+    },
+    "thsottiaux": {
+      "en": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work.\n\nEnjoy.",
+      "zh": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。\n\n享受。"
+    },
+    "thenanyu": {
+      "en": "The most common loop written in Linear is some variant this one (Issue > Agent > PR > Release) \n\n~30% of our bugs make it all the way through this flow.\n\nBut there are some nuances to doing it -- The instructions should ask the agent to extensively research the root cause of the issue and to use Datadog and Sentry MCPs to gather more evidence.\n\nIt should only attempt to provide a fix if there's high certainty, otherwise you end up burning a lot of tokens.\n\nIf it thinks that more evidence would help it during its research, like asking the reporter to provide repro steps, etc, it should leave a comment on the issue requesting it.\n\nAgents need to be told to following good practices, just like people!",
+      "zh": "用 Linear 编写的最常见的循环是这个循环的一些变体（问题 > 代理 > PR > 发布） \n\n大约 30% 的 bug 一直通过这个流程。\n\n但这样做有一些细微差别——指令应要求代理广泛研究问题的根本原因，并使用 Datadog 和 Sentry MCP 收集更多证据。\n\n它应该只在确定性很高的情况下尝试提供修复，否则你最终会燃烧大量代币。\n\n如果它认为更多的证据在研究过程中会有帮助，比如要求记者提供重现步骤等，它应该对请求的问题发表评论。\n\n需要告诉代理商要遵循良好的做法，就像人一样！"
+    },
+    "amasad": {
+      "en": "~1500 Elo!\n\nConsistently beats frontier models and Stockfish level 0.\n\nFun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds.\n\nPlay it:",
+      "zh": "~1500 Elo！\n\n始终优于前沿模型和 Stockfish 0 级。\n\n看到 8b 模型使用高推理和响应链来操控 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。\n\n玩一下："
+    },
+    "rauchg": {
+      "en": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.",
+      "zh": "随着软件项目过渡到代理软件工厂，这将成为常态。\n\n问题 → 代理 → PR → 发布 🔁\n\n作者/维护者的工作是在产生最高质量产品的循环上工作，并为应该进行的工作设定标准。"
+    },
+    "levie": {
+      "en": "No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. \n\nThe ability for harnesses to break down work in the most efficient way and route to the right model at the right time is going to be a huge variable for maximizing accuracy and reducing costs.\n\nWe’re actually still incredibly early in this journey. The harness didn’t matter that much when tasks only took hundreds of thousands or millions of tokens. But as we have tasks that take tens of millions and hundreds of millions of tokens, this becomes a major variable. Huge opportunity ahead.",
+      "zh": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。 \n\n线束以最有效的方式分解工作并在正确的时间路由到正确的模型的能力将成为最大限度提高准确性和降低成本的巨大变量。\n\n实际上，我们还处于这一旅程的早期阶段。当任务只需要数十万或数百万代币时，安全带就没那么重要了。但由于我们有需要数千万、数亿代币的任务，这成为一个主要变量。前方有巨大的机会。"
+    },
+    "garrytan": {
+      "en": "Your personal AI or your company brain needs a clean harness and this is the one our team built and uses every day \n\nFree and open source",
+      "zh": "您的个人人工智能或公司大脑需要一个干净的安全带，这是我们团队构建并每天使用的安全带 \n\n免费和开源"
+    },
+    "steipete": {
+      "en": "Jason is doing such great work. Love this.",
+      "zh": "杰森做得非常出色。喜欢这个。"
+    },
+    "danshipper": {
+      "en": "pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic!\n\ni stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai \n\nit’s a fascinating comeback story",
+      "zh": "在@WSJ 这篇有关 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！\n\n我支持这一点……自早春以来就非常清楚，势头正在转向@openai \n\n这是一个引人入胜的回归故事"
+    },
+    "adityaag": {
+      "en": "2 days left. Apply to @spc.",
+      "zh": "还剩2天。申请@spc。"
+    },
+    "sama": {
+      "en": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+      "zh": "我昨晚听到的 chatgpt 工作很酷的用例：\n\n连接您的家庭日历并解释您孩子的兴趣。\n\n每天早上开车去学校的路上，让它制作一个播客，谈论一个孩子当天下午的足球比赛、一个孩子即将到来的生日、一些新闻等。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:16\nWelcome back to unsupervised learning. I'm Jacob Efron. We had an awesome episode today with Igor Babushkin. Igor has been at all the right places at all the right times, leading a lot of really interesting AI work. He was at DeepMind where he led a lot of the work around StarCraft as well as AlphaCode.\n\nSpeaker 1 | 00:16 - 00:53\nHe was at OpenAI, we're doing the early work on reasoning. Then he was a co founder of x AI, where he did some of the heroic work on Colossus,...",
+      "zh": "演讲者 1 | 00:00 - 00:16\n欢迎回到无监督学习。我是雅各布·埃夫隆。今天我们和伊戈尔·巴布什金一起观看了精彩的一集。 Igor 在所有正确的时间出现在所有正确的地点，领导了许多非常有趣的人工智能工作。他在 DeepMind 领导了许多有关《星际争霸》和 AlphaCode 的工作。\n\n演讲者 1 | 00:16 - 00:53\n他在 OpenAI，我们正在做推理方面的早期工作。然后他是 x AI 的联合创始人，在那里他为 Colossus 做出了一些英勇的工作，",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
