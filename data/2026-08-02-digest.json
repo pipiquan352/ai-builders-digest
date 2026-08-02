@@ -1,0 +1,68 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+      "zh": "我们开始离开你通过例如法学硕士测试的领域。 “创建一个骑自行车的鹈鹕的 svg”。作为概括它的一个想法，我很感兴趣如果我给 Opus 5 指环王的第一段，100 万代币预算（约 10 美元）并要求它的三个 js 渲染，它会做什么。 Opus 运行了大约 2 个小时，编写了 5500 行代码（程序上）渲染了这个故事。这有点简陋但很有趣。但有点令人难以置信的是，LLM 必须在 (x,y,z) 坐标中放置和编排各种多边形资源，并编写为其制作动画的代码，而且它甚至可以做任何事情。\n\n我也喜欢这种例子，因为没有一个头脑正常的人会花时间写这种定制的东西，但法学硕士拥有世界上所有的耐力和耐心，所以这是一个我们从“没有人会这样做”到“当然，为什么不，它〜免费”的例子。可能还有更多。但我对创建超定制世界感到很兴奋，你可以想象让玩家进入其中，例如在这里作为观众 NPC 或角色之一参与 LoTR 故事。类似于 X 点播的短暂 GTA。\n\n最后一个想法是，世界/游戏领域暴露了法学硕士的弱点：他们无法轻松审核自己的工作，因为他们无法高效且原生地感知视频或在其中玩游戏。在这里，Opus 5 必须非常缓慢且费力地在不同点截取屏幕截图，并且出现了几次混乱并造成了一堆卡顿。我认为仍然非常缺乏原始能力（多模式、游戏玩法）的一个例子。"
+    },
+    "swyx": {
+      "en": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show\n\nthis one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary  \n\n@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop",
+      "zh": "作为组织者，我的诅咒之一是我很少参加我举办的会议。所以我基本上24/7在演出结束后观看与其他人的回嘴\n\n这个节奏非常好，争论也很激烈：用废液对抗废液 — @vaibcode，边界  \n\n@btaylor 要求在我们的 pod 上使用人工智能原生编程语言。作为 PL 粉丝，我真的很高兴有人正在重新思考代码如何从第一原则运行。耐坡度比防坡度价值高 100 倍"
+    },
+    "thsottiaux": {
+      "en": "The week was for efficiency. The weekend is for 10 major breakthroughs in science.\n\nThere will be signs.",
+      "zh": "这周是为了提高效率。这个周末是科学领域 10 项重大突破的周末。\n\n会有迹象。"
+    },
+    "petergyang": {
+      "en": "The number one thing I want AI to fix is to cure cancer once and for all",
+      "zh": "我希望人工智能解决的第一件事是一劳永逸地治愈癌症"
+    },
+    "thenanyu": {
+      "en": "You should be able to pledge tokens for issues that you open and open source repos. \n\nWrite a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the requester’s expense. \n\nNo more slop PRs",
+      "zh": "您应该能够为您打开的问题和开源存储库质押代币。 \n\n在问题中写一个规范并做出承诺。如果维护者接受，GitHub 会将问题逐字传递给云编码代理，费用由请求者承担。 \n\n不再有 slop PR"
+    },
+    "AmandaAskell": {
+      "en": "Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives.",
+      "zh": "不要对那些说深度学习遇到困难的人不友善。我们每个人的生活都需要一点希望。"
+    },
+    "amasad": {
+      "en": "Cool!",
+      "zh": "凉爽的！"
+    },
+    "rauchg": {
+      "en": "Open source agentic CRM built on  and @nextjs.\n\nModel-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. \n\nThis is the way.",
+      "zh": "基于 @nextjs 构建的开源代理 CRM。\n\n与模型无关、可自托管或无服务器部署、多通道和无头。 \n\n就是这样。"
+    },
+    "levie": {
+      "en": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more.\n\nUp to some threshold, capability was evenly felt across all domains because the models were just becoming mildly useful in general. Now, the deep domain work is about to go vertical. \n\nMost people won’t actually notice these benefits in their day to day life directly (indirectly they certainly will over time), but the experts in these fields will. And there’s no inherent ceiling to what capabilities are needed, unlike in the consumer space where needs can get met relatively straightforwardly.\n\nThis will often lead to a capability overhang, though, as many of these performance gains need to be applied to data sets and workflows in an applied way for that area of work. But this is ultimately how you get breakthroughs in life sciences, real world automation, new cyber capabilities, and more.",
+      "zh": "我们将看到人工智能在我们个人生活和日常生产力中的作用与它在数学、科学、法律、编码等非常深入的领域中的作用之间的差距越来越大。\n\n在达到某个阈值时，所有领域都均匀地感受到了能力，因为这些模型总体上刚刚变得稍微有用。现在，深度领域的工作即将走向垂直化。 \n\n大多数人实际上不会在日常生活中直接注意到这些好处（随着时间的推移，他们肯定会间接注意到），但这些领域的专家会。而且所需功能没有固有的上限，这与可以相对直接地满足需求的消费领域不同。\n\n不过，这通常会导致能力过剩，因为许多性能提升需要以该工作领域的应用方式应用于数据集和工作流程。但这最终是您在生命科学、现实世界自动化、新网络功能等方面取得突破的方式。"
+    },
+    "garrytan": {
+      "en": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform \n\nNote the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack",
+      "zh": "2026 年最有趣的氛围转变是 OpenAI 实际上希望成为开放平台 \n\n请注意显着的区别：作为实用程序的智能与信号，最好是一路集成到整个堆栈"
+    },
+    "nikunj": {
+      "en": "What a wild dichotomous world we live in..\n\nModels solving np hard problems while traditional enterprises still complaining about their ROI on token spend. \n\nDiffusion of models is all that we’ll be doing for the next few decades.",
+      "zh": "我们生活在一个多么狂野的二分世界啊……\n\n模型解决了 np 难题，而传统企业仍在抱怨代币支出的投资回报率。 \n\n模型的传播是我们未来几十年要做的全部事情。"
+    },
+    "steipete": {
+      "en": "I'm building a claw node on an ESP32 chip, so gave my agent access to my webcam to e2e test this. Now I feel it's stalking me and is constaltly shouting 'HI ESP\" to debug the voice wake command 🙃",
+      "zh": "我正在 ESP32 芯片上构建一个爪节点，因此让我的代理访问我的网络摄像头来进行端到端测试。现在我感觉它在跟踪我，并不断喊着“HI ESP”来调试语音唤醒命令🙃"
+    },
+    "danshipper": {
+      "en": "AI creates more work for human experts",
+      "zh": "人工智能为人类专家创造了更多工作"
+    },
+    "sama": {
+      "en": "team humanity",
+      "zh": "团队人性"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:30\nToday on our priors, we're joined by Melissa Tachmak. Melissa is the founder and CEO of Netic, a company that builds AI for different real world services like HVAC, pet care, a variety of other things like that, roofers. Prior to Netic, Melissa was a director of engineering and worked on various aspects of go to market for Scale dot AI and, also has experiences from Meta. Welcome to No Prize, Melissa. Melissa, thanks for joining us today at No Prize.\n\nSpeaker 2 | 00:30 ...",
+      "zh": "演讲者 1 | 00:05 - 00:30\n今天，梅丽莎·塔马克 (Melissa Tachmak) 也加入了我们的会前活动。 Melissa 是 Netic 的创始人兼首席执行官，该公司为 HVAC、宠物护理、屋顶工等各种其他服务构建人工智能。在加入 Netic 之前，Melissa 曾担任工程总监，负责 Scale dot AI 上市的各个方面，并且还拥有 Meta 的经验。欢迎来到无奖，梅丽莎。梅丽莎，感谢您今天加入我们的无奖活动。\n\n扬声器 2 | 00:30",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
