@@ -1,0 +1,60 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "More on the pelican on the bicycle test from @simonw:\n\n\nI uploaded the source here so it's playable in the browser, forkable etc.\n\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+      "zh": "更多关于 Pelican 自行车测试的信息来自 @simonw：\n\n\n我在这里上传了源代码，因此可以在浏览器中播放、可分叉等。\n\n\n请留意《GTA 霍比屯》在 GTA VI 之前掉落的内容 :)"
+    },
+    "swyx": {
+      "en": "@akshaynathan_ @AriX live now!",
+      "zh": "@akshaynathan_ @AriX 现在直播！"
+    },
+    "petergyang": {
+      "en": "Personality matters! A smart friend that's annoying to talk to is no good.",
+      "zh": "性格很重要！一个聪明的朋友，如果和他说话很烦人，那就不好了。"
+    },
+    "trq212": {
+      "en": "you can already see Jevons paradox at work in mathematics\n\nthere is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels\n\ndemand for people who think and know about math will go up",
+      "zh": "你已经可以看到杰文斯悖论在数学中的作用\n\n发生了更多的事情，更容易理解，数学家有更多的时间在更高的抽象层次上与我们讨论\n\n对思考和了解数学的人的需求将会增加"
+    },
+    "amasad": {
+      "en": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. \n\n1253 Elo:",
+      "zh": "我的法学硕士国际象棋引擎现在在 LiChess 上自主地与人和机器人进行真正的游戏。 \n\n第1253章"
+    },
+    "rauchg": {
+      "en": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+      "zh": "人工智能本身就很酷。但掌握+创造力+人工智能达到了一个完全不同的水平。不要让任何人阻止您追求卓越和工艺。继续研究刀片。"
+    },
+    "levie": {
+      "en": "We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability. \n\nMath, cyber, and code -while being insanely hard and high value fields- have the benefit of being able to be tested that it’s correct objectively. This has two immediate benefits: the training of the models offers clearer reward signals, and then the running of the models allows you to know that it’s working properly because you can test the results in a scalable way.\n\nConversely, in other domains of work, there’s much less instant verifiability. Which legal clauses your client will agree to, what marketing campaign to run with based on changing sentiment, which message your sales prospect will want to hear, what financial targets and budget to set for a business, and so on. \n\nAll of these domains have changing internal and external factors, they don’t have “one right answer”, they rely on the opinions and risk levels of the operators, they’re highly sensitive to getting the right input context first, and in many cases the right answer can’t even be known for quite some time after the model generates the results.\n\nThe implications of this distinction are that -even as model capability continues to increase exponentially- there will be a lot done at the applied AI layer than just the the model itself, and much of the processes themselves will even need to change over time to get the full gains from automation. We may even need all new capabilities to be able to “test” knowledge work over time as we have had with software.",
+      "zh": "我们将面临一种奇怪的动态，即世界上一些“最困难”的工作实际上首先倾向于自动化，特别是因为它的可验证性。 \n\n数学、网络和代码虽然是极其困难和高价值的领域，但其好处是能够客观地测试其正确性。这有两个直接的好处：模型的训练提供了更清晰的奖励信号，然后模型的运行让您知道它正在正常工作，因为您可以以可扩展的方式测试结果。\n\n相反，在其他工作领域，即时验证性要少得多。您的客户会同意哪些法律条款，根据不断变化的情绪开展哪些营销活动，您的销售潜在客户希望听到哪些信息，为企业设定哪些财务目标和预算等等。 \n\n所有这些领域都有不断变化的内部和外部因素，它们没有“一个正确的答案”，它们依赖于操作者的意见和风险水平，它们对首先获得正确的输入上下文高度敏感，并且在许多情况下，甚至在模型生成结果后的相当长一段时间内都无法知道正确的答案。\n\n这种区别的含义是，即使模型能力继续呈指数级增长，应用人工智能层也会做很多工作，而不仅仅是模型本身，而且许多流程本身甚至需要随着时间的推移而改变，才能从自动化中获得全部收益。我们甚至可能需要所有新功能来随着时间的推移“测试”知识工作，就像我们对软件所做的那样。"
+    },
+    "ryolu_": {
+      "en": "my early mentors were these apps, especially Rdio, Mailbox, and Apple\n\nthey made new patterns that made software feel simpler and intuitive to touch\n\nas we leave the world of apps behind, what parts of software will remain visible, and how could it feel?",
+      "zh": "我早期的导师是这些应用程序，尤其是 Rdio、Mailbox 和 Apple\n\n他们创造了新的模式，使软件触感更简单、直观\n\n当我们把应用程序的世界抛在脑后时，软件的哪些部分仍然可见，它的感觉如何？"
+    },
+    "garrytan": {
+      "en": "Growth is good\n\nAI will create unimaginable economic growth and that is the best white pill",
+      "zh": "成长性好\n\n人工智能将创造难以想象的经济增长，这是最好的白色药丸"
+    },
+    "nikunj": {
+      "en": "Warm NYC nights are magic 🪄",
+      "zh": "温暖的纽约之夜是神奇的🪄"
+    },
+    "steipete": {
+      "en": "That's a fairly new kind of spam.",
+      "zh": "这是一种相当新型的垃圾邮件。"
+    },
+    "danshipper": {
+      "en": "when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. \n\nwe tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. \n\nyou are no longer required, and you had no say in the matter. it's a kind of death.\n\nhowever, agency ruptures with AI seem to follow a predictable pattern:\n\n- Initial agency rupture. Here you see the AI doing what you used to do, and you see only the AI. In your perception of reality the AI is highlighted, and the human work around getting the AI to do the thing, is invisible. you can see this in the way we use language: \"AI solved XYZ Erdos Problem\" is another way to say we're in the initial rupture phase.\n\n- Seeing human scaffolding. After a little bit of experience with the model and its new capibility—programming, writing, math, etc—we start to see the edges of what's possible with the model. Here, instead of just seeing the AI doing the task, we start to see the scaffolding required by you and other humans on either end to make sure the model does its work. At this stage, the scaffolding can feel like a secondary part of the work, but it is work nonetheless. We begin to say things like, \"The AI is prompting me\", or \"My job is just to babysit Claude.\" \n\n- Agency reconstruction. After a long enough time with the model at its current level of capability, we start to reconstruct a new sense of agency that centers our own role in the work being done, and makes the model's contribution mostly invisible. It is now a tool, it fast-forwards you through the boring or repetitive parts of the work, and what used to seem like scaffolding now seems like the actual work itself—the interesting part. You've had enough experience with the scaffolding to see its nuances, and how hard it is to get the model to reliably output high quality work. (As part of this, your conception of what quality work is changes—the floor is raised, and so is the ceiling.)\n\nYou can tell you're at this point because you stop saying \"The AI did this\" and just say, \"I did this\" and the fact that you used AI is implied. For example, it would be weird for me to talk to someone @every and ask them if the AI built the most recent feature of a product. Of course it did! But we're so used to the capability that it becomes invisible, and we re-center ourselves and our own conception of agency.\n\nMy theory is that the ability to metabolize agency ruptures and turn them into playfulness, and curiosity is a good leading indicator for whether you're a person who likes and excels in the new AI economy or not.  \n\nEach time capabilities jump, you get new ruptures for existing fields touched by AI. And you get new ruptures for naive populations (like mathemeticians) who until recently hadn't been affected.\n\nif you know what the cycle looks like, it makes it much easier to ride it without freaking out. i think most people @every are naturally good at this",
+      "zh": "当你体验到一个语言模型正在执行一项任务，以前每一步都需要你，而现在则不需要，这就是巨大的机构断裂。 \n\n我们倾向于将自己与我们的任务、我们的产出等同起来，这种破裂类似于你的身份和自我意识的丧失。 \n\n你不再被需要，你在这件事上没有发言权。这是一种死亡。\n\n然而，机构与人工智能的决裂似乎遵循一种可预测的模式：\n\n- 最初的机构破裂。在这里你看到人工智能正在做你以前做的事情，而你只看到人工智能。在你对现实的感知中，人工智能是突出的，而人类让人工智能做事的工作是看不见的。你可以从我们使用语言的方式中看到这一点：“人工智能解决了 XYZ 鄂尔多斯问题”是说我们正处于初始破裂阶段的另一种方式。\n\n- 看到人类脚手架。在对模型及其新功能（编程、写作、数学等）有了一些经验后，我们开始看到该模型的可能性。在这里，我们不只是看到人工智能执行任务，而是开始看到你和其他人在两端所需的脚手架，以确保模型完成其工作。在这个阶段，脚手架可能感觉像是工作的次要部分，但它仍然是工作。我们开始说“人工智能正在提示我”，或者“我的工作只是照顾克劳德”。 \n\n- 机构重建。在模型处于当前的能力水平上经过足够长的时间后，我们开始重建一种新的代理意识，将我们自己的角色集中在正在完成的工作中，并使模型的贡献基本上不可见。它现在是一种工具，它可以让你快速完成工作中无聊或重复的部分，而以前看起来像脚手架的东西现在看起来就像是实际的工作本身——有趣的部分。您已经拥有足够的脚手架经验，可以了解其细微差别，以及让模型可靠地输出高质量工作有多么困难。 （作为其中的一部分，你对高质量工作的概念发生了变化——地板提高了，天花板也提高了。）\n\n你可以看出你现在已经到了这一点，因为你不再说“人工智能做了这个”，而是说“我做了这个”，并且暗示了你使用人工智能的事实。例如，对我来说，与某人 @every 交谈并询问他们人工智能是否构建了产品的最新功能会很奇怪。当然是这样！但我们已经习惯了这种能力，以至于它变得无形，我们重新以我们自己和我们自己的代理概念为中心。\n\n我的理论是，代谢代理破裂并将其转化为乐趣和好奇心的能力是一个很好的领先指标，可以判断你是否是一个喜欢新人工智能经济并在新人工智能经济中表现出色的人。  \n\n每次能力跳跃，人工智能触及的现有领域都会出现新的断裂。对于直到最近才受到影响的天真的人群（例如数学家）来说，你会遇到新的破裂。\n\n如果你知道自行车是什么样子，骑起来就容易多了，而且不会惊慌失措。我认为大多数人@every 天生就擅长于此"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:29\nIf I play football, for example, it looks very, very closely to reinforcement learning. I kick a ball a lot of times, and every time I adjust it a little bit and I see if it roughly matches what I what I wanted and either there's some self reinforcement happening. When I learn mathematics, it's very different type of thing. It's it's like reading about hard concepts and thinking about them very deeply inside my head until things click and until until have them connected...",
+      "zh": "演讲者 1 | 00:00 - 00:29\n例如，如果我踢足球，它看起来非常非常接近强化学习。我踢了很多次球，每次我都会稍微调整一下，看看它是否大致符合我想要的，或者是否发生了一些自我强化。当我学习数学时，这是非常不同的事情。这就像阅读困难的概念并在我的脑海中深深地思考它们，直到事情发生并直到将它们连接起来",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
