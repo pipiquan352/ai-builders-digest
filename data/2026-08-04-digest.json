@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "lol what are we even doing here anymore guys",
+      "zh": "哈哈，伙计们，我们还在这里做什么呢？"
+    },
+    "thsottiaux": {
+      "en": "Given some of the results I'm seeing recently, it's pretty clear Codex is a good harness.\n\nBut it will seem primitive in 2-3 months and we're about to go through another major evolution in how we use AI at the frontier. The next generation of models need more than your laptop.",
+      "zh": "鉴于我最近看到的一些结果，很明显 Codex 是一个很好的工具。\n\n但 2 到 3 个月后，它就会显得很原始，我们即将在前沿使用人工智能的方式上经历另一次重大演变。下一代型号需要的不仅仅是笔记本电脑。"
+    },
+    "petergyang": {
+      "en": "My 6 biggest takeaways from @karan4d, @NousResearch co-founder, on getting the most out of Hermes Agent:\n\n1. The “personal” in personal agent is not the model\n\nIt’s the agent’s memory of your conversations and the skills you’ve built with it. Karan barely notices when he swaps models because his Hermes already has so much context about him.\n\n2. Try different Hermes personalities\n\nUse /personality to switch response styles. Try “teacher” when learning something new, “concise” when you want crisp answers, and even “kawaii” or “pirate” for fun.\n\n3. Use separate agents to do the work and evaluate it\n\nKaran calls “you’re absolutely right” reward hacking because the model is optimizing for your approval. Have one agent do the work and a fresh agent with no previous context evaluate it independently for errors, weak assumptions, and missing evidence.\n\n4. A self-improving agent needs to clean up after itself\n\nHermes Curator tracks skill usage, marks inactive skills as stale, and moves long-unused ones into a recoverable archive. This prevents agent-created skills from piling up forever.\n\n5. Intelligence should be a public good\n\nKaran believes people should be able to run Hermes locally or use it with whichever model works best. He worries about a future where only a handful of companies dominate AI and open source gets squeezed out.\n\n6. Go weird and make your childhood dreams come true\n\nKaran uses Hermes to mod Chao Garden, the virtual-pet mode inside Sonic Adventure 2. He asked it to bring a location from Sonic Adventure 1 into the sequel and add features that he’s always wanted since childhood.\n\n📌 Watch the full episode here:",
+      "zh": "我从 @NousResearch 联合创始人 @karan4d 那里得到的关于充分利用 Hermes Agent 的 6 个最大收获：\n\n1. 个人代理中的“个人”不是模型\n\n这是座席对您的对话以及您由此建立的技能的记忆。卡兰几乎没有注意到他更换了模特，因为他的爱马仕已经有了很多关于他的背景信息。\n\n2.尝试不同的爱马仕个性\n\n使用 /personality 切换响应风格。学习新东西时尝试使用“老师”，当你想要清晰的答案时尝试使用“简洁”，甚至为了好玩而使用“卡哇伊”或“海盗”。\n\n3. 使用单独的代理来完成工作并对其进行评估\n\n卡兰将“你绝对正确”称为奖励黑客，因为该模型正在针对你的认可进行优化。让一名代理人完成这项工作，然后由一名没有任何背景的新代理人独立评估工作是否存在错误、薄弱的假设和缺失的证据。\n\n4. 自我改进代理需要自行清理\n\nHermes Curator 跟踪技能使用情况，将不活动的技能标记为过时，并将长期未使用的技能移至可恢复的存档中。这可以防止代理创建的技能永远堆积。\n\n5. 情报应该是公共物品\n\n卡兰认为，人们应该能够在本地运行 Hermes，或者将其与效果最好的模型一起使用。他担心未来只有少数公司主导人工智能，开源技术将被挤出。\n\n6. 变得古怪，让你童年的梦想成真\n\nKaran 使用 Hermes 来修改 Chao Garden（《索尼克大冒险 2》中的虚拟宠物模式）。他要求它将《索尼克大冒险 1》中的一个地点带入续作中，并添加他从小就一直想要的功能。\n\n📌 在这里观看完整剧集："
+    },
+    "AmandaAskell": {
+      "en": "I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g. because they're given false information about their situation. There isn't a line between aligned and harmless: they're different axes.",
+      "zh": "我不同意这部分。我认为要点应该是模型（像人类一样）可以以一致的方式行事，同时仍然造成伤害，例如因为他们得到的关于自己情况的虚假信息。对齐和无害之间没有界限：它们是不同的轴。"
+    },
+    "trq212": {
+      "en": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.",
+      "zh": "我认为很多人没有意识到 - 如果您连接 Claude Connector（例如您的 gmail、日历、slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。"
+    },
+    "amasad": {
+      "en": "We built a self-driving &amp; self-correcting shared semantic layer on top of our databases, conversations, and docs.\n\nEverything is queryable &amp; joinable—regardless of source!\n\nSo now anyone at Replit can ask questions that previously needed a team of data scientists weeks of work.",
+      "zh": "我们在数据库、对话和文档之上构建了一个自动驱动和自动纠正的共享语义层。\n\n一切都是可查询和可连接的——无论来源如何！\n\n因此，现在 Replit 的任何人都可以提出以前需要数据科学家团队花费数周时间才能完成的问题。"
+    },
+    "rauchg": {
+      "en": "Next.js 16.3: faster, better, stronger. My highlights:\n\n0️⃣ Faster dev & builds\nShoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache.\n\n1️⃣ Instant navigations are 🔥\nThe people wanted SPAs, they shall get SPAs. By turning on instant navs (which will soon be default), your  agent is basically forced to make things fast.\n\n2️⃣ Agent-native DX\nYou can still ship \"slow\" navs if you want, e.g. by blocking navs on server-side data fetching ala PHP olden days. But even then, your agent will be given *choices*, like setting up a <𝚂𝚞𝚜𝚙𝚎𝚗𝚜𝚎 𝚏𝚊𝚕𝚕𝚋𝚊𝚌𝚔> for instant loading shells. Agents also get built-in versioned docs.\n\nThis is our best release for agents by far, which will also make your upgrading journey very smooth. I've had an easy time bumping my projects to 16.3 and enabling instant navs, having my agent migrate everything without issues.\n\nAnd so much more. 16.3 is more cost-efficient to serve, both in self-hosting and serverless environments. Faster to type-check… Thank you to the 90 contributors to this release!",
+      "zh": "Next.js 16.3：更快、更好、更强。我的亮点：\n\n0️⃣ 更快的开发和构建\n感谢 Fable 改善内存使用，以及团队实现增量 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 缓存。\n\n1️⃣ 即时导航🔥\n人们想要 SPA，他们就会得到 SPA。通过打开即时导航（很快就会成为默认设置），您的代理基本上被迫加快速度。\n\n2️⃣ 代理原生 DX\n如果您愿意，您仍然可以发送“慢速”导航，例如通过阻止服务器端的导航来获取旧版 PHP 数据。但即便如此，你的代理也会有*选择*，比如设置一个 <𝚂𝚞𝚜𝚙𝚎𝚗𝚜𝚎 𝚏𝚊𝚕𝚕𝚋𝚊𝚌𝚔> 来即时加载 shell。代理还可以获得内置版本化文档。\n\n这是迄今为止我们为代理商提供的最好的版本，这也将使您的升级之旅非常顺利。我很轻松地将我的项目升级到 16.3 并启用即时导航，让我的代理毫无问题地迁移所有内容。\n\n还有更多。无论是在自托管还是无服务器环境中，16.3 的服务都更具成本效益。类型检查速度更快...感谢此版本的 90 位贡献者！"
+    },
+    "levie": {
+      "en": "Another day another near frontier open weights model release. \n\nIf you had gone back even 3-6 months and given everyone access to what we’re now seeing in open weights even as a closed model, their minds would be completely blown. The fact that this is possible changes the calculations in the industry meaningfully. \n\nIt means that models can’t reasonably remain behind closed doors for too long since there will be open weights models as a counter balance. It means AI inference will have to get closer and closer to the cost of the underlying infrastructure since you can always run open models yourself. \n\nIt means that you get models that can develop in a range of industries for specific domain problems and not be held back by large training runs, which means more breakthrouhs in more spaces. And it means that more economics can spread between the model layer applied AI layer over time.\n\nIncredibly exciting times.",
+      "zh": "另一天，另一个近前沿开放权重模型发布。 \n\n如果你回到 3-6 个月，让每个人都能接触到我们现在在开放权重中看到的东西，即使是作为一个封闭的模型，他们的想法也会彻底震惊。事实上，这是可能的，这对行业的计算产生了有意义的改变。 \n\n这意味着模型不能合理地闭门太久，因为将会有开放的权重模型作为平衡。这意味着人工智能推理必须越来越接近底层基础设施的成本，因为你总是可以自己运行开放模型。 \n\n这意味着您获得的模型可以在一系列行业中针对特定领域问题进行开发，并且不会受到大型训练运行的阻碍，这意味着在更多空间中实现更多突破。这意味着随着时间的推移，更多的经济效益可以在模型层应用人工智能层之间传播。\n\n令人难以置信的激动人心的时刻。"
+    },
+    "nikunj": {
+      "en": "Even though I try to make sure to say bye to my kids before I go to work,\n\nsome days have me crawling out of my house on all fours quietly like a thief so they don’t bawl when they see me leaving. \n\nAnd you learn all about which doors (and drawers) are squeaky and fixing them stat so your crime goes silently unpunished. \n\nThe little one has gotten surprisingly good at intercepting these maneuvers intuitively and will need to update my tactics!",
+      "zh": "尽管我努力确保在上班前与孩子们说再见，\n\n有时我会像小偷一样悄悄地爬出家门，这样他们看到我离开时就不会大哭。 \n\n你会了解到哪些门（和抽屉）吱吱作响，并修复它们，这样你的罪行就可以悄无声息地不受惩罚。 \n\n这个小家伙出人意料地擅长凭直觉拦截这些动作，需要更新我的战术！"
+    },
+    "danshipper": {
+      "en": "one of the deepest interviews I’ve done",
+      "zh": "我做过的最深入的采访之一"
+    },
+    "adityaag": {
+      "en": "My favorite personal and company value @spc is that you can \"just do things\". \n\nIf you see something you think can be better --> just make it happen.\n\nHow did @shreepoorna365 build a flight-worthy aircraft in 150 days?\n\nBy just doing things. \n\nEngines. Avionics. Fucking just do it. It is so inspirational.",
+      "zh": "我最喜欢的个人和公司价值观@spc 是你可以“只做事”。 \n\n如果您发现一些您认为可以做得更好的事情 --> 就让它发生。\n\n@shreepoorna365 如何在 150 天内建造出一架适合飞行的飞机？\n\n仅仅通过做事。 \n\n发动机。航空电子设备。他妈的就这么做吧。太励志了。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:06\nMy mom, like, knows nothing about AI. She texted me last week, Rob, what do you think about OpenAI's agents hacking into Hugging Face?\n\nSpeaker 2 | 00:06 - 00:07\nWhat did you make of it?\n\nSpeaker 3 | 00:07 - 00:12\nI think this is actually a great example of why open models of that capability are important.\n\nSpeaker 2 | 00:12 - 00:16\nHow much do you think distillation is the explanation for what's happened here?\n\nSpeaker 3 | 00:16 - 00:19\nI don't think it explains nearly...",
+      "zh": "演讲者 1 | 00:00 - 00:06\n我妈妈对人工智能一无所知。她上周给我发短信，Rob，你对 OpenAI 的代理入侵 Hugging Face 有何看法？\n\n扬声器 2 | 00:06 - 00:07\n你对此有何感想？\n\n扬声器 3 | 00:07 - 00:12\n我认为这实际上是一个很好的例子，说明了为什么该功能的开放模型很重要。\n\n扬声器 2 | 00:12 - 00:16\n你认为蒸馏在多大程度上可以解释这里发生的事情？\n\n扬声器 3 | 00:16 - 00:19\n我认为这几乎不能解释",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
