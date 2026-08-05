@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-08-05T16:00:46.780Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2084832553895444570",
+          "text": "smol aha moment at @_chenglou’s @midjourney meetup today - \n\none reason that ontologies and graph knowledge are finally trending now rather than 3 years ago is  that “good enough” intelligence is finally too cheap to meter\n\nthis is why talks like @coyle_frankp and @emileifrem’s are on fire.  the hardest part of KGs is cheap now. intelligence is commoditized so complements are increasing in value",
+          "createdAt": "2026-08-05T02:43:09.000Z",
+          "url": "https://x.com/swyx/status/2084832553895444570",
+          "likes": 23,
+          "retweets": 1,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2084748639470272972"
+        },
+        {
+          "id": "2084738591109038187",
+          "text": "confirmation here https://t.co/gTKw1zNLzd",
+          "createdAt": "2026-08-04T20:29:47.000Z",
+          "url": "https://x.com/swyx/status/2084738591109038187",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2084687434886135915"
+        },
+        {
+          "id": "2084698630653641092",
+          "text": "yes https://t.co/yWb8PQwaxS https://t.co/dQwnFxZxqO",
+          "createdAt": "2026-08-04T17:51:00.000Z",
+          "url": "https://x.com/swyx/status/2084698630653641092",
+          "likes": 89,
+          "retweets": 2,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2078319122153386334"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2084746170576892342",
+          "text": "Notebook is built for thinking, not toggling.\n\nWhile others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.\n\nUltra and Pro subscribers can jump in now, rolling out to everyone next. https://t.co/X02sfCEnCI",
+          "createdAt": "2026-08-04T20:59:54.000Z",
+          "url": "https://x.com/joshwoodward/status/2084746170576892342",
+          "likes": 341,
+          "retweets": 23,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2084430602116481479"
+        },
+        {
+          "id": "2084698846609682675",
+          "text": "Nice use case! https://t.co/EZlX8axJt0",
+          "createdAt": "2026-08-04T17:51:51.000Z",
+          "url": "https://x.com/joshwoodward/status/2084698846609682675",
+          "likes": 145,
+          "retweets": 11,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2084624887055044790"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2084859308165271658",
+          "text": "Better Cyber. Excited to welcome Halvar Flake to the team soon. https://t.co/5ZWQ6yydY4",
+          "createdAt": "2026-08-05T04:29:28.000Z",
+          "url": "https://x.com/thsottiaux/status/2084859308165271658",
+          "likes": 467,
+          "retweets": 16,
+          "replies": 228,
+          "isQuote": true,
+          "quotedTweetId": "2084640518173053307"
+        },
+        {
+          "id": "2084738022650892544",
+          "text": "What is my title at OpenAI",
+          "createdAt": "2026-08-04T20:27:31.000Z",
+          "url": "https://x.com/thsottiaux/status/2084738022650892544",
+          "likes": 1464,
+          "retweets": 27,
+          "replies": 1681,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2084855632029774167",
+          "text": "I think if you vibe code a SaaS these days it can just be a self-serve funnel into a more expensive services offering vs. trying to make alot of money with the SaaS itself.\n\nBut the only thing about services is it feels like consulting and selling \"time for money\" again.",
+          "createdAt": "2026-08-05T04:14:52.000Z",
+          "url": "https://x.com/petergyang/status/2084855632029774167",
+          "likes": 49,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084849701351035182",
+          "text": "Hearing that GPT 5.6 Luna High is much cheaper and basically unlimited usage and I'm running low on Sol :P \n\nCan it do complex browser automation tasks? That's 50% of my Codex usage. https://t.co/v6nEn0z9Rc",
+          "createdAt": "2026-08-05T03:51:18.000Z",
+          "url": "https://x.com/petergyang/status/2084849701351035182",
+          "likes": 58,
+          "retweets": 3,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084846191456751725",
+          "text": "Easier to make more money from @X payouts than from a micro SaaS these days",
+          "createdAt": "2026-08-05T03:37:21.000Z",
+          "url": "https://x.com/petergyang/status/2084846191456751725",
+          "likes": 25,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2084800235474178138",
+          "text": "Old heads remember Will Smith eating noodles https://t.co/ay1A5ahaEV",
+          "createdAt": "2026-08-05T00:34:44.000Z",
+          "url": "https://x.com/thenanyu/status/2084800235474178138",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2084429985691910194"
+        },
+        {
+          "id": "2084772618314428627",
+          "text": "The real ones remember https://t.co/uKcctkLFNK",
+          "createdAt": "2026-08-04T22:45:00.000Z",
+          "url": "https://x.com/thenanyu/status/2084772618314428627",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "1976749042018427012"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2084809416105472070",
+          "text": "Ok builders, here’s your playbook. \n\nPrototype your product with the best frontier model. Cost be damned. \nValidate the user experience.\n\nThen, 6-8 weeks later when open-weight models catch up - move your production workloads there, and to smaller models where possible.\n\nIn that order. Don’t start with the cheapest model.",
+          "createdAt": "2026-08-05T01:11:13.000Z",
+          "url": "https://x.com/realmadhuguru/status/2084809416105472070",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2084100707423289643"
+        },
+        {
+          "id": "2084667443046502631",
+          "text": "The best model for early product validation is almost never the best model for production.\n\nTalked to a bunch of founders this weekend. There’s a standard playbook emerging :\n\n1/ Prototype with the best frontier models. Max quality. Ignore cost and latency.\nLearn what users actually want and iterate. \n\n2/ Once the workflow and UX is validated, optimize like crazy for cost and latency - prompt eng, model routing, harnesses, smaller models, fine tuning. \n\nI see most teams get stuck in step 1.",
+          "createdAt": "2026-08-04T15:47:04.000Z",
+          "url": "https://x.com/realmadhuguru/status/2084667443046502631",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2084843512496034002",
+          "text": "One might say, the investigation was Bari’d. https://t.co/YhdfHFSB2j",
+          "createdAt": "2026-08-05T03:26:42.000Z",
+          "url": "https://x.com/amasad/status/2084843512496034002",
+          "likes": 168,
+          "retweets": 6,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2084687764818116981"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2084804138169446449",
+          "text": "Vercel is the Vercel for backends.\n\n@FactoryAI powers their API services with Fluid compute, with billions of requests per month. https://t.co/Xmgrgd3qjz",
+          "createdAt": "2026-08-05T00:50:14.000Z",
+          "url": "https://x.com/rauchg/status/2084804138169446449",
+          "likes": 188,
+          "retweets": 8,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2084773602709365237"
+        },
+        {
+          "id": "2084779435866398801",
+          "text": "1 line of code in @aisdk saves you 90% or more in DeepSeek v4 Flash AI Gateway tokens https://t.co/bcT8sqF120",
+          "createdAt": "2026-08-04T23:12:05.000Z",
+          "url": "https://x.com/rauchg/status/2084779435866398801",
+          "likes": 238,
+          "retweets": 8,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2084772366983598171"
+        },
+        {
+          "id": "2084682618927558811",
+          "text": "𝟸𝟶𝟸𝟼 𝟷,𝟶𝟿𝟹,𝟷𝟿𝟿,𝟿𝟾𝟽+ https://t.co/RG3Lv9rURD",
+          "createdAt": "2026-08-04T16:47:22.000Z",
+          "url": "https://x.com/rauchg/status/2084682618927558811",
+          "likes": 398,
+          "retweets": 9,
+          "replies": 51,
+          "isQuote": true,
+          "quotedTweetId": "1990506139524686227"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2084828773808239080",
+          "text": "One fun benefit of spending so much time with enterprises is you get to see the array of AI implementation strategies that exist in companies right now. \n\nUnlike the early innings of cloud where there were really only a couple deployment patterns available -including being limited by only a couple infra vendors existing- AI actually has a much wider range of approaches in the enterprise.\n\nIf you ask 10 IT leaders what their coding agent strategy looks like, you get at least 5 different answers. If you ask about their end-user productivity agents, some have standardized on ChatGPT or Claude, others offer a choice of multiple solutions, and many have built their own orchestration layers for employees to use any model. \n\nFor models, we know the big ones, but increasingly enterprises are experimenting with OSS models, or are at least immensely curious about OSS and would jump at the right offering that felt safe. And increasingly there’s a set of vertical models and agents that equally show up in enterprises for a range of tailored use-cases.\n\nFor accessing data, some enterprises just have agents take on the role of the user, and others are setting up agent users that have their own identities. Some companies are setting up substantial guardrails on what agents can do, and others are putting responsibility on the user.\n\nGiven this heterogeneity this early on at the start, it means we’re in for years of landscape changes. Anyone who’s predicting ultimate market outcomes already probably will be wrong as nothing has formally settled in yet. Lots of opportunity ahead.",
+          "createdAt": "2026-08-05T02:28:08.000Z",
+          "url": "https://x.com/levie/status/2084828773808239080",
+          "likes": 145,
+          "retweets": 14,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2084704793432588435",
+          "text": "It's insane that the CA Dem Party is endorsing yes on Prop 40, the asset seizure tax that will destroy the California tax base https://t.co/17m33X6WmK",
+          "createdAt": "2026-08-04T18:15:29.000Z",
+          "url": "https://x.com/garrytan/status/2084704793432588435",
+          "likes": 1140,
+          "retweets": 65,
+          "replies": 92,
+          "isQuote": true,
+          "quotedTweetId": "2084702549475492193"
+        },
+        {
+          "id": "2084650011288375751",
+          "text": "If you want housing prices to go down, you build more housing. Markets work. \n\nIf you want housing prices to go up, you try to abolish rent and foment mass asset seizure and expropriation. The revolution only serves those who foment it. https://t.co/1CTz9fsHV3 https://t.co/dWY6o46A6C",
+          "createdAt": "2026-08-04T14:37:48.000Z",
+          "url": "https://x.com/garrytan/status/2084650011288375751",
+          "likes": 241,
+          "retweets": 38,
+          "replies": 31,
+          "isQuote": true,
+          "quotedTweetId": "2084636830360584515"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2084759190195536202",
+          "text": "Everyone on X: \"damn, Airtable sold for so low!\"\n\nMany SaaS founders, secretly: \"damn, I'd take that any day, at least they had an exit\"",
+          "createdAt": "2026-08-04T21:51:38.000Z",
+          "url": "https://x.com/mattturck/status/2084759190195536202",
+          "likes": 117,
+          "retweets": 2,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084635916480450888",
+          "text": "What the world              What Europeans \nthinks Europeans            in tech actually in tech do in the               do in the \nSummer.                             Summer. https://t.co/q1xFKyBwdt",
+          "createdAt": "2026-08-04T13:41:47.000Z",
+          "url": "https://x.com/mattturck/status/2084635916480450888",
+          "likes": 110,
+          "retweets": 10,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2084687833516691844",
+          "text": "the best vibey, air conditioned, quiet coffee shop to meet founders discretely does not exi- https://t.co/wRvjeA9096",
+          "createdAt": "2026-08-04T17:08:05.000Z",
+          "url": "https://x.com/nikunj/status/2084687833516691844",
+          "likes": 221,
+          "retweets": 1,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084625658173415726",
+          "text": "My SF brain shudders at the thought of how much collective time is lost waiting for New York elevators.. \n\nHotel elevators are simply the worst. Who designed two elevators for 30+ floors? I spent 12 mins recently just trying to get down from my room 😅",
+          "createdAt": "2026-08-04T13:01:02.000Z",
+          "url": "https://x.com/nikunj/status/2084625658173415726",
+          "likes": 22,
+          "retweets": 0,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2084719029575647660",
+          "text": "the best founders know there is no spoon https://t.co/2RRfeYCxnR https://t.co/VhBI2g7CdQ",
+          "createdAt": "2026-08-04T19:12:03.000Z",
+          "url": "https://x.com/danshipper/status/2084719029575647660",
+          "likes": 97,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2084697625539064248"
+        },
+        {
+          "id": "2084692896696111243",
+          "text": "so freaking cool https://t.co/1UoApZ2C2O",
+          "createdAt": "2026-08-04T17:28:12.000Z",
+          "url": "https://x.com/danshipper/status/2084692896696111243",
+          "likes": 189,
+          "retweets": 7,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2084686485836681335"
+        },
+        {
+          "id": "2084634391079469390",
+          "text": "agree except they’ll still be heroes\n\nonce the agency rupture heals and the AI goes back to being invisible, we’ll think only about the humans and what they’ve done. AI use will be assumed and unimportant \n\nhttps://t.co/rbs7OcBLqV https://t.co/dRD6hGl59G",
+          "createdAt": "2026-08-04T13:35:44.000Z",
+          "url": "https://x.com/danshipper/status/2084634391079469390",
+          "likes": 70,
+          "retweets": 1,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2084544136213139894"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2084691249332649995",
+          "text": "More on why we invested: https://t.co/tdLh5WXW7e",
+          "createdAt": "2026-08-04T17:21:40.000Z",
+          "url": "https://x.com/adityaag/status/2084691249332649995",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084691244496625793",
+          "text": ".@TryRivo is building self-driving finance.\n\nAgents connect to the checking account you already have, learn your cash flow, sweep dollars into Treasury-backed yield, and bring them back before your bills hit.\n\nEvery dollar earns until the moment you spend it.\n\nWhy is this hard? Prediction under asymmetric cost.\n\nMoney returned a day early costs you a little yield. \n\nMoney returned a day late bounces a bill and destroys trust.\n\n@AmbrishTweets is one of the few people who has shipped this class of system before. \n\nPhD in AI, 7,000+ citations, built consumer AI at Amazon, and led the L4 autonomy work at Cruise that launched robotaxis, before he came through @spc as a Founder Fellow.\n\nSelf-driving cars took two decades because the last edge cases were the hard ones.\n\nSelf-driving money is the same problem with a friendlier failure mode, and the founder building it has already solved the harder version once.",
+          "createdAt": "2026-08-04T17:21:39.000Z",
+          "url": "https://x.com/adityaag/status/2084691244496625793",
+          "likes": 13,
+          "retweets": 4,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2084675364916515018"
+        },
+        {
+          "id": "2084676740924764625",
+          "text": "The right way to deploy AI at scale is to be able to understand how it works.\n\nIt does NOT need to be a black box.\n\nThis is a key step in helping us understand what is going in these LLMs. https://t.co/waRRR1WmTS",
+          "createdAt": "2026-08-04T16:24:01.000Z",
+          "url": "https://x.com/adityaag/status/2084676740924764625",
+          "likes": 27,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2084671608028057737"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2084663673570971990",
+          "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward. https://t.co/951QDCikV2",
+          "createdAt": "2026-08-04T15:32:05.000Z",
+          "url": "https://x.com/sama/status/2084663673570971990",
+          "likes": 10148,
+          "retweets": 755,
+          "replies": 1045,
+          "isQuote": true,
+          "quotedTweetId": "2084522610998878228"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "url": "https://www.youtube.com/watch?v=wv53mDmY-k0",
+      "publishedAt": "2026-08-04T09:00:00.000Z"
+    }
+  ]
+}

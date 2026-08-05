@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "yes",
+      "zh": "是的"
+    },
+    "joshwoodward": {
+      "en": "Notebook is built for thinking, not toggling.\n\nWhile others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.\n\nUltra and Pro subscribers can jump in now, rolling out to everyone next.",
+      "zh": "笔记本是为思考而设计的，而不是为了切换而设计的。\n\n当其他人添加更多模式时，Notebook 将所有内容保留在一个统一的提示栏中，并且只做您想做的事情。\n\nUltra 和 Pro 订阅者现在就可以加入，然后向所有人推出。"
+    },
+    "thsottiaux": {
+      "en": "What is my title at OpenAI",
+      "zh": "我在 OpenAI 的职位是什么"
+    },
+    "petergyang": {
+      "en": "Hearing that GPT 5.6 Luna High is much cheaper and basically unlimited usage and I'm running low on Sol :P \n\nCan it do complex browser automation tasks? That's 50% of my Codex usage.",
+      "zh": "听说 GPT 5.6 Luna High 便宜得多，而且基本上可以无限使用，但我的 Sol 快用完了 :P \n\n它可以执行复杂的浏览器自动化任务吗？这是我使用 Codex 的 50%。"
+    },
+    "thenanyu": {
+      "en": "Old heads remember Will Smith eating noodles",
+      "zh": "老头脑记得威尔·史密斯吃面条"
+    },
+    "realmadhuguru": {
+      "en": "The best model for early product validation is almost never the best model for production.\n\nTalked to a bunch of founders this weekend. There’s a standard playbook emerging :\n\n1/ Prototype with the best frontier models. Max quality. Ignore cost and latency.\nLearn what users actually want and iterate. \n\n2/ Once the workflow and UX is validated, optimize like crazy for cost and latency - prompt eng, model routing, harnesses, smaller models, fine tuning. \n\nI see most teams get stuck in step 1.",
+      "zh": "早期产品验证的最佳模型几乎从来都不是生产的最佳模型。\n\n这个周末与一群创始人进行了交谈。有一个标准的剧本正在出现：\n\n1/ 具有最佳前沿模型的原型。最大质量。忽略成本和延迟。\n了解用户真正想要什么并进行迭代。 \n\n2/ 一旦工作流程和用户体验得到验证，就可以疯狂地优化成本和延迟 - 提示工程、模型路由、线束、较小的模型、微调。 \n\n我发现大多数团队都陷入了第一步。"
+    },
+    "amasad": {
+      "en": "One might say, the investigation was Bari’d.",
+      "zh": "有人可能会说，调查已经完成了。"
+    },
+    "rauchg": {
+      "en": "𝟸𝟶𝟸𝟼 𝟷,𝟶𝟿𝟹,𝟷𝟿𝟿,𝟿𝟾𝟽+",
+      "zh": "𝟸𝟶𝟸𝟼𝟷、𝟶𝟿𝟹、𝟷𝟿𝟿、𝟿𝟾𝟽+"
+    },
+    "levie": {
+      "en": "One fun benefit of spending so much time with enterprises is you get to see the array of AI implementation strategies that exist in companies right now. \n\nUnlike the early innings of cloud where there were really only a couple deployment patterns available -including being limited by only a couple infra vendors existing- AI actually has a much wider range of approaches in the enterprise.\n\nIf you ask 10 IT leaders what their coding agent strategy looks like, you get at least 5 different answers. If you ask about their end-user productivity agents, some have standardized on ChatGPT or Claude, others offer a choice of multiple solutions, and many have built their own orchestration layers for employees to use any model. \n\nFor models, we know the big ones, but increasingly enterprises are experimenting with OSS models, or are at least immensely curious about OSS and would jump at the right offering that felt safe. And increasingly there’s a set of vertical models and agents that equally show up in enterprises for a range of tailored use-cases.\n\nFor accessing data, some enterprises just have agents take on the role of the user, and others are setting up agent users that have their own identities. Some companies are setting up substantial guardrails on what agents can do, and others are putting responsibility on the user.\n\nGiven this heterogeneity this early on at the start, it means we’re in for years of landscape changes. Anyone who’s predicting ultimate market outcomes already probably will be wrong as nothing has formally settled in yet. Lots of opportunity ahead.",
+      "zh": "花这么多时间与企业打交道的一个有趣的好处是，你可以看到公司目前存在的一系列人工智能实施策略。 \n\n与云的早期发展不同，当时实际上只有几种部署模式可用，包括仅受到现有的几个基础设施供应商的限制，而人工智能实际上在企业中拥有更广泛的方法。\n\n如果您询问 10 位 IT 领导者他们的编码代理策略是什么样的，您会得到至少 5 个不同的答案。如果您询问他们的最终用户生产力代理，一些代理在 ChatGPT 或 Claude 上进行了标准化，其他代理提供了多种解决方案的选择，许多代理还构建了自己的编排层，供员工使用任何模型。 \n\n对于模型，我们知道大型模型，但越来越多的企业正在尝试 OSS 模型，或者至少对 OSS 非常好奇，并且会选择感觉安全的正确产品。越来越多的垂直模型和代理同样出现在企业中，用于一系列定制的用例。\n\n对于数据的访问，有的企业只是让代理承担用户的角色，也有的企业设置有自己身份的代理用户。一些公司正在对代理的行为设置严格的限制，而另一些公司则将责任归咎于用户。\n\n鉴于一开始就存在这种异质性，这意味着我们将面临多年的景观变化。任何已经预测最终市场结果的人都可能是错误的，因为一切还没有正式确定。未来有很多机会。"
+    },
+    "garrytan": {
+      "en": "It's insane that the CA Dem Party is endorsing yes on Prop 40, the asset seizure tax that will destroy the California tax base",
+      "zh": "加州民主党对第 40 号提案表示支持，这太疯狂了，资产扣押税将摧毁加州的税基"
+    },
+    "mattturck": {
+      "en": "What the world              What Europeans \nthinks Europeans            in tech actually in tech do in the               do in the \nSummer.                             Summer.",
+      "zh": "世界是什么欧洲人 \n认为欧洲人在科技领域实际上是在科技领域做事 \n夏天。                             夏天。"
+    },
+    "nikunj": {
+      "en": "the best vibey, air conditioned, quiet coffee shop to meet founders discretely does not exi-",
+      "zh": "最好的氛围、空调、安静的咖啡店不存在，可以与创始人单独会面。"
+    },
+    "danshipper": {
+      "en": "so freaking cool",
+      "zh": "太酷了"
+    },
+    "adityaag": {
+      "en": "The right way to deploy AI at scale is to be able to understand how it works.\n\nIt does NOT need to be a black box.\n\nThis is a key step in helping us understand what is going in these LLMs.",
+      "zh": "大规模部署人工智能的正确方法是能够理解它的工作原理。\n\n它不需要是一个黑匣子。\n\n这是帮助我们了解这些法学硕士的发展的关键一步。"
+    },
+    "sama": {
+      "en": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.",
+      "zh": "我宁愿成为一个乐观主义者并努力工作，也不愿发表悲观主义者的帖子来解释为什么事情行不通。\n\n这要困难得多，最有可能的道路是失败，但如果人们不尝试，社会就会失败。\n\n再多的“这永远行不通”的文章也无法推动社会前进。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:22\nOne of our big guiding principles is just simplicity. So, like, when you look at a model like, let's say, CHI one, I think there are 23 distinct submodules in CHI one. And, like, when you're trying to iterate on something like that, it gets really hard because you're like, I kinda I need to understand each of these sub modules independently. I need to understand all of their behaviors, their dynamics, and, like, that doesn't actually scale that well. So, like, you can s...",
+      "zh": "演讲者 1 | 00:00 - 00:22\n我们的一大指导原则就是简单。因此，当您查看 CHI one 等模型时，我认为 CHI one 中有 23 个不同的子模块。而且，就像，当你尝试迭代类似的东西时，它变得非常困难，因为你就像，我有点需要独立地理解每个子模块。我需要了解他们所有的行为、他们的动态，而且，这实际上并没有那么好。所以，就像，你可以",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
