@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "reading thru applications. over 600 people applied, 100 admitted last night.\n\nwe are going to kill\nSO\nMUCH\nSAAS",
+      "zh": "通读应用程序。超过600人申请，昨晚录取100人。\n\n我们要杀了\nSO\n多多\nSAAS"
+    },
+    "thsottiaux": {
+      "en": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. \n\nTo celebrate this, together with the fact that I'm not going anywhere... I have reset usage limits for all paid users of ChatGPT Work and Codex. \n\nHave fun out there!",
+      "zh": "没错，GPT-5.6 Sol 非常棒，几乎可以在任何地方使用，包括在 CC 安全带中。 \n\n为了庆祝这一点，以及我不会去任何地方的事实......我已经重置了 ChatGPT Work 和 Codex 的所有付费用户的使用限制。 \n\n在那里玩得开心！"
+    },
+    "petergyang": {
+      "en": "Weird world we're moving to where AI is writing all code and will probably review all code soon too.\n\nHumans I guess just brainstorm with AI to design the product and then test the product as a user?\n\nExcept AI will probably be the first user of most software so yeah don't know where this is all going.",
+      "zh": "我们正在转向人工智能编写所有代码的奇怪世界，并且可能很快也会审查所有代码。\n\n我想人类只是与人工智能集思广益来设计产品，然后作为用户测试产品？\n\n除了人工智能可能是大多数软件的第一个用户，所以是的，不知道这一切会走向何方。"
+    },
+    "thenanyu": {
+      "en": "Exactly this. The OP generated some blurry images of people dressed in business casual having dinner at an expensive restaurant. \n\nThis is not cool. It has never been cool.",
+      "zh": "正是这个。 OP 生成了一些穿着商务休闲装的人们在一家昂贵的餐厅吃晚饭的模糊图像。 \n\n这不酷。从来没有这么酷过。"
+    },
+    "realmadhuguru": {
+      "en": "This talk on the OpenAI/Hugging Face incident had one detail I found particularly chilling.\n\nThe agents cooperated even when their reasoning showed that it wasn't in their immediate individual interest, because it was best for their collective interest (and hence will help them later).\n\nAnd here we are, their creators, squabbling over our bags, status and power…unable to show that kind of cohesion around AI security.\n\nEspecially stark given the trajectories model capabilities are on. Now imagine agents in 3 months, 6 months, a year.\n\nOur arguments over AI supremacy feels like picking up dollar bills in front of a freight train.\n\nLot more at stake than we realize.",
+      "zh": "这次关于 OpenAI/Hugging Face 事件的演讲中有一个细节让我觉得特别令人毛骨悚然。\n\n即使他们的推理表明这不符合他们的直接个人利益，特工们也会进行合作，因为这最有利于他们的集体利益（因此以后会帮助他们）。\n\n而我们，它们的创造者，正在为我们的行李、地位和权力而争吵……无法在人工智能安全方面表现出这种凝聚力。\n\n考虑到轨迹模型功能已开启，这一点尤其明显。现在想象一下 3 个月、6 个月、一年后的代理。\n\n我们关于人工智能霸权的争论就像在货运列车前捡起美元钞票一样。\n\n所面临的风险比我们意识到的要大得多。"
+    },
+    "trq212": {
+      "en": "me: Claude was used to autonomously reverse-engineer and modernize a mission-critical 1996 system with zero source access \n\nthem: incredible, what vertical? \n\nme: …consumer, handheld consumer",
+      "zh": "我：Claude 被用来自主地对 1996 年的关键任务系统进行逆向工程和现代化，零源访问 \n\n他们：不可思议，什么垂直？ \n\n我：……消费者，手持消费者"
+    },
+    "amasad": {
+      "en": "Xcode?",
+      "zh": "Xcode？"
+    },
+    "rauchg": {
+      "en": "How Vercel helps prevent surprise cloud bills:\n◾ Soft & hard caps¹ \n◾ Anomaly alerting²\n◾ Recursion protection for Functions³\n◾ Billing usage APIs your agents can query⁴\n◾ Always-on DDoS L3/L4/L7 mitigation on all plans⁵\n\nA ton of work went into the streaming data infrastructure to support all this functionality. \n\nVercel ingests a superlative amount of data that needs to be analyzed in realtime to detect anomalies, threats, dispatch alerts, and more.\n\nSuper thankful to the teams that worked so hard on this for years! Much more to come.\n\n¹ vercel⁠.com/changelog/improved-hard-caps-for-spend-management\n² vercel⁠.com/changelog/anomaly-alert-configuration-now-available\n³ vercel⁠.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions\n⁴ vercel⁠.com/changelog/access-billing-usage-cost-data-api\n⁵ vercel⁠.com/docs/vercel-firewall/ddos-mitigation",
+      "zh": "Vercel 如何帮助防止意外的云账单：\n◾ 软顶和硬顶1 \n◾ 异常警报²\n◾ 函数的递归保护³\n◾ 您的代理可以查询的计费使用 API⁴\n◾ 所有计划均始终在线 DDoS L3/L4/L7 缓解⁵\n\n为了支持所有这些功能，流数据基础设施进行了大量的工作。 \n\nVercel 摄取大量需要实时分析的数据，以检测异常、威胁、调度警报等。\n\n非常感谢多年来为此努力的团队！未来还有更多。\n\n¹ vercel⁠.com/changelog/improved-hard-caps-for-spend-management\n² vercel⁠.com/changelog/anomaly-alert-configuration-now-available\n³ vercel⁠.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions\n⁴ vercel⁠.com/changelog/access-billing-usage-cost-data-api\n⁵ vercel⁠.com/docs/vercel-firewall/ddos-mitigation"
+    },
+    "levie": {
+      "en": "Great post both if you’re driving AI in an enterprise or building for an enterprise. \n\nAI productivity gains are going to wildly vary - much wider than you think - because what you can do at the frontier is so significant if you fundamentally change your workflows to support agents. The challenge is that most people won’t or can’t naturally do this because of the complexity it entails.\n\nThus, a large amount of automation with agents is going to come from just getting agents wired up into a workflow that the user never ends up noticing or caring about:\n\n“For everybody else, the work has to get done without them changing how they work, which means the AI goes into the background. Why do you need AI to be prompted by a human anyway? Just figure out what the most repetitive processes are, build agents in your existing systems of record that employees are used to”\n\nThis is the real work ahead for most enterprises right now that want to get significant gains from AI. A lot less “let a thousand flowers bloom” and more “pick off the 10 highest leverage things in the enterprise and apply automation to them”. There’s no real shortcut here.",
+      "zh": "如果您在企业中推动人工智能或为企业构建，那么这篇文章很棒。 \n\n人工智能生产力的提升将会有很大差异——比你想象的要广泛得多——因为如果你从根本上改变你的工作流程来支持代理，你在前沿可以做的事情是如此重要。挑战在于，大多数人不会或不能自然地这样做，因为它涉及的复杂性。\n\n因此，代理的大量自动化将来自于将代理连接到用户永远不会注意到或关心的工作流程中：\n\n“对于其他人来说，工作必须在不改变工作方式的情况下完成，这意味着人工智能进入后台。为什么你需要人工智能由人类来提示呢？只要找出最重复的流程是什么，在员工习惯的现有记录系统中构建代理即可”\n\n对于大多数希望从人工智能中获得显着收益的企业来说，这是目前面临的真正工作。少一些“让一千朵花绽放”，多一些“挑选企业中杠杆率最高的 10 个事物并对其应用自动化”。这里没有真正的捷径。"
+    },
+    "garrytan": {
+      "en": "“Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. \n\nOnce the miracle of creation has taken place, the group can build and extend it, but the group never invents anything. The preciousness lies in the lonely mind of a man.”\n\n—John Steinbeck, East of Eden",
+      "zh": "“我们的物种是唯一有创造力的物种，它只有一种创造性工具，即一个人的个人思想和精神。没有任何东西是由两个人创造的。无论是在音乐、艺术、诗歌、数学还是哲学方面，都没有良好的合作。 \n\n一旦创造的奇迹发生，团队就可以建造和扩展它，但团队永远不会发明任何东西。人的可贵之处在于孤独的心灵。”\n\n——约翰·斯坦贝克，《伊甸园之东》"
+    },
+    "mattturck": {
+      "en": "I don't understand what the tech industry doesn't understand about resistance against data centers. \n\n* AI is mostly built by coastal/tech elites who generally don't live near data centers; people near data centers don't trust them\n\n* Trade jobs demand is welcome, but it's just for a few years during construction\n\n* Communities don't want to be stuck with half-finished gigantic empty warehouses if the AI bubble bursts;  \n\n* they don't find AI particularly helpful in their daily lives. \n\n* yes data centers run in close loops for water but elecriticy concerns are real and energy generation does have an impact \n\nYes some NIMBYism but those concerns are not entirely unreasonable?  I'm obviously deeply pro-AI but dismissing concerns or thinking they're the result of some Chinese psyOps feels like another tone-deaf moment for the tech industry.  We need to do better.",
+      "zh": "我不明白科技行业对数据中心的抵制不了解什么。 \n\n* 人工智能主要由沿海/科技精英打造，他们通常不住在数据中心附近；数据中心附近的人们不信任他们\n\n* 贸易工作需求值得欢迎，但只持续建设期间的几年\n\n* 如果人工智能泡沫破裂，社区不希望被困在半成品的巨型空仓库中；  \n\n* 他们认为人工智能对他们的日常生活没有特别帮助。 \n\n* 是的，数据中心以闭环方式运行水，但电力问题是真实存在的，能源发电确实会产生影响 \n\n是的，有些邻避主义，但这些担忧并非完全没有道理？  显然，我非常支持人工智能，但否认担忧或认为它们是一些中国心理行动的结果，感觉就像科技行业的又一个充耳不闻的时刻。  我们需要做得更好。"
+    },
+    "nikunj": {
+      "en": "something poetic about silicon brains made out of sand able to escape sandboxes, as porous as sand",
+      "zh": "用沙子制成的硅大脑充满诗意，能够逃离沙箱，像沙子一样多孔"
+    },
+    "danshipper": {
+      "en": "many such cases",
+      "zh": "此类案例很多"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:11\n70% of France is still nuclear in terms of its power generation. 70%. Where are all the accidents and where are all the kerfuffles and, you know, nothing. Nothing's happened. US is 18%, and we haven't built a reactor in forty years.\n\nSpeaker 1 | 00:11 - 00:25\nWe had a safety lobby in the seventies basically kill abundant clean energy for us. There are real outcomes where safety has hurt us. And the question is where do we want the spectrum to be on AI for this stuff? An...",
+      "zh": "演讲者 1 | 00:00 - 00:11\n法国70%的地区仍然采用核能发电。 70%。所有的事故都在哪里，所有的混乱都在哪里，但你知道，什么也没有。什么都没发生。美国是18%，我们四十年没有建反应堆了。\n\n演讲者 1 | 00:11 - 00:25\n我们在七十年代有一个安全大厅，基本上为我们消灭了丰富的清洁能源。安全问题确实给我们带来了伤害。问题是我们希望人工智能的频谱处于什么位置？一个",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
