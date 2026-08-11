@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "worktrees must die\n\nthis is 20GB of repeated node_modules lol",
+      "zh": "工作树必须死\n\n这是 20GB 的重复 node_modules 哈哈"
+    },
+    "thsottiaux": {
+      "en": "Hi.\n\nIt is done.",
+      "zh": "你好。\n\n完成了。"
+    },
+    "petergyang": {
+      "en": "My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end:\n\n1. The first step is to map the actual workflow.\n\nIdentify where work starts, which systems hold context, what actions complete the job, what “done” means, and where a person needs to review. For example, if work starts in Slack, make Slack the on-ramp instead of forcing users to use a separate chatbot.\n\n2. Give agents tools to find context instead of stuffing context into the prompt.\n\nFrom Jacob: “Give it as little instruction as possible. Give it the tools to load context. Don’t give it context.” Start small, then let the agent pull only the instructions and data it needs for the current task.\n\n3. Start with one frequent job, then expand based on real usage.\n\nLinear’s first production workflow turned sales notes and Slack discussions into issues. The team launched it quietly, watched how people used it, and built the next workflows based on real user behavior instead of a grand spec that covered all possible use cases.\n\n4. Start with the strongest model until the workflow works.\n\nJacob: “We tend to throw the biggest model on it until we know that it’s working well.” Once you have clear success criteria and evals, test smaller models on narrow jobs. Cost optimization should come after a quality baseline.\n\n5. Turn every real failure into either an eval or a product task.\n\nLinear created two feedback loops from real usage. If the agent had the right tools but behaved badly, the team added that exact case to its evals. If the agent lacked the required tool, it reported the gap so the system could add it to an existing issue for the team to investigate.\n\n📌 Watch the full episode for the complete walkthrough:",
+      "zh": "我从 @Linear 的 @thenanyu 和 @delashum 得到的关于如何端到端构建出色的生产代理的 5 个最大收获：\n\n1. 第一步是绘制实际工作流程。\n\n确定工作从哪里开始，哪些系统保存上下文，哪些操作完成工作，“完成”意味着什么，以及人员需要检查的地方。例如，如果工作在 Slack 中开始，请将 Slack 作为入口，而不是强迫用户使用单独的聊天机器人。\n\n2. 为客服人员提供查找上下文的工具，而不是将上下文填充到提示中。\n\n来自 Jacob：“给它尽可能少的指令。给它加载上下文的工具。不要给它上下文。”从小处开始，然后让代理仅提取当前任务所需的指令和数据。\n\n3. 从一项常用作业开始，然后根据实际使用情况进行扩展。\n\nLinear 的第一个生产工作流程将销售说明和 Slack 讨论变成了问题。该团队悄悄推出了它，观察人们如何使用它，并根据真实的用户行为构建下一个工作流程，而不是涵盖所有可能用例的宏大规范。\n\n4. 从最强的模型开始，直到工作流程正常运行。\n\n雅各布：“我们倾向于在上面放置最大的模型，直到我们知道它运行良好为止。”一旦您有了明确的成功标准和评估，就可以在狭窄的工作中测试较小的模型。成本优化应该在质量基线之后进行。\n\n5. 将每一次真正的失败转化为评估或产品任务。\n\nLinear 根据实际使用情况创建了两个反馈循环。如果代理拥有正确的工具但表现不佳，团队会将这种具体情况添加到评估中。如果代理缺少所需的工具，它会报告差距，以便系统可以将其添加到现有问题中，供团队调查。\n\n📌 观看完整剧集以了解完整演练："
+    },
+    "realmadhuguru": {
+      "en": "been deep down this rabbit hole at the intersection of AI and consumer experiences recently:\n\nHow do you develop a theory of why someone did something, rather than just a history of what they did?\n\nConsumer products have a mix of explicit signals from search/chat and implicit signals from what you watch, skip, linger on, revisit.\n\nunderstanding what those signals actually mean requires reasoning about context - what’s happening in someone’s life, what’s happening in the world, and how their interests are evolving over time.\n\nand doing this in a near real-time manner for billion user consumer experiences is a whole other challenge.",
+      "zh": "最近，我们深陷人工智能和消费者体验交叉点的兔子洞：\n\n你如何发展一个关于某人为什么做某事的理论，而不仅仅是他们所做事情的历史？\n\n消费产品混合了来自搜索/聊天的显式信号和来自您观看、跳过、停留、重访的隐式信号。\n\n要理解这些信号的实际含义，需要对背景进行推理——某人的生活中正在发生什么，世界上正在发生什么，以及他们的兴趣如何随着时间的推移而演变。\n\n以近乎实时的方式为十亿用户提供消费者体验是另一个挑战。"
+    },
+    "trq212": {
+      "en": "I think this shows 2 key skills w/ AI\n\n1) compute allocation - for most jobs there's not a list of \"X most important problems\", you have to decide what problems are worth it\n\n2) thought partnership - @__alpoge__ had to really dig into and understand the proof to know it was real",
+      "zh": "我认为这显示了人工智能的 2 个关键技能\n\n1）计算分配 - 对于大多数工作来说，没有“X个最重要的问题”的列表，你必须决定哪些问题值得\n\n2）思想伙伴关系 - @__alpoge__ 必须真正深入研究并理解证据才能知道它是真实的"
+    },
+    "GoogleLabs": {
+      "en": "We love to test new ideas, get quick feedback from you, and learn. With this, we've gathered so many great insights from our Portraits experiment and are concluding it on September 14.\n\nWe’ll be taking what we learned about expert-grounded AI and weaving it into other Google products.\n\nThank you for experimenting with us. Stay tuned for what's next and keep trying out our other experiments at",
+      "zh": "我们喜欢测试新想法、快速获得您的反馈并学习。至此，我们从肖像实验中收集到了许多重要的见解，并将于 9 月 14 日结束。\n\n我们将把我们所学到的基于专家的人工智能的知识融入到其他谷歌产品中。\n\n感谢您与我们一起进行实验。请继续关注接下来的内容，并继续尝试我们的其他实验："
+    },
+    "rauchg": {
+      "en": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel.\n\n“Did you deepsec it?”\n“@𝚟 can you deepsec”\n“/𝚍𝚎𝚎𝚙𝚜𝚎𝚌”\n\nIt’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠 but for the security of your code. Must have in your software factory.",
+      "zh": "该工具对于网络安全防御工作变得非常有价值，以至于它已成为 Vercel 中的一个动词。\n\n“你对它进行了深度加密吗？”\n“@𝚟 你能深度安全吗”\n“/𝚍𝚎𝚎𝚙𝚜𝚎𝚌”\n\n有点像/𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌 𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠但为了你的代码的安全。您的软件工厂中必须有。"
+    },
+    "levie": {
+      "en": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. \n\nThis will continue to help drive down the cost of intelligence, it allows companies to run models as they see fit, as well as allows them to post train their own models for specific use-cases to get better performance gains in their domain. And provides a realistic option for those previously closed off from OSS models.\n\nThis is broadly net positive for AI - even frontier closed models - because it helps drive further diffusion of AI. Big moment in the AI race.",
+      "zh": "Meta 以开放权重形式发布 Muse Spark 1.2 是一件“非常”大事。美国现在终于对公开重量级人工智能竞赛做出了回应。 \n\n这将继续帮助降低情报成本，它允许公司按照他们认为合适的方式运行模型，并允许他们针对特定用例对自己的模型进行后期训练，以便在其领域获得更好的性能提升。并为那些以前与 OSS 模型隔绝的人提供了一个现实的选择。\n\n这对人工智能（甚至是前沿封闭模型）来说总体上是积极的，因为它有助于推动人工智能的进一步传播。人工智能竞赛的重要时刻。"
+    },
+    "ryolu_": {
+      "en": "i left Cursor.\n\nafter 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer.\n\ni’m leaving with gratitude, but also with the feeling that i need a different rhythm.\n\nslower time. different weather. more culture, aliveness, and humans in the everyday.\n\nAsia feels like the right place to begin again.\n\nto stay grounded, experience life more fully, and build freely.\n\ni’ll share what i find along the way!",
+      "zh": "我离开了光标。\n\n在旧金山的科技泡沫中待了 10 年之后，Cursor 感觉自己就像那个世界中最敏锐的版本——快速、激烈、雄心勃勃，充满了试图拉近未来的人们。\n\n我带着感激之情离开，但也感觉我需要不同的节奏。\n\n较慢的时间。不同的天气。日常生活中更多的文化、活力和人类。\n\n亚洲似乎是重新开始的正确地点。\n\n脚踏实地，更充分地体验生活，自由地建造。\n\n我会分享我一路上发现的东西！"
+    },
+    "garrytan": {
+      "en": "Are they going to send this to China too?",
+      "zh": "他们也要把这个寄到中国吗？"
+    },
+    "mattturck": {
+      "en": "Big Data era: \"our data science models work great, the problem is the underlying data\"\n\nModern data stack era:  \"our dashboards work great, the problem is the underlying data\"\n\nGen AI era: our chatbot works great, the problem is the underlying data\n\nAgentic AI era: \"our agents work great, the problem is the underlying data\"",
+      "zh": "大数据时代：“我们的数据科学模型效果很好，问题在于底层数据”\n\n现代数据堆栈时代：“我们的仪表板运行良好，问题在于底层数据”\n\nGen AI时代：我们的聊天机器人运行良好，问题在于底层数据\n\n代理AI时代：“我们的代理工作得很好，问题在于底层数据”"
+    },
+    "steipete": {
+      "en": "Must be load-bearing.",
+      "zh": "必须是承重的。"
+    },
+    "danshipper": {
+      "en": "co-sign",
+      "zh": "共同签署"
+    },
+    "adityaag": {
+      "en": "The most ambitious founders are building bigger than ever before.\n\nMy conversation with @tbpn on what's next for @spc",
+      "zh": "最雄心勃勃的创始人正在建设比以往任何时候都更大的建筑。\n\n我与 @tbpn 就 @spc 的下一步计划进行的对话"
+    },
+    "sama": {
+      "en": "please consider using our models to help defend your systems",
+      "zh": "请考虑使用我们的模型来帮助保护您的系统"
+    },
+    "claudeai": {
+      "en": "We're making Claude Sonnet 5's introductory pricing permanent.\n\nWe launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
+      "zh": "我们将永久保留 Claude Sonnet 5 的介绍性定价。\n\n我们于 6 月推出了 Sonnet 5，截至 8 月 31 日，每百万输入代币 2 美元，每百万输出代币 10 美元，并且该价格将保持不变。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:30\nToday on our priors, we're joined by Melissa Tachmak. Melissa is the founder and CEO of Netic, a company that builds AI for different real world services like HVAC, pet care, a variety of other things like that, roofers. Prior to Netic, Melissa was a director of engineering and worked on various aspects of go to market for Scale dot AI and, also has experiences from Meta. Welcome to No Prize, Melissa. Melissa, thanks for joining us today at No Prize.\n\nSpeaker 2 | 00:30 ...",
+      "zh": "演讲者 1 | 00:05 - 00:30\n今天，梅丽莎·塔马克 (Melissa Tachmak) 也加入了我们的会前活动。 Melissa 是 Netic 的创始人兼首席执行官，该公司为 HVAC、宠物护理、屋顶工等各种其他服务构建人工智能。在加入 Netic 之前，Melissa 曾担任工程总监，负责 Scale dot AI 上市的各个方面，并且还拥有 Meta 的经验。欢迎来到无奖，梅丽莎。梅丽莎，感谢您今天加入我们的无奖活动。\n\n扬声器 2 | 00:30",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
