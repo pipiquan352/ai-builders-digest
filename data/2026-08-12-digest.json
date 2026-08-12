@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "if you have a better skill cutting policy or skill cutting skill lmk",
+      "zh": "如果你有更好的技能削减政策或者技能削减技能lmk"
+    },
+    "joshwoodward": {
+      "en": "🌏On behalf of the whole Gemini team, thank you\nWhether you use Gemini on the Web, Android, iOS, or inside Chrome, we’ll keep listening to your feedback as we keep building for the next billion!",
+      "zh": "🌏谨代表整个Gemini团队，谢谢你们\n无论您在 Web、Android、iOS 还是在 Chrome 中使用 Gemini，我们都会继续倾听您的反馈，为下一个十亿目标不断发展！"
+    },
+    "bcherny": {
+      "en": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code review has been an incredibly powerful tool to catch many of these kinds of bugs.\n\nIt can be as simple as a one line prompt - “use a dynamic workflow to adversarial test every edge case in an iOS simulator”, or use Claude’s built in /code-review (or /code-review low, /code-review medium, etc.)",
+      "zh": "法学硕士仍然会产生错误，但这些错误与以前不同。它不太独立，更多的是关于系统设计、用户界面可用性、缺少更广泛的背景。某些类型的编码已得到解决，但并非全部。\n\n虽然模型不断改进，但对抗性代码审查已成为捕获许多此类错误的极其强大的工具。\n\n它可以像一行提示一样简单 - “使用动态工作流程来对抗性测试 iOS 模拟器中的每个边缘情况”，或者使用 Claude 内置的 /code-review（或 /code-review low、/code-reviewmedium 等）"
+    },
+    "thsottiaux": {
+      "en": "We did it, finally... Codex &amp; ChatGPT desktop, now on Linux. \n\nThanks for waiting and you can cancel that MacBook order if you got impatient. It’s that good.\n\n👀",
+      "zh": "我们终于做到了...Codex 和 ChatGPT 桌面，现在在 Linux 上。 \n\n感谢您的等待，如果您不耐烦，可以取消 MacBook 订单。那就太好了。\n\n👀"
+    },
+    "petergyang": {
+      "en": "Trying to onboard my parents to ChatGPT desktop app and the separation between Chat, Work, and Codex and the lack of consistency across ChatGPT web, desktop, and mobile apps is all incredibly messy.\n\nI think the team should do a clean up / quality pass or maybe ask Codex to do it.\n\n(I say all this as a Codex fan)",
+      "zh": "尝试让我的父母使用 ChatGPT 桌面应用程序，而 Chat、工作和 Codex 之间的分离以及 ChatGPT Web、桌面和移动应用程序之间缺乏一致性都非常混乱。\n\n我认为团队应该进行清理/质量检查，或者要求 Codex 来做。\n\n（我是作为 Codex 粉丝说这一切的）"
+    },
+    "thenanyu": {
+      "en": "Even my 9-month old understands the parable of the hungry caterpillar",
+      "zh": "连我九个月大的孩子都明白饥饿毛毛虫的寓言"
+    },
+    "realmadhuguru": {
+      "en": "There’s going to be a ton of money in making open-weight models exceptional at boring, specific business domains.\n\nPick a size x domain combination and go deep. Eg mid-market legal, smb retail, enterprise logistics. \n\nThe hyperscalers have the primitives but will struggle with domain depth, scrappiness and sheer will to make a model exceptional for one particular kind of business.\n\nAnd that is your opportunity.",
+      "zh": "要让开放权重模型在枯燥的特定业务领域表现出色，需要投入大量资金。\n\n选择大小 x 域组合并深入研究。例如，中端市场法律、中小企业零售、企业物流。 \n\n超大规模企业拥有原始能力，但会在领域深度、斗志和纯粹意志方面进行斗争，以打造适合某一特定类型业务的卓越模型。\n\n这就是你的机会。"
+    },
+    "trq212": {
+      "en": "This is part of working with the EU AI Act, other labs are adding similar watermarking.\n\nIt’s hard to identify AI-generated text, and this gives people better tools to do that.  We’ll also be a shipping text detection API that you can use yourself.",
+      "zh": "这是欧盟人工智能法案合作的一部分，其他实验室正在添加类似的水印。\n\n识别人工智能生成的文本很困难，这为人们提供了更好的工具来做到这一点。  我们还将提供您可以自己使用的运输文本检测 API。"
+    },
+    "rauchg": {
+      "en": "The growth of @aisdk has been astonishing. ~80.5M downloads every 30 days, and growing faster than all AI labs SDKs. Most importantly: open and provider-agnostic.",
+      "zh": "@aisdk 的成长是惊人的。每 30 天下载量约为 8050 万次，增长速度超过所有 AI 实验室 SDK。最重要的是：开放且与提供商无关。"
+    },
+    "levie": {
+      "en": "Good post on how to think about FDEs. The key is that FDEs are real and not going away for AI any time soon.\n\nThe reason this is happening now at a scale that has never been seen before is because AI is fundamentally about adding a non-deterministic, rapidly changing system to workflows that largely have never been automated before. This looks very little like implementing traditional software.\n\n“If you're building an AI agent for accounting in 2026, there is no established workflow, because literally nobody has ever used one of these. Nobody knows what the user journey looks like — not you, and importantly, not your customer either. They can't tell you what they want, because the thing they'd want doesn't have a shape yet.”\n\nSoftware has largely always been deterministic and once implemented effectively worked the same for customers. This meant the upfront implementation work was *relatively* uniform across similar customers, and the system wasn’t regularly being upgraded in fundamental ways. \n\nAI agents are entirely different on nearly every dimension. The customer’s business process has to change to work with agents, there is heavy -necessary- customization to get agents to work in the customers end-state process, evals need to be run constantly, the AI models are constantly changing and updates need to keep getting incorporated, the underlying harness and broader system are often changing due to customer feedback, and much more. \n\nThis is real work for the customer, systems integrators, and the applied AI vendors. Even as AI capabilities improve dramatically, this work remains (or even gets more complicated) given enterprises will just throw increasingly more complex processes at agents. Great time to be an FDE.",
+      "zh": "关于如何思考 FDE 的好文章。关键是 FDE 是真实存在的，并且不会很快因人工智能而消失。\n\n这种情况现在以前所未有的规模发生的原因是，人工智能从根本上讲是在工作流程中添加一个不确定的、快速变化的系统，而这些工作流程基本上以前从未实现过自动化。这看起来与实施传统软件非常不同。\n\n“如果你要在 2026 年构建一个用于会计的人工智能代理，那么就没有既定的工作流程，因为实际上没有人使用过其中之一。没有人知道用户旅程是什么样的——你不知道，重要的是，你的客户也不知道。他们无法告诉你他们想要什么，因为他们想要的东西还没有成型。”\n\n软件在很大程度上始终是确定性的，一旦有效实施，对客户来说同样有效。这意味着类似客户的前期实施工作“相对”统一，并且系统没有定期进行基本升级。 \n\n人工智能代理几乎在每个维度上都完全不同。客户的业务流程必须改变才能与代理一起工作，需要进行大量必要的定制才能让代理在客户的最终状态流程中工作，评估需要不断运行，人工智能模型不断变化，更新需要不断整合，底层工具和更广泛的系统经常由于客户反馈而发生变化，等等。 \n\n对于客户、系统集成商和应用人工智能供应商来说，这是真正的工作。即使人工智能能力显着提高，这项工作仍然存在（甚至变得更加复杂），因为企业只会向代理抛出越来越复杂的流程。成为 FDE 的好时机。"
+    },
+    "garrytan": {
+      "en": "Deep alignment of your AI with you and your context is massively important\n\nImportant new work by @ibab and team",
+      "zh": "您的人工智能与您以及您的环境的深度一致性非常重要\n\n@ibab 和团队的重要新工作"
+    },
+    "mattturck": {
+      "en": "The Hugging Face intrusion got all the press, but the AISI incident last week might even more disturbing:  the first time an AI model autonomously manipulates a *human* (an open-source maintainer) while pursuing another goal (in the wild and unprompted) - @Thom_Wolf",
+      "zh": "Hugging Face 入侵引起了所有媒体的关注，但上周的 AISI 事件可能更令人不安：人工智能模型第一次自主操纵*人类*（开源维护者），同时追求另一个目标（在野外和无提示的情况下） - @Thom_Wolf"
+    },
+    "nikunj": {
+      "en": "if a founder cancels on you on a scheduled meeting, that’s a sign of great respect in their culture",
+      "zh": "如果创始人取消了你预定的会议，这在他们的文化中是一种非常尊重的表现"
+    },
+    "danshipper": {
+      "en": "i am claude's stay-at-home boyfriend",
+      "zh": "我是克劳德的全职男友"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nThese are not the tokens you're gonna find online. Like, you can't crawl Reddit and find out about what happened on a construction site. The Samsara system, in a given day, we're driving 99% of The US roads, usually multiple times a day. I was just in the field last week with a large energy utility, and they shared with me a really interesting stat. They said over the last hundred twenty five years, we built a certain amount of grid capacity.\n\nSpeaker 1 | 00:21 - 00:31\n...",
+      "zh": "演讲者 1 | 00:00 - 00:21\n这些不是您在网上找到的代币。比如，你无法爬行 Reddit 来了解建筑工地上发生的事情。 Samsara 系统，在某一天，我们在美国 99% 的道路上行驶，通常一天多次。上周我刚刚到一家大型能源公用事业公司现场，他们与我分享了一个非常有趣的统计数据。他们说，在过去的一百二十五年里，我们建立了一定数量的电网容量。\n\n演讲者 1 | 00:21 - 00:31",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
