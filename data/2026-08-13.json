@@ -1,0 +1,474 @@
+{
+  "generatedAt": "2026-08-13T14:57:12.794Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2087691099691475285",
+          "text": "Perplexity offered to buy @googlechrome one year ago today\n\n(this is a scheduled tweet) https://t.co/EdFp28P2qO",
+          "createdAt": "2026-08-13T00:02:00.000Z",
+          "url": "https://x.com/swyx/status/2087691099691475285",
+          "likes": 1223,
+          "retweets": 14,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087437017840046156",
+          "text": "this is already one of the most important papers of this year.\n\nhttps://t.co/0f3ma9POEG\n\nthe methodology doesnt seem clearly explained so here are some notes with a further distillation https://t.co/VHBTmiwx3e",
+          "createdAt": "2026-08-12T07:12:22.000Z",
+          "url": "https://x.com/swyx/status/2087437017840046156",
+          "likes": 316,
+          "retweets": 15,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2087147042888114428"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2087751559606407615",
+          "text": "Gemini gets things done across the apps you use every day. Starting today, another wave of integrations are rolling out. If you want to partner with us, DM me.\n\nAngi (formerly Angie's List)\nFever\nGetYourGuide\nGranola\niHeartRadio\nLocaliza\nOpenTable\nOtter\nPandora\nThumbtack\nTicketmaster\nWix\nZocdoc\nZoho",
+          "createdAt": "2026-08-13T04:02:15.000Z",
+          "url": "https://x.com/joshwoodward/status/2087751559606407615",
+          "likes": 241,
+          "retweets": 11,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2087567329567904048"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2087706104814023111",
+          "text": "Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.",
+          "createdAt": "2026-08-13T01:01:37.000Z",
+          "url": "https://x.com/thsottiaux/status/2087706104814023111",
+          "likes": 10790,
+          "retweets": 580,
+          "replies": 2378,
+          "isQuote": true,
+          "quotedTweetId": "2087423996115681767"
+        },
+        {
+          "id": "2087614555203809395",
+          "text": "Typical conversation with @ajambrosino \n\nA: core alignment has been reached\nT: core alignment you say\nA: i say\nT: say more\nA: more\n\nAnd yet I’ve never been more excited about what him and the team are building.",
+          "createdAt": "2026-08-12T18:57:50.000Z",
+          "url": "https://x.com/thsottiaux/status/2087614555203809395",
+          "likes": 2480,
+          "retweets": 35,
+          "replies": 269,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087439859493617908",
+          "text": "Also don’t say Linux, we just shipped that.",
+          "createdAt": "2026-08-12T07:23:39.000Z",
+          "url": "https://x.com/thsottiaux/status/2087439859493617908",
+          "likes": 2173,
+          "retweets": 9,
+          "replies": 208,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2087656368341966904",
+          "text": "This is such a beautiful eulogy from Messi to his dad. Got me a bit teary eyed. https://t.co/Bn6GBBJwqj",
+          "createdAt": "2026-08-12T21:43:59.000Z",
+          "url": "https://x.com/petergyang/status/2087656368341966904",
+          "likes": 164,
+          "retweets": 5,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087547168764862495",
+          "text": "I believe the way we use computers will soon change forever.\n\nWe’re moving from doing work manually with a keyboard, mouse, and laptop to directing agents in the cloud using our voices.\n\nIn my new essay, I cover why:\n\n1. Voice is becoming the orchestration layer\n2. Personal computers will move to the cloud\n3. Trust will be the key differentiator\n\nRead it here (it’s 100% free): https://t.co/cPvIqq0mge",
+          "createdAt": "2026-08-12T14:30:04.000Z",
+          "url": "https://x.com/petergyang/status/2087547168764862495",
+          "likes": 90,
+          "retweets": 11,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2087706598542290958",
+          "text": "I miss when teams actually whiteboarded. Sad casualty of the Covid wfh era.\n\nThere was something playful about standing around a board, drawing half-baked ideas, interrupting each other and jointly shaping things.\n\nYears of Zoom and Google Meet seem to have beaten that instinct out of people.",
+          "createdAt": "2026-08-13T01:03:35.000Z",
+          "url": "https://x.com/realmadhuguru/status/2087706598542290958",
+          "likes": 30,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087553833098723547",
+          "text": "The biggest alpha in AI products over the next few years is in the application layer.\n\nModels will keep getting cheaper, better and more local.\n\nThe differentiation will come from deeply understanding specific user workflows and having the imagination to redesign the experience around them.\n\nThe denominator of people who can build AI products is about to get enormous.\n\nSo being in the top 0.1% of builders will matter more than ever.",
+          "createdAt": "2026-08-12T14:56:33.000Z",
+          "url": "https://x.com/realmadhuguru/status/2087553833098723547",
+          "likes": 178,
+          "retweets": 12,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2087606022961865148",
+          "text": "The bar for \"ethical\" playthroughs of different games is interesting. In Bioshock, the bar is literally not murdering children. Murdering adults is fine.",
+          "createdAt": "2026-08-12T18:23:56.000Z",
+          "url": "https://x.com/AmandaAskell/status/2087606022961865148",
+          "likes": 143,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087597131800674495",
+          "text": "When I started playing Skyrim, I quickly realized you can make a lot of progress without doing any killing. You can also adopt orphans and build them nice houses, so I focused on that. I honestly don't really remember the plot beyond \"that challenging fantasy philanthropy game\".",
+          "createdAt": "2026-08-12T17:48:36.000Z",
+          "url": "https://x.com/AmandaAskell/status/2087597131800674495",
+          "likes": 968,
+          "retweets": 37,
+          "replies": 98,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2087736311885218160",
+          "text": "Endless opportunity everywhere you look",
+          "createdAt": "2026-08-13T03:01:39.000Z",
+          "url": "https://x.com/rauchg/status/2087736311885218160",
+          "likes": 1091,
+          "retweets": 87,
+          "replies": 76,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087698195120116064",
+          "text": "This is such a nice improvement.\n\nTry 𝚗𝚙𝚡 𝚜𝚊𝚗𝚍𝚋𝚘𝚡@𝚕𝚊𝚝𝚎𝚜𝚝 𝚜𝚑 – it's mind-blowing. It feels faster than your local machine. \n\nSandbox now comes with a reasonable default set of pre-installed tools, and you can fully customize them. https://t.co/sJM6bvpc18",
+          "createdAt": "2026-08-13T00:30:11.000Z",
+          "url": "https://x.com/rauchg/status/2087698195120116064",
+          "likes": 185,
+          "retweets": 7,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2087682908576416172"
+        },
+        {
+          "id": "2087631388359242050",
+          "text": "Seedance 2.5 on @vercel AI Gateway 🐇 https://t.co/Ql9zpuJpBD",
+          "createdAt": "2026-08-12T20:04:43.000Z",
+          "url": "https://x.com/rauchg/status/2087631388359242050",
+          "likes": 238,
+          "retweets": 9,
+          "replies": 28,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2087719356763672917",
+          "text": "Awesome day in terms of new model releases from both Deepseek and Grok. Both of these new model updates represent huge jumps in capability at insanely low costs. \n\nThis is truly Jevons paradox for AI playing out. By bringing down the cost of AI, demand will continue to accelerate. When I talk to enterprises, they have vastly more use-cases for what they’d like agents to handle than generally what they’re able to budget for today. \n\nThey want agents to scan their codebases for security issues. They want agents to review all their documents. They want agents to process information in a large portion of their workflows. And so on. When we bring down the cost of AI or drive up capability levels, it opens up all new use cases in the enterprises, which drives even greater demand.\n\nThis is also great for the applied AI layer. The more choice of models - especially those tuned for different types (or costs) of work - the more value there is in being at the layer that can route and optimize based on the task. Great for the entire stack right now.",
+          "createdAt": "2026-08-13T01:54:17.000Z",
+          "url": "https://x.com/levie/status/2087719356763672917",
+          "likes": 212,
+          "retweets": 13,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2087577925919068639"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2087625178293604438",
+          "text": "We are gonna be markdown skill-maxxing from here\n\nThank you @illscience for a fun conversation https://t.co/SvyGMlmclh",
+          "createdAt": "2026-08-12T19:40:03.000Z",
+          "url": "https://x.com/garrytan/status/2087625178293604438",
+          "likes": 337,
+          "retweets": 21,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2087624058649321869"
+        },
+        {
+          "id": "2087597829065945249",
+          "text": "Running GBrain with Codex or Claude Code should be a *separate agent* and I wouldn't expect you to run it in your main coding agent.\n\nThink of it more like a personal AI version of ChatGPT or Claude that has its own git repo for memory and custom skills.",
+          "createdAt": "2026-08-12T17:51:22.000Z",
+          "url": "https://x.com/garrytan/status/2087597829065945249",
+          "likes": 20,
+          "retweets": 2,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087594114372259890",
+          "text": "GBrain just dropped v0.45.6.0 which added 17 new brain skills hardened through my own personal OpenClaw agent with hundreds of thousands of markdown files. \n\nA personal AGI is one that works for you. GBrain now works with Codex and Claude code, btw.\n\nhttps://t.co/yFpFU4pn5b https://t.co/MqpMfX4wsX",
+          "createdAt": "2026-08-12T17:36:37.000Z",
+          "url": "https://x.com/garrytan/status/2087594114372259890",
+          "likes": 616,
+          "retweets": 45,
+          "replies": 71,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2087528600849252696",
+          "text": "Graph engineering is the new loop engineering which is the new harness engineering which is the new context engineering which is the new prompt engineering. \n\nHope this clarifies any confusion.",
+          "createdAt": "2026-08-12T13:16:17.000Z",
+          "url": "https://x.com/mattturck/status/2087528600849252696",
+          "likes": 34,
+          "retweets": 0,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2087664045797294212",
+          "text": "Still maintain that @TheEthanDing is a mad mad genius.. this latest post is a good reminder https://t.co/eeWTkVU3FT https://t.co/5H6Iy8tCds",
+          "createdAt": "2026-08-12T22:14:30.000Z",
+          "url": "https://x.com/nikunj/status/2087664045797294212",
+          "likes": 85,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2087657856354955507"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2087607369908023354",
+          "text": "going live! https://t.co/rfoAYqKWzX",
+          "createdAt": "2026-08-12T18:29:17.000Z",
+          "url": "https://x.com/steipete/status/2087607369908023354",
+          "likes": 93,
+          "retweets": 11,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2087552996838367715"
+        },
+        {
+          "id": "2087568620465607078",
+          "text": "cli was a year ago. apps maybe 6 months. now it’s services, web, cloud sessions. https://t.co/UlwOZslqX9",
+          "createdAt": "2026-08-12T15:55:18.000Z",
+          "url": "https://x.com/steipete/status/2087568620465607078",
+          "likes": 1190,
+          "retweets": 41,
+          "replies": 82,
+          "isQuote": true,
+          "quotedTweetId": "2087387365224685739"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2087678775517442399",
+          "text": "something analog dropping tomorrow 👀 https://t.co/DHSS1NKBDI",
+          "createdAt": "2026-08-12T23:13:01.000Z",
+          "url": "https://x.com/danshipper/status/2087678775517442399",
+          "likes": 38,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087556463770157432",
+          "text": "Update: we’re rebranding to “Word” it’s cleaner",
+          "createdAt": "2026-08-12T15:07:00.000Z",
+          "url": "https://x.com/danshipper/status/2087556463770157432",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087555423893065872",
+          "text": "im starting a new content agency \"One Word\" \n\ninspired by @ajambrosino help AI labs grow on X by posting one word a day\n\nthis is the new meta. don't just go direct. go one word at a time https://t.co/EhirSaEmIE",
+          "createdAt": "2026-08-12T15:02:52.000Z",
+          "url": "https://x.com/danshipper/status/2087555423893065872",
+          "likes": 40,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2087551322992283901"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2087563719181996295",
+          "text": "We spoke with @ETtech about @spc https://t.co/4KpFh7LUc7",
+          "createdAt": "2026-08-12T15:35:50.000Z",
+          "url": "https://x.com/adityaag/status/2087563719181996295",
+          "likes": 8,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087563716350902530",
+          "text": "We're bullish on India.\n\n@spc_india was our first bet outside the US.\n\nSome of the most ambitious projects of the decade will be built there. \n\nIndian dynamism is here to stay. https://t.co/Td8eQuJQeV",
+          "createdAt": "2026-08-12T15:35:49.000Z",
+          "url": "https://x.com/adityaag/status/2087563716350902530",
+          "likes": 319,
+          "retweets": 10,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+      "tweets": [
+        {
+          "id": "2087635265066004694",
+          "text": "Browser agents can be tricked by instructions hidden in a page. We build defenses against this, and we still recommend a few habits of your own: https://t.co/aHIHLNkOnk",
+          "createdAt": "2026-08-12T20:20:08.000Z",
+          "url": "https://x.com/claudeai/status/2087635265066004694",
+          "likes": 245,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087635263774232617",
+          "text": "The side panel now runs the same Claude Cowork session as the desktop, web, and mobile apps. Sessions live with your account, not on any single device, so you can start in a tab and pick it up later somewhere else.\n\nGive it a try: https://t.co/8xTEK7osxX",
+          "createdAt": "2026-08-12T20:20:07.000Z",
+          "url": "https://x.com/claudeai/status/2087635263774232617",
+          "likes": 388,
+          "retweets": 13,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087635262390026525",
+          "text": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser.\n\nAvailable on Max and Team today, rolling out to Pro in the coming weeks. https://t.co/Hnxs18PVI8",
+          "createdAt": "2026-08-12T20:20:07.000Z",
+          "url": "https://x.com/claudeai/status/2087635262390026525",
+          "likes": 8533,
+          "retweets": 615,
+          "replies": 382,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-12T16:55:27.000Z"
+    }
+  ]
+}

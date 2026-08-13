@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Perplexity offered to buy @googlechrome one year ago today\n\n(this is a scheduled tweet)",
+      "zh": "一年前的今天，困惑提出购买@googlechrome\n\n（这是预定的推文）"
+    },
+    "joshwoodward": {
+      "en": "Gemini gets things done across the apps you use every day. Starting today, another wave of integrations are rolling out. If you want to partner with us, DM me.\n\nAngi (formerly Angie's List)\nFever\nGetYourGuide\nGranola\niHeartRadio\nLocaliza\nOpenTable\nOtter\nPandora\nThumbtack\nTicketmaster\nWix\nZocdoc\nZoho",
+      "zh": "双子座可以通过您每天使用的应用程序完成工作。从今天开始，另一波整合即将展开。如果您想与我们合作，请DM我。\n\n安吉（原安吉的名单）\n发烧\n获取您的指南\n格兰诺拉麦片\n爱心电台\n本地化\n开放表\n水獭\n潘多拉\n图钉\n票务大师\n维克斯\n佐克多克\n佐霍"
+    },
+    "thsottiaux": {
+      "en": "Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.",
+      "zh": "其实是几天前的老新闻了，但是已经超过了15M。大家享受一次美好的重置吧。大约一个小时后着陆，快走。"
+    },
+    "petergyang": {
+      "en": "This is such a beautiful eulogy from Messi to his dad. Got me a bit teary eyed.",
+      "zh": "这是梅西对他父亲的美丽悼词。让我有点热泪盈眶。"
+    },
+    "realmadhuguru": {
+      "en": "The biggest alpha in AI products over the next few years is in the application layer.\n\nModels will keep getting cheaper, better and more local.\n\nThe differentiation will come from deeply understanding specific user workflows and having the imagination to redesign the experience around them.\n\nThe denominator of people who can build AI products is about to get enormous.\n\nSo being in the top 0.1% of builders will matter more than ever.",
+      "zh": "未来几年人工智能产品最大的阿尔法是在应用层。\n\n车型将会变得更便宜、更好、更本土化。\n\n差异化将来自于对特定用户工作流程的深入理解，并具有围绕其重新设计体验的想象力。\n\n能够构建人工智能产品的人数将变得巨大。\n\n因此，成为前 0.1% 的建筑商比以往任何时候都更加重要。"
+    },
+    "AmandaAskell": {
+      "en": "When I started playing Skyrim, I quickly realized you can make a lot of progress without doing any killing. You can also adopt orphans and build them nice houses, so I focused on that. I honestly don't really remember the plot beyond \"that challenging fantasy philanthropy game\".",
+      "zh": "当我开始玩《天际》时，我很快意识到你可以在不进行任何杀戮的情况下取得很大的进步。你也可以收养孤儿，为他们建造漂亮的房子，所以我专注于这一点。老实说，我不太记得“那个具有挑战性的幻想慈善游戏”之外的情节。"
+    },
+    "rauchg": {
+      "en": "Endless opportunity everywhere you look",
+      "zh": "随处可见无限商机"
+    },
+    "levie": {
+      "en": "Awesome day in terms of new model releases from both Deepseek and Grok. Both of these new model updates represent huge jumps in capability at insanely low costs. \n\nThis is truly Jevons paradox for AI playing out. By bringing down the cost of AI, demand will continue to accelerate. When I talk to enterprises, they have vastly more use-cases for what they’d like agents to handle than generally what they’re able to budget for today. \n\nThey want agents to scan their codebases for security issues. They want agents to review all their documents. They want agents to process information in a large portion of their workflows. And so on. When we bring down the cost of AI or drive up capability levels, it opens up all new use cases in the enterprises, which drives even greater demand.\n\nThis is also great for the applied AI layer. The more choice of models - especially those tuned for different types (or costs) of work - the more value there is in being at the layer that can route and optimize based on the task. Great for the entire stack right now.",
+      "zh": "Deepseek 和 Grok 发布的新模型真是棒极了。这两种新型号的更新都代表着以极低的成本实现了功能的巨大飞跃。 \n\n这确实是人工智能的杰文斯悖论。通过降低人工智能的成本，需求将继续加速。当我与企业交谈时，他们希望代理处理的用例比他们今天能够预算的用例要多得多。 \n\n他们希望代理扫描他们的代码库以查找安全问题。他们希望代理人审查他们的所有文件。他们希望代理能够在大部分工作流程中处理信息。等等。当我们降低人工智能的成本或提高能力水平时，它会在企业中开辟所有新的用例，从而推动更大的需求。\n\n这对于应用的人工智能层来说也非常有用。模型的选择越多——尤其是那些针对不同类型（或成本）的工作进行调整的模型——位于可以根据任务进行路由和优化的层中的价值就越大。现在非常适合整个堆栈。"
+    },
+    "garrytan": {
+      "en": "GBrain just dropped v0.45.6.0 which added 17 new brain skills hardened through my own personal OpenClaw agent with hundreds of thousands of markdown files. \n\nA personal AGI is one that works for you. GBrain now works with Codex and Claude code, btw.",
+      "zh": "GBrain 刚刚发布了 v0.45.6.0，它添加了 17 项新的大脑技能，这些技能是通过我自己的个人 OpenClaw 代理和数十万个 Markdown 文件强化的。 \n\n个人 AGI 是适合您的 AGI。顺便说一句，GBrain 现在可以使用 Codex 和 Claude 代码。"
+    },
+    "mattturck": {
+      "en": "Graph engineering is the new loop engineering which is the new harness engineering which is the new context engineering which is the new prompt engineering. \n\nHope this clarifies any confusion.",
+      "zh": "图工程是新的循环工程，是新的线束工程，是新的上下文工程，是新的即时工程。 \n\n希望这能澄清任何困惑。"
+    },
+    "nikunj": {
+      "en": "Still maintain that @TheEthanDing is a mad mad genius.. this latest post is a good reminder",
+      "zh": "仍然认为@TheEthanDing是一个疯狂的天才..这篇最新的文章是一个很好的提醒"
+    },
+    "steipete": {
+      "en": "cli was a year ago. apps maybe 6 months. now it’s services, web, cloud sessions.",
+      "zh": "cli 是一年前的。应用程序可能需要 6 个月。现在是服务、网络、云会话。"
+    },
+    "danshipper": {
+      "en": "something analog dropping tomorrow 👀",
+      "zh": "明天会有类似的东西发布👀"
+    },
+    "adityaag": {
+      "en": "We're bullish on India.\n\n@spc_india was our first bet outside the US.\n\nSome of the most ambitious projects of the decade will be built there. \n\nIndian dynamism is here to stay.",
+      "zh": "我们看好印度。\n\n@spc_india 是我们在美国以外的第一个赌注。\n\n十年来一些最雄心勃勃的项目将在那里建造。 \n\n印度的活力将持续存在。"
+    },
+    "claudeai": {
+      "en": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser.\n\nAvailable on Max and Team today, rolling out to Pro in the coming weeks.",
+      "zh": "您在 Chrome 中的 Claude 会话现在可以转移到桌面、网络和移动设备上。对话将被保存，您的技能和连接器将在浏览器中运行。\n\n现已在 Max 和 Team 上推出，并将在未来几周内推出 Pro。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:10\nYou're someone who, I think, cares a lot about the craft of things. One of the knocks on, you know, using agents for coding is it gets rid of some of that feeling or something like that. How do you feel about that?\n\nSpeaker 2 | 00:10 - 00:38\nI love the fact that my people, you know, makers, writ large, so software engineers or, you know, mechanical engineers Yeah. Or woodworkers or potters. If you are really passionate about what you do, you're going to have very strong...",
+      "zh": "演讲者 1 | 00:00 - 00:10\n我认为你是一个非常关心事物工艺的人。您知道，使用代理进行编码的好处之一是它消除了某些感觉或类似的东西。你对此有何感想？\n\n扬声器 2 | 00:10 - 00:38\n我喜欢这样一个事实：我的员工，你知道，制造商，都是大写的，所以软件工程师，或者，你知道，机械工程师是的。或者木工或陶工。如果你真的对自己所做的事情充满热情，你就会拥有非常强大的能力",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
