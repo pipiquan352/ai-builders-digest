@@ -1,0 +1,84 @@
+{
+  "x": {
+    "swyx": {
+      "en": "human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /align-me modification which allows for batches of questions instead of round-by-round. same intuition as spec decoding, you speed up by looking ahead 2-10 steps\n\nworks INCREDIBLY for design explorations",
+      "zh": "人类 I/O 的成本很高，所以在听了 @mattpocockuk 和 @trq212 之后，我做了一个 /align-me 修改，允许批量提问，而不是逐轮提问。与规范解码相同的直觉，您可以通过向前看 2-10 个步骤来加快速度\n\n非常适合设计探索"
+    },
+    "joshwoodward": {
+      "en": "3.7 Flash: Fast, 50% cheaper, happened in ~3 weeks",
+      "zh": "3.7 Flash：速度快，便宜 50%，大约 3 周内发生"
+    },
+    "bcherny": {
+      "en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible.\n\nThe setup is straightforward: we have a Slack channel called proj-claude-maintains-apps. In it, Claude Tag runs a bunch of daily routines across iOS, Android, Desktop, web, CLI, and Agent SDK:\n\n- Crash fuzzer: open the app in a simulator and tap around to find ways to crash it, then root cause and fix the crashes\n- Dup unifier: scans the codebase for similar-yet-slightly-divergent abstractions, and puts up PRs to unify them\n- Dead-code remover: removes statically unreachable code, and adds logging to suspected dead code to check if it's really dead and if so, remove it the next day\n- Abstraction police: fixes leaky abstractions\n- a bunch more..\n\nResults have been surprisingly positive. Over the last few weeks, these routines have opened 388 PRs across our repos, 180 of which we merged after Claude Code Review + human review. We're now thinking about how to streamline this to make merging these kinds of mechanical changes easier.\n\nClaude generally gets these PRs right on the first shot, and if it doesn't, we ask Claude to tune its routines so it's better the next day. Sometimes it takes a few days of tuning. \n\nTo try a similar workflow, ask Claude Code or Tag, or create some routines directly at  A few of the actual prompts I used below.\n\nHas anyone experimented with similar workflows?",
+      "zh": "过去几周我一直在尝试的一个奇怪的实验是让克劳德接管我们应用程序的日常维护。看到生命的早期迹象表明这可能是可能的。\n\n设置很简单：我们有一个名为 proj-claude-maintains-apps 的 Slack 通道。在其中，Claude Tag 跨 iOS、Android、桌面、Web、CLI 和 Agent SDK 运行大量日常例程：\n\n- 崩溃模糊器：在模拟器中打开应用程序并四处点击以找到使其崩溃的方法，然后找出根本原因并修复崩溃\n- Dup unifier：扫描代码库中相似但略有不同的抽象，并提出 PR 来统一它们\n- 死代码删除器：删除静态无法访问的代码，并向可疑的死代码添加日志记录以检查它是否真的死了，如果是，则在第二天将其删除\n- 抽象警察：修复泄漏的抽象\n- 还有一堆..\n\n结果出人意料地积极。在过去的几周里，这些例程在我们的存储库中打开了 388 个 PR，其中 180 个是我们在 Claude Code Review + 人工审核后合并的。我们现在正在考虑如何简化这一过程，以便更容易地合并这些类型的机械变化。\n\n克劳德通常会在第一次拍摄时就获得正确的 PR，如果没有，我们会要求克劳德调整其例程，以便第二天会更好。有时需要几天的调整。 \n\n要尝试类似的工作流程，请询问 Claude Code 或 Tag，或者直接在下面我使用的一些实际提示中创建一些例程。\n\n有人尝试过类似的工作流程吗？"
+    },
+    "thsottiaux": {
+      "en": "Sometimes you have have to go /ultrafast.",
+      "zh": "有时你必须走/超快。"
+    },
+    "petergyang": {
+      "en": "I'm dealing with a family health situation and thought I would be using AI to research and understand the illness but in reality it's been most helpful to navigate the healthcare system bureaucracy.",
+      "zh": "我正在处理家庭健康问题，并认为我会使用人工智能来研究和了解这种疾病，但实际上，它对于管理医疗系统官僚机构最有帮助。"
+    },
+    "realmadhuguru": {
+      "en": "Prompt debt is the new tech debt. \n\nWith every model update, you should be cutting at least 50% of your prompts.\n\nMost AI products have bloated prompts that are making your product quality worse.\n\nThe typical flow is: model fails at something -> add 10 rules. Tool call fails -> add 10 examples. Output is weird -> add formatting constraints.\n\n3 months later, your system prompt is a novel. \n\nMeanwhile the model is way smarter and your micro-managey prompts are turning it into a dumb rules machine.",
+      "zh": "即时债务是新技术债务。 \n\n每次模型更新时，您都应该削减至少 50% 的提示。\n\n大多数人工智能产品都有臃肿的提示，这会让你的产品质量变得更差。\n\n典型的流程是：模型在某些方面失败 -> 添加 10 条规则。工具调用失败 -> 添加 10 个示例。输出很奇怪 -> 添加格式限制。\n\n3个月后，你的系统提示是新奇的。 \n\n与此同时，模型变得更加智能，你的微观管理提示将其变成了一个愚蠢的规则机器。"
+    },
+    "_catwu": {
+      "en": "Join office hours with the Cowork team \n\nIf you're in marketing, sales, finance, legal, ops, or any non-eng role, book a 15 min slot to show us how you use Cowork so we can make it better for you: \n\nThank you for sharing your feedback!",
+      "zh": "与 Cowork 团队一起参加办公时间 \n\n如果您从事营销、销售、财务、法律、运营或任何非工程职位，请预订 15 分钟的时间，向我们展示您如何使用 Cowork，以便我们为您提供更好的服务： \n\n感谢您分享您的反馈！"
+    },
+    "trq212": {
+      "en": "everything truly is code",
+      "zh": "一切都是代码"
+    },
+    "amasad": {
+      "en": "By next year, using a computer will be optional. Work will radically change.",
+      "zh": "到明年，使用计算机将成为可选的。工作将会发生根本性的改变。"
+    },
+    "rauchg": {
+      "en": "The best things in life are free",
+      "zh": "生命中最美好的事物都是免费的"
+    },
+    "levie": {
+      "en": "The elimination of engineers was one of the wilder hypotheses out there. Just like absurdly wrong. We just gave engineers a power tool that can accelerate the development of whatever we want. \n\nOf course their value not only remains critical in that world, but actually goes up in many domains because we can apply engineering to far more work than before.\n\nIf you’re trying to automate drug discovery, you need engineers. If you’re trying to automate manufacturing, you need engineers. If you’re taking on larger and larger software projects, you need engineers.\n\nThis will happen in domains beyond engineering too. AI causes companies to take on way more work than before, which leads to needing more experts to oversee the work. \n\nEven as models get better and better, they can be better utilized by the experts in those fields than the novices. Great time to be an expert.",
+      "zh": "消除工程师是目前最疯狂的假设之一。就像荒谬的错误一样。我们只是为工程师提供了一个强大的工具，可以加速我们想要的任何东西的开发。 \n\n当然，它们的价值不仅在那个世界中仍然至关重要，而且实际上在许多领域都在上升，因为我们可以将工程学应用到比以前更多的工作中。\n\n如果您想实现药物发现自动化，您需要工程师。如果您想实现制造自动化，您需要工程师。如果您正在承担越来越大的软件项目，您就需要工程师。\n\n这也将发生在工程以外的领域。人工智能导致公司承担比以前更多的工作，这导致需要更多的专家来监督工作。 \n\n即使模型变得越来越好，这些领域的专家也能比新手更好地利用它们。成为专家的好时机。"
+    },
+    "ryolu_": {
+      "en": "matic is the first robot i’ve owned that actually feels like it gets smarter with every update",
+      "zh": "matic 是我拥有的第一个机器人，每次更新都感觉它变得更聪明"
+    },
+    "garrytan": {
+      "en": "I agree, you need topics per-bot please!",
+      "zh": "我同意，您需要每个机器人的主题！"
+    },
+    "mattturck": {
+      "en": "Right now, you're either:\n\n* an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a constant death match with other rocketships to capture customers, sacrificing gross margins; or\n\n* basically left for dead, regardless of how good a company you actually are\n\nThis has been the case for a while, but feels like it just escalated a notch.",
+      "zh": "现在，你要么是：\n\n* 一艘人工智能原生火箭，这听起来很有趣，直到你意识到这意味着永久处于以更可怕的估值筹集资金的境地，以吸纳资本和人才，并与其他火箭不断进行死亡竞赛以吸引客户，从而牺牲毛利率；或\n\n* 无论你的公司实际上有多优秀，基本上都是等死\n\n这种情况已经有一段时间了，但感觉只是升级了一个档次。"
+    },
+    "nikunj": {
+      "en": "Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss:\n\nBut I go back and forth on this a lot: Will users (personal and business) want one super agent that holds all the context or sub agents that are designated to do a slice of tasks?\n\nIf we treat agents as humans, then the Grok Bot design makes a ton of sense. It allows us to compartmentalize tools, context, outcomes for that person’s division. You reach out to that bot for that specific goal that you have in mind. \n\nBut, if you treat agents as Jarvis, you want a master agent that just gets the job done. It might create and coordinate all the bots (and dare I say the communication/context) that might be needed to do the task. But the interface is 1:1 vs. 1:many. \n\nMy guess is it’ll veer towards the one master agent over time who can then act as an orchestrator who reads / understands the bots you create. But starts narrow as most of the companies are doing it now. \n\nPS: I understand the core engineering constraints (context windows, tool use, simplicity, cost etc) why companies are choosing task/singular outcomes today. Primarily thinking this from a design / product side.",
+      "zh": "Grok Bot 是一个非常棒的版本......用户体验、设计、入门：chefs-kiss：\n\n但我反复讨论了这个问题：用户（个人和企业）是否需要一个超级代理来保存所有上下文或指定执行一部分任务的子代理？\n\n如果我们将智能体视为人类，那么 Grok Bot 的设计就很有意义。它使我们能够划分该人的工具、背景和结果。您可以联系该机器人来实现您心中的特定目标。 \n\n但是，如果您将特工视为贾维斯，那么您需要一个能够完成工作的主特工。它可能会创建和协调完成任务可能需要的所有机器人（我敢说通信/上下文）。但接口是 1:1 vs. 1:many。 \n\n我的猜测是，随着时间的推移，它将转向一个主代理，然后他可以充当读取/理解您创建的机器人的协调者。但起步较窄，因为大多数公司现在都在这样做。 \n\nPS：我了解公司今天选择任务/单一结果的核心工程限制（上下文窗口、工具使用、简单性、成本等）。主要从设计/产品方面考虑这一点。"
+    },
+    "danshipper": {
+      "en": "Averaging 2 applications per minute from: \n\nCitadel\nOpenAI\nRed Bull\nMicrosoft\nProfound\nAlpha School\nNASDAQ\nGoogle\nPinnacle\nCohete\nBessemer \nLenovo\nPwC\nSquare\n\nYou should apply!",
+      "zh": "平均每分钟 2 个应用程序： \n\n城堡\n开放人工智能\n红牛\n微软\n深刻\n阿尔法学校\n纳斯达克\n谷歌\n品尼高\n科埃特\n贝塞默 \n联想\n普华永道\n广场\n\n你应该申请！"
+    },
+    "adityaag": {
+      "en": "It would be amazing to host @JeffDean at @spc for a fireside chat.\n\nHow do we make that happen?",
+      "zh": "如果能够在 @spc 上接待 @JeffDean 进行炉边聊天，那就太棒了。\n\n我们如何实现这一目标？"
+    },
+    "sama": {
+      "en": "/ultrafast",
+      "zh": "/超快"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:24\nCOVID happened, Queen's Gambit happened, some news cycles happened, and we're like, oh, this might just be a flash in the pan, like treadmills and sourdough bread. But then in 2023, we had another crazy wave where all these kids started playing in schools because of short form content and the mittens bot and the cheating scandal. And we just spiked again. And then when we came down again, we were so much higher and we maintained this baseline.\n\nSpeaker 2 | 00:24 - 00:29...",
+      "zh": "演讲者 1 | 00:00 - 00:24\n新冠疫情发生了，皇后策略发生了，一些新闻周期发生了，我们就像，哦，这可能只是昙花一现，就像跑步机和酵母面包一样。但到了 2023 年，我们又迎来了另一波疯狂浪潮，由于短片内容、手套机器人和作弊丑闻，所有这些孩子都开始在学校玩耍。我们刚刚再次飙升。然后当我们再次下降时，我们已经高得多并且我们保持了这个基线。\n\n扬声器 2 | 00:24 - 00:29",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
