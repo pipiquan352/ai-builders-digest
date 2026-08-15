@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically\n\nthe M in their $188B series M stands for \"we are going to kill so many meetings\"",
+      "zh": "@databricks“ipo is lava”筹款成为模因的原因是这样的，但讽刺的是\n\n$188B 系列中的 M 代表“我们将取消如此多的会议”"
+    },
+    "joshwoodward": {
+      "en": "3.7 Flash is in the @GeminiApp",
+      "zh": "3.7 Flash在@GeminiApp中"
+    },
+    "thsottiaux": {
+      "en": "What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier?",
+      "zh": "本周法典为您解决了哪些难题？您从哪里向其他人学习如何突破前沿？"
+    },
+    "petergyang": {
+      "en": "I was curious how X is fighting AI slop, so I looked at its open-source algorithm.\n\nIt has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts, quote-post behavior, timing, and normal browsing or dwell between actions.\n\nThe model is trained to recognize patterns such as:\n\n→ TWEET_CREATE_BURST\n→ QUOTE_TWEET_SPAMMER\n→ CONTENT_AMPLIFIER\n\nA high score on the above can feed into an account challenge but doesn't seem to downrank the slop posts themselves.\n\nI think the gap here is that the model doesn’t read the actual post content.\n\nSo a sophisticated AI content mill can still post slop all day long:\n\n1. Find viral posts\n2. Quote tweet with the same template each time: hook → numbers → backstory → takeaway\n3. Repeat 10+ times a day across unrelated topics\n\nIf @X doesn't want to become like LinkedIn, I think it should consider looking at accounts that repeatedly turn unrelated viral posts into the same templated quote tweet slop at high volume.\n\nRight now the guardrails above are too easy to bypass.",
+      "zh": "我很好奇 X 如何对抗 AI 溢出，所以我查看了它的开源算法。\n\n它有一个名为 TweetSpamBot 的行为模型，可以分析多达 512 个最近的帐户操作，查看诸如发帖爆发、引用帖子行为、时间安排以及正常浏览或操作之间停留等信号。\n\n该模型经过训练可以识别以下模式：\n\n→ TWEET_CREATE_BURST\n→ QUOTE_TWEET_SPAMMER\n→ 内容放大器\n\n上述高分可能会引发帐户挑战，但似乎不会降低垃圾帖子本身的排名。\n\n我认为这里的差距是模型没有读取实际的帖子内容。\n\n因此，复杂的人工智能内容工厂仍然可以整天发布内容：\n\n1. 查找病毒式帖子\n2.每次引用推文时都使用相同的模板：hook→numbers→backstory→takeaway\n3.每天针对不相关的主题重复10次以上\n\n如果 @X 不想变得像 LinkedIn 那样，我认为它应该考虑查看那些反复将不相关的病毒式帖子变成大量相同模板引用推文的帐户。\n\n现在上面的护栏太容易绕过了。"
+    },
+    "thenanyu": {
+      "en": "There’s no force in tech as destructive as the PM promo packet",
+      "zh": "没有任何科技力量能像 PM 促销包那样具有破坏性"
+    },
+    "realmadhuguru": {
+      "en": "when everyone can build with ai, your differentiators are product sense, domain knowledge, distribution, execution.",
+      "zh": "当每个人都可以使用人工智能进行构建时，您的优势就在于产品意识、领域知识、分发和执行。"
+    },
+    "GoogleLabs": {
+      "en": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!):\n\n@PomellibyGoogle - build captivating marketing campaigns tailored to your brand and your business at scale\n\n@FlowbyGoogle - craft visual stories that channel your imagination and draw the attention of your audience",
+      "zh": "在实验室里，我们总是在修补🧪——从已经完成的实验到仍在酝酿中的实验，我们将最好的人工智能模型带给各类用户。尝试一下这两个（如果你还没有尝试过！）：\n\n@PomellibyGoogle - 大规模针对您的品牌和业务量身打造引人入胜的营销活动\n\n@FlowbyGoogle - 制作视觉故事来引导您的想象力并吸引观众的注意力"
+    },
+    "amasad": {
+      "en": "Even if you don’t plan on publishing to the App Store, building personal apps via TestFlight is really great.",
+      "zh": "即使您不打算发布到 App Store，通过 TestFlight 构建个人应用程序也确实很棒。"
+    },
+    "rauchg": {
+      "en": "Vercel is the fastest [AI Gateway] infrastructure in the world",
+      "zh": "Vercel 是世界上最快的 [AI 网关] 基础设施"
+    },
+    "levie": {
+      "en": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. \n\nMost people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitive and somewhat saturated space when they really got going.\n\nMultiple mental models shattered near instantly. The market sizes for agentic coding was far larger than most realized. There was actually tons and tons of room to innovate between the user and the underlying model, and even on the model itself.\n\nCursor provided out the applied AI playbook by figuring out the right product shape for agentic coding work, acting as a neutral layer between models and the workflows, post training models for the areas that make most sense to drive down costs or improve performance, building out the right infra stack for the relevant workflows, building out a strong category-aligned GTM motion, and more.\n\nGreat set of lessons for anyone doing applied AI right now. We’re going to see a lot more of these.",
+      "zh": "惊人的结果。 Cursor 完美地执行了应用的人工智能策略。 \n\n大多数人完全低估了人工智能编码的市场规模。历史上最大的开发工具退出金额约为数十亿美元。当他们真正开始行动时，人们已经认为这是一个竞争激烈且有些饱和的领域。\n\n多种思维模式几乎瞬间崩溃。代理编码的市场规模远远大于大多数人的认识。实际上，用户和底层模型之间，甚至模型本身，都有大量的创新空间。\n\nCursor 提供了应用人工智能手册，为代理编码工作找出正确的产品形状，充当模型和工作流程之间的中立层，为最能降低成本或提高性能的领域提供后训练模型，为相关工作流程构建正确的基础设施堆栈，构建强大的类别对齐 GTM 运动等等。\n\n对于现在从事应用人工智能的人来说，这是一套很棒的课程。我们将会看到更多这样的情况。"
+    },
+    "garrytan": {
+      "en": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.'\n\nThat's how Paoli and Wynwood became New York and Geneva.\"",
+      "zh": "“史蒂夫·乔布斯走过来说，城市名称的字体还不错，但‘至少称它们为世界级城市’。”\n\n这就是保利和温伍德成为纽约和日内瓦的原因。”"
+    },
+    "mattturck": {
+      "en": "The evolution of a workday:\n\nBefore AI: \n[decision] [process] [process] [decision] [process] [process] [process]\n10pm: still going\n\nWith AI: \n[decision] [decision] [decision] [decision] [decision]\n3pm: [brain empty] [need coffee] [staring at wall]",
+      "zh": "工作日的演变：\n\n人工智能出现之前： \n[决定][过程][过程][决定][过程][过程][过程]\n晚上10点：继续\n\n有了人工智能： \n[决定][决定][决定][决定][决定]\n下午3点：[脑子空空][需要咖啡][盯着墙壁]"
+    },
+    "nikunj": {
+      "en": "/goal may not be the MOST token efficient thing, but it's a thing of beauty to see it one-shot an extremely detailed spec (with generous CLI tools) in 14h..",
+      "zh": "/goal 可能不是最高效的代币，但看到它在 14 小时内一次性完成极其详细的规范（使用慷慨的 CLI 工具）是一件很美妙的事情。"
+    },
+    "steipete": {
+      "en": "We moved the team over to build openclaw with openclaw. \nBeing able to share agent sessions as URLs is a superpower.",
+      "zh": "我们将团队转移到用 openclaw 来构建 openclaw。 \n能够以 URL 的形式共享代理会话是一项超能力。"
+    },
+    "danshipper": {
+      "en": "not really \n\nyou can be an AI-native rocketship without being in a permanent fundraising situation and in a constant death match with other rocketships to capture customers, sacrificing gross margin\n\nbut the rules for building a company like that are very different",
+      "zh": "不是真的 \n\n你可以成为一艘人工智能原生火箭飞船，而不必处于永久筹款的情况，并与其他火箭飞船不断进行死亡竞赛来吸引客户，从而牺牲毛利率\n\n但建立这样一家公司的规则是非常不同的"
+    },
+    "adityaag": {
+      "en": "One of the things we think about a lot @spc is that as investors we must deeply embody the traits we look for in founders.\n\n@evantana  doesn't like to talk about himself...but it is one of the great joys (and privileges) of my life to work with someone as driven, talented and curious as him to build SPC for many years and decades to come.",
+      "zh": "@spc，我们经常思考的一件事是，作为投资者，我们必须深入体现我们在创始人身上寻找的特质。\n\n@evantana 不喜欢谈论自己……但与像他这样有干劲、有才华和好奇心的人一起工作，在未来的许多年和几十年里建立 SPC，是我一生中最大的乐趣（和特权）之一。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:18\nHumans are already used to working with non deterministic systems, it's just the systems are normally their co workers, not their computers. And in many ways, like companies and processes is all about how do you design a system for non deterministic entities to coordinate together to solve a problem? And once you realize that, it's like, well, now it's like kind of agent design. Let's say you have a 100 evals. Great.\n\nSpeaker 1 | 00:18 - 00:33\nThey all pass. That looks ...",
+      "zh": "演讲者 1 | 00:00 - 00:18\n人类已经习惯于使用非确定性系统，只是这些系统通常是他们的同事，而不是他们的计算机。在很多方面，就像公司和流程一样，都是关于如何为非确定性实体设计一个系统来协调解决问题？一旦你意识到这一点，就像，现在这就像某种代理设计。假设您有 100 次评估。伟大的。\n\n演讲者 1 | 00:18 - 00:33\n他们都通过了。看起来",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
