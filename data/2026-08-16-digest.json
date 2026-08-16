@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.",
+      "zh": "如果你没有生活在科技泡沫中，一般来说，我对顶级人士真正见面/认识的频率如此之低感到惊讶。作为一个局外人，我可能会假设每个人都在秘密光明会群组聊天中。这些确实存在，但只是短暂的例外，而不是规则。你在主要头条新闻中看到的几乎就是他们也看到的。我想解释这一点的一种方式也很简单，大多数努力仍然是在做工作而不是在叙述或八卦上。至少对我来说，这确实让我在职业生涯中感到非常放心。"
+    },
+    "thsottiaux": {
+      "en": "Incredible things are happening at OpenAI right now. Energy is high.",
+      "zh": "OpenAI 现在正在发生令人难以置信的事情。能量很高。"
+    },
+    "petergyang": {
+      "en": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? \n\nThe connector doesn't work and I can't even login to X on the cloud computer. \n\nAm I doing something wrong?",
+      "zh": "我是 Grok Bot 的粉丝，但 @X 是它应该有权访问的 #1 差异化数据源，但它似乎不起作用？ \n\n连接器不起作用，我什至无法登录云计算机上的 X。 \n\n我做错了什么吗？"
+    },
+    "thenanyu": {
+      "en": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software.",
+      "zh": "这也是我的梦想。我想整天坐在公园里和朋友们一起记录内容……然后让一群代理将这些内容转化为行动和工作软件。"
+    },
+    "realmadhuguru": {
+      "en": "There is no longer an excuse for B2B software to have such poor UX.\n\nThanks to AI, every software product can and should be as easy to use as the best consumer software.",
+      "zh": "B2B 软件不再有理由拥有如此糟糕的用户体验。\n\n得益于人工智能，每个软件产品都可以而且应该像最好的消费软件一样易于使用。"
+    },
+    "trq212": {
+      "en": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.\n\nI made this artifact with Claude to help me understand how it works, sharing in case it's helpful.",
+      "zh": "没有质量损失的水印有点不直观，感觉不应该起作用。\n\n我和 Claude 一起制作了这个工件，以帮助我了解它是如何工作的，并分享以防它有帮助。"
+    },
+    "amasad": {
+      "en": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
+      "zh": "“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。 \n\n算法的改进和硬件效率的持续提高意味着没有理由假设 AGI 级功能始终需要数据中心来运行。\n\n缩放定律不是物理定律。它们只是针对特定架构、目标、数据集等观察到的经验关系。改变这些因素中的任何一个，你都会得到不同的缩放曲线。 \n\n如果大脑有任何指导作用，那么真正的通用人工智能可能会非常高效。事实上，当前的缩放法则可能是一个错误，而不是一个功能。它显示了我们迄今为止发现的机器学习算法的效率有多低。"
+    },
+    "rauchg": {
+      "en": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
+      "zh": "我认为人们没有意识到 React 的成功有多少实际上是 @shadcn 带来的。\n\n我曾经将 React 称为真正的“成人乐高积木”。但实际上它更多的是对砖块几何形状的描述。规格。\n\nShadcn 是人们真正想要从 React 中得到的。可重复使用且可调的高质量组件。这是一个伪图书馆。有代码，但它实际上意味着被消化到您的上下文窗口中并重新混合。"
+    },
+    "garrytan": {
+      "en": "Anyone else's Codex Desktop app erroring out on chats?",
+      "zh": "还有其他人的 Codex Desktop 应用程序在聊天时出错吗？"
+    },
+    "nikunj": {
+      "en": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..\n\nThey’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. \n\nAnd I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. \n\nAnd, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. \n\nUnnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)",
+      "zh": "上周，我坐在一位秘密投资组合创始人的对面，他在一个非常不性感的空间工作（至少从湾区的标准来看）。\n\n他们感叹一些赋予他们可信度（以及收入和网络效应）的关键合同和合作伙伴关系基本上停留在 1 码线。这是一个高度分散的市场。顺便说一句，这就是纯粹的官僚机构。冠军、条款和一切都已排好。这纯粹是双赢的局面，但夏季和一个随机条款是问题所在。而且，这可能会导致他们无法达到雄心勃勃的时间表。 \n\n我坐在那里微笑着，最后笑了起来，有时他们会问有什么好笑的。我告诉他们“你知道别人要花多长时间才能做和你一样的事情吗”——这是利用他们已经拥有的影响力和关系。 \n\n而且，这在短期内是痛苦的，但从长远来看会成为一条如此坚固的护城河。当他们回顾过去时，会笑为什么他们会担心几天，而从长远来看，这将使他们成为世界上最大的公司之一。 \n\n不必要的和996表演性的痛苦不是护城河。但是，建立根深蒂固的软件和关系需要付出很多痛苦，这是一条护城河:)"
+    },
+    "danshipper": {
+      "en": "Dario should tweet more",
+      "zh": "达里奥应该多发推文"
+    },
+    "adityaag": {
+      "en": "America turned 250 years old earlier this year. \n\nIndia turns 80 today...80 years young.\n\nBuilding countries is really hard. 80 years in...America was struggling with a civil war.\n\nIndians should be damn proud of the country they have built. \n\nLike America, India wants more. She wants to be better and stronger and more successful. She will get there.",
+      "zh": "今年早些时候，美国迎来了 250 岁生日。 \n\n印度今天 80 岁了……年轻了 80 岁。\n\n建设国家确实很难。 80 年来……美国一直在内战中挣扎。\n\n印度人应该为他们建立的国家感到自豪。 \n\n和美国一样，印度想要更多。她想要变得更好、更强、更成功。她会到达那里。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:20\nGoogle was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren't technical at all. They were product geniuses.\n\nSpeaker 1 | 00:20 - 00:42\nWhat are the big consumer wins so far in AI? Of course, it's ChatGPT, which is, in a way, not that dissimilar from Google ...",
+      "zh": "演讲者 1 | 00:00 - 00:20\n谷歌是一个技术含量非常高的创始团队。随着技术、底层技术越来越成熟，滑块不断向前、向前、向前，更加走向产品思考者、产品体验。 Pinterest、我所在的地方、Snap、Instagram。 CEO们根本不懂技术。他们是产品天才。\n\n演讲者 1 | 00:20 - 00:42\n迄今为止，人工智能领域给消费者带来的巨大胜利是什么？当然，它是 ChatGPT，在某种程度上，它与 Google 并没有什么不同",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

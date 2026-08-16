@@ -1,0 +1,362 @@
+{
+  "generatedAt": "2026-08-16T14:22:14.467Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2088755688361378082",
+          "text": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.",
+          "createdAt": "2026-08-15T22:32:17.000Z",
+          "url": "https://x.com/swyx/status/2088755688361378082",
+          "likes": 233,
+          "retweets": 5,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2088670186153127996"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2088866513008873560",
+          "text": "On tokens and prices per token.\n\nI said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.\n\nImagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn't actually care about the number of slices you just ate.\n\nI know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That's a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn't really tell this story.\n\nEven correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.\n\nThat's all. May the tokens flow.",
+          "createdAt": "2026-08-16T05:52:40.000Z",
+          "url": "https://x.com/thsottiaux/status/2088866513008873560",
+          "likes": 1006,
+          "retweets": 74,
+          "replies": 280,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088850995430477882",
+          "text": "If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?",
+          "createdAt": "2026-08-16T04:51:00.000Z",
+          "url": "https://x.com/thsottiaux/status/2088850995430477882",
+          "likes": 2607,
+          "retweets": 57,
+          "replies": 1503,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088725514542575903",
+          "text": "Incredible things are happening at OpenAI right now. Energy is high.",
+          "createdAt": "2026-08-15T20:32:23.000Z",
+          "url": "https://x.com/thsottiaux/status/2088725514542575903",
+          "likes": 9357,
+          "retweets": 220,
+          "replies": 1264,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2088773343629750535",
+          "text": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? \n\nThe connector doesn't work and I can't even login to X on the cloud computer. \n\nAm I doing something wrong? https://t.co/O5OI9OhETb",
+          "createdAt": "2026-08-15T23:42:27.000Z",
+          "url": "https://x.com/petergyang/status/2088773343629750535",
+          "likes": 137,
+          "retweets": 3,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088772605323214999",
+          "text": "I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW",
+          "createdAt": "2026-08-15T23:39:31.000Z",
+          "url": "https://x.com/petergyang/status/2088772605323214999",
+          "likes": 71,
+          "retweets": 3,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2088758819304443967"
+        },
+        {
+          "id": "2088626815166464507",
+          "text": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.\n\nI particularly loved watching him demo how he creates YouTube thumbnails with AI:\n\n1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.\n\n2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.\n\nHonestly, you have to watch the workflow to see how crazy it is.\n\n📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0",
+          "createdAt": "2026-08-15T14:00:12.000Z",
+          "url": "https://x.com/petergyang/status/2088626815166464507",
+          "likes": 94,
+          "retweets": 7,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2088811172090769461",
+          "text": "These two were ahead of their time https://t.co/adjYZkvCM1",
+          "createdAt": "2026-08-16T02:12:46.000Z",
+          "url": "https://x.com/thenanyu/status/2088811172090769461",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088810666958196988",
+          "text": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL",
+          "createdAt": "2026-08-16T02:10:45.000Z",
+          "url": "https://x.com/thenanyu/status/2088810666958196988",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2088691959695380920"
+        },
+        {
+          "id": "2088808413744558266",
+          "text": "Watches https://t.co/pbushpJPOH",
+          "createdAt": "2026-08-16T02:01:48.000Z",
+          "url": "https://x.com/thenanyu/status/2088808413744558266",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2088687353602994497"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2088710566689018103",
+          "text": "There is no longer an excuse for B2B software to have such poor UX.\n\nThanks to AI, every software product can and should be as easy to use as the best consumer software.",
+          "createdAt": "2026-08-15T19:33:00.000Z",
+          "url": "https://x.com/realmadhuguru/status/2088710566689018103",
+          "likes": 55,
+          "retweets": 1,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2088721024825344289",
+          "text": "https://t.co/KynBYnZeSi",
+          "createdAt": "2026-08-15T20:14:33.000Z",
+          "url": "https://x.com/trq212/status/2088721024825344289",
+          "likes": 81,
+          "retweets": 4,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088721023223132213",
+          "text": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.\n\nI made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM",
+          "createdAt": "2026-08-15T20:14:33.000Z",
+          "url": "https://x.com/trq212/status/2088721023223132213",
+          "likes": 2565,
+          "retweets": 128,
+          "replies": 427,
+          "isQuote": true,
+          "quotedTweetId": "2088343978873966687"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2088867492907327573",
+          "text": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
+          "createdAt": "2026-08-16T05:56:34.000Z",
+          "url": "https://x.com/amasad/status/2088867492907327573",
+          "likes": 21,
+          "retweets": 3,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2088758816376807762"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2088838302367732178",
+          "text": "Recursive self improvement https://t.co/wOqa7mW997",
+          "createdAt": "2026-08-16T04:00:34.000Z",
+          "url": "https://x.com/rauchg/status/2088838302367732178",
+          "likes": 131,
+          "retweets": 5,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088801077659635715",
+          "text": "Impressive https://t.co/fv5zyLbPNt",
+          "createdAt": "2026-08-16T01:32:39.000Z",
+          "url": "https://x.com/rauchg/status/2088801077659635715",
+          "likes": 168,
+          "retweets": 6,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2088706415586377792"
+        },
+        {
+          "id": "2088757738037989755",
+          "text": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
+          "createdAt": "2026-08-15T22:40:26.000Z",
+          "url": "https://x.com/rauchg/status/2088757738037989755",
+          "likes": 1072,
+          "retweets": 27,
+          "replies": 80,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2088661047913914847",
+          "text": "Whitepill timeline cleanser: \n\nProgress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. \n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
+          "createdAt": "2026-08-15T16:16:13.000Z",
+          "url": "https://x.com/garrytan/status/2088661047913914847",
+          "likes": 117,
+          "retweets": 10,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088642982614651196",
+          "text": "Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe",
+          "createdAt": "2026-08-15T15:04:26.000Z",
+          "url": "https://x.com/garrytan/status/2088642982614651196",
+          "likes": 223,
+          "retweets": 6,
+          "replies": 83,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2088716743615352963",
+          "text": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..\n\nThey’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. \n\nAnd I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. \n\nAnd, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. \n\nUnnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)",
+          "createdAt": "2026-08-15T19:57:32.000Z",
+          "url": "https://x.com/nikunj/status/2088716743615352963",
+          "likes": 96,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2088027784442482995"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2088780884048552202",
+          "text": "Dario should tweet more https://t.co/N29v9simn6",
+          "createdAt": "2026-08-16T00:12:25.000Z",
+          "url": "https://x.com/danshipper/status/2088780884048552202",
+          "likes": 160,
+          "retweets": 0,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2088758816376807762"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2088734739893293175",
+          "text": "America turned 250 years old earlier this year. \n\nIndia turns 80 today...80 years young.\n\nBuilding countries is really hard. 80 years in...America was struggling with a civil war.\n\nIndians should be damn proud of the country they have built. \n\nLike America, India wants more. She wants to be better and stronger and more successful. She will get there.",
+          "createdAt": "2026-08-15T21:09:03.000Z",
+          "url": "https://x.com/adityaag/status/2088734739893293175",
+          "likes": 880,
+          "retweets": 45,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2088629172512195035",
+          "text": "This is remarkably well done.\n\nAnd of course featuring our very own @shreepoorna365.\n\nLet's go. https://t.co/UacgWndqL4",
+          "createdAt": "2026-08-15T14:09:34.000Z",
+          "url": "https://x.com/adityaag/status/2088629172512195035",
+          "likes": 90,
+          "retweets": 5,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2088513518584697085"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU",
+      "publishedAt": "2026-08-05T16:02:13.000Z"
+    }
+  ]
+}
