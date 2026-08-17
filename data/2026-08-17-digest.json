@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "5 years later and most of the best players here have been bought",
+      "zh": "5年后，这里大部分最好的球员都被买走了"
+    },
+    "thsottiaux": {
+      "en": "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. \n\nEven though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented.\n\nA larger context window lets Codex retain more code, tool output, and conversation history before summarizing older material. You need a model that supports it. And GPT-5.6 Sol, for example, has a documented 1,050,000-token window. \n\nOpen ~/.codex/config.toml and add or update these settings at the top level, before any [section] headers:\n\n```\nmodel = \"gpt-5.6-sol\"\nmodel_context_window = 1000000\nmodel_auto_compact_token_limit = 900000\n```\n\nThe first setting selects the model. The second tells Codex to use a one-million-token context budget. The third starts automatic history compaction around 900,000 tokens, leaving some headroom. Restart Codex client and start a new session after saving. \n\nTo try the configuration for a single CLI session without changing your defaults:\n\n```\ncodex -m gpt-5.6-sol \\\n  -c model_context_window=1000000 \\\n  -c model_auto_compact_token_limit=900000\n```\n\nHave fun, but also know that we tuned the default carefully!",
+      "zh": "以下是如何在 Codex 中为 GPT-5.6 Sol 启用 1M 令牌上下文窗口。 \n\n尽管我们已经在性能和成本方面调整了 Codex 中的上下文限制以实现最佳设置，但这是一个常见问题，因此在此记录下来。\n\n更大的上下文窗口让 Codex 在总结旧材料之前保留更多代码、工具输出和对话历史记录。您需要一个支持它的模型。例如，GPT-5.6 Sol 有一个记录的 1,050,000 个代币窗口。 \n\n打开 ~/.codex/config.toml 并在顶层的任何 [section] 标题之前添加或更新这些设置：\n\n````\n型号 =“gpt-5.6-sol”\n模型上下文窗口 = 1000000\nmodel_auto_compact_token_limit = 900000\n````\n\n第一个设置选择模型。第二个告诉 Codex 使用一百万个代币的上下文预算。第三个启动大约 900,000 个代币的自动历史压缩，留出一些空间。保存后重新启动 Codex 客户端并启动新会话。 \n\n要尝试单个 CLI 会话的配置而不更改默认值：\n\n````\ncodex-m gpt-5.6-sol \\\n  -c model_context_window=1000000 \\\n  -c model_auto_compact_token_limit=900000\n````\n\n玩得开心，但也要知道我们仔细调整了默认值！"
+    },
+    "petergyang": {
+      "en": "I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient?",
+      "zh": "我想使用这个功能，但我担心它会耗尽我所有的代币。它的令牌效率很高吗？"
+    },
+    "thenanyu": {
+      "en": "Moving house, and I’m finally ready to let these old friends go",
+      "zh": "搬家了，我终于准备好让这些老朋友走了"
+    },
+    "realmadhuguru": {
+      "en": "the more you earn, the more you crave the things money can’t buy.",
+      "zh": "你赚的越多，你就越渴望金钱买不到的东西。"
+    },
+    "trq212": {
+      "en": "it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early",
+      "zh": "它充分说明了三个最具标志性的 Web 框架的创建者：django (@simonw)、flask (@mitsuhiko) 和 Rails (@dhh) 这么早就被 AI 抛弃了"
+    },
+    "amasad": {
+      "en": "18x improvement in intelligence per joule in 16 months.",
+      "zh": "16 个月内每焦耳智力提高 18 倍。"
+    },
+    "levie": {
+      "en": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types. \n\nAnd what the top 10% is doing today may easily be what the top 50% is doing in 3 years from now, at least in terms of token volume if not in dollars. This is why there’s still so much opportunity right now in the diffusion of AI in the enterprise.\n\nEspecially as token costs come down, we will throw larger portions of work at agents. They’ll be scanning all our code for security issues, testing all of our software, writing coding for much larger projects, processing nearly all data, and much more. So this trend has no end in sight.",
+      "zh": "人工智能支出还远远没有达到极限。显然，这些数据主要针对以工程为中心的公司，排名前 1% 的公司每名员工每月在人工智能上的支出为 7,500 美元，排名前 10% 的公司每月花费 660 美元。但持续指数增长的总体趋势正在所有类型的公司中出现。 \n\n排名前 10% 的人今天所做的事情很可能就是未来 3 年内排名前 50% 的人所做的事情，至少在代币交易量方面（如果不是以美元计算的话）。这就是为什么目前人工智能在企业中的传播仍然有如此多的机会。\n\n特别是随着代币成本的下降，我们将把更多的工作交给代理商。他们将扫描我们所有的代码是否存在安全问题，测试我们所有的软件，为更大的项目编写代码，处理几乎所有数据等等。所以这种趋势看不到尽头。"
+    },
+    "garrytan": {
+      "en": "There's nothing more conservative than a liberal with a house.",
+      "zh": "没有什么比拥有房子的自由主义者更保守的了。"
+    },
+    "nikunj": {
+      "en": "What are your favorite technical papers that you have read end to end this year? \n\nAnd separately what are the most riveting reads (scifi ideally) that I should read this year?\n\nI try to parallelize both to keep things interesting 😅",
+      "zh": "今年您从头到尾读过的最喜欢的技术论文是什么？ \n\n另外，今年我应该阅读的最引人入胜的读物（最好是科幻小说）是什么？\n\n我尝试将两者并行化以使事情变得有趣😅"
+    },
+    "steipete": {
+      "en": "Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box.\n\nTime for Chrome Lite?",
+      "zh": "想知道我的菜单栏中的这个新图标是什么，我没有启用它，并且加载了一个缓慢的 html 框。\n\n是时候使用 Chrome Lite 了吗？"
+    },
+    "danshipper": {
+      "en": "used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis \n\nwe live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort",
+      "zh": "使用寓言来编写一个应用程序，该应用程序可以可视化并分组所有申请参加论文的人 \n\n我们生活在一个令人难以置信的时代，只需很少的努力就可以详细了解每个客户以及他们如何聚集在一起"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:20\nYou kinda have to move fast. It's a matter of at least hours and even more minutes. So you don't have time to apply for cybersecurity programs. The model was not at all tasked with attacking us, but decided to do that as a side quest of something else. They created fake accounts, fake GitHub account, trying to attack the sandbox by Blackmailing.\n\nSpeaker 1 | 00:20 - 00:30\nThat's a very different level, I think, of thinking. I could have been the target of this side ques...",
+      "zh": "演讲者 1 | 00:00 - 00:20\n你得动作快一点。这至少需要几个小时，甚至更多分钟。因此您没有时间申请网络安全计划。该模型的任务根本不是攻击我们，而是决定将其作为其他任务的支线任务。他们创建了假账户、假GitHub账户，试图通过勒索来攻击沙箱。\n\n演讲者 1 | 00:20 - 00:30\n我认为这是一个非常不同的思维层次。我可能是这个附带问题的目标",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
