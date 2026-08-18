@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "Trajectory have generally impressed me with their tasteful execution on ambitious goals. on our Continual Learning track, @rronak_ gave a very thoughtful overview on how they're tackling the main data problems left in CL, including why GRPO isn't enough and they had to go on-policy.... and then subsequently fix all the issues that come up with it\n\nnice overview from one of the early leaders in this field!\n\n(see the rest of the track for more, this one was quite stacked)",
+      "zh": "总体而言，轨迹公司对雄心勃勃的目标的高雅执行力给我留下了深刻的印象。在我们的持续学习轨道上，@rronak_ 对他们如何解决 CL 中留下的主要数据问题进行了非常深思熟虑的概述，包括为什么 GRPO 还不够，他们必须遵循策略......然后随后修复随之而来的所有问题\n\n该领域的早期领导者之一提供了很好的概述！\n\n（有关更多信息，请参阅轨道的其余部分，这一条非常堆积）"
+    },
+    "joshwoodward": {
+      "en": "Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better?\n\n#1: Testing revamped Workspace tools in 1-2 weeks\n#2: 3.7 Flash showed improvements in tool calling, more coming here\n#3: New “Projects” design done, implementing now\n#4: 49 connectors (and counting) supported now\n#5: Backend work done, frontend work started\n#6: Done\n#7: Done, ramping up now\n#8: Done\n#9: Done\n#10: Done, fixed the biggest over-triggering bugs",
+      "zh": "回顾这一点并进行一些更新...我们可以改进的下一组内容是什么，以使您的 Gemini 体验变得更好？\n\n#1：在 1-2 周内测试改进的工作区工具\n#2：3.7 Flash 显示了工具调用方面的改进，更多内容即将到来\n#3：新的“项目”设计已完成，正在实施\n#4：现在支持 49 个连接器（并且还在增加）\n#5：后端工作完成，前端工作开始\n＃6：完成\n#7：完成，现在开始\n＃8：完成\n＃9：完成\n#10：完成，修复了最大的过度触发错误"
+    },
+    "bcherny": {
+      "en": "Let us know what you think!",
+      "zh": "让我们知道您的想法！"
+    },
+    "thsottiaux": {
+      "en": "What is an obvious thing that we should do with Codex, API or our models that we should just do but haven't yet? What is 100% within reach, but we just seem to be missing?",
+      "zh": "对于 Codex、API 或我们的模型，我们应该做但尚未做的显而易见的事情是什么？什么是100%触手可及，但我们却似乎错过了？"
+    },
+    "petergyang": {
+      "en": "Most inspirational video you’ll watch today",
+      "zh": "您今天将观看的最鼓舞人心的视频"
+    },
+    "thenanyu": {
+      "en": "Many such cases",
+      "zh": "这样的案例很多"
+    },
+    "realmadhuguru": {
+      "en": "The best way to get good at evals is to  take a workflow you know really well and figure out how to make its quality measurable.\n\nStudy the actual traces - the sequence of prompts typical users have, what good responses would look like at each step and for the end to end outcome. \n\nStudy where your product fails and create traces that capture them - messy tool call responses, missing context etc.\n\nOnce you have a good eval, think about how you would make it easy to run repeatedly and automatically. \n\nOnce you have that, think about how you will ensure your eval continues to mirror live traffic as your users patterns evolve.\n\nThis could be a series. Would you guys like me to write about it everyday?",
+      "zh": "擅长评估的最佳方法是采用您非常熟悉的工作流程，并找出如何使其质量可衡量。\n\n研究实际痕迹 - 典型用户的提示顺序、每个步骤以及端到端结果的良好响应是什么样的。 \n\n研究您的产品失败的地方并创建捕获它们的跟踪 - 混乱的工具调用响应、缺少上下文等。\n\n一旦您进行了良好的评估，请考虑如何轻松地重复自动运行。 \n\n一旦掌握了这一点，请考虑如何确保您的评估随着用户模式的发展而继续反映实时流量。\n\n这可能是一个系列。你们愿意我每天写这个吗？"
+    },
+    "trq212": {
+      "en": "go into CC and type /design &lt;something you want to design&gt;\n\ndo it rn",
+      "zh": "进入 CC 并输入 /design <你想要设计的东西>\n\n做吧"
+    },
+    "amasad": {
+      "en": "It’s not enough to scan your code for vulnerabilities; it’s important to try to break them with pen testing.",
+      "zh": "仅仅扫描代码中的漏洞是不够的；尝试通过笔测试来打破它们很重要。"
+    },
+    "rauchg": {
+      "en": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁",
+      "zh": "现在，您可以在 Cursor Origin 中托管存储库，并通过 Cursor Origin 部署到 Vercel，而 Cursor Origin 本身托管在 Vercel 上。与 GitHub 不同的是，它是在线的 😁"
+    },
+    "levie": {
+      "en": "When you hear that data is the new oil, this is ultimately what that looks like. AI has such a thirst for data that we’re entering an era where it’s valuable almost in any form.\n\nIn a world of AI, information actually belongs as an asset on the balance sheet. This data sale is just one example of the implications of what that will look like.\n\nUltimately, the way that companies manage and mine their organization’s intelligence will be one of the deciding factors for competitiveness and value creation in the future.",
+      "zh": "当您听说数据是新石油时，这就是它最终的样子。人工智能对数据的渴望如此之大，以至于我们正在进入一个数据几乎以任何形式都有价值的时代。\n\n在人工智能的世界中，信息实际上属于资产负债表上的资产。这次数据销售只是其影响的一个例子。\n\n最终，公司管理和挖掘组织智慧的方式将成为未来竞争力和价值创造的决定因素之一。"
+    },
+    "garrytan": {
+      "en": "What do you get? A private github repo with 70 of my proven skills and  the beginnings of your Karpathy-style knowledge wiki. \n\nRead the full docs in the README. All of this is MIT-licensed open source and free.",
+      "zh": "你得到什么？一个私人 github 存储库，包含我的 70 项经过验证的技能以及您的 Karpathy 风格知识 wiki 的开端。 \n\n阅读自述文件中的完整文档。所有这些都是麻省理工学院许可的开源且免费的。"
+    },
+    "nikunj": {
+      "en": "the models have no moat (OpenAI, Anthropic, XAI)\n\nthe IDEs have no moat (Cursor, Windsurf)\n\nthe harnesses have no moat (Cognition, Factory, LangChain)\n\nthe app builders have no moat (Replit, Lovable, Bolt)\n\nthe wrappers have no moat (Harvey, Abridge, OpenEvidence)\n\nthe inference providers have no moat (Together, Fireworks, Groq)\n\nthe voice layer has no moat (Sierra, Decagon, ElevenLabs)\n\nthe data labeling companies have no moat (Scale, Surge, Mercor)\n\nthe AI infrastructure has no moat (Baseten, Modal, Railway)\n\nthe neoclouds have no moat (CoreWeave, Lambda, Crusoe)\n\nthe generative media companies have no moat (Runway, Higgsfield, Suno)\n\napparently nobody in AI has a moat\n\nexcept the venture firm ☠️",
+      "zh": "模型没有护城河（OpenAI、Anthropic、XAI）\n\nIDE 没有护城河（Cursor、Windsurf）\n\n安全带没有护城河（Cognition、Factory、LangChain）\n\n应用程序开发者没有护城河（Replit、Lovable、Bolt）\n\n包装器没有护城河（Harvey、Abridge、OpenEvidence）\n\n推理提供者没有护城河（Together、Fireworks、Groq）\n\n语音层没有护城河（Sierra、Decagon、ElevenLabs）\n\n数据标签公司没有护城河（Scale、Surge、Mercor）\n\n人工智能基础设施没有护城河（Baseten、Modal、Railway）\n\nneoclouds 没有护城河（CoreWeave、Lambda、Crusoe）\n\n生成媒体公司没有护城河（Runway、Higgsfield、Suno）\n\n显然人工智能领域没有人拥有护城河\n\n除了风险投资公司☠️"
+    },
+    "danshipper": {
+      "en": "I have had extremely similar experiences\n\nVoice mode even better",
+      "zh": "我有过极其相似的经历\n\n语音模式更好"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:11\n70% of France is still nuclear in terms of its power generation. 70%. Where are all the accidents and where are all the kerfuffles and, you know, nothing. Nothing's happened. US is 18%, and we haven't built a reactor in forty years.\n\nSpeaker 1 | 00:11 - 00:25\nWe had a safety lobby in the seventies basically kill abundant clean energy for us. There are real outcomes where safety has hurt us. And the question is where do we want the spectrum to be on AI for this stuff? An...",
+      "zh": "演讲者 1 | 00:00 - 00:11\n法国70%的地区仍然采用核能发电。 70%。所有的事故都在哪里，所有的混乱都在哪里，但你知道，什么也没有。什么都没发生。美国是18%，我们四十年没有建反应堆了。\n\n演讲者 1 | 00:11 - 00:25\n我们在七十年代有一个安全大厅，基本上为我们消灭了丰富的清洁能源。安全问题确实给我们带来了伤害。问题是我们希望人工智能的频谱处于什么位置？一个",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
