@@ -1,0 +1,84 @@
+{
+  "x": {
+    "swyx": {
+      "en": "we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.\n\nopen sourcing/crowdsourcing our learnings today!\n\n\ndoing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think",
+      "zh": "我们一直在对@aiDotEngineer youtube 缩略图进行大量的a/b 测试。我一直讨厌这是一个如此不透明的过程。\n\n今天就开源/众包我们的学习成果！\n\n\n这样做是希望人们能够分享他们的经验或向我们学习。归根结底，我们只是想获得优质的教育内容，以超越网上的喧嚣。请告诉我你的想法"
+    },
+    "bcherny": {
+      "en": "The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more!",
+      "zh": "生活质量的微小改善不断出现。当您每天使用桌面时，缓慢的启动会让应用程序感觉迟缓。致力于进一步改进这一点！"
+    },
+    "thsottiaux": {
+      "en": "I was gifted a very fancy new reset button today",
+      "zh": "今天我收到了一个非常奇特的新重置按钮"
+    },
+    "petergyang": {
+      "en": "I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. \n\nHave been leaving it downstairs for 3 days now and it has noticeably improved my sleep.\n\nIt's the hardest thing to stay disciplined about. Always an excuse just waiting (\"let me see what my agents are up to in bed!)\"",
+      "zh": "我应该构建一个应用程序（或代理？），您可以在其中获得并保持连续几天避免将手机带到卧室。 \n\n已经把它放在楼下三天了，它明显改善了我的睡眠。\n\n这是最难保持纪律的事情。总是借口等待（“让我看看我的经纪人在床上做什么！）”"
+    },
+    "thenanyu": {
+      "en": "I wish it was a better watch",
+      "zh": "我希望这是一块更好的手表"
+    },
+    "realmadhuguru": {
+      "en": "Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve.\n\nStart with the highest quality way you can know if your AI product is working as intended.\n\nFirst get clear on what good looks like - Write the rubric.\n\nThen figure out the best way to measure it - humans /  LLM judge / automated verification.\n\nAt this stage, spend the money - use the expensive judge model, pay humans (or give your time). Run the best eval process possible so you get a signal you trust.\n\nOnce the eval can reliably distinguish good from bad and reflects what you care about in the product, focus on costs - more automation, smaller judge models, sampling, deterministic checks where relevant.\n\nQuality first. Cost next.\n\nthis is a series. drop any questions you have and I will answer them in my daily posts.",
+      "zh": "以下是如何考虑评估成本：将评估视为前沿模型……首先建立质量前沿，然后沿着成本曲线向下努力。\n\n从最高质量的方式开始，您可以知道您的人工智能产品是否按预期工作。\n\n首先明确什么是好的 - 写下标题。\n\n然后找出最好的衡量方法——人类/LLM判断/自动验证。\n\n在这个阶段，花钱——使用昂贵的法官模型，付钱给人类（或者付出你的时间）。尽可能运行最佳的评估流程，以便您获得您信任的信号。\n\n一旦评估能够可靠地区分好与坏，并反映您在产品中关心的内容，就可以关注成本——更多的自动化、更小的判断模型、抽样、相关的确定性检查。\n\n质量第一。接下来是成本。\n\n这是一个系列。如果您有任何问题，请提出，我将在每日帖子中回答它们。"
+    },
+    "trq212": {
+      "en": "weird that there's a \"make a lot of money\" button and nobody's pressing it\n\n(take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+      "zh": "奇怪的是有一个“赚很多钱”按钮却没有人按它\n\n（使用您的 SaaS，使其无头，让代理使用它，按交互收费，尤其是对企业）"
+    },
+    "GoogleLabs": {
+      "en": "Do you C what I C?\n\n⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏\n\n⦿ We're also expanding availability in the US and Canada. If you've been on the waitlist, we're rolling out invitations to get access starting today.\n\n⦿ We've upgraded CC to help manage your calendar. CC connects to Gmail so events are automatically created in a dedicated Google Calendar and stay up to date as things change.\n\nLearn more here:",
+      "zh": "你C的和我C的一样吗？\n\n⦿ CC，我们在 Gmail 中实验性的 AI 生产力代理，现已在澳大利亚和新西兰开放等候名单！ 🌏\n\n⦿ 我们还在扩大在美国和加拿大的可用性。如果您已在候补名单上，我们将从今天开始发出访问邀请。\n\n⦿ 我们升级了 CC 以帮助管理您的日历。 CC 连接到 Gmail，因此会在专用的 Google 日历中自动创建活动，并随着情况的变化保持最新状态。\n\n在这里了解更多："
+    },
+    "rauchg": {
+      "en": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon",
+      "zh": "你的软件工厂应该是一个单一仓库。您公司的所有背景（设计、营销、销售、工程、支持……）都集中在一个地方，供代理商进行构建"
+    },
+    "levie": {
+      "en": "As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. \n\nModel capability is obviously doing a lot of heavy lifting in agentic products, but there’s still a lot more work to diffuse AI into the enterprise.\n\n1. Getting agents to work well (and alongside people) in mission critical workflows tends to need to be represented differently depending on the business process. Sometimes it’s a chat experience. Other times it’s a background agent running in a deterministic workflow. And dozens of other variants. This is a mix of needing a harness that’s tuned to specific domains of work, but also making it show up in the right product experience.\n\n2. Different workflows connect into entirely different enterprise systems and need access to very different data. Working with that data -whether it’s life sciences, financial, legal, etc.- requires contextual approaches, understanding of the data, having the right user experience for data interaction, and more.\n\n3. The need for domain-specific change management remains critical in most verticals. The way you talk and implement technology at a bank is very different from a law firm. Having the right talent with a singular mission ends up being extremely useful for something as complex as process reengineering.\n\n4. The ability to work with a variety of models means you can tune the workflows to different cost and performance levels. And you can eventually post train models for specific tasks to tailor the outcomes and eke out gains that aren’t coming otherwise in frontier models.\n\n5. Evals! AI is basically not useful if it can’t be evaluated. Domain-specific evals that let you dramatically improve the performance of your harness for specific workflows just has a crazy long tail given how many tasks there are in the economy. Nearly impossible for one system to be tuned for all of them.\n\n6. Lots of verticals and domains require pricing models that reflect relevant abstractions on top of tokens alone. The ability to price in ways that work for your industry’s consumption model ends up mattering in a variety of spaces. \n\nThis just touches on some of the things that go into the applied AI layer. But it all adds up to being a huge surface area for being able to sustainably innovate and differentiate.",
+      "zh": "正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。 \n\n模型能力显然在代理产品中发挥了很大的作用，但将人工智能传播到企业中还有很多工作要做。\n\n1. 让代理在任务关键型工作流程中良好地工作（并与人员一起）往往需要根据业务流程以不同的方式表示。有时这是一种聊天体验。其他时候，它是在确定性工作流程中运行的后台代理。还有数十种其他变体。这既需要一个适合特定工作领域的安全带，又要使其出现在正确的产品体验中。\n\n2. 不同的工作流程连接到完全不同的企业系统，并且需要访问截然不同的数据。处理这些数据——无论是生命科学、金融、法律等——需要上下文方法、对数据的理解、拥有正确的数据交互用户体验等等。\n\n3. 在大多数垂直领域，针对特定领域的变革管理的需求仍然至关重要。在银行谈论和实施技术的方式与律师事务所非常不同。拥有合适的人才来完成单一的使命对于流程再造这样复杂的事情来说非常有用。\n\n4. 使用各种模型的能力意味着您可以将工作流程调整到不同的成本和性能水平。您最终可以发布针对特定任务的训练模型，以定制结果并获得前沿模型中无法获得的收益。\n\n5.评估！如果无法评估，人工智能基本上就没有用处。考虑到经济中有多少任务，特定领域的评估可以让您显着提高特定工作流程的工具的性能，但它具有疯狂的长尾。一个系统几乎不可能针对所有这些进行调整。\n\n6. 许多垂直行业和领域都需要定价模型来反映仅在代币之上的相关抽象。以适合行业消费模式的方式进行定价的能力最终在各个领域都很重要。 \n\n这只是涉及应用人工智能层的一些内容。但这一切加在一起就形成了一个能够持续创新和差异化的巨大表面积。"
+    },
+    "ryolu_": {
+      "en": "first step moving to asia:\n\nhelp me empty my apartment! if you can pick up in SF, place an order and we meet next week :)\n\nmade with @bot and @NotionHQ",
+      "zh": "进军亚洲的第一步：\n\n帮我清空我的公寓！如果您可以在 SF 取货，请下订单，我们下周见面:)\n\n用 @bot 和 @NotionHQ 制作"
+    },
+    "garrytan": {
+      "en": "If you want SF rent to be $10K/mo for a 1BR (you're a NIMBY landlord and you hate newcomers and young people)\n\nonly then would you vote for Connie Chan\n\nThe Dem machine smokescreen to try to force Chan into Congress is shameless and must be repudiated",
+      "zh": "如果您希望 SF 的 1 居室租金为 1 万美元/月（您是邻避房东，并且讨厌新移民和年轻人）\n\n只有这样你才会投票给陈康妮\n\n民主党机器烟幕弹试图迫使陈进入国会是无耻的，必须予以驳斥"
+    },
+    "nikunj": {
+      "en": "Life honestly gets a lot simpler if you treat it as if nobody owes you a damn thing.\n\nToo many people playing finite games when there’s many infinite games to play. \n\nDo good by people and life (and karma) takes care of itself.",
+      "zh": "老实说，如果你对待生活就像没有人欠你一样，生活就会变得简单得多。\n\n当有很多无限游戏可以玩时，太多人在玩有限游戏。 \n\n为人做好事，生活（和业力）就会自然而然。"
+    },
+    "steipete": {
+      "en": "512GB RAM Studios. Apple was good to us. 🦞",
+      "zh": "512GB RAM 工作室。苹果对我们很好。 🦞"
+    },
+    "danshipper": {
+      "en": "I can reliably tell im hitting a deeper point in a meditation because my nose clears completely  \n\nThis checks out",
+      "zh": "我可以可靠地告诉我，我在冥想中达到了更深的境界，因为我的鼻子完全干净了  \n\n这检查出"
+    },
+    "adityaag": {
+      "en": "I was talking to someone about @travisk today\n\nAnd I was reflecting that there was no one else on this earth who could have had the resilience to make sure that I can go from Point A to Point B in almost every global city\n\nNo one else in Silicon Valley had the guts. He did.\n\nTY.",
+      "zh": "我今天和某人谈论@travsk\n\n我在反思，这个世界上没有其他人能够有足够的韧性来确保我可以在几乎每一个全球城市从 A 点到达 B 点\n\n硅谷没有人有这个胆量。他做到了。\n\nTY。"
+    },
+    "sama": {
+      "en": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\n\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.\n\nWe expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.",
+      "zh": "我们暂停了一些前沿强化学习培训，以确保我们能够满足我们面前的新能力水平的适当调整、安全和监控标准。现在模型的进展非常快，我们总是说，如果我们认为模型功能超过了安全和对齐的速度，我们就会采取行动。\n\n我们非常关心人工智能的安全。我们认为整个领域必须就共同的安全标准进行协调，但同时会单方面采取行动。\n\n我们预计对安全的信心将日益决定人工智能进步的步伐。我们对正在进行的协调工作持乐观态度，并且仍然致力于广泛提供前沿能力。"
+    },
+    "claudeai": {
+      "en": "Claude can now send emails in Gmail and manage files in Google Drive.\n\nAsk Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.\n\nConnect Gmail or Google Drive from the connectors menu to try. Available on all paid plans.",
+      "zh": "Claude 现在可以在 Gmail 中发送电子邮件并在 Google 云端硬盘中管理文件。\n\n要求 Claude 回复某个线程，它会起草并发送回复。您可以控制何时需要您的批准。\n\n从连接器菜单连接 Gmail 或 Google Drive 进行尝试。适用于所有付费计划。"
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:14\nPeople think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird.\n\nSpeaker 1 | 00:17 - 00:35\nAnd I mean that like, you know, it's just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn't have to say continual le...",
+      "zh": "演讲者 1 | 00:00 - 00:14\n人们有时认为我的观点很激进。他们开始提问，说我的想法与其他人有何不同。但我完全不这么认为。我认为这就像我以普通的方式思考一样。只是其他人都觉得有点奇怪。\n\n演讲者 1 | 00:17 - 00:35\n我的意思是，你知道，最近人们的想法很奇怪。在人工智能疯狂出现之前，你不必说“持续的人工智能”。",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
