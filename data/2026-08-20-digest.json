@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "HAHAHAHAHAHA\n\nnon technical people are so incredibly cooked they are burnt thru\n\ncan u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,\n\nwhat a time to be alive",
+      "zh": "哈哈哈哈哈哈\n\n非技术人员太熟了，他们被烧焦了\n\n你能想象用零背景、零推理、零内部世界模型来覆盖人工智能吗？一定是那么的令人心旷神怡，一切都是那么的精彩，只要颜值，\n\n活着是多么美好的时光啊"
+    },
+    "joshwoodward": {
+      "en": "University student plans are back!\n\nWe've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️",
+      "zh": "大学生计划又回来了！\n\n我们已经凭借这一产品走向了全球。超过 140 个国家/地区将获得更高的限制、更多的存储空间以及我们专用的学生中心等新功能。它还配备了 Notebook、Flow 等。今天就报名⬇️"
+    },
+    "thsottiaux": {
+      "en": "It has not been used yet, but would you look at that. Codex for scale.",
+      "zh": "它还没有被使用过，但你会看看吗？规模法典。"
+    },
+    "petergyang": {
+      "en": "I wrote about my mom, her battles with breast cancer, and how we’re using AI to navigate the healthcare system.\n\nI'm grateful to @MaorShlomo and the team at the Sijbrandij Foundation for sharing their time and advice.\n\n📌 Read my new essay here:",
+      "zh": "我写了关于我妈妈的故事，她与乳腺癌的斗争，以及我们如何使用人工智能来导航医疗保健系统。\n\n我感谢 @MaorShlomo 和 Sijbrandij 基金会的团队分享他们的时间和建议。\n\n📌在这里阅读我的新文章："
+    },
+    "realmadhuguru": {
+      "en": "The best way to get good at evals - Part 3. \n\nLet’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.\n\nStart with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters.\n\nGet specific - “bad answer” isn’t a useful cluster name. \n\nSpecific failures - wrong document retrieved / right document but irrelevant section / failed to ground to context and hallucinated /  failed to punt on answer and instead made stuff up / question ambiguous  and made poor assumptions rather than asking clarifying questions etc.\n\nThose are very different problems.\n\nOnce you can name the failure precisely, you can build eval tests specifically designed to catch it.\n\nYou now have the bridge from evals to an improvement flywheel. More tomorrow…",
+      "zh": "擅长评估的最佳方法 - 第 3 部分。 \n\n让我们来谈谈故障模式分类法——这是您拥有 v1 版评估后应该构建的第一件事。\n\n从生产跟踪开始 - 研究最近 500 或 1,000 次交互并查看故障。将它们聚类并命名聚类。\n\n具体一点——“错误答案”不是一个有用的集群名称。 \n\n具体失败 - 检索到错误的文档/正确的文档，但不相关的部分/未能根据上下文并产生幻觉/未能对答案下注，而是编造内容/问题模棱两可，做出糟糕的假设而不是提出澄清问题等。\n\n这些是非常不同的问题。\n\n一旦您可以准确地命名故障，您就可以构建专门设计来捕获它的评估测试。\n\n您现在拥有从评估到改进飞轮的桥梁。明天更多……"
+    },
+    "_catwu": {
+      "en": "We'd love to talk with Cowork users in Corporate Finance and Accounting roles!\n\nHave ideas on how we can improve? Sign up for a screen share with our team here:",
+      "zh": "我们很乐意与担任企业财务和会计角色的 Cowork 用户交谈！\n\n对我们如何改进有想法吗？在此处注册与我们团队的屏幕共享："
+    },
+    "trq212": {
+      "en": "for its entire existence, the creation of software has been an incredibly unreliable endeavor\n\nmost projects ran late, over budget, and still missed user needs\n\nif you were an SMB, you simply couldn't get good software built for you\n\nthis is the promise of the 'software factory'",
+      "zh": "自其存在以来，软件的创建一直是一项极其不可靠的工作\n\n大多数项目都拖延了，超出了预算，但仍然错过了用户的需求\n\n如果您是中小型企业，您根本无法获得为您构建的优质软件\n\n这就是“软件工厂”的承诺"
+    },
+    "amasad": {
+      "en": "Agents made software cheaper but made coding expensive.\n\nToday, together with @OpenAI, we’re changing this:",
+      "zh": "代理使软件变得更便宜，但编码变得昂贵。\n\n今天，我们与@OpenAI 一起改变这一点："
+    },
+    "rauchg": {
+      "en": "SF has breathtaking views",
+      "zh": "SF 拥有令人惊叹的景色"
+    },
+    "levie": {
+      "en": "Good details on the Stripe + OpenRouter deal here. For AI to diffuse more broadly, developers and enterprises will want ways of being able to mix and match intelligence from a variety of provers seamlessly and better manage costs. This will be an important part of that.",
+      "zh": "有关 Stripe + OpenRouter 交易的详细信息请参见此处。为了让人工智能更广泛地传播，开发人员和企业将需要能够无缝地混合和匹配来自各种证明者的情报并更好地管理成本的方法。这将是其中的重要组成部分。"
+    },
+    "mattturck": {
+      "en": "AI labs: give us billions, we’ll cure cancer \n\nModerna:",
+      "zh": "人工智能实验室：给我们数十亿美元，我们将治愈癌症 \n\n现代："
+    },
+    "nikunj": {
+      "en": "People keep talking about AGI and yet 98/100 cold emails I get are pure garbage. \n\nStill a lot of alpha out there for being thoughtful, curious and using AI judiciously where needed!",
+      "zh": "人们一直在谈论 AGI，但我收到的 98/100 封冷邮件纯粹是垃圾。 \n\n仍然有很多阿尔法人深思熟虑、好奇并在需要时明智地使用人工智能！"
+    },
+    "steipete": {
+      "en": "Can’t wait to show you all what we been cookin’!",
+      "zh": "迫不及待地想向大家展示我们所做的一切！"
+    },
+    "danshipper": {
+      "en": "we now have a frontier team! \n\na group of people inside of every explicitly dedicated to mapping and experimenting at the edge of ai",
+      "zh": "我们现在有一支前沿队伍了！ \n\n每个人中都有一群明确致力于人工智能边缘的绘图和实验的人"
+    },
+    "adityaag": {
+      "en": "I was recently talking to a founder who had gone through a slog through hell. SaaS. Series B. Low growth. Stagnating company\n\nI asked him his biggest takeaway.....it wasn't to pick a bigger market. Or more growth\n\nIt was simply: Work on something consequential and meaningful.",
+      "zh": "我最近与一位经历过地狱般艰难的创始人交谈。 SaaS。 B 系列。低增长。停滞不前的公司\n\n我问他最大的收获……不是选择更大的市场。或者更多的成长\n\n很简单：做一些重要且有意义的事情。"
+    },
+    "sama": {
+      "en": "we support business privacy!",
+      "zh": "我们支持商业隐私！"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:02\nHow does it feel to be on your first podcast?\n\nSpeaker 2 | 00:03 - 00:09\nOh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward.\n\nSpeaker 2 | 00:09 - 00:10\nYou know?\n\nSpeaker 3 | 00:10 - 00:27\nJoke. At this point, thousands of American men have been broken with by To land. It's pretty incredible, you know, to to, you know, hear users of write in. They'll say, you know, well, you know, my boy...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n第一次上播客感觉如何？\n\n扬声器 2 | 00:03 - 00:09\n哦，伙计。这有点狂野。不会撒谎。就像，我很兴奋，但也低调紧张。我只是不想说一些完全尴尬的话。\n\n扬声器 2 | 00:09 - 00:10\n你知道吗？\n\n扬声器 3 | 00:10 - 00:27\n笑话。至此，数以千计的美国男人已经被土地决裂了。这是非常令人难以置信的，你知道，听到用户的写信。他们会说，你知道，嗯，你知道，我的孩子",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
