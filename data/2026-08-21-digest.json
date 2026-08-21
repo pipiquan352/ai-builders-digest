@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations…)\n\n/wayfinder is @mattpocockuk’s /grill-me for /grill-me, when you are just navigating the fog of war and don’t yet know what you dont yet know, and need to orchestrate research and other grill sessions to get there. super glad to have @ricmac help launch our new Skills coverage with his course launch this week!\n\n👇exclusive interview, quick read",
+      "zh": "从总体观点来看，马特现在是我们简短历史中顶级的 @aidotengineer 演讲者，并且可以说是世界上最好的技能专家之一 - 他的 /grill-me 已经到达了 @satyanadella 之前的所有梯队（有一些变化......）\n\n/wayfinder 是 @mattpocockuk 的 /grill-me for /grill-me，当你刚刚在战争迷雾中航行并且还不知道你还不知道什么，并且需要协调研究和其他烧烤会议才能到达那里时。非常高兴@ricmac 本周推出课程，帮助我们推出新的技能报道！\n\n👇独家专访，速读"
+    },
+    "bcherny": {
+      "en": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
+      "zh": "我们已经与客户就此事进行了一段时间的合作。神话级模型需要额外的安全措施，企业需要满足自己的隐私和合规规则。客户可以拥有并控制自己的数据，而 Anthropic 不会保留任何数据。今年秋天即将到来。"
+    },
+    "thsottiaux": {
+      "en": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent.\n\nWhat we did see is that when talking to affected users many were using sub2api. Converting a subscription into api traffic to then re-serve or share across many users is not something we support and this type of usage gets flagged by our fraud-prevention systems.\n\nYou are completely fine if you use your subscription through Sign in With ChatGPT, either through the official clients or through one of the many OSS clients (Pi, OpenCode, ...) that support signing in with your account and using your included usage.",
+      "zh": "我们调查了一些有关法典使用限制不同的消息。如果不让社区参与并保持透明，我们就不会改变这一点。\n\n我们确实看到，在与受影响的用户交谈时，许多用户都在使用 sub2api。我们不支持将订阅转换为 API 流量，然后在许多用户之间重新提供或共享，并且这种类型的使用会被我们的欺诈预防系统标记。\n\n如果您通过使用 ChatGPT 登录来使用您的订阅，无论是通过官方客户端还是通过支持使用您的帐户登录并使用您包含的使用方式的众多 OSS 客户端（Pi、OpenCode 等）之一，您都完全没问题。"
+    },
+    "petergyang": {
+      "en": "My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like:\n\n\"Are you sure this is the best you can do?\"\n\"I think you can do better, try again\"\n\"Take a closer look, give me 11/10 output\"",
+      "zh": "我的直觉是，只需构建一个循环即可改进大量人工智能输出，在该循环中，经理代理会通过以下提示来否定其他工作代理：\n\n“你确定这是你能做的最好的事情了吗？”\n“我认为你可以做得更好，再试一次”\n“仔细看看，给我 11/10 输出”"
+    },
+    "realmadhuguru": {
+      "en": "How to build great evals - part 4\n\nThe reason enterprises struggle with building decent AI systems is the lack of an eval strategy.\n\nYou need a laddered eval strategy, for your unique use cases,\nwith multiple evals on the cost/realism spectrum.\n\nHere are the key kinds of evals you need:\n\nHill-climb long evals : this pushes the frontier of your product and you need to continually refresh this to improve quality and expand your feature base.\n\nRegression evals : Did we break the product of today while hill climbing?\n\nSmoke test evals: safety and the absolute basics that just can’t go wrong. Not necessarily hard questions, but important to not get wrong. Eg product identity.\n\nLaunch evals: often close to an online test with real-ish traffic. Less control, but the most realistic.\n\nMore in tomorrow’s post! \n\nShare with your teammates who will benefit!",
+      "zh": "如何构建出色的评估 - 第 4 部分\n\n企业难以构建像样的人工智能系统的原因是缺乏评估策略。\n\n您需要针对您独特的用例采用阶梯式评估策略，\n对成本/现实主义范围进行多次评估。\n\n以下是您需要的关键评估类型：\n\n爬山式长期评估：这会推动产品的前沿，您需要不断刷新它以提高质量并扩展您的功能库。\n\n回归评估：我们在爬山时是否打破了今天的产品？\n\n烟雾测试评估：安全性和绝对不会出错的基础知识。不一定是很难的问题，但重要的是不要出错。例如产品标识。\n\n启动评估：通常接近具有实际流量的在线测试。控制较少，但最现实。\n\n更多内容在明天的帖子中！ \n\n分享给你的队友，谁会受益！"
+    },
+    "trq212": {
+      "en": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives &amp; who has access to it\n\nwe've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall",
+      "zh": "我们正在为在您的基础设施上工作的企业推出新的 Fable 保护措施，以便您可以控制数据所在的位置以及谁可以访问它\n\n我们已经与约 100 家公司一起开发它一段时间，并希望在秋季更广泛地推广它"
+    },
+    "amasad": {
+      "en": "This partnership with @OpenAI is long overdue.\n\nBefore Replit was in YC, PG asked Sam to recruit us.\n\nHere’s Sam telling the story of how we first met:",
+      "zh": "与@OpenAI 的合作是姗姗来迟的。\n\nReplit在YC之前，PG就让Sam招募我们。\n\n萨姆讲述了我们第一次见面的故事："
+    },
+    "rauchg": {
+      "en": "0.0.5 gets even smaller\nfits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed)\nshipping tomorrow with our most-asked feature!",
+      "zh": "0.0.5 变得更小\n适合 2 张软盘💾💾😁（𝚡𝚣-压缩）\n明天发货，我们最受欢迎的功能！"
+    },
+    "levie": {
+      "en": "Great post on what post training looks like for applied AI use-cases to bring down costs and improve accuracy on certain tasks. This will increasingly be an approach that companies that can get closer to the underlying workflow in an enterprise will take.\n\nThe key is that once you understand a domain well enough and have enough volume on a set of similar tasks, it can start to make sense to purpose design models just for that work.\n\n“In post-training, we incentivized efficient tool use and reasoning through reward shaping, preferring trajectories that would reduce tokens consumed at inference-time given equivalent performance. This allowed us to co-optimize for both cost and quality, gaining significant performance while keeping cost stable.”\n\nNow, this won’t make sense in every domain, as general purpose frontier closed or open models will be good enough out of the box -or necessary- for the work at hand. But once you have deep enough vertical expertise, and either the costs are too high to do at scale *or* you have a unique enough task type not being trained on otherwise, this will make a ton of sense. \n\nVery compelling value proposition for being an applied AI company, and awesome to see multiple paths to winning in the market right now.",
+      "zh": "这篇很棒的文章，介绍了应用人工智能用例的后期培训如何降低成本并提高某些任务的准确性。这将越来越成为能够更接近企业底层工作流程的公司将采取的一种方法。\n\n关键是，一旦您对某个领域有足够的了解，并且在一组类似的任务上有足够的数量，那么专门针对该工作设计模型就开始有意义。\n\n“在训练后，我们通过奖励塑造来激励有效的工具使用和推理，更喜欢在同等性能​​的情况下减少推理时消耗的代币的轨迹。这使我们能够共同优化成本和质量，在保持成本稳定的同时获得显着的性能。”\n\n现在，这并不是在每个领域都有意义，因为通用前沿封闭或开放模型对于手头的工作来说已经足够好，或者是必要的。但是，一旦您拥有足够深入的垂直专业知识，并且要么成本太高而无法大规模完成*或者*您拥有足够独特的任务类型而没有接受其他培训，那么这将非常有意义。 \n\n作为一家应用人工智能公司，价值主张非常引人注目，而且现在看到在市场上获胜的多种途径真是太棒了。"
+    },
+    "garrytan": {
+      "en": "YC is the YC for consumer hardware",
+      "zh": "YC 是消费类硬件的 YC"
+    },
+    "nikunj": {
+      "en": "My last post on ambition struck a nerve. Got a bunch of DMs from founders asking the same thing: why does ambition matter so much to investors? Let me try to explain the math.\n\nA couple of things have happened, right? Anthropic became the fastest company to go from zero to a trillion dollars in valuation, beating every revenue record you can think of. OpenAI did the same over a longer period. SpaceX went public at $1.77 trillion. And then the Cursor acquisition was the bellwether. You have a company going from zero to $60 billion in four years, returning so much DPI to its early funds that there's actual, meaningful dollar growth coming out. And we haven't even talked about OpenRouter and the IRR there.\n\nSo LPs are voting with their feet, giving money to these very, very large mega funds. Fund sizes have gotten way, way larger, and that almost justifies the behavior. When your fund is that big, each investment needs to be underwritten to an outcome that big. Small wins literally don't move the number.\n\nSo when those funds are evaluating deals, even a Series A, their underwriting needs to be: hey, does this company get to a trillion dollars? If they have that belief, the entry price almost doesn't matter. They're underwriting to a very large outcome and hoping the company kind of gets there. If you enter at 200, 300, 500, sometimes 1B, it really doesn't matter. Because that's how they return the fund.\n\nEven a prominent investor at one of the most disciplined firms says this. It sucks to not be at Anthropic or one of these foundational model companies. The value is just too big.\n\nSo what's happened in venture is that the error of omission is just too fudging high. They can't not invest. When something has a little bit of heat, price almost doesn't matter, because they can't go back to their LPs and say, hey, we didn't get into one of the biggest outcomes. They have to be in it.\n\nThe error of omission is way, way worse than the error of admission. And then power law kind of takes care of itself.\n\nThis is why ambition matters SO much when you're pitching.",
+      "zh": "我上一篇关于野心的文章触动了我的神经。很多创始人都问了同样的问题：为什么野心对投资者如此重要？让我尝试解释一下数学。\n\n发生了几件事，对吧？ Anthropic 成为估值从零上升到万亿美元最快的公司，打破了你能想到的所有收入记录。 OpenAI 在较长一段时间内也做了同样的事情。 SpaceX 以 1.77 万亿美元的价格上市。然后 Cursor 的收购是领头羊。一家公司在四年内从零增至 600 亿美元，向其早期基金返还了如此多的 DPI，以至于出现了实际的、有意义的美元增长。我们甚至还没有讨论 OpenRouter 和那里的 IRR。\n\n所以有限合伙人正在用脚投票，把钱捐给这些非常非常大的巨型基金。基金规模已经变得越来越大，这几乎证明了这种行为的合理性。当你的基金规模那么大时，每项投资都需要承保才能获得那么大的结果。小胜利实际上不会改变数字。\n\n因此，当这些基金评估交易时，即使是 A 轮融资，他们的承销也需要：嘿，这家公司能达到一万亿美元吗？如果他们有这样的信念，那么入门价格几乎就不重要了。他们正在承诺一个非常大的成果，并希望公司能够实现这一目标。如果你以200、300、500，有时1B进入，那真的没关系。因为这就是他们返还资金的方式。\n\n就连最有纪律的公司之一的一位著名投资者也这么说。不在 Anthropic 或这些基础模型公司之一真是太糟糕了。价值太大了。\n\n因此，风险投资中发生的情况是，遗漏的错误实在是太高了。他们不能不投资。当某件事有一点热度时，价格几乎无关紧要，因为他们不能回到他们的有限合伙人那里说，嘿，我们没有达到最大的结果之一。他们必须在其中。\n\n遗漏的错误比承认的错误严重得多。然后幂律就自然而然了。\n\n这就是为什么当你进行推介时，雄心壮志如此重要。"
+    },
+    "adityaag": {
+      "en": "One of the attributes that we look for the most @spc is Clarity.\n\nThe ability to be honest.\n\nTo cut through the fog of war.\n\nTo chart a path through murky waters.\n\n@RamaswmySridhar demonstrates this to the maximum degree.\n\nMinus One episode out now.\n\n(00:52) Choosing When to Take a Career Risk\n(05:01) Lessons From Google’s Founders\n(09:52) What Went Wrong at Neeva\n(13:39) The Future of AI Models\n(22:59) Snowflake’s Enduring Value in the AI Era\n(29:24) How to Keep Up With AI\n(32:24) Rapid Fire: Books, Search & Google",
+      "zh": "@spc 我们最寻找的属性之一是清晰度。\n\n诚实的能力。\n\n拨开战争迷雾。\n\n划出一条穿越浑水的道路。\n\n@RamaswmySridhar 最大限度地证明了这一点。\n\n现在已经出了一集了。\n\n(00:52) 选择何时承担职业风险\n(05:01) Google 创始人的经验教训\n(09:52) Neeva 出了什么问题\n(13:39) 人工智能模型的未来\n(22:59) Snowflake 在人工智能时代的持久价值\n(29:24) 如何跟上人工智能的步伐\n(32:24) 快速：图书、搜索和 Google"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:20\nThe brain very literally, very clearly, plainly is a computer. You can solve computational problems by arranging matter in a certain way and then like taking your hands off and pressing go. We talk about being a brain in a vat. That's what the skull is. Like the brain is connected to the environment through a small number of wires, the cranial and spinal nerves, these little cables that carry your interaction with the world.\n\nSpeaker 1 | 00:20 - 00:41\nIf you can get the...",
+      "zh": "演讲者 1 | 00:00 - 00:20\n大脑非常字面地、非常清楚地、明明白白地是一台计算机。你可以通过以某种方式排列物质来解决计算问题，然后就像放开你的手并按下去一样。我们谈论的是缸中之脑。这就是头骨。就像大脑通过少量电线与环境相连一样，脑神经和脊髓神经也通过这些小电缆承载着你与世界的互动。\n\n演讲者 1 | 00:20 - 00:41\n如果你能得到",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
