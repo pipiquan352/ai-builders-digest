@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
+      "zh": "我认为很容易说“模拟是一种新的缩放法则”并将其视为营销夸张，但在这次采访的中间，你可以听到我从有点废话到非常非常严肃。 \n\n我迟到了 2 年，但终于明白为什么 @karpathy 和 @drfeifei 支持 @joon_s_pk @msbernst @percyliang 等人 - Smallville 当时的商业应用为零，但如果你认真对待 RSI，从自动化越来越多的 ML 研究和 AI 工程的模型来看，最后一个*障碍是模拟人类和人类反馈，而 Simile 显然是做到这一点的团队，即使在现在，也已经在财富 100 强中找到了 PMF早期阶段。\n\n我从来没有这么高兴过犯了这么大的错误。\n\n*或倒数第二个！ :) 更多关于科学播客的内容"
+    },
+    "thsottiaux": {
+      "en": "The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
+      "zh": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。"
+    },
+    "petergyang": {
+      "en": "Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records? \n\nI can't recommend this to anyone until this is figured out. Thanks @clairevo for spotting this.",
+      "zh": "嘿，本能，在未经我许可的情况下索引和保留我的电子邮件并且不让我从您的记录中删除它们，这不是很酷吗？ \n\n在弄清楚这一点之前，我不能向任何人推荐这个。感谢@clairevo 发现了这一点。"
+    },
+    "realmadhuguru": {
+      "en": "How to build great evals - part 5\n\nStop dumbing down the results from your beautiful, complex eval suite into one single score. This often happens because some senior wants a simplified number to make decisions. Happened to us in the early days of Gemini.\n\nAnd I see it happening with a lot of teams.\n\nThis is the tyranny of the average.\nAI systems do not have a simple dimension of quality.\n\nImagine a model that goes from:\n85% -> 89% on simple summarization\n80% -> 85% on basic factual QA\n70% -> 63% on complex financial analysis\n\nA single score obscures the fact that the model got worse on your frontier use case.\n\nThe immediate reaction to this is to come up with a weighted score. The problem with this is that you have  created false, mathematical procession around a judgment call.\n\nSo what should you do?\n- keep a prioritized list of your evals per the ladder we discussed in part 4 yesterday.\n- get people who can look at the details and don’t look for abstracted simplicity.\n- Understand all the critical eval results in depth, where they fail, where they shine and make a decision on whether your new AI system is better or worse for your users.\n\nNext post tomorrow!\n\nDrop your eval questions below and I will answer in future posts.\n\nShare this with your teammates. And your managers who run from complexity.",
+      "zh": "如何构建出色的评估 - 第 5 部分\n\n不要再将美丽、复杂的评估套件的结果简化为一个分数。这种情况经常发生，因为一些高层想要一个简化的数字来做出决定。双子座早期就发生在我们身上。\n\n我看到很多团队都在发生这种情况。\n\n这就是平均数的暴政。\n人工智能系统没有简单的质量维度。\n\n想象一个模型：\n简单总结 85% -> 89%\n基本事实 QA 为 80% -> 85%\n70% -> 63% 进行复杂的财务分析\n\n单个分数掩盖了模型在您的前沿用例上变得更糟的事实。\n\n对此的直接反应是得出加权分数。这样做的问题在于，你围绕判断调用创建了错误的数学过程。\n\n那么你应该做什么呢？\n- 根据我们昨天在第 4 部分中讨论的阶梯保留一份评估的优先级列表。\n- 寻找能够关注细节而不是追求抽象简单性的人。\n- 深入了解所有关键的评估结果，它们在哪里失败，哪里表现出色，并决定您的新人工智能系统对您的用户来说是更好还是更差。\n\n明天下一篇文章！\n\n将您的评估问题放在下面，我将在以后的帖子中回答。\n\n与您的队友分享此信息。还有那些逃避复杂性的经理。"
+    },
+    "trq212": {
+      "en": "a skill people at Anthropic have been using a lot recently: ELI5\n\n/eli5 &lt;what you want explained&gt;\n\n\"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words\"",
+      "zh": "Anthropic 的人们最近经常使用的一项技能：ELI5\n\n/eli5 <你想要解释的内容>\n\n“就像我是一个对这个主题一无所知的人一样，使用带有大图片和很少文字的 HTML 工件进行解释”"
+    },
+    "rauchg": {
+      "en": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against  until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens.",
+      "zh": "观看这一切的展开真是太疯狂了。我们循环运行𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌，直到达到 100/100。\n\n它使我们缩小了很多差距。我们努力确保标准是高质量的并且值得您花时间和代币。"
+    },
+    "levie": {
+      "en": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domain. \n\nAs intelligence becomes too cheap to meter, then the big opportunity is driving diffusion of AI into the economy. \n\nThis is a great time to be applied AI company because there’s an incredible amount of innovation and competition acting as a tailwind to your own progress. Huge moment for startups right now that can take advantage of this.",
+      "zh": "目前人工智能的进步速度不同于科技史上的任何其他时期。在类似的任务基础上，模型变得越来越便宜，能力更强，速度更快，而且几乎在每个领域都在深入。 \n\n随着智能变得过于廉价而无法计量，巨大的机遇正在推动人工智能向经济领域的扩散。 \n\n现在是应用人工智能公司的好时机，因为有大量的创新和竞争可以成为你自己进步的顺风车。对于初创企业来说，现在是一个可以利用这一点的重要时刻。"
+    },
+    "garrytan": {
+      "en": "This is a UC Berkeley CS professor 😳",
+      "zh": "这是加州大学伯克利分校的计算机科学教授😳"
+    },
+    "mattturck": {
+      "en": "VC each time a company they passed on at the seed does another huge round",
+      "zh": "风险投资家每次在种子轮上放弃的公司都会进行另一轮巨额融资"
+    },
+    "nikunj": {
+      "en": "This is still SO underrated btw..\n\nMy daughter just started kindergarten. The daily meal is on a random website with weird unstructured data.\n\nAsked Claude Code to find the API through network requests, which turned out to be luckily unauthenticated. It figured out the right format and give it to our existing Hermes bot.\n\nSo now every morning our Home bot tells us what's for breakfast & lunch so we can pack food accordingly!",
+      "zh": "顺便说一句，这仍然被低估了..\n\n我女儿刚上幼儿园。每日膳食是在一个随机网站上进行的，其中包含奇怪的非结构化数据。\n\n要求 Claude Code 通过网络请求找到 API，结果幸运的是未经过身份验证。它找出了正确的格式并将其提供给我们现有的 Hermes 机器人。\n\n所以现在每天早上我们的家庭机器人都会告诉我们早餐和午餐吃什么，这样我们就可以相应地包装食物！"
+    },
+    "steipete": {
+      "en": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\"",
+      "zh": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门”"
+    },
+    "danshipper": {
+      "en": "gang gang",
+      "zh": "帮帮"
+    },
+    "adityaag": {
+      "en": "The frontier model race is just getting started.",
+      "zh": "前沿模型竞赛才刚刚开始。"
+    },
+    "claudeai": {
+      "en": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix.",
+      "zh": "GitHub 存储库中的 Point Claude Security 和 Mythos 扫描漏洞，跟踪跨文件的数据并推理组件如何交互。每个发现都会返回 CWE 类别、置信度和严重性评级以及建议的修复方案。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:24\nCOVID happened, Queen's Gambit happened, some news cycles happened, and we're like, oh, this might just be a flash in the pan, like treadmills and sourdough bread. But then in 2023, we had another crazy wave where all these kids started playing in schools because of short form content and the mittens bot and the cheating scandal. And we just spiked again. And then when we came down again, we were so much higher and we maintained this baseline.\n\nSpeaker 2 | 00:24 - 00:29...",
+      "zh": "演讲者 1 | 00:00 - 00:24\n新冠疫情发生了，皇后策略发生了，一些新闻周期发生了，我们就像，哦，这可能只是昙花一现，就像跑步机和酵母面包一样。但到了 2023 年，我们又迎来了另一波疯狂浪潮，由于短片内容、手套机器人和作弊丑闻，所有这些孩子都开始在学校玩耍。我们刚刚再次飙升。然后当我们再次下降时，我们的高度更高了，我们保持了这个基线。\n\n扬声器 2 | 00:24 - 00:29",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
