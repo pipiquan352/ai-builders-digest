@@ -1,0 +1,264 @@
+{
+  "generatedAt": "2026-08-23T14:22:47.380Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2091407991736332689",
+          "text": "Update on rate limits in Codex. \n\nWe’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.\n\nAs part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.\n\nSee you then.",
+          "createdAt": "2026-08-23T06:11:36.000Z",
+          "url": "https://x.com/thsottiaux/status/2091407991736332689",
+          "likes": 1382,
+          "retweets": 113,
+          "replies": 248,
+          "isQuote": true,
+          "quotedTweetId": "2091033630147854385"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2091331251211059468",
+          "text": "If you care about your privacy:\n\n1. Go to https://t.co/yICN6WAe9R in Chrome\n2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser\n3. Then pick the ones you want to remove and tell AI to do it\n\nJust disconnected half the apps that should no longer have my Google info.",
+          "createdAt": "2026-08-23T01:06:40.000Z",
+          "url": "https://x.com/petergyang/status/2091331251211059468",
+          "likes": 447,
+          "retweets": 23,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091239339204415969",
+          "text": "I’m working on a new AI skill. \n\nIt’s called /fuck-cancer\n\nGoal is to help patients and their family navigate this whole process and stay informed. \n\nWhat should I include in it?",
+          "createdAt": "2026-08-22T19:01:26.000Z",
+          "url": "https://x.com/petergyang/status/2091239339204415969",
+          "likes": 188,
+          "retweets": 5,
+          "replies": 39,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091187611507499321",
+          "text": "Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scroll down to Data Privacy.\n\nKudos to the Instinct team for listening and shipping this quickly. \n\nI will always say it like it is, especially when it comes to privacy & trust.",
+          "createdAt": "2026-08-22T15:35:53.000Z",
+          "url": "https://x.com/petergyang/status/2091187611507499321",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2091278899711967441",
+          "text": "Part 1\nhttps://t.co/9PCxjUITL6\n\nPart 2\nhttps://t.co/oMkXFWt9m7\n\nPart 3\nhttps://t.co/dwQ8cOzIrR\n\nPart 4\nhttps://t.co/NeaJzD7dry\n\nPart 5\nhttps://t.co/G0R7ZlEVDt",
+          "createdAt": "2026-08-22T21:38:38.000Z",
+          "url": "https://x.com/realmadhuguru/status/2091278899711967441",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2090930137885774324"
+        },
+        {
+          "id": "2091278653435072523",
+          "text": "How to build great evals - part 6\n\nHill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.\n\nThis could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.\n\nThe actual work boils down to better harnesses and model selection through methods like prompt eng, context eng, memory, post training, deterministic old school code etc.\n\nYour failure mode taxonomy (from part 3) is a good compass for where your product struggles and needs some love.\n\nE.g. maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. hill climbing here involves context eng to give it the right tools at the right stage and iterate until you get it to good.\n\nOr take the cost reduction goal..\nI’ve written about how I advise launching your product with the best model first. Get the quality as high as you can. Once you know users love the experience, hill climb to get similar quality with a smaller, cheaper, faster model. Same methods - harness, models.\n\nThe important thing is to have evals that tell you whether you are actually moving in the right direction.\n\nMore tomorrow. \n\nSend this to your teammates!\n\nDrop your questions in the comments and I will answer in future posts.",
+          "createdAt": "2026-08-22T21:37:39.000Z",
+          "url": "https://x.com/realmadhuguru/status/2091278653435072523",
+          "likes": 143,
+          "retweets": 8,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2090930137885774324"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2091346778746757204",
+          "text": "A week has 7 days\n\nThat means 7 ships https://t.co/DFGoTnEy5G",
+          "createdAt": "2026-08-23T02:08:22.000Z",
+          "url": "https://x.com/amasad/status/2091346778746757204",
+          "likes": 70,
+          "retweets": 4,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2091311652494803424"
+        },
+        {
+          "id": "2091217410615644349",
+          "text": "“Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP",
+          "createdAt": "2026-08-22T17:34:18.000Z",
+          "url": "https://x.com/amasad/status/2091217410615644349",
+          "likes": 643,
+          "retweets": 43,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2091338152791474331",
+          "text": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.",
+          "createdAt": "2026-08-23T01:34:05.000Z",
+          "url": "https://x.com/rauchg/status/2091338152791474331",
+          "likes": 735,
+          "retweets": 30,
+          "replies": 27,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091265836719956474",
+          "text": "cc @windows https://t.co/jwb1iekgRg",
+          "createdAt": "2026-08-22T20:46:43.000Z",
+          "url": "https://x.com/rauchg/status/2091265836719956474",
+          "likes": 57,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091263423359389951",
+          "text": "San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB",
+          "createdAt": "2026-08-22T20:37:08.000Z",
+          "url": "https://x.com/rauchg/status/2091263423359389951",
+          "likes": 1084,
+          "retweets": 20,
+          "replies": 80,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2091359223368315050",
+          "text": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models.\n\nThe far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. \n\nThis will be a huge space over time because you can’t automate what you can’t assess the progress on. Enterprises will not be able to go just on vibes.",
+          "createdAt": "2026-08-23T02:57:49.000Z",
+          "url": "https://x.com/levie/status/2091359223368315050",
+          "likes": 138,
+          "retweets": 12,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2090500944979243181"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2091403643815604629",
+          "text": "Few things:\n1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one shouldn’t have passed the bar. \n\n2) Doxxing someone is not my style. I hope they learned their lesson. \n\n3) I can’t stress enough how important it is to find the right people to take advice from. It boils my blood to see many talented young people who actually have substance play these stupid games.",
+          "createdAt": "2026-08-23T05:54:19.000Z",
+          "url": "https://x.com/nikunj/status/2091403643815604629",
+          "likes": 23,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091381756012511244",
+          "text": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd",
+          "createdAt": "2026-08-23T04:27:21.000Z",
+          "url": "https://x.com/nikunj/status/2091381756012511244",
+          "likes": 370,
+          "retweets": 4,
+          "replies": 73,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091220881590927441",
+          "text": "We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 https://t.co/ULMk7CdxGL https://t.co/MP3lxxhTQ5",
+          "createdAt": "2026-08-22T17:48:05.000Z",
+          "url": "https://x.com/nikunj/status/2091220881590927441",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2090886423574688058"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2091361962068254840",
+          "text": "we’re hiring @every!\n\nhttps://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z",
+          "createdAt": "2026-08-23T03:08:42.000Z",
+          "url": "https://x.com/danshipper/status/2091361962068254840",
+          "likes": 131,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2090853094082945216"
+        },
+        {
+          "id": "2091162447029608735",
+          "text": "agent native ftw https://t.co/C1mGoNcXpO",
+          "createdAt": "2026-08-22T13:55:53.000Z",
+          "url": "https://x.com/danshipper/status/2091162447029608735",
+          "likes": 149,
+          "retweets": 1,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2090889137062826240"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-12T16:55:27.000Z"
+    }
+  ]
+}
