@@ -1,0 +1,45 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "There are two types of AI evals - tops down and bottoms up.\n\nFrom @sh_reya:\n\n“Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals.\n\nBottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals? “Claude is very, very bad at coming up with bottom-up evals. That’s all you.”\n\n📌 Watch the full episode here:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Also every other category of software",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "How to build great evals - part 7.\n\nThe Goldilocks principle for eval construction.\n\nYour evals should measure at the level of the various jobs to be done, not just the final answer.\n\nE.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most common mistake I see is teams create a golden set of right answers and check if the agent recommended the \"right” stock.\n\nThe problem here is that there are probably a bunch of meaningful jobs that happened before this recommendation. E.g.\n\n1/ Understanding the client: their portfolio, risk tolerance, investment horizon, goals, constraints\n\n2/ Gather evidence: latest data points on the different stock stocks, the sectors, macro environment, Fed policy, recent and upcoming news events\n\n3/ Analyze the data: revenue growth, valuation guidance, growth projections and produce a narrower number of candidate stocks\n\n4/ Make a recommendation: stock ticker name, bid/sell price, timeframe\n\nEach of these is a stage and produces an intermittent output. Each of them can (and maybe should have) their own eval so you can diagnose issues.\n\nIf the final recommendation is wrong, a well designed eval set would tell you:\nClient understanding : 92%,\nEvidence extraction : 92%,\nData analysis: 70%\nRecommendation: 75%\n\nNow you know where to go dig. And you might go, man the data analysis step is too complex and I need to break it down into a set of jobs to be done, and construct eval sets for them.\n\nNot too granular. Not too coarse. Just right.\nMake your eval set as granular as you need to diagnose and act.\n\nDrop your eval questions in the comments and I will answer in future posts.\n\nShare this with your teammates!\n\nSee you tomorrow.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "I’m good to retire now",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "leaving\n\nleaving is the process from fullness into emptiness\n\nfrom the familiar circle of life\nthe routines undone\nthe streets i knew by heart\nthe people i kept meeting\nthe names and labels that had gathered on my skin\n\ntoward a place entirely unknown\nwhere a new life waits to be written\n\nbefore i go\ni take out everything i had hidden in my heart\nand say goodbye to it\npiece by piece\n\nmemory rises\nand feeling rises with it\n\none by one\ni empty the rooms within me\nuntil i am almost as i was when i first arrived\nunfurnished\nunclaimed\nopen\n\nwhat remains is a blankness\nechoing with my fear of loneliness\nmy longing for freedom\nand the questions i still cannot answer\n\nwhat is freedom\nwhat is happiness\n\nwhen i first came here\ni was drifting in a river\ncarried by the current\nthinking only of making things\n\nnow i have to place my own hands on the helm\n\nno longer mistaking the waves for fate\nor the shore for salvation\n\ni will miss the days i lived here\n\nbut i must learn again\nhow to sleep inside loneliness\nhow to eat inside uncertainty\nhow to recognize desire in the blank\n\nand through the act of leaving\nturn freedom from an idea\ninto a life i practice every day",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Mother in law is visiting from India..\n\nWants to do serendipitous date night with her grand daughter. \n\nRealized she didn’t sign up for roaming and we need a way to communicate. \n\nI get a data eSIM in under three minutes and she’s connected. \n\nWhat a wonderful world we live in 🤗\n\n(real ones know this would historically be a trip to the store or calling the carrier for an extra line that I need to cancel in a month)",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "cli is nice, having UI visualizations and your team where you work is nicer.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
