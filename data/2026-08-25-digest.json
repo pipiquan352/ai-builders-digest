@@ -1,0 +1,53 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.\n\nThis is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of weekly usage and (b) users on the Plus plan are relatively casual and new users, but then also just accidentally eat through their whole weeks usage and then are confused, making it not a great experience.\n\nWe are for the upcoming months keeping the 5h limit not enabled for Pro $100 and Pro $200 subscriptions.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I got 3 AI chief of staffs now, clearly the next step is to add one more",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "setting up a new computer with Codex is kind of nice... \"download and install handy, slack, chrome, cleanshot, rectangle\"\n\nmakes you wish siri was good",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "How to build great evals - part 8.\n\nThe discriminatory property of evals.\nA hill-climbing eval is useful when it can separate AI systems that are meaningfully different.\n\nImagine you run an eval on five AI systems:\n\nA: 94\nB: 93\nC: 95\nD: 94\nE: 92\n\nNow suppose you already know A and C are substantially better systems than D and E.\n\nThe eval is bad cos it doesn’t tell you that. It has low discriminatory power.\n\nIt’s like giving a fifth-grade math test to a group of PhDs - everyone aces it and  you’ve learned nothing about who is the smartest.\n\nThat doesn’t mean making evals arbitrarily hard. Then everyone fails and you’re not measuring what your systems are meant for.\n\nThe sweet spot for an eval is:\nRealistic + difficult + sensitive to differences in capability.\n\nOver time, your good evals will saturate as your harness and underlying models improve. What do you do then?\n\nDrop your guesses in the comments.\n\nShare this with your teammates.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Only a few have reached this milestone!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow.\n\nTurns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂\n\nI asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s. It was really cool to dive deeper into 𝚗𝚌𝚞𝚛𝚜𝚎𝚜, 𝚝𝚜𝚎𝚝, 𝚝𝚎𝚛𝚖𝚒𝚗𝚏𝚘, and the myriad ways in which your terminal can get… cursed.\n\nIt's legit fascinating how far back our technology stack goes, and how enduring good system design is, even with the occasional 'spider webs' you can find.\n\nCheck out  for a fun explainer (and some alternative solutions.)\n\nps: once you start using 𝚏𝚡, you'll notice slowness like this everywhere :D",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did. \n\nAgents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and more. \n\nThus, the governance, reliability, security, access controls, and business logic remain critical more than ever — the OpenAI Hugging Face incident is just a small peek into what the future will look like with agents running around trying to execute on their goals.\n\nBut this only works for the systems of record that respond with the right product experiences, APIs, and business models to support agents on and off their platform executing in these systems.\n\nHuge moment of opportunity and disruption right now in all of software.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Datacenters create jobs and prosperity, actually",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Every (unconventional) deal that’s officially wired dies a 100 times in venture..\n\nIt usually takes one champion sticking their neck out for the founder - and quietly steering it to the completion line. \n\nFounders it’s in your benefit to figure out who your real champion is to help steer the fund dynamics and arm them with whatever info you can to make your case. \n\nThis is where associates and non-voting partners are extraordinarily useful as they are incentivized to help you - and it’s a good test of how they’d partner with you as they come on your cap table!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "We need to get away from software that we can’t change with a prompt.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "so it looks @google disabled the @youtube account for @every with 0 notice and no reason given...\n\nanyone have any experience with this or know how to help us get it back?",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Hans Robertson was early at @VMware, co-founded @meraki and sold it to Cisco for $1.2B, and co-founded Verkada in 2016. \n\nHe's still running it today. \n\nHe's coming by @spc this week.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
