@@ -1,0 +1,463 @@
+{
+  "generatedAt": "2026-08-27T23:38:07.772Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2092614266818064389",
+          "text": "Experimenting with multiplayer AI https://t.co/USWItAK4Xw",
+          "createdAt": "2026-08-26T14:04:54.000Z",
+          "url": "https://x.com/joshwoodward/status/2092614266818064389",
+          "likes": 157,
+          "retweets": 15,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2092293667688173593"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2092862554632826968",
+          "text": "A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow and dust it up",
+          "createdAt": "2026-08-27T06:31:31.000Z",
+          "url": "https://x.com/thsottiaux/status/2092862554632826968",
+          "likes": 6582,
+          "retweets": 193,
+          "replies": 971,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092756702349398036",
+          "text": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days",
+          "createdAt": "2026-08-26T23:30:54.000Z",
+          "url": "https://x.com/thsottiaux/status/2092756702349398036",
+          "likes": 9336,
+          "retweets": 200,
+          "replies": 1181,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2092829981885796800",
+          "text": "Who should I tag for @X bugs now that @nikitabier has retired?",
+          "createdAt": "2026-08-27T04:22:05.000Z",
+          "url": "https://x.com/petergyang/status/2092829981885796800",
+          "likes": 46,
+          "retweets": 0,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092790875978162378",
+          "text": "@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+          "createdAt": "2026-08-27T01:46:41.000Z",
+          "url": "https://x.com/petergyang/status/2092790875978162378",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092789702940340369",
+          "text": "Only thing linear is missing is a sauna perk wdyt @karrisaarinen 😅",
+          "createdAt": "2026-08-27T01:42:01.000Z",
+          "url": "https://x.com/petergyang/status/2092789702940340369",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "tweets": [
+        {
+          "id": "2092726934216343739",
+          "text": "Ah yes, the rule of 2.5 https://t.co/WWnnWBT2iu",
+          "createdAt": "2026-08-26T21:32:36.000Z",
+          "url": "https://x.com/thenanyu/status/2092726934216343739",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2092721793169551528"
+        },
+        {
+          "id": "2092674125529743864",
+          "text": "scrum https://t.co/Qf26uRCN5q",
+          "createdAt": "2026-08-26T18:02:46.000Z",
+          "url": "https://x.com/thenanyu/status/2092674125529743864",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2092662310561296447"
+        },
+        {
+          "id": "2092673092103688348",
+          "text": "I am upset because the terrible comms has caused @gruber to lose his mind about watermarking and make @ditheringfm unlistenable for like 2 full episodes",
+          "createdAt": "2026-08-26T17:58:39.000Z",
+          "url": "https://x.com/thenanyu/status/2092673092103688348",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2092729394565657010",
+          "text": "We're seeing several of our customers be targeted by fraudulent requests and glad for all the work Stripe is doing to help them.\n\nStill a lot of work to do, these sort of attacks hurt everyones ability to provide usage to legitimate users. https://t.co/51HHI9mwI4",
+          "createdAt": "2026-08-26T21:42:23.000Z",
+          "url": "https://x.com/trq212/status/2092729394565657010",
+          "likes": 347,
+          "retweets": 11,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2092587466838712669"
+        },
+        {
+          "id": "2092696449616376140",
+          "text": "this was my change, excited to roll it out\n\nClaude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to draft and approve it\n\nthe feedback helps us improve and understand problems, so it's very appreciated https://t.co/8IhMwspobv",
+          "createdAt": "2026-08-26T19:31:28.000Z",
+          "url": "https://x.com/trq212/status/2092696449616376140",
+          "likes": 944,
+          "retweets": 24,
+          "replies": 137,
+          "isQuote": true,
+          "quotedTweetId": "2092695038270775647"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2092658681947246868",
+          "text": "Interesting https://t.co/U8kB6SPjjM",
+          "createdAt": "2026-08-26T17:01:24.000Z",
+          "url": "https://x.com/amasad/status/2092658681947246868",
+          "likes": 133,
+          "retweets": 6,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2092198049284018625"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2092735785460277627",
+          "text": "So cool. Global compute at your (agents') fingertips.\n\nMultiple regions, failover, up to 10,000 concurrent sandboxes &amp; 5,000 vCPUs/min ramp by default, with more regions to come 🫪 https://t.co/d5RUqFDtiz https://t.co/j3wezkZM4B",
+          "createdAt": "2026-08-26T22:07:47.000Z",
+          "url": "https://x.com/rauchg/status/2092735785460277627",
+          "likes": 181,
+          "retweets": 4,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2092668560695001223"
+        },
+        {
+          "id": "2092621371914482026",
+          "text": "We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI.\n\nMuch like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security posture with human-in-the-loop, or run in crons.\n\nWho would have thunk CLIs would save the world 😁 https://t.co/xuVkD7KlHp https://t.co/SS4rnLhVep",
+          "createdAt": "2026-08-26T14:33:08.000Z",
+          "url": "https://x.com/rauchg/status/2092621371914482026",
+          "likes": 261,
+          "retweets": 12,
+          "replies": 34,
+          "isQuote": true,
+          "quotedTweetId": "2092611129612910692"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2092702955292230100",
+          "text": "Yesterday, at Box we reported our Q2 results with revenue of $321.1 million for the quarter, up 9%, or 11% in constant currency (our highest constant-currency growth rate in 14 quarters), and we raised our full-year revenue target to $1.290 billion. Overall, this growth is being driven by the demand we're seeing from enterprises aiming to get the most out of their enterprise content and transform in the era of AI.\n\nAs I shared on our earnings call, during the quarter I spoke with many enterprise technology leaders who highlighted their primary goals and challenges in implementing AI. One of the most common topics is how enterprises can get the right context to AI agents, as well as tap into the full value of their unstructured data, in a secure and governed way.\n\nThe world’s most advanced superintelligence is only as useful as the underlying enterprise knowledge it has access to. Agents need access to the critical information that makes up the bulk of corporate knowledge --like contracts, research materials, financial documents, marketing assets, product roadmap information, and so on-- most of which lives within an enterprise’s unstructured data.\n\nWe've long been able to query, calculate, and automate work that deals with structured data; but the vast majority of data in an enterprise is unstructured, often in the form of our enterprise content. Instead of sitting on millions or hundreds of millions of files they know very little about, companies can now use AI agents to ask questions about this data, mine it all for intelligence, and automate nearly any workflow that involves this enterprise content.\n\nThe technology leaders I'm talking to are also recognizing that as AI model capabilities advance across AI labs --like OpenAI, Anthropic, SpaceXAI, Meta, Google, NVIDIA, and a variety of open-weight providers-- they will need applied AI platforms that can bring the full power of these models to their processes. And with AI token usage continuing to grow exponentially, the ability to draw the right cost-performance mix becomes essential. Rather than migrating data and workflows into separate systems to unlock AI's benefits, enterprises need the ability to swap models or agents on their workflows and information at any time.\n\nFinally, as we saw with the recent OpenAI Hugging Face incident, enterprises will increasingly need platforms that can securely protect their corporate data and ensure that neither humans nor agents can get access to information they shouldn’t have access to. As external AI agents interact with enterprise data, enterprises will need platforms that offer robust guardrails, comprehensive audit logs, and real-time security alerts to ensure content remains protected and governed at all times.\n\nGiven all of these dynamics, there's going to be a tremendous amount of opportunity for various plays to bring intelligence to the critical workflows inside of enterprises at the applied AI layer. At Box. we're focused on building the leading intelligent content management platform to empower enterprises to transform how they work with their unstructured data at scale. And we're looking forward to partnering with all of the other companies bringing intelligence into organizations as well.",
+          "createdAt": "2026-08-26T19:57:19.000Z",
+          "url": "https://x.com/levie/status/2092702955292230100",
+          "likes": 188,
+          "retweets": 18,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2092681148925382992"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2092808287280329097",
+          "text": "Truly a win-win-win:\n\n* NVIDIA is officially the center of open source AI w/ Nemotron and now HF\n\n* Hugging Face scores huge + gets the perfect home (no more nagging re business model!)\n\n* Open source AI wins!\n\nMassive congrats to friends @ClementDelangue, @Thom_Wolf (+ @ctnzr!)",
+          "createdAt": "2026-08-27T02:55:52.000Z",
+          "url": "https://x.com/mattturck/status/2092808287280329097",
+          "likes": 119,
+          "retweets": 5,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092688916969095587",
+          "text": "Fun to be in the guest chair (vs host), for once.  Chatted with Dan Nathan about:\n\n* why the best venture firm in the world might be NVIDIA \n* the \"hyper power law\"\n* why apps are becoming labs faster than labs are becoming apps\n* RSI and \"building God\"\n* AI bubble vs.duration mismatch concern\n* Learning to stop underestimating China",
+          "createdAt": "2026-08-26T19:01:32.000Z",
+          "url": "https://x.com/mattturck/status/2092688916969095587",
+          "likes": 12,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2092685768833605757"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2092748226701210023",
+          "text": "https://t.co/LECRNMF863",
+          "createdAt": "2026-08-26T22:57:13.000Z",
+          "url": "https://x.com/nikunj/status/2092748226701210023",
+          "likes": 325,
+          "retweets": 11,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2092822007843061823",
+          "text": "codex' visualization feature got really good. https://t.co/Ik65LULsY2",
+          "createdAt": "2026-08-27T03:50:24.000Z",
+          "url": "https://x.com/steipete/status/2092822007843061823",
+          "likes": 492,
+          "retweets": 16,
+          "replies": 47,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092756010280853815",
+          "text": "maybe it is a bubble? https://t.co/ZJP249nWRN",
+          "createdAt": "2026-08-26T23:28:09.000Z",
+          "url": "https://x.com/steipete/status/2092756010280853815",
+          "likes": 463,
+          "retweets": 12,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2092706230334574681"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2092756144447983619",
+          "text": "THEY DID IT FOLKS https://t.co/67ogquTD3g",
+          "createdAt": "2026-08-26T23:28:41.000Z",
+          "url": "https://x.com/danshipper/status/2092756144447983619",
+          "likes": 1367,
+          "retweets": 35,
+          "replies": 44,
+          "isQuote": true,
+          "quotedTweetId": "2092755571455758427"
+        },
+        {
+          "id": "2092686463859126492",
+          "text": "Codex native apps are here! https://t.co/OMjAee4xYx",
+          "createdAt": "2026-08-26T18:51:47.000Z",
+          "url": "https://x.com/danshipper/status/2092686463859126492",
+          "likes": 258,
+          "retweets": 7,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2092628886572200169"
+        },
+        {
+          "id": "2092636264902148262",
+          "text": "definite golden age for polymaths and philosophers (luckily, a good antidote for epistemic despair) \n\nincredible time https://t.co/LvFaal4txH",
+          "createdAt": "2026-08-26T15:32:19.000Z",
+          "url": "https://x.com/danshipper/status/2092636264902148262",
+          "likes": 259,
+          "retweets": 14,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2092556605803930017"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2092679292064768288",
+          "text": "https://t.co/ntdG1iX6kz",
+          "createdAt": "2026-08-26T18:23:17.000Z",
+          "url": "https://x.com/adityaag/status/2092679292064768288",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092679288869019700",
+          "text": "The AI frontier will be determined by post-training.\n\n@DeepCogito is a post-training research lab. \n\nToday they’re announcing their $43M Series A.\n\nTheir research focuses on large-scale reinforcement learning and recursive self-improvement. \n\nThe core method is iterated distillation and amplification (IDA). \n\nThey’ve already proven the method in public for models from 3B to 600B+ parameters.\n\nWe met @drishanarora and @dhruvmalrana in March 2024 as Founder Fellows at @spc. They've known each other for 14 years. \n\nWe’re excited to support the team working on the frontier of intelligence alongside @benchmark, @TQVentures, @Atreidesmgmt, @nexusvp, and @zscaler. \n\nMore on why we invested below.",
+          "createdAt": "2026-08-26T18:23:17.000Z",
+          "url": "https://x.com/adityaag/status/2092679288869019700",
+          "likes": 59,
+          "retweets": 10,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2092667259231838263"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2092733018838290817",
+          "text": "i think we should do another party for our next model release, the 5.5 party was a lot of fun.\n\nwhat would make the next one awesome?",
+          "createdAt": "2026-08-26T21:56:47.000Z",
+          "url": "https://x.com/sama/status/2092733018838290817",
+          "likes": 9236,
+          "retweets": 244,
+          "replies": 1889,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092712656096358527",
+          "text": "this is a good report about a bad thing: https://t.co/j21E754kP3",
+          "createdAt": "2026-08-26T20:35:52.000Z",
+          "url": "https://x.com/sama/status/2092712656096358527",
+          "likes": 3248,
+          "retweets": 131,
+          "replies": 285,
+          "isQuote": true,
+          "quotedTweetId": "2092691861773160673"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2092755574563741871",
+          "text": "If you prefer to work in your own browser where you're already signed in, Claude in Chrome is now generally available on all paid plans. It remains your default if you already use it: https://t.co/4fDkGrY6YR",
+          "createdAt": "2026-08-26T23:26:25.000Z",
+          "url": "https://x.com/claudeai/status/2092755574563741871",
+          "likes": 247,
+          "retweets": 9,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092755573183828193",
+          "text": "There's nothing to install. Claude's browser is built into the desktop app and stays separate from your own browser and logins.\n\nRolling out over the next week on the desktop app for all paid plans: https://t.co/w4Ja60vZu6",
+          "createdAt": "2026-08-26T23:26:24.000Z",
+          "url": "https://x.com/claudeai/status/2092755573183828193",
+          "likes": 455,
+          "retweets": 22,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2092755571455758427",
+          "text": "Claude now has its own built-in browser in Cowork.\n\nWhen your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job. https://t.co/yHDOTRQZ12",
+          "createdAt": "2026-08-26T23:26:24.000Z",
+          "url": "https://x.com/claudeai/status/2092755571455758427",
+          "likes": 7149,
+          "retweets": 412,
+          "replies": 249,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-26T15:00:00.000Z"
+    }
+  ]
+}

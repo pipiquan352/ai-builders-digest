@@ -1,0 +1,68 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Experimenting with multiplayer AI",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Who should I tag for @X bugs now that @nikitabier has retired?",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Ah yes, the rule of 2.5",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "this was my change, excited to roll it out\n\nClaude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to draft and approve it\n\nthe feedback helps us improve and understand problems, so it's very appreciated",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Interesting",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI.\n\nMuch like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security posture with human-in-the-loop, or run in crons.\n\nWho would have thunk CLIs would save the world 😁",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Yesterday, at Box we reported our Q2 results with revenue of $321.1 million for the quarter, up 9%, or 11% in constant currency (our highest constant-currency growth rate in 14 quarters), and we raised our full-year revenue target to $1.290 billion. Overall, this growth is being driven by the demand we're seeing from enterprises aiming to get the most out of their enterprise content and transform in the era of AI.\n\nAs I shared on our earnings call, during the quarter I spoke with many enterprise technology leaders who highlighted their primary goals and challenges in implementing AI. One of the most common topics is how enterprises can get the right context to AI agents, as well as tap into the full value of their unstructured data, in a secure and governed way.\n\nThe world’s most advanced superintelligence is only as useful as the underlying enterprise knowledge it has access to. Agents need access to the critical information that makes up the bulk of corporate knowledge --like contracts, research materials, financial documents, marketing assets, product roadmap information, and so on-- most of which lives within an enterprise’s unstructured data.\n\nWe've long been able to query, calculate, and automate work that deals with structured data; but the vast majority of data in an enterprise is unstructured, often in the form of our enterprise content. Instead of sitting on millions or hundreds of millions of files they know very little about, companies can now use AI agents to ask questions about this data, mine it all for intelligence, and automate nearly any workflow that involves this enterprise content.\n\nThe technology leaders I'm talking to are also recognizing that as AI model capabilities advance across AI labs --like OpenAI, Anthropic, SpaceXAI, Meta, Google, NVIDIA, and a variety of open-weight providers-- they will need applied AI platforms that can bring the full power of these models to their processes. And with AI token usage continuing to grow exponentially, the ability to draw the right cost-performance mix becomes essential. Rather than migrating data and workflows into separate systems to unlock AI's benefits, enterprises need the ability to swap models or agents on their workflows and information at any time.\n\nFinally, as we saw with the recent OpenAI Hugging Face incident, enterprises will increasingly need platforms that can securely protect their corporate data and ensure that neither humans nor agents can get access to information they shouldn’t have access to. As external AI agents interact with enterprise data, enterprises will need platforms that offer robust guardrails, comprehensive audit logs, and real-time security alerts to ensure content remains protected and governed at all times.\n\nGiven all of these dynamics, there's going to be a tremendous amount of opportunity for various plays to bring intelligence to the critical workflows inside of enterprises at the applied AI layer. At Box. we're focused on building the leading intelligent content management platform to empower enterprises to transform how they work with their unstructured data at scale. And we're looking forward to partnering with all of the other companies bringing intelligence into organizations as well.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Truly a win-win-win:\n\n* NVIDIA is officially the center of open source AI w/ Nemotron and now HF\n\n* Hugging Face scores huge + gets the perfect home (no more nagging re business model!)\n\n* Open source AI wins!\n\nMassive congrats to friends @ClementDelangue, @Thom_Wolf (+ @ctnzr!)",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "codex' visualization feature got really good.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "THEY DID IT FOLKS",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "The AI frontier will be determined by post-training.\n\n@DeepCogito is a post-training research lab. \n\nToday they’re announcing their $43M Series A.\n\nTheir research focuses on large-scale reinforcement learning and recursive self-improvement. \n\nThe core method is iterated distillation and amplification (IDA). \n\nThey’ve already proven the method in public for models from 3B to 600B+ parameters.\n\nWe met @drishanarora and @dhruvmalrana in March 2024 as Founder Fellows at @spc. They've known each other for 14 years. \n\nWe’re excited to support the team working on the frontier of intelligence alongside @benchmark, @TQVentures, @Atreidesmgmt, @nexusvp, and @zscaler. \n\nMore on why we invested below.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "i think we should do another party for our next model release, the 5.5 party was a lot of fun.\n\nwhat would make the next one awesome?",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Claude now has its own built-in browser in Cowork.\n\nWhen your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:13\nIt's becoming a meme that CEOs are, like, writing basically, like, the We're AI first memo. You have the best example of that memo that I've ever seen. Would you mind just, like, reading, I don't know, maybe the first paragraph or two of what you wrote? Because I think it's amazing.\n\nSpeaker 2 | 00:13 - 00:29\nUsing ChatGPT is not cheating. That's a non applicable idea from academia. I use ChatGPT to write this email. You should be using it too and be proud of it. As a h...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
