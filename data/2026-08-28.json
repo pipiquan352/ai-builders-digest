@@ -1,0 +1,452 @@
+{
+  "generatedAt": "2026-08-28T23:25:51.273Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2093074288295481470",
+          "text": "Look what you can do:\n- Tell Gemini what you want done\n- Gemini gets to work\n\nThis is the Year of Voice https://t.co/XGkmnJm6Cb",
+          "createdAt": "2026-08-27T20:32:52.000Z",
+          "url": "https://x.com/joshwoodward/status/2093074288295481470",
+          "likes": 328,
+          "retweets": 15,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2092661911120978024"
+        },
+        {
+          "id": "2093070719093727265",
+          "text": "Try it out\n\nhttps://t.co/hV4tY0BHxv",
+          "createdAt": "2026-08-27T20:18:41.000Z",
+          "url": "https://x.com/joshwoodward/status/2093070719093727265",
+          "likes": 14,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093070717508296923",
+          "text": "Turn your favorite books into your personal brain trust! You can now buy a book, drop it in Notebook, and apply the author’s lessons to your project. \n\nFor authors and publishers, we co-created this program so you could reach new and more engaged readers. https://t.co/fiErAHaKlk",
+          "createdAt": "2026-08-27T20:18:41.000Z",
+          "url": "https://x.com/joshwoodward/status/2093070717508296923",
+          "likes": 360,
+          "retweets": 25,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2093059543362306369"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2093207264194892263",
+          "text": "But flying close to Sol doesn't make it faster, sorry.",
+          "createdAt": "2026-08-28T05:21:16.000Z",
+          "url": "https://x.com/thsottiaux/status/2093207264194892263",
+          "likes": 504,
+          "retweets": 5,
+          "replies": 49,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093207246977318928",
+          "text": "Starting to see more and more Codex users on airplanes and in cafés. Underdog energy gone mainstream.",
+          "createdAt": "2026-08-28T05:21:12.000Z",
+          "url": "https://x.com/thsottiaux/status/2093207246977318928",
+          "likes": 2732,
+          "retweets": 40,
+          "replies": 324,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093074717590921245",
+          "text": "ChatGPT can now do your groceries, book an Uber, get you that haircut appointment (hint hint), and much more. All without ever seeing your actual credentials and keeping it secure. https://t.co/iphUe2UAhX",
+          "createdAt": "2026-08-27T20:34:34.000Z",
+          "url": "https://x.com/thsottiaux/status/2093074717590921245",
+          "likes": 3788,
+          "retweets": 120,
+          "replies": 367,
+          "isQuote": true,
+          "quotedTweetId": "2092366554965107164"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2093132262602920002",
+          "text": "One great use of my /no-ai-slop skill (now at 6K GitHub stars) is to ask it to work in reverse.\n\nHere's an example of a wedding vow it created for a couple who were united by their shared passion for B2B SaaS. 😅\n\nGet my /no-ai-slop skill here: https://t.co/UyaaNQ6kLf https://t.co/frxaNtXTgD https://t.co/uRC38Tln17",
+          "createdAt": "2026-08-28T00:23:14.000Z",
+          "url": "https://x.com/petergyang/status/2093132262602920002",
+          "likes": 106,
+          "retweets": 5,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2079943830024188105"
+        },
+        {
+          "id": "2093126719888916616",
+          "text": "I receive around 3-5 requests to test a new AI product daily. Almost all of them require creating a new account and logging into a separate website or app.\n\nMeanwhile, I basically only use ChatGPT, Grok, etc to do everything on my computer and browser.\n\nThese harnesses already have all my context and I don't want to start over from scratch with a new website or tool that only understands a small slice of my data. \n\nSo with a few exceptions, the new products that I'm mostly likely to adopt need to work in today's top AI harnesses.\n\nI realize only a small segment of users behave this way but I bet this segment will expand drastically soon.",
+          "createdAt": "2026-08-28T00:01:13.000Z",
+          "url": "https://x.com/petergyang/status/2093126719888916616",
+          "likes": 646,
+          "retweets": 28,
+          "replies": 144,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093099238381240447",
+          "text": "I've uploaded 160 pages of medical records to AI and it has been incredible. \n\nWho's on the team for @ChatGPT Health? It needs to be designed not just for the patient but also for the care giver & family. \n\nRight now it feels like it's a strictly single player experience? I understand medical records are sensitive but close family sharing should be allowed.",
+          "createdAt": "2026-08-27T22:12:00.000Z",
+          "url": "https://x.com/petergyang/status/2093099238381240447",
+          "likes": 230,
+          "retweets": 6,
+          "replies": 47,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product enthusiast",
+      "tweets": [
+        {
+          "id": "2093053415429677155",
+          "text": "This video is the future of the tech job market (if we get this AI thing right) https://t.co/k2PUm4sCz3",
+          "createdAt": "2026-08-27T19:09:55.000Z",
+          "url": "https://x.com/thenanyu/status/2093053415429677155",
+          "likes": 25,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2092951807911715276"
+        },
+        {
+          "id": "2093010530403561964",
+          "text": "the most important non-default setting you probably don't have toggled rn (@CleanShot) https://t.co/fo5hIOtJWE",
+          "createdAt": "2026-08-27T16:19:31.000Z",
+          "url": "https://x.com/thenanyu/status/2093010530403561964",
+          "likes": 166,
+          "retweets": 0,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2093143877087879377",
+          "text": "If you lead AI for an enterprise, the highest leverage thing you can do is to make your AI stack model agnostic. \n\nThere are two things I would invest in.\n\n1/ Today: build an eval suite that fully captures your use cases and business outcomes. Most companies I’ve seen do not do a good job of this.\n\n2/ Within the next year: build the capability to post-train open models. The talent gap here is even more acute, so start planning today.\n\nThis gives you the flexibility to switch models, customize them, compare them on your own workloads, and optimize for the best combination of quality, cost and latency.\n\nown the evals, own the models.",
+          "createdAt": "2026-08-28T01:09:23.000Z",
+          "url": "https://x.com/realmadhuguru/status/2093143877087879377",
+          "likes": 173,
+          "retweets": 11,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2093176635940016380",
+          "text": "life is stranger than fiction https://t.co/VRODSsk0q4",
+          "createdAt": "2026-08-28T03:19:34.000Z",
+          "url": "https://x.com/trq212/status/2093176635940016380",
+          "likes": 1256,
+          "retweets": 52,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2093120128879907123",
+          "text": "Deploy to Vercel https://t.co/hhz97HbwJI",
+          "createdAt": "2026-08-27T23:35:01.000Z",
+          "url": "https://x.com/rauchg/status/2093120128879907123",
+          "likes": 382,
+          "retweets": 9,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2093077548649570777"
+        },
+        {
+          "id": "2093119693846630842",
+          "text": "https://t.co/JWiUKesyXV and shaders are further proof that “everything is computer”.\n\n2D, 3D, geometry, light, materials, textures, shadows, reflections, particles, post-processing. Just programs evaluated massively in parallel over vertices and pixels. All computer.",
+          "createdAt": "2026-08-27T23:33:17.000Z",
+          "url": "https://x.com/rauchg/status/2093119693846630842",
+          "likes": 183,
+          "retweets": 6,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093019310725951683",
+          "text": "Our best products have been exports of internal technology we gain strong conviction in.\n\n@matinotfound and team have been shipping extraordinary WebGPU creative productions, and now https://t.co/0nyTRPKDEJ is here.\n\nIt’s a fully agent-native devtool: it was designed for agents, not humans alone. Much like 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, it’s part of a new exciting generation of tools to serve the new world.",
+          "createdAt": "2026-08-27T16:54:24.000Z",
+          "url": "https://x.com/rauchg/status/2093019310725951683",
+          "likes": 558,
+          "retweets": 22,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2092999180780556643"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2093192697331011846",
+          "text": "This week’s tech earnings calls were a critical reminder of how valuable the relationship is between software and AI.\n\nSoftware provides the guardrails for how data is managed, how business logic in workflows are maintained, how you manage and govern access to information, how you protect data, and more. You want these systems to work the same way every time, without fail. \n\nAgents, on the other hand, work inside these systems and with this data to execute on tasks just like people would have. But at a scale far greater than people ever did, which is especially why the deterministic controls matter more than ever.  \n\nAnd in fact many of the best ways to deploy agents will be directly within the software systems themselves, like from Salesforce, Box, Harvey, ServiceNow, and so on. These platforms can optimize agents for their workflows and domains, with evals and context that are unique to their vertical, as well as connect to other \n agents headlessly. \n\nThe net result is both software and AI adoption go up, hand in hand. Software and Agents are going to work together, and ultimately grow the size of the IT TAM dramatically as a result over time.",
+          "createdAt": "2026-08-28T04:23:23.000Z",
+          "url": "https://x.com/levie/status/2093192697331011846",
+          "likes": 120,
+          "retweets": 11,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2092999983255498814"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2093204849588637954",
+          "text": "SF YIMBY Action has been a trash organization for years\n\nDon’t join them and don’t give them money. Support CA YIMBY and YIMBY Law https://t.co/AQE3vBknGR",
+          "createdAt": "2026-08-28T05:11:40.000Z",
+          "url": "https://x.com/garrytan/status/2093204849588637954",
+          "likes": 41,
+          "retweets": 3,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2093184427795079476"
+        },
+        {
+          "id": "2093129851633082594",
+          "text": "The Tampa Bay Wave of influential people in AI https://t.co/iiIjzSiMGB",
+          "createdAt": "2026-08-28T00:13:39.000Z",
+          "url": "https://x.com/garrytan/status/2093129851633082594",
+          "likes": 346,
+          "retweets": 2,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2093015294398849522"
+        },
+        {
+          "id": "2093056910631293063",
+          "text": "Seems likely that on a long enough time frame, AI will generate cash flows faster than the economy can find productive uses for new capital",
+          "createdAt": "2026-08-27T19:23:49.000Z",
+          "url": "https://x.com/garrytan/status/2093056910631293063",
+          "likes": 566,
+          "retweets": 26,
+          "replies": 120,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2093016371231649929",
+          "text": "This important conversation with @RyanGreenblatt is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/sHNgwsk244",
+          "createdAt": "2026-08-27T16:42:43.000Z",
+          "url": "https://x.com/mattturck/status/2093016371231649929",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093016366475276662",
+          "text": "AI Could Take Over in 2029. Is It Already Too Late? My conversation with @RyanGreenblatt of @redwood_ai about AI 2040, RSI, AI alignment, and how he believes the transition to superintelligence actually unfolds.\n\n01:24 The AI CEOs are aware of the risks, but \"proceeding anyway\"\n\n03:27 Astra paused, and the \"Pacing the Frontier\" letter\n\n05:45 \"Not bad. Dangerous.\" What superintelligence actually threatens\n\n09:55 Recursive self-improvement, and the intuition objection\n\n14:16 SSI rumors: does continual learning change the picture?\n\n17:27 His timeline: \"plan as though it happens in 2029\"\n\n19:11 Is it already too late?\n\n21:23 Ryan's path: COVID, podcasts, Redwood\n\n26:30 The alignment faking story, told by the person who ran it\n\n31:30 What AI 2040: Plan A actually is\n\n33:35 Plans D, C, and B: the doors nobody should pick\n\n36:51 The deal with China: \"mutually assured compute destruction\"\n\n39:55 What if compute stops mattering?\n\n43:00 What happens to OpenAI and Anthropic under Plan A\n\n45:31 How the pause ends, and who decides\n\n48:54 \"Plan A isn't likely to happen\": then why write it\n\n50:40 200x GDP growth in the 2030s, explained\n\n53:45 Grading the summer: the letter, Astra, the secret review\n\n59:01 The internal deployment gap\n\n1:01:38 Zuckerberg's manifesto\n\n1:04:56 The Hugging Face investigation\n\n1:05:44 What AI control looks like in practice today\n\n1:12:23 Ryan's sobering timeline: from today to takeover, year by year",
+          "createdAt": "2026-08-27T16:42:42.000Z",
+          "url": "https://x.com/mattturck/status/2093016366475276662",
+          "likes": 33,
+          "retweets": 5,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2093144776577282365",
+          "text": "Gym bros 🤝 VCs\n\nexplaining their gains strategy\n\n\"barbell\"",
+          "createdAt": "2026-08-28T01:12:58.000Z",
+          "url": "https://x.com/nikunj/status/2093144776577282365",
+          "likes": 70,
+          "retweets": 0,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093094684403134748",
+          "text": "The funniest thing about Silicon Valley group chats is that\n\na) everyone uses Signal with disappearing messages on \n\nbut \n\nb) everyone also screenshots and sends these messages around in (sometimes) non-ephemeral channels\n\nLike, what are we doing here friends? 😂",
+          "createdAt": "2026-08-27T21:53:55.000Z",
+          "url": "https://x.com/nikunj/status/2093094684403134748",
+          "likes": 161,
+          "retweets": 0,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093046810051014813",
+          "text": "Truly floored by all the comments to the most recent essay.. thank you. My ethos has always been to say the quiet part aloud. Will continue to do so 🫡 https://t.co/nvtLtXVTNo",
+          "createdAt": "2026-08-27T18:43:41.000Z",
+          "url": "https://x.com/nikunj/status/2093046810051014813",
+          "likes": 60,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2093013213038469205",
+          "text": "This turned out so good! Thank you GitHub folks for making this happen! 🙏 https://t.co/K8Ornb1Lep",
+          "createdAt": "2026-08-27T16:30:10.000Z",
+          "url": "https://x.com/steipete/status/2093013213038469205",
+          "likes": 280,
+          "retweets": 21,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2093009115895243031"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2093025595290452243",
+          "text": "agi? https://t.co/rLvyxMuBV6",
+          "createdAt": "2026-08-27T17:19:23.000Z",
+          "url": "https://x.com/danshipper/status/2093025595290452243",
+          "likes": 76,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2092984153880899786"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "AI is cool i guess",
+      "tweets": [
+        {
+          "id": "2093060670472241368",
+          "text": "this is a critically important moment for cyber defense with AI; there is not much time to act.\n\nwe are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously.\n\nonly an urgent and intense collective response will work.",
+          "createdAt": "2026-08-27T19:38:45.000Z",
+          "url": "https://x.com/sama/status/2093060670472241368",
+          "likes": 13560,
+          "retweets": 1095,
+          "replies": 1857,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2093059087298601113",
+          "text": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year.\n\nClaude is becoming increasingly capable of scientific work, with recent progress on problems from advanced physics calculations to protein design. Alongside that progress, we've been investing in the research community: Claude Science launched in June, and our AI for Science program funds high-impact projects with free credits. Today's expansion builds on both.\n\nPrincipal investigators (or equivalent) at academic and nonprofit research institutions can sign up, then add the researchers in their group. Over the coming months, we plan to extend the program well beyond the initial 10,000 seats.\n\nLearn more: https://t.co/RTG1JxWi4Q",
+          "createdAt": "2026-08-27T19:32:28.000Z",
+          "url": "https://x.com/claudeai/status/2093059087298601113",
+          "likes": 7576,
+          "retweets": 680,
+          "replies": 330,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
+      "url": "https://www.youtube.com/watch?v=SK9ITBK5osA",
+      "publishedAt": "2026-08-27T14:22:21.000Z"
+    }
+  ]
+}

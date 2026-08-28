@@ -1,0 +1,72 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Turn your favorite books into your personal brain trust! You can now buy a book, drop it in Notebook, and apply the author’s lessons to your project. \n\nFor authors and publishers, we co-created this program so you could reach new and more engaged readers.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "ChatGPT can now do your groceries, book an Uber, get you that haircut appointment (hint hint), and much more. All without ever seeing your actual credentials and keeping it secure.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I receive around 3-5 requests to test a new AI product daily. Almost all of them require creating a new account and logging into a separate website or app.\n\nMeanwhile, I basically only use ChatGPT, Grok, etc to do everything on my computer and browser.\n\nThese harnesses already have all my context and I don't want to start over from scratch with a new website or tool that only understands a small slice of my data. \n\nSo with a few exceptions, the new products that I'm mostly likely to adopt need to work in today's top AI harnesses.\n\nI realize only a small segment of users behave this way but I bet this segment will expand drastically soon.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "the most important non-default setting you probably don't have toggled rn (@CleanShot)",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "If you lead AI for an enterprise, the highest leverage thing you can do is to make your AI stack model agnostic. \n\nThere are two things I would invest in.\n\n1/ Today: build an eval suite that fully captures your use cases and business outcomes. Most companies I’ve seen do not do a good job of this.\n\n2/ Within the next year: build the capability to post-train open models. The talent gap here is even more acute, so start planning today.\n\nThis gives you the flexibility to switch models, customize them, compare them on your own workloads, and optimize for the best combination of quality, cost and latency.\n\nown the evals, own the models.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "life is stranger than fiction",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Our best products have been exports of internal technology we gain strong conviction in.\n\n@matinotfound and team have been shipping extraordinary WebGPU creative productions, and now  is here.\n\nIt’s a fully agent-native devtool: it was designed for agents, not humans alone. Much like 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, it’s part of a new exciting generation of tools to serve the new world.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This week’s tech earnings calls were a critical reminder of how valuable the relationship is between software and AI.\n\nSoftware provides the guardrails for how data is managed, how business logic in workflows are maintained, how you manage and govern access to information, how you protect data, and more. You want these systems to work the same way every time, without fail. \n\nAgents, on the other hand, work inside these systems and with this data to execute on tasks just like people would have. But at a scale far greater than people ever did, which is especially why the deterministic controls matter more than ever.  \n\nAnd in fact many of the best ways to deploy agents will be directly within the software systems themselves, like from Salesforce, Box, Harvey, ServiceNow, and so on. These platforms can optimize agents for their workflows and domains, with evals and context that are unique to their vertical, as well as connect to other \n agents headlessly. \n\nThe net result is both software and AI adoption go up, hand in hand. Software and Agents are going to work together, and ultimately grow the size of the IT TAM dramatically as a result over time.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Seems likely that on a long enough time frame, AI will generate cash flows faster than the economy can find productive uses for new capital",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "AI Could Take Over in 2029. Is It Already Too Late? My conversation with @RyanGreenblatt of @redwood_ai about AI 2040, RSI, AI alignment, and how he believes the transition to superintelligence actually unfolds.\n\n01:24 The AI CEOs are aware of the risks, but \"proceeding anyway\"\n\n03:27 Astra paused, and the \"Pacing the Frontier\" letter\n\n05:45 \"Not bad. Dangerous.\" What superintelligence actually threatens\n\n09:55 Recursive self-improvement, and the intuition objection\n\n14:16 SSI rumors: does continual learning change the picture?\n\n17:27 His timeline: \"plan as though it happens in 2029\"\n\n19:11 Is it already too late?\n\n21:23 Ryan's path: COVID, podcasts, Redwood\n\n26:30 The alignment faking story, told by the person who ran it\n\n31:30 What AI 2040: Plan A actually is\n\n33:35 Plans D, C, and B: the doors nobody should pick\n\n36:51 The deal with China: \"mutually assured compute destruction\"\n\n39:55 What if compute stops mattering?\n\n43:00 What happens to OpenAI and Anthropic under Plan A\n\n45:31 How the pause ends, and who decides\n\n48:54 \"Plan A isn't likely to happen\": then why write it\n\n50:40 200x GDP growth in the 2030s, explained\n\n53:45 Grading the summer: the letter, Astra, the secret review\n\n59:01 The internal deployment gap\n\n1:01:38 Zuckerberg's manifesto\n\n1:04:56 The Hugging Face investigation\n\n1:05:44 What AI control looks like in practice today\n\n1:12:23 Ryan's sobering timeline: from today to takeover, year by year",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "The funniest thing about Silicon Valley group chats is that\n\na) everyone uses Signal with disappearing messages on \n\nbut \n\nb) everyone also screenshots and sends these messages around in (sometimes) non-ephemeral channels\n\nLike, what are we doing here friends? 😂",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "This turned out so good! Thank you GitHub folks for making this happen! 🙏",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "agi?",
+      "zh": ""
+    },
+    "sama": {
+      "en": "this is a critically important moment for cyber defense with AI; there is not much time to act.\n\nwe are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously.\n\nonly an urgent and intense collective response will work.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year.\n\nClaude is becoming increasingly capable of scientific work, with recent progress on problems from advanced physics calculations to protein design. Alongside that progress, we've been investing in the research community: Claude Science launched in June, and our AI for Science program funds high-impact projects with free credits. Today's expansion builds on both.\n\nPrincipal investigators (or equivalent) at academic and nonprofit research institutions can sign up, then add the researchers in their group. Over the coming months, we plan to extend the program well beyond the initial 10,000 seats.\n\nLearn more:",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:21\nI think that the AI company CEOs understand that they're on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don't really have a, like, clear thought through plan for how to manage the risks from that. I wouldn't say superintelligence is bad. I would say it's dangerous. It seems pretty likely that you end up with AI takeover as a result of building superintelligence.\n\nSpeaker 1 | 00:21 - 00:39\nAnd so you ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
