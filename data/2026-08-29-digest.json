@@ -1,0 +1,68 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "One of my favorite parts of Expert Intelligence in @Gemini_Notebook is the letter from the author, such a nice touch!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give you some time to plan.\n\nMany have used the GPT models through Cursor and here are options we know should work in the future:\n\n- We will continue to allow using your own OpenAI API key and similarly will continue to provide access through our IDE extensions for Cursor.\n- We will keep working with the broadest range of tools and harnesses, some of which are OSS, but also many many closed-source ones.\n\nWe are as committed as ever to continue supporting developers and the flourishing ecosystem of tools, harnesses and products. We will also continue to invest in our own open-source initiatives and believe in broad optionality for developers.\n\nYou can read more about our decision in the blog:",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people.\n\nGrok Bot I think people can easily \"grok\" that it's a computer that runs in the cloud. \n\nIf you asked people to explain what the difference between ChatGPT Work and Codex is (e.g., Work can run cloud tasks but Codex cannot) or how Claude Cowork actually works I bet most people have no idea.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "VCs:",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "AI product building has a ~3-month playbook half-life. Here’s how to adapt.\n\nMost trad product teams are built to discover a playbook and then milk it for the next 5 years.\n\nHowever in the AI labs, we consciously throw away playbooks every few months cos we start seeing diminishing returns.\n\nHere’s what you can do as an AI builder:\n\nFocus on defining a set of meta-principles for \n1/ how you continuously learn what the market wants today and what it might want in 3 months\n2/ how you execute with extreme urgency\n\nThe specifics of 1 and 2 will vary based on your domain and product type.\nBuild a team that learns and adapts at that pace. \n\nLegacy teams are optimized for playbook milking.\n\nAI teams need to be optimized for inventing.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Long-time admirer of the Cursor team, few have done more to bring AI coding to the world. \n\nExcited to continue to partner with them.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "You can access OpenAI models on Replit for free.\n\nOur router also makes high-end models incredibly cost-efficient.\n\nIf you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "I see the web evolving in two extremes:\n\n1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment.  / threejs / typegpu are enabling this\n\n2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure, lossless signal for machines. The rise of markdown and MCP are the tip of this iceberg\n\nThe 'in between' is likely to be subsumed by agents producing just-in-time UI. When you need utilitarian content or data, it'll be generated just-in-time for you. Think of the agent as the new browser in this model.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment:\n\n* OSS is too far behind to catch up \n\n* The labs can’t be profitable at scale\n\n* All software will be replaced by agents\n\n* You can’t build moats on top of models\n\n* Cheaper models will mean less compute\n\n* You don’t need evals\n\n* RAG is dead \n\n* AI will decimate engineering jobs\n\n* Prompting won’t matter in the future \n\n* We’ve hit a training wall\n\n* Frontier models are too dangerous to release \n\n…and dozens and dozens more. The key here is to remain flexible in your thinking because we’re going to be in a constant state of change for a while.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Datacenters create prosperity and good jobs",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "VC due diligence in a hot round",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Dear founder,\n\n1) The best pitches don’t even need to use the word “AI”. \n\n2) AI cannot be the only “why now” for your pitch. \n\nObviously it’s just me speaking, subjective to each VC etc. \n\nBut trust me, it’ll help if you get ahead of these two!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "WE NOW HAVE A HEAD OF EVALS\n\nthe work he's doing is honestly gamechanging. cannot wait to show it to you",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "It's interesting to me to see a lot of people comment on visa stuff without actually going through it.\n\nI am a proud American citizen who has also had the following visas: F1, OPT, CPT, H1-B, EB-3 Green Card etc.\n\nI think ALL of the following things can be true:\n1/ There is abuse of the H1-B system. We should 100% stop that. It prevents legitimate use cases. I am glad the government is doing something about this.\n\n2/ We make it too hard for truly high-skilled workers to stay in the USA. It is a huge source of strength for us that the sharpest minds in the world WANT to come here. \n\n3/ In particular, high-skilled Indians have it harder than most. \n\n4/ In any country, the laws and regulations should prioritize it's own citizens.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:22\nUp until now, the concerns came from human threats. What we're seeing now on steroids is that the same type of threat is coming from nonhuman actors, agents that essentially have legitimate access to the environment with legitimate permissions. Fortunately for us, it's a very similar methodology in terms of detecting that and protecting against that, but the velocity of that happening is extreme.\n\nSpeaker 2 | 00:22 - 00:51\nThink of the nontechnical people. They're not e...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
