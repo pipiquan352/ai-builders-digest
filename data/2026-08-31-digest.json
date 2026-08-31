@@ -1,0 +1,52 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.\n\nSee you soon for more news from The Reset Company.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Sigh this is so dumb",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.\n\nThe obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Digital abundance",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.\n\nBasically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).\n\nAs tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. \n\nAny time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.\n\nThis is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA\n\nThese are policy disasters and can be fixed with better policies but so far California has failed to fix it\n\nSo it’s a mass trash fire",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Being on a board with Doug was certainly one of the most formative  experiences of my VC career.  The goat.  That is, if goats were jacked.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Reality is stranger than fiction",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using  - our shared agent that knows what everyone’s working on and orchestrates it all.\n\nMultiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build.\n\nLocal harnesses feel like relics of the past now.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "is the HuggingFace attack something that should be taken seriously? yes. \n\nis it the first warning shot of a machine takeover? no. \n\nwill issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. \n\nwill that happen automatically? no. as always, will require work from smart people and their agents.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:02\nHow does it feel to be on your first podcast?\n\nSpeaker 2 | 00:03 - 00:09\nOh, man. It's kinda wild. Not gonna lie. Like, I'm psyched, but also low key nervous. I just don't wanna say something totally awkward.\n\nSpeaker 2 | 00:09 - 00:10\nYou know?\n\nSpeaker 3 | 00:10 - 00:27\nJoke. At this point, thousands of American men have been broken with by To land. It's pretty incredible, you know, to to, you know, hear users of write in. They'll say, you know, well, you know, my boy...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
