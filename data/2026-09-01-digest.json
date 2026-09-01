@@ -1,0 +1,48 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Great advice",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. \n\nI’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.\n\nYou should be able to answer the following better than most frontier lab researchers and PMs for your use cases:\n\n1/ What can models in each size category do well today?\n\n2/ Where does each model fail?\n\n3/ What workarounds can you use to overcome these failures ?\n\n4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?\n\nThis is a core part of the PM job now.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Good iOS interaction tips!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.\n\nLicensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\n\nThe general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Circleback is so much better than Granola, it's not even close\n\nGranola still doesn't even support multiple person disambiguation",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. \n\nIt’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. \n\nMost opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. \n\nIt’s possible to use anthropomorphism without doing that though",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:14\nPeople think I have a radical point of view sometimes. They start questions saying how what I'm thinking is so different from everyone else. But I don't see it that way at all. I see it as like I'm thinking the ordinary way. Just everyone else is thinking a bit weird.\n\nSpeaker 1 | 00:17 - 00:35\nAnd I mean that like, you know, it's just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn't have to say continual le...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

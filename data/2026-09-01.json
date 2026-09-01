@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-09-01T17:38:47.898Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2094588317245509959",
+          "text": "If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?",
+          "createdAt": "2026-09-01T00:49:05.000Z",
+          "url": "https://x.com/thsottiaux/status/2094588317245509959",
+          "likes": 2344,
+          "retweets": 42,
+          "replies": 1816,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2094648002656993704",
+          "text": "Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge",
+          "createdAt": "2026-09-01T04:46:15.000Z",
+          "url": "https://x.com/petergyang/status/2094648002656993704",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2094639655258091792",
+          "text": "Trust is going to be the biggest barrier (and driver) of personal agent adoption.",
+          "createdAt": "2026-09-01T04:13:04.000Z",
+          "url": "https://x.com/petergyang/status/2094639655258091792",
+          "likes": 28,
+          "retweets": 0,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2094529713524117596",
+          "text": "Great advice https://t.co/0jwmg8sFEC",
+          "createdAt": "2026-08-31T20:56:12.000Z",
+          "url": "https://x.com/petergyang/status/2094529713524117596",
+          "likes": 1333,
+          "retweets": 49,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2094426230804173134"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "tweets": [
+        {
+          "id": "2094659984428867901",
+          "text": "Concerning\n\nhttps://t.co/EzMoXoilgR",
+          "createdAt": "2026-09-01T05:33:51.000Z",
+          "url": "https://x.com/thenanyu/status/2094659984428867901",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2094200503898910914"
+        },
+        {
+          "id": "2094442960209539371",
+          "text": "🤞🏻 https://t.co/pG71r0YZxw",
+          "createdAt": "2026-08-31T15:11:29.000Z",
+          "url": "https://x.com/thenanyu/status/2094442960209539371",
+          "likes": 167,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2032270160359260414"
+        },
+        {
+          "id": "2094427243565269107",
+          "text": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. \n\nI’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.",
+          "createdAt": "2026-08-31T14:09:02.000Z",
+          "url": "https://x.com/thenanyu/status/2094427243565269107",
+          "likes": 3062,
+          "retweets": 37,
+          "replies": 249,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2094591503981281503",
+          "text": "If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.\n\nYou should be able to answer the following better than most frontier lab researchers and PMs for your use cases:\n\n1/ What can models in each size category do well today?\n\n2/ Where does each model fail?\n\n3/ What workarounds can you use to overcome these failures ?\n\n4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?\n\nThis is a core part of the PM job now.",
+          "createdAt": "2026-09-01T01:01:44.000Z",
+          "url": "https://x.com/realmadhuguru/status/2094591503981281503",
+          "likes": 140,
+          "retweets": 10,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2094642492125950394",
+          "text": "Good iOS interaction tips! https://t.co/Xs9awfK7WP",
+          "createdAt": "2026-09-01T04:24:21.000Z",
+          "url": "https://x.com/amasad/status/2094642492125950394",
+          "likes": 30,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2094605491867705549"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2094541309579235680",
+          "text": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH",
+          "createdAt": "2026-08-31T21:42:17.000Z",
+          "url": "https://x.com/rauchg/status/2094541309579235680",
+          "likes": 2443,
+          "retweets": 103,
+          "replies": 72,
+          "isQuote": true,
+          "quotedTweetId": "2094539714984550471"
+        },
+        {
+          "id": "2094523399280435630",
+          "text": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:\n\n\"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild\"\n\nAnd obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.\n\nThe intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.\n\nAI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.",
+          "createdAt": "2026-08-31T20:31:07.000Z",
+          "url": "https://x.com/rauchg/status/2094523399280435630",
+          "likes": 250,
+          "retweets": 7,
+          "replies": 34,
+          "isQuote": true,
+          "quotedTweetId": "2094519636654206997"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2094650992818274514",
+          "text": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.\n\nLicensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\n\nThe general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.",
+          "createdAt": "2026-09-01T04:58:08.000Z",
+          "url": "https://x.com/levie/status/2094650992818274514",
+          "likes": 119,
+          "retweets": 13,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2094234545142780134"
+        },
+        {
+          "id": "2094545525102235844",
+          "text": "As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt",
+          "createdAt": "2026-08-31T21:59:02.000Z",
+          "url": "https://x.com/levie/status/2094545525102235844",
+          "likes": 77,
+          "retweets": 13,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2094461289745551474"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2094465505142960443",
+          "text": "Circleback is so much better than Granola, it's not even close\n\nGranola still doesn't even support multiple person disambiguation https://t.co/bus8bFOfec",
+          "createdAt": "2026-08-31T16:41:04.000Z",
+          "url": "https://x.com/garrytan/status/2094465505142960443",
+          "likes": 603,
+          "retweets": 12,
+          "replies": 62,
+          "isQuote": true,
+          "quotedTweetId": "2094464356692193749"
+        },
+        {
+          "id": "2094462971598754010",
+          "text": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop\n\nAnd I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain\n\nReceipts at https://t.co/iRLJR9Vxto",
+          "createdAt": "2026-08-31T16:31:00.000Z",
+          "url": "https://x.com/garrytan/status/2094462971598754010",
+          "likes": 403,
+          "retweets": 33,
+          "replies": 72,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2094556598492631281",
+          "text": "https://t.co/gl6YBgEgAn",
+          "createdAt": "2026-08-31T22:43:02.000Z",
+          "url": "https://x.com/nikunj/status/2094556598492631281",
+          "likes": 176,
+          "retweets": 4,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2094584301966782794",
+          "text": "had me in the first half https://t.co/GRl9kFEWCN",
+          "createdAt": "2026-09-01T00:33:07.000Z",
+          "url": "https://x.com/danshipper/status/2094584301966782794",
+          "likes": 27,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2094402802919346302"
+        },
+        {
+          "id": "2094406185109647580",
+          "text": "Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. \n\nIt’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. \n\nMost opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. \n\nIt’s possible to use anthropomorphism without doing that though",
+          "createdAt": "2026-08-31T12:45:21.000Z",
+          "url": "https://x.com/danshipper/status/2094406185109647580",
+          "likes": 87,
+          "retweets": 10,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2094397684186481057",
+          "text": "Pragmatists stay winning in the age of AI",
+          "createdAt": "2026-08-31T12:11:34.000Z",
+          "url": "https://x.com/danshipper/status/2094397684186481057",
+          "likes": 22,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-18T09:00:00.000Z"
+    }
+  ]
+}
