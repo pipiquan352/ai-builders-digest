@@ -1,0 +1,72 @@
+{
+  "x": {
+    "bcherny": {
+      "en": "We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Should we do a merch line?",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "If you're trying out Fable 5.1 I highly recommend running:\n\n/claude-api prompt-audit\n\non your skills. It finds a bunch of redundancies and rules to remove for the latest models.\n\nRunning it for all my skills now.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. \n\nI think an untapped opportunity for UX designers is to become conversation/rhetoric designers.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Self-improving products is a meta idea every company should be implementing.  \n\nSome of the core pieces you will need:\n\n1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail\n\n2/ an articulation of your strategy, roadmap and metrics you care about moving the most\n\n3/ knowledge base of past product decisions and principles so the agent knows how decisions get made \n\n4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. \n\n5/ a harness built with knowledge of  your end to end product development flow. \n\nDepending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? \n\nAsk Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "it’s a very good model, I spent a lot of time diving into it- longer write up coming \n\nbut try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web\n\nWhat this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support.",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. \n\nFor this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.\n\nOn this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.\n\nHere are a few examples of wins:\n\n* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.\n\n* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.\n\n* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.\n\nThese are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. \n\nFable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Do you want to grow massively on X? \n\nHere are the top hacks, a 🧵\n\n1) Become CEO of Apple",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "People are still sleeping on WebMCP.. \n\nYou can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.\n\nSharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it's own views, preserves human edits, and creates a shareable link to share with other agents (or humans). \n\nVideo and code by Codex @ChatGPT & @Railway\n\nLive at elneenyo dot com to try out today!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "remember when we used to have to type out low level code like this?",
+      "zh": ""
+    },
+    "sama": {
+      "en": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.\n\nOn the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.\n\nAstra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.\n\nAI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.\n\nWe have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.\n\nAn iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.\n\nSo we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.\n\nOn basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:40\nPeregrine is really around this idea of how can we leverage technology to work with our cities, our counties, our states to to impact the the places that we live in. At the bottom of the pyramid, really, when it comes to how to make cities awesome, is the idea of safety. The idea that people need objective safety and also need to feel safe. And when that stability is there, it's amazing what's possible. And there are all these kind of contrasting, but actually similar c...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
