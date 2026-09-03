@@ -1,0 +1,433 @@
+{
+  "generatedAt": "2026-09-03T17:33:22.663Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2095178970912461279",
+          "text": "3.8 Flash = great quality @ great price https://t.co/teErwoGZon",
+          "createdAt": "2026-09-02T15:56:07.000Z",
+          "url": "https://x.com/joshwoodward/status/2095178970912461279",
+          "likes": 537,
+          "retweets": 25,
+          "replies": 28,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095177483129917849",
+          "text": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
+          "createdAt": "2026-09-02T15:50:13.000Z",
+          "url": "https://x.com/joshwoodward/status/2095177483129917849",
+          "likes": 848,
+          "retweets": 42,
+          "replies": 62,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2095378890370019683",
+          "text": "Background computer use is underrated https://t.co/jGOvHMj8sM",
+          "createdAt": "2026-09-03T05:10:32.000Z",
+          "url": "https://x.com/bcherny/status/2095378890370019683",
+          "likes": 467,
+          "retweets": 14,
+          "replies": 70,
+          "isQuote": true,
+          "quotedTweetId": "2095226833293685100"
+        },
+        {
+          "id": "2095276133214491086",
+          "text": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and Enterprise plans.",
+          "createdAt": "2026-09-02T22:22:13.000Z",
+          "url": "https://x.com/bcherny/status/2095276133214491086",
+          "likes": 723,
+          "retweets": 28,
+          "replies": 93,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2095369901137654271",
+          "text": "I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
+          "createdAt": "2026-09-03T04:34:49.000Z",
+          "url": "https://x.com/thsottiaux/status/2095369901137654271",
+          "likes": 3065,
+          "retweets": 81,
+          "replies": 520,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095288416292487289",
+          "text": "The ChatGPT desktop app is now my main browser and my productivity has never been higher",
+          "createdAt": "2026-09-02T23:11:01.000Z",
+          "url": "https://x.com/thsottiaux/status/2095288416292487289",
+          "likes": 5589,
+          "retweets": 106,
+          "replies": 1148,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2095286096481665322",
+          "text": "GG https://t.co/F1wjmFI5uO",
+          "createdAt": "2026-09-02T23:01:48.000Z",
+          "url": "https://x.com/petergyang/status/2095286096481665322",
+          "likes": 29,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095275295511281918",
+          "text": "Damn I'm running out of Fable limit already, anyone in the same boat?",
+          "createdAt": "2026-09-02T22:18:53.000Z",
+          "url": "https://x.com/petergyang/status/2095275295511281918",
+          "likes": 320,
+          "retweets": 7,
+          "replies": 179,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095255545594941910",
+          "text": "Product manager = Member of product staff\nDesigner = Member of design staff\nEngineer = Member of technical staff\n\nIs this AI making job functions more verbose? 😅\n\nIf this flattens levels and titles, I'm all for it though.\n\nIt also shows that maybe the single AI builder title that combines all functions isn't really happening, even at the best labs. People still have specialties based on what they're good at.",
+          "createdAt": "2026-09-02T21:00:24.000Z",
+          "url": "https://x.com/petergyang/status/2095255545594941910",
+          "likes": 23,
+          "retweets": 0,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2095174463696589223",
+          "text": "Every AI product should be working towards abstracting model choice away from users. \n\nIn any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. \n\nModel picking is too much cognitive load for the user.\n\nThere have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.\n\nIt takes three things:\n\n1/ Deep understanding of the model frontier across different weight classes for your particular use cases.\n\n2/ Great evals for your workflows, so you know which models work best where.\n\n3/ A team with the talent and AI-native operating model to continuously adapt as the frontier moves.\n\nHaving worked with the Lovable team, I can say they have all three.",
+          "createdAt": "2026-09-02T15:38:13.000Z",
+          "url": "https://x.com/realmadhuguru/status/2095174463696589223",
+          "likes": 62,
+          "retweets": 3,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2094790579469287450"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2095367584489038044",
+          "text": "Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. \n\nWas OOO and did not realize this didn’t go out with the model launch.",
+          "createdAt": "2026-09-03T04:25:36.000Z",
+          "url": "https://x.com/trq212/status/2095367584489038044",
+          "likes": 44,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2095291912706220410",
+          "text": "Replit is coming to London 🇬🇧\n\nTo celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg).\n\nThursday, September 10th, RSVP: https://t.co/KvsS1OScca https://t.co/LQb7aSrvdj",
+          "createdAt": "2026-09-02T23:24:55.000Z",
+          "url": "https://x.com/amasad/status/2095291912706220410",
+          "likes": 487,
+          "retweets": 28,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2095260872537227585",
+          "text": "It took blood, sweat, and tokens",
+          "createdAt": "2026-09-02T21:21:34.000Z",
+          "url": "https://x.com/rauchg/status/2095260872537227585",
+          "likes": 1101,
+          "retweets": 69,
+          "replies": 76,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095235886611050985",
+          "text": "Follow @eve",
+          "createdAt": "2026-09-02T19:42:17.000Z",
+          "url": "https://x.com/rauchg/status/2095235886611050985",
+          "likes": 632,
+          "retweets": 21,
+          "replies": 109,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095234831013814611",
+          "text": "Everything is code https://t.co/TJwbjGA2RL",
+          "createdAt": "2026-09-02T19:38:05.000Z",
+          "url": "https://x.com/rauchg/status/2095234831013814611",
+          "likes": 282,
+          "retweets": 13,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2095231331349176593"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2095234253613359200",
+          "text": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. \n\nIf this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness. https://t.co/hOG17UMECG",
+          "createdAt": "2026-09-02T19:35:48.000Z",
+          "url": "https://x.com/levie/status/2095234253613359200",
+          "likes": 494,
+          "retweets": 42,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2095232032896946311"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2095292377749733697",
+          "text": "Building housing supply needs to be a top issue for how you vote this November https://t.co/n4Su98uJYf",
+          "createdAt": "2026-09-02T23:26:46.000Z",
+          "url": "https://x.com/garrytan/status/2095292377749733697",
+          "likes": 99,
+          "retweets": 5,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2095171324746641639"
+        },
+        {
+          "id": "2095202701646995965",
+          "text": "What's your California Dream?\n\nhttps://t.co/cBmqMDDHLn https://t.co/9H6eflyDT2",
+          "createdAt": "2026-09-02T17:30:25.000Z",
+          "url": "https://x.com/garrytan/status/2095202701646995965",
+          "likes": 111,
+          "retweets": 13,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2094914114678034899"
+        },
+        {
+          "id": "2095177204712017920",
+          "text": "It's ridiculous man\n\nOpening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies https://t.co/r1xphmRSss",
+          "createdAt": "2026-09-02T15:49:06.000Z",
+          "url": "https://x.com/garrytan/status/2095177204712017920",
+          "likes": 461,
+          "retweets": 22,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2094944957979115554"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2095158216409911381",
+          "text": "PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅 https://t.co/VUILoORIUC",
+          "createdAt": "2026-09-02T14:33:39.000Z",
+          "url": "https://x.com/nikunj/status/2095158216409911381",
+          "likes": 28,
+          "retweets": 0,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2095327032141889675",
+          "text": "it me https://t.co/0NgNFmgV37",
+          "createdAt": "2026-09-03T01:44:28.000Z",
+          "url": "https://x.com/danshipper/status/2095327032141889675",
+          "likes": 28,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095320346261848169",
+          "text": "many such cases https://t.co/dEwsrGSnPH",
+          "createdAt": "2026-09-03T01:17:54.000Z",
+          "url": "https://x.com/danshipper/status/2095320346261848169",
+          "likes": 43,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2095288416292487289"
+        },
+        {
+          "id": "2095269303029244364",
+          "text": "pro tip: \n\nuse your alien superintelligence to plan your next order of chocolate bars https://t.co/DvcNrTpGEc",
+          "createdAt": "2026-09-02T21:55:04.000Z",
+          "url": "https://x.com/danshipper/status/2095269303029244364",
+          "likes": 8,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2095227334534041714",
+          "text": "It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\".\n\nThis is a huge reason to use OSS models.\n\nWhat a weird world. Use the 🇨🇳 models to make sure your stuff is private. \n\nAlso why it is critical to have 🇺🇸 OSS.",
+          "createdAt": "2026-09-02T19:08:18.000Z",
+          "url": "https://x.com/adityaag/status/2095227334534041714",
+          "likes": 66,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095192873973301601",
+          "text": "Too many startups are focused on solving model issues (or leveraging model capabilities) as they exist today.\n\nMuch more interesting to hav a strong POV on capabilities/issues as they will exist 1 year from today (understandably hard).",
+          "createdAt": "2026-09-02T16:51:22.000Z",
+          "url": "https://x.com/adityaag/status/2095192873973301601",
+          "likes": 64,
+          "retweets": 3,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2095226835743158320",
+          "text": "Available in beta on Pro and Max plans, in the desktop app on macOS.\n\nIf you're new to computer use, turn it on in Settings → General → Computer use.\n\nHow it works, and how to use it safely: https://t.co/WTNqd5F0BG",
+          "createdAt": "2026-09-02T19:06:19.000Z",
+          "url": "https://x.com/claudeai/status/2095226835743158320",
+          "likes": 440,
+          "retweets": 21,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095226833293685100",
+          "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. https://t.co/AOiup03pQK",
+          "createdAt": "2026-09-02T19:06:19.000Z",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "likes": 8865,
+          "retweets": 492,
+          "replies": 360,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095168559873773970",
+          "text": "Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. \n\nApply here: https://t.co/h8X1D0TZv7 https://t.co/bPa8giOBXP",
+          "createdAt": "2026-09-02T15:14:45.000Z",
+          "url": "https://x.com/claudeai/status/2095168559873773970",
+          "likes": 6308,
+          "retweets": 557,
+          "replies": 245,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "AI & I by Every",
+      "title": "How a Professional Writer Writes With AI",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-02T15:01:40.000Z"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "3.8 Flash rolling out to @GeminiApp",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and Enterprise plans.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "The ChatGPT desktop app is now my main browser and my productivity has never been higher",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Damn I'm running out of Fable limit already, anyone in the same boat?",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Every AI product should be working towards abstracting model choice away from users. \n\nIn any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. \n\nModel picking is too much cognitive load for the user.\n\nThere have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.\n\nIt takes three things:\n\n1/ Deep understanding of the model frontier across different weight classes for your particular use cases.\n\n2/ Great evals for your workflows, so you know which models work best where.\n\n3/ A team with the talent and AI-native operating model to continuously adapt as the frontier moves.\n\nHaving worked with the Lovable team, I can say they have all three.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. \n\nWas OOO and did not realize this didn’t go out with the model launch.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Replit is coming to London 🇬🇧\n\nTo celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg).\n\nThursday, September 10th, RSVP:",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "It took blood, sweat, and tokens",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. \n\nIf this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "It's ridiculous man\n\nOpening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "many such cases",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\".\n\nThis is a huge reason to use OSS models.\n\nWhat a weird world. Use the 🇨🇳 models to make sure your stuff is private. \n\nAlso why it is critical to have 🇺🇸 OSS.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:31\nHey, it's Dan Shipper, and this week I'm excited to share a very special episode of AI and Dive. In this episode, we're previewing the release of an experimental new plugin called Compound Writing, which helps you write with AI the way that we do internally. It's inspired by Kieran Klassen's Compound Engineering, and it's built by one of our staff writers, Katie Parrott. To help talk about this plugin and why Katie made it and how she uses it, Natalia Quintero is the ho...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
