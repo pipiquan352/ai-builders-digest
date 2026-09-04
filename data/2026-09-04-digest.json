@@ -1,0 +1,84 @@
+{
+  "x": {
+    "swyx": {
+      "en": "sorry for the radio silence folks - got sucked into extreme LLM psychosis. but i can confidently say we have crossed over into a new age of AI Engineering and we are never, ever, looking back. \n\nthis isnt even EVERYTHING i did with Astra but i'll append more reports as I publish them on LS!",
+      "zh": "为无线电沉默的人们感到抱歉——陷入了极端的法学硕士精神病。但我可以自信地说，我们已经进入了人工智能工程的新时代，而且我们永远不会回头。 \n\n这甚至不是我对 Astra 所做的一切，但当我在 LS 上发布它们时，我会附加更多报告！"
+    },
+    "bcherny": {
+      "en": "Your input needed: would you use this?\n\nThis is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting.\n\nMore details here:",
+      "zh": "需要您的意见：您会使用这个吗？\n\n这是我们如何考虑使 Claude Code 更具可扩展性的早期研究。这有点疯狂，也非常令人兴奋。\n\n更多详细信息请参见此处："
+    },
+    "thsottiaux": {
+      "en": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today.  Team is moving mountains to give access as fast as we can.\n\nFirst one will land in ~ 3 hours. There is still time to create your account if you don't have one.",
+      "zh": "从今天开始，我们将为您在付费 ChatGPT 计划中无法访问 Astra 的每一天提供一次银行重置。  团队正在努力尽快提供访问权限。\n\n第一个将在约 3 小时后着陆。如果您还没有帐户，仍有时间创建帐户。"
+    },
+    "petergyang": {
+      "en": "I live in Codex and think it's the best software shipped in the past 5 years.\n\nBut the combination of influencers posting non-stop about how great Astra is and paid users unable to get access at the same time is pretty rough IMO. \n\nI realize I'm an \"influencer\" now too and maybe am just jealous. I also recognize there are multiple parties involved in these decisions.\n\nBut just wanted to be real. Back to working with good ol' Sol and what's left of my Fable limits.",
+      "zh": "我住在 Codex，认为它是过去 5 年来发布的最好的软件。\n\n但在我看来，有影响力的人不停地发布关于 Astra 有多棒的文章，而付费用户却无法同时访问，这两者结合起来是相当粗糙的。 \n\n我意识到我现在也是一个“影响者”，也许只是嫉妒。我还认识到这些决策涉及多方。\n\n但只是想真实。回到与优秀的索尔一起工作以及我的寓言极限的剩余部分。"
+    },
+    "thenanyu": {
+      "en": "Time to touch grass",
+      "zh": "是时候触摸草地了"
+    },
+    "realmadhuguru": {
+      "en": "The hard part with becoming more ambitious is changing the how.\n\nWe’re living in a time where AI and market conditions make asymmetric outcomes far more possible.\n\nThat applies to scale, velocity, breadth of product, personal career and wealth goals.\n\nYou need to drop the ideas that aren’t serving you - rethink team structure,  roadmapping. \nOn the personal front, rethink how you see yourself and how you engage with people.\n\nThe blocker is often inertia - institutional, personal.\n\n“We’ve always done it this way.”\n\n“That feels too risky.”\n\n“That would be cringe.”\n\nWrite down current goals for your product or for you.\n\nThen ask what 100X would look like.\nChallenge yourself on the habits and assumptions you need to drop to get there.",
+      "zh": "变得更加雄心勃勃的困难在于改变方式。\n\n我们生活在一个人工智能和市场条件使得不对称结果更有可能出现的时代。\n\n这适用于规模、速度、产品广度、个人职业和财富目标。\n\n你需要放弃那些对你没有帮助的想法——重新思考团队结构、路线图。 \n在个人方面，重新思考你如何看待自己以及如何与人交往。\n\n阻碍者往往是惯性——机构的、个人的。\n\n“我们一直都是这样做的。”\n\n“这感觉太冒险了。”\n\n“那会让人感到畏缩。”\n\n写下您的产品或您当前的目标。\n\n然后问 100X 会是什么样子。\n挑战自己，挑战自己需要放弃的习惯和假设才能实现这一目标。"
+    },
+    "AmandaAskell": {
+      "en": "I still don't know how to convey my enthusiasm in a way that Americans will read as enthusiasm and not something more like unwilling resignation. Has any British person achieved this? If so, how is it done?",
+      "zh": "我仍然不知道如何以美国人会理解的热情而不是更像不情愿的辞职的方式来表达我的热情。有英国人做到过这一点吗？如果是这样，是如何做到的？"
+    },
+    "trq212": {
+      "en": "We’re working on making Claude Code way more hackable, give us feedback!",
+      "zh": "我们正在努力让 Claude Code 更容易被破解，请给我们反馈！"
+    },
+    "amasad": {
+      "en": "GPT-6 is a major jump in capabilities and will unlock new use-cases. Will launch on Replit very soon for you to try it!",
+      "zh": "GPT-6 是功能的重大飞跃，并将解锁新的用例。即将在 Replit 上推出供您尝试！"
+    },
+    "rauchg": {
+      "en": "If you intern at Vercel, you can work on incredible projects like this one. Improving Next.js chunking can yield massive efficiency improvements at internet scale. Excellent writeup by @sam_poder",
+      "zh": "如果您在 Vercel 实习，您可以从事像这样的令人难以置信的项目。改进 Next.js 分块可以在互联网规模上带来巨大的效率提升。 @sam_poder 写得很好"
+    },
+    "levie": {
+      "en": "GPT-6 Astra is out. We've been testing the model in early preview on our enterprise complex work eval at Box. It is now the best model we've ever tested on our expanded and hardest test set.\n\nOverall, GPT-6 Astra offers a breakthrough level of capability in coding, analytics, logic, and domain specific knowledge for dealing with complex enterprise knowledge work. In our eval, we use the GPT-6 Astra model in the Box Agent and give it a set of difficult tasks that represent real-world work in various industries. These tasks often will take people hours to execute properly and require deep domain expertise.\n\nGPT-6 Astra scored 77% overall vs. 74% with GPT-5.6 Sol, representing frontier performance. But the story is in some of the bigger gains on individual task types that are incredibly complex across. Here are a few examples across the tests that show how much of an impact this will be in different industries:\n\n* Media and entertainment (48% → 100%, +52 points). Ranking film genres and countries by profitability across a year of production data from four teams, where the trick is to apply the following year's tax-incentive corrections without double-counting them. GPT-6 Astra was perfect on every attempt. Sol had the rankings right but the underlying ratios were wrong.\n\n* Technology (69% → 97%, +28 points). Choosing which region to fund first, from a stack of performance and infrastructure documents that never state the metric the brief asks for. GPT-6 Astra flagged the gap, labelled its own figure a proxy, and caught a growth claim that didn't match the numbers beneath it. GPT-5.6 Sol reported the proxy as the real thing.\n\n* Legal (69% → 93%, +24 points). Reviewing an NDA against a company's own contracting policy, where reaching the right verdict isn't enough; the answer has to cite the provision behind it. Both models declined to approve the draft, but only GPT-6 Astra separated whether the liability cap's structure was permissible from whether its amount was defensible, and pointed to the policy language that settles it. GPT-5.6 Sol argued the same conclusion without citing the provision, which is a critical error in the legal industry.\n\n* Healthcare (53% → 77%, +23 points). Auditing a batch of radiology reports for errors and rating how serious each one is. GPT-6 Astra caught a terminology error in a knee-imaging report that GPT-5.6 Sol missed on both attempts, and was more reliable at grading severity rather than just flagging that something was wrong.\n\n* Energy (82% → 97%, +15 points). Building a consumption report on two facilities from a year of meter logs, where only one of the two sites is actually missing data. GPT-6 Astra found it and drew a line most reviewers wouldn't: the other site's odd solar readings are a measurement problem to investigate, not a gap in the record. GPT-5.6 Sol reported both sites as incomplete.\n\nAstra clearly is going to offer a meaningful jump in powering and orchestrating enterprise workflows. We'll be making GPT-6 Astra as an option in the Box AI Studio for customers to build agents with shortly as it continues to roll out.",
+      "zh": "GPT-6 阿斯特拉已推出。我们一直在 Box 的企业复杂工作评估的早期预览版中测试该模型。它现在是我们在扩展且最难的测试集上测试过的最好模型。\n\n总体而言，GPT-6 Astra 在编码、分析、逻辑和特定领域知识方面提供了突破性的能力，用于处理复杂的企业知识工作。在我们的评估中，我们在 Box Agent 中使用 GPT-6 Astra 模型，并为其提供一组代表各个行业实际工作的困难任务。这些任务通常需要人们花费数小时才能正确执行，并且需要深厚的领域专业知识。\n\nGPT-6 Astra 的总体得分为 77%，而 GPT-5.6 Sol 的总体得分为 74%，代表了前沿性能。但故事是在个别任务类型上取得的一些更大的成果，这些任务类型非常复杂。以下是测试中的几个示例，显示了这对不同行业的影响有多大：\n\n* 媒体和娱乐（48% → 100%，+52 分）。根据四个团队一年的制作数据的盈利能力对电影类型和国家进行排名，其中的技巧是应用下一年的税收激励修正而不重复计算。 GPT-6 Astra 在每一次尝试中都是完美的。索尔的排名是正确的，但基本比率是错误的。\n\n* 科技（69% → 97%，+28 点）。从一堆从未说明简报要求的指标的绩效和基础设施文件中选择首先资助的区域。 GPT-6 Astra 标记了这一差距，将自己的数字标记为代理，并发现了与其下方数字不符的增长声明。 GPT-5.6 Sol 报告代理是真实的。\n\n* 合法（69% → 93%，+24 分）。根据公司自己的合同政策审查保密协议，仅得出正确的结论是不够的；答案必须引用其背后的规定。两种模型都拒绝批准该草案，但只有 GPT-6 Astra 将责任上限的结构是否允许与其金额是否合理分开，并指出了解决该问题的政策语言。 GPT-5.6 Sol在没有引用该条款的情况下提出了相同的结论，这是法律界的一个严重错误。\n\n* 医疗保健（53% → 77%，+23 分）。审核一批放射学报告中的错误并评估每份报告的严重程度。 GPT-6 Astra 在膝盖成像报告中发现了一个术语错误，而 GPT-5.6 Sol 在两次尝试中均未命中，并且在分级严重性方面更可靠，而不是仅仅标记出问题。\n\n* 能量（82% → 97%，+15 点）。根据一年的仪表日志构建两个设施的消耗报告，其中两个站点中只有一个实际上丢失了数据。 GPT-6 Astra 发现了它，并划出了一条大多数评论家不会想到的界限：其他站点的奇怪太阳读数是一个需要调查的测量问题，而不是记录中的空白。 GPT-5.6 Sol 报告这两个站点都不完整。\n\n显然，Astra 将在支持和编排企业工作流程方面提供有意义的飞跃。我们将把 GPT-6 Astra 作为 Box AI Studio 中的一个选项，供客户在继续推出后不久用于构建代理。"
+    },
+    "garrytan": {
+      "en": "#NewProfilePic\n\nPhoto by Oliver Covrett",
+      "zh": "#新个人资料图片\n\n奥利弗·考夫雷特摄"
+    },
+    "mattturck": {
+      "en": "This is wild.  ARC-AGI was built to resist the LLM scaling paradigm \n\no1 despite early reasoning struggled mightily in 2024 with 18%\n\nThen ARC-AGI-3, an even harder test, launched in 2026. Frontier AI was at 0.5%\n\nAnd now Astra just completely saturated it (w/ its native harness)",
+      "zh": "这太疯狂了。  ARC-AGI 的构建是为了抵制 LLM 扩展范式 \n\n尽管进行了早期推理，o1 在 2024 年仍陷入困境，仅占 18%\n\n然后 ARC-AGI-3，一个更难的测试，于 2026 年推出。Frontier AI 为 0.5%\n\n现在 Astra 刚刚完全饱和了它（使用它的原生安全带）"
+    },
+    "nikunj": {
+      "en": "None of these chief of staff products work for busy people because they are missing more than half the knowledge that is currently stored in a walled garden (aka your phone)..  \n\nOnly when you are able to combine it, get folks to train it to teach what’s important, give it episodic memory and push actual proactive things - you can claim to be a *real* chief of staff. \n\nTill then you’re just a sparkling GSuite & Slack wrapper. Useful, will save you time but definitely not a chief of staff 🙈",
+      "zh": "这些参谋长产品都不适合忙碌的人，因为他们丢失了当前存储在围墙花园（又称您的手机）中的一半以上的知识。  \n\n只有当你能够将它们结合起来，让人们训练它来教授重要的事情，赋予它情景记忆并推动实际的积极主动的事情时 - 你才能声称自己是“真正的”参谋长。 \n\n到那时你只是一个闪闪发光的 GSuite 和 Slack 包装器。有用，可以节省你的时间，但绝对不是参谋长🙈"
+    },
+    "steipete": {
+      "en": "brilliant fit.",
+      "zh": "完美契合。"
+    },
+    "danshipper": {
+      "en": "how you know you did a good vibe check",
+      "zh": "你怎么知道你做了良好的氛围检查"
+    },
+    "adityaag": {
+      "en": "The single biggest issue with using agents today is speed.\n\nImagine if the speed were 10-100x faster -- the interaction pattern and depth of usage would be vastly different.",
+      "zh": "如今使用代理的最大问题是速度。\n\n想象一下，如果速度快 10-100 倍，交互模式和使用深度将会截然不同。"
+    },
+    "sama": {
+      "en": "Also, this is my favorite OpenAI video so far. It makes me excited for the future!",
+      "zh": "另外，这是迄今为止我最喜欢的 OpenAI 视频。这让我对未来感到兴奋！"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:37\nThe OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who's the CEO of Redwood Research. Redwood was deeply involved in the creatio...",
+      "zh": "演讲者 1 | 00:00 - 00:37\nOpenAI抱脸事件成为这几天的话题焦点。感觉就像是直接从科幻小说中走出来的，发生的一些事情，你知道，特工的协调，对分数的痴迷，以及他们想要什么。今天，我们有一个完美的人来讨论所发生的一切以及对未来人工智能安全的影响，巴克·施莱格里斯 (Buck Schlegeris)，他是 Redwood Research 的首席执行官。 Redwood深度参与了创作",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
