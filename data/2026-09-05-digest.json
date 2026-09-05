@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.\n\nHappy Astra day and enjoy a phenomenal weekend. \n\nPS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it'll reply back with voice too. \n\nThen I won't have to carry my phone around and have screen addiction.\n\nOr maybe this is what the rumored OpenAI device does.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Here’s one practical thing you can do this weekend to get better at building AI products.\n\nPick a workflow you know well - from your personal life or your work.\n\nAutomate the whole thing with AI.\n\nUse the AI product you’re comfortable with - you’ll probably have to experiment with a few.\n\nThis exercise will force you to think about\n\n1/ What does a great end-to-end experience look like?\n2/ How should you use MCPs and tools?\n3/ Where should humans stay in the loop?\n4/ How do you evaluate it?\n\nThen keep expanding the ambition.\n\nYou’ll learn more by doing this once than by reading about AI product building for a month.\n\nThe only way to learn is to build.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "The singularity is here, it’s just not evenly distributed",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "AI software factories will yield bug-free, self-improving software",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. \n\nAside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Adding “sovereign” to this list based on the last few weeks",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "i've got Astra doing film study for our @every fantasy football draft \n\nwe going to take over this league 😤",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Me: I totally understand how RL, inference time scaling, modern data-verification loops work.\n\nAlso Me: These models are total sorcery. There is no way that they should be able to do what they do.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:15\nThere's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.\n\nSpeaker 1 | 00:15 - 00:36\nChip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual desi...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
