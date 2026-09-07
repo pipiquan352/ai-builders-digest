@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-09-07T18:36:54.390Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2096815819997204639",
+          "text": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s https://t.co/TzSjTfEb5d",
+          "createdAt": "2026-09-07T04:20:23.000Z",
+          "url": "https://x.com/petergyang/status/2096815819997204639",
+          "likes": 74,
+          "retweets": 1,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2096741462574497805"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "tweets": [
+        {
+          "id": "2096796392102752507",
+          "text": "J-dog calling AGI https://t.co/5iDIHYUxyK",
+          "createdAt": "2026-09-07T03:03:11.000Z",
+          "url": "https://x.com/thenanyu/status/2096796392102752507",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2096700264569090384"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2096735726750908464",
+          "text": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. \n\nThere are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more. https://t.co/lmbQNJAeF6",
+          "createdAt": "2026-09-06T23:02:07.000Z",
+          "url": "https://x.com/levie/status/2096735726750908464",
+          "likes": 451,
+          "retweets": 41,
+          "replies": 51,
+          "isQuote": true,
+          "quotedTweetId": "2096676801204404604"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2096798671547646134",
+          "text": "Fable reviewing literally every Astra code change..\n\n\"this fix is the real deal\"\n\nFable PM, Astra engineer is undefeated 🤝",
+          "createdAt": "2026-09-07T03:12:14.000Z",
+          "url": "https://x.com/nikunj/status/2096798671547646134",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-27T10:00:00.000Z"
+    }
+  ]
+}
