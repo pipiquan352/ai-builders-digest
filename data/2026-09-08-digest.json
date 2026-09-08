@@ -1,0 +1,56 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "I think I can officially say: we are so back",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Yeah I don't know if I'm doing something wrong but Astra seems worse at triggering my skills automatically and following my instructions in them.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "hard to see at first",
+      "zh": ""
+    },
+    "AmandaAskell": {
+      "en": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI.\n\nBecause we have a relentless programmer that doesn’t get bored or tired.\n\nSo any problem that can be casted as a coding problem is virtually solved.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers.\n\nWe’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The AI jobs prediction so far is playing out the opposite of what many thought.\n\nThe reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still require human operators and oversight to generate value from them. \n\nAnd not only has AI not replaced many of the types of jobs that theoretically would have been most affected by AI - engineers or lawyers - but AI is also creating or growing entire categories of jobs across the economy. \n\nCybersecurity, FDEs, agent operators, engineers in non-software domains, and tons of job categories are going to explode. It’s not clear if or when this trend will reverse because we keep discovering all new areas of demand that AI is going to open up.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Children need to be teach-yourself-on-YouTube-maxxing",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "More and more people are coming to the same conclusion..\n\nAs building gets easier, what to build becomes the important bottle neck. \n\nYou might not need many of them, but the good ones are extremely well setup for the AI native organizations.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Did a PR to one of our upstream projects and they requested some minor changes.\n\nWhat’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "i was looking through my gmail messages from the early 2000s\n\ni have incredible news for you 13 year old dan....you came up with a name :)",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:13\nIt's becoming a meme that CEOs are, like, writing basically, like, the We're AI first memo. You have the best example of that memo that I've ever seen. Would you mind just, like, reading, I don't know, maybe the first paragraph or two of what you wrote? Because I think it's amazing.\n\nSpeaker 2 | 00:13 - 00:29\nUsing ChatGPT is not cheating. That's a non applicable idea from academia. I use ChatGPT to write this email. You should be using it too and be proud of it. As a h...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
