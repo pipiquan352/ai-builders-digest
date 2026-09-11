@@ -1,0 +1,80 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Gemini, now on Windows!\n\nGet it:",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.\n\nSharing my response below, for anyone else in a similar situation. What do you think?",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.\n\nThere is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "In my humble opinion, for getting shit done Sol &gt; Astra",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Don't call it a private equity acquisition for a huge discount from peak valuation. \nCall it an Italian goodbye.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "How to build great evals - part 10\n\nMeasure the steps, not just the result.\n\nMuch like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.\n\nTwo agent trajectories might produce the same answer (42!!).\n\nbut one of them  searches the right sources, retrieves the right document, makes 4 clean tool calls and calculates the result. The other makes 17 calls, searches the same thing 3 times, recovers from 2 errors and eventually gets there. \n\nIt’s clear which one is better.\n\nHere’s what you need to do:\n1/ clearly define your whole workflow\n2/ define the tasks in each step\n3/ think through how you measure each step - separate evals or is it a slice of a bigger eval\n4/ define your median and hard tasks - reflect them in your evals\n\nNow any time you look at eval results, study the steps first and the final results next.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Try this prompt in Claude chat to give it more context about yourself:\n\nInterview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory.",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "It’s time to ☁️ dream bigger ☁️\n\nDreambeans is officially available to all US users (18+) on iOS and Android, free of charge. No subscription required.\n\nYou can also now connect @Geminiapp to Dreambeans. Dreambeans will build off the nuance and understanding from your chats to surface even more insightful and personalized daily stories.\n\nGet your daily, freshly brewed collection of stories here:",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.\n\nVercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.\n\nUnderlying our CDN is a global metadata store that synchronizes within hundreds of milliseconds, globally. e.g: when you roll back, change config, add routes, etc.\n\nWe just made this system 91% faster at p99, and in the process sped up the build→deploy pipeline. All of this while the system is under immense pressure from the growth in agentic deployments.\n\nGreat read on the internals of Vercel from our CDN engineering team:",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.\n\nSome of the biggest trends right now:\n\n* Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident. The conversation is not as existential as it is in Silicon Valley, but still highly concerned and pragmatic about what to do about it operationally in their environments. Lots of new discoveries due to AI, and still hard to keep up with all the changes they have to execute now.\n\n* Model battles persist. Most companies are deploying multiple frontier models within their enterprise. Too hard to standardize on anything and seeing different preferences across their teams and use cases. But the dollars are still concentrated on just a few vendors. Open weights still in infancy at scale in most of these organizations, often due to lack of domestic “frontier” OSS options. Plenty of appetite for more options here, but so far few places to go.\n\n* Agent security and identity. Somewhat tied to Hugging Face, there’s much more awareness to the new challenges around agent security and identity management in a world when agents are trying to get into every system they can. In a perfect world enterprises could setup identities for all their agents and control what they’re doing, but of course sometimes the agent needs to act exactly as the user as well.\n\n* Process reengineering. Most companies realizing that the big upside of agents is when they can change the actual workflow itself to get the full gains from AI. Far more ROI when companies can adjust their workflows to support agents changing how the work happens instead of just layering on agents into the existing flow. But the big question is who can actually tackle driving these changes, where does that live, etc. Best lessons were still around embedded FDEs in the functions.\n\n* Ruthless adjusting of architectures. Most companies had examples of changing systems out multiple times just in the past year or two with different vendors. I probably haven’t heard “we tried X and it didn’t work so have gone with Y” more than in today’s environment. The lesson here is that because innovation is happening so fast, no one hangs around until a vendor gets something right, they just move on to the next one. \n\n* Evals! Still very early for most companies to have a good grasp of evals of their workflows. A few customers out of a couple dozen called this out - huge opportunity right now for enterprises to have a good sense of how their work actually happens and how well AI is doing against it.\n\n* Legacy systems still a hurdle. As always, legacy systems still remain a mainstay issue that holds back enterprises from rapid adoption of AI in enterprises. Data is fragmented across legacy environments that weren’t built for an agentic world. Companies spending a lot of time just cleaning up these old platforms. \n\nMany more topics, but these tend to be some of the more top of mind items at the moment in the enterprise.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. \n\n00:00 Intro: AI That Improves Itself\n00:55 Why Scientific Progress Is Slowing\n03:08 The Labyrinth of Human Knowledge\n05:59 Can AI Put Science Back Together?\n07:57 How LLMs Learn Biology and Proteins\n10:56 Next-Token Prediction as a World Model\n16:44 Can AI Generate Truly Original Ideas?\n17:32 Simulations, Verifiers and Superhuman AI\n22:18 The Path to Recursive Self-Improvement\n24:49 Why AI Hallucinations Can Drive Discovery\n27:42 From Reading Biology to Writing It\n31:31 Can AI Accelerate Drug Discovery?\n33:31 Will AI Help Cure Cancer?\n38:03 AI Breakthroughs in Biology, Energy and Materials\n40:19 Will Some Societies Reject AI?\n45:07 Building the AI Economist\n52:22 The Scientific Data Bottleneck\n53:41 The Four Pillars of the Eureka Machine\n55:01 Teaching AI the Rules of Reality\n57:44 Simulations and Virtual Cells\n1:00:40 Self-Driving Robotic Laboratories\n1:02:51 Agent Swarms and Open-Ended Discovery\n1:04:30 The Compute Bottleneck\n1:05:44 Inside @Recursive_SI \n1:07:33 What Recursive Will Build First\n1:10:10 How Do We Define Intelligence?\n1:11:32 How Far Can Intelligence Go?",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Three truths in early stage venture right now:\n\n1) everyone wants to raise a $50 million seed\n2) everyone thinks they will hit $30 million ARR next year\n3) every hot tranched seed round magically ends up at the ~$300 million valuation",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "the possibilities for this are incredible\n\nextremely psyched to experiment",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "If you had a machine capable of doing only 1 thing: Finding cures to our most pressing diseases.\n\nHow much of your GDP would you devote to this machine?\n\nI think the answer is: very high. \n\nThis is the world we live in now.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.\n\nRSVP at",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:19\nAnything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.\n\nSpeaker 2 | 00:19 - 00:47\nHi. I'm Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
