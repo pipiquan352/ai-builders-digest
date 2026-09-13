@@ -1,0 +1,72 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "I love this and really hope we can come together as an industry and make it happen.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Reset all propagated. Sweet dreams.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "wtf? 2030? 😂 🤦\n\nSomeone should just use AI to make StarCraft 3 at this point…",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Before we solve AI alignment, we have a pretty serious human alignment problem. \n\nIt is jarring to see the bad-faith reaction to Dario's piece from so many sides. I don't agree with every point of his essay but do believe it is a thoughtful piece everyone should read. It builds on some of the ideas @demishassabis  raised in July.\n\nIt is clear we need to focus on aligning amongst us humans on a few questions:\n\nWhat is the opportunity, risks, second-order effects?\n\nHow do we measure all of this?\n\nHow do companies, governments and countries coordinate?\n\nAI will benefit humanity if we can get our act together and move together.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "If you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.\n\nThings are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.\n\nWe need time to harden our systems, and for society to deliberate in how this technology is used and deployed.\n\nI have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.\n\nThe OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "Worth spending a few minutes this weekend to read this essay in full. \n\nEmbedded evaluators might sound unusual in tech but it's pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time. I think frontier AI labs should work the same way and this is a very practical first step.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.\n\nAt the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.\n\nAnd then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.\n\nExpect this to be pretty messy for a while.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Either you die a system of record or you live long enough to become a domain-specific harness",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Breaking: VCs decide to pace their returns.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Honestly having kids reduces p(doom) by an exponential amount..\n\nCase in point: We have been playing the garbage truck and excavator (techno version) for the past hour. \n\nAnd dancing to it as if we were at a concert. \n\nWith a temporary abandon to what the world is fighting about.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Anyone got an invite code for Meta's Muse? 👉👈\n\nI saw their Soul.md file and now i'm curious.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Okay for the avoidance of doubt this is a joke. Someone pls community note",
+      "zh": ""
+    },
+    "sama": {
+      "en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:37\nThe OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who's the CEO of Redwood Research. Redwood was deeply involved in the creatio...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
