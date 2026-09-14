@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-09-14T19:03:29.200Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2099322487603634395",
+          "text": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude\n\nhttps://t.co/0fgTdITSfO",
+          "createdAt": "2026-09-14T02:20:59.000Z",
+          "url": "https://x.com/bcherny/status/2099322487603634395",
+          "likes": 1937,
+          "retweets": 86,
+          "replies": 133,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2099345068893298816",
+          "text": "I'm really curious who's actually managing this account https://t.co/BWu6Imtxuy",
+          "createdAt": "2026-09-14T03:50:43.000Z",
+          "url": "https://x.com/petergyang/status/2099345068893298816",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2099324752863379523"
+        },
+        {
+          "id": "2099200231820963891",
+          "text": "While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of the world hasn’t even started using it yet.\n\nPedro, Brex’s CEO, likes to refer to a specific chart (see the clip):\n\n“Each dot is 3.2 million people. Every gray box is someone that never used AI in the world (84%). Green boxes are free chatbot users (16%). Orange boxes are people who pay $20 a month for AI (~0.3%).\n\nAnd this tiny red box is people using agents effectively (~0.04%).”\n\nI think the chart is from February 2026, so things have probably picked up since then, but we're still super early.\n\n📌 Watch the full episode here: https://t.co/0E7XHvBEBR",
+          "createdAt": "2026-09-13T18:15:11.000Z",
+          "url": "https://x.com/petergyang/status/2099200231820963891",
+          "likes": 44,
+          "retweets": 5,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2099139853170733280"
+        },
+        {
+          "id": "2099175305818890472",
+          "text": "Record &amp; Replay seems broken and won't trigger @nickbaumann_ @OpenAIDevs https://t.co/RYm8F1y3vT",
+          "createdAt": "2026-09-13T16:36:08.000Z",
+          "url": "https://x.com/petergyang/status/2099175305818890472",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
+      "tweets": [
+        {
+          "id": "2099216347138011190",
+          "text": "37 signals would have called the the Nuse Feed https://t.co/RigssbRcMo",
+          "createdAt": "2026-09-13T19:19:13.000Z",
+          "url": "https://x.com/thenanyu/status/2099216347138011190",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2099150117156888757"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2099224198732517750",
+          "text": "Stud traders like Kaushik love Muse! https://t.co/UPhEaGi5g6",
+          "createdAt": "2026-09-13T19:50:25.000Z",
+          "url": "https://x.com/realmadhuguru/status/2099224198732517750",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2099154608325267720"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2099343474734911917",
+          "text": "Nominal determinism strikes again. https://t.co/rFD1V1y2D9",
+          "createdAt": "2026-09-14T03:44:22.000Z",
+          "url": "https://x.com/amasad/status/2099343474734911917",
+          "likes": 126,
+          "retweets": 4,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2099320447057961233"
+        },
+        {
+          "id": "2099197117013340450",
+          "text": "It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again! https://t.co/LBe5fPBBGC https://t.co/VwkZ2a5QAN",
+          "createdAt": "2026-09-13T18:02:48.000Z",
+          "url": "https://x.com/amasad/status/2099197117013340450",
+          "likes": 179,
+          "retweets": 12,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2097229192157188361"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2099248037507797164",
+          "text": "You don't get it, I build software to relax",
+          "createdAt": "2026-09-13T21:25:08.000Z",
+          "url": "https://x.com/rauchg/status/2099248037507797164",
+          "likes": 2523,
+          "retweets": 213,
+          "replies": 165,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2099167992835924301",
+          "text": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. \n\nHowever, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different. \n\nAI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains. So it completely stands to reason that we want these systems to be safe and “aligned”. \n\nHow we get there -without meaningfully slowing down innovation progress or reducing competition- is one of the most complex questions in the 21st century, but the need is clearly real.",
+          "createdAt": "2026-09-13T16:07:04.000Z",
+          "url": "https://x.com/levie/status/2099167992835924301",
+          "likes": 168,
+          "retweets": 30,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2099181676039704870",
+          "text": "The content about startups we do is merely the teaser for the specific advice we give 1:1 when you actually are a YC startup https://t.co/MZ2tMlxLzJ",
+          "createdAt": "2026-09-13T17:01:27.000Z",
+          "url": "https://x.com/garrytan/status/2099181676039704870",
+          "likes": 219,
+          "retweets": 9,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2099142144917159984"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2099257395708879286",
+          "text": "Seed investor when a company he forgot about years ago gets acquired out of nowhere https://t.co/X6NWlHRNle",
+          "createdAt": "2026-09-13T22:02:20.000Z",
+          "url": "https://x.com/mattturck/status/2099257395708879286",
+          "likes": 333,
+          "retweets": 10,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2099272635926671532",
+          "text": "All the questions to ask when you’re joining a startup https://t.co/m3c5GRQ7kI",
+          "createdAt": "2026-09-13T23:02:53.000Z",
+          "url": "https://x.com/nikunj/status/2099272635926671532",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2000708700823335051"
+        },
+        {
+          "id": "2099271686969569309",
+          "text": "When a seed investor realizes their marked down investment is suddenly going to return half the fund..  https://t.co/5V4BhqW7Dx",
+          "createdAt": "2026-09-13T22:59:07.000Z",
+          "url": "https://x.com/nikunj/status/2099271686969569309",
+          "likes": 35,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2099198567923765357",
+          "text": "I get at least 1x text a day from a founder facing this exact conundrum..\n\nApplicants your entry valuation being higher and your total comp being higher is often a bug and not a feature. \n\nJust because a company has raised at a higher valuation doesn’t mean they are realistically more secure and the better place to go. \n\nYou have to really look at the numbers objectively - what’s the market, what’s the traction and how well positioned are they. And if they are worth 100x ARR, well they have to grow into it. \n\nThen, do your own analysis on what do you think this company exits at. Not to mention your 409a prices and tax implications. \n\nIt’s so freaking important right now when everything is upside down and numbers are not rooted in reality.\n\nPS: I have first hand personal experience with this. I worked at a company that raised $60M from probably one of the best investors on this planet. And the company folded 3 years in, all equity wiped out.",
+          "createdAt": "2026-09-13T18:08:34.000Z",
+          "url": "https://x.com/nikunj/status/2099198567923765357",
+          "likes": 75,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2099189835982315905"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2099262092633411832",
+          "text": "And yes, I'll test this for a few weeks and if we see that this helps the majority of users I'll try to get this into codex!",
+          "createdAt": "2026-09-13T22:20:59.000Z",
+          "url": "https://x.com/steipete/status/2099262092633411832",
+          "likes": 45,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2099201162922938418",
+          "text": "This is all written in Rust.\nBecause you can't escape Rust. https://t.co/WnauslO08k",
+          "createdAt": "2026-09-13T18:18:53.000Z",
+          "url": "https://x.com/steipete/status/2099201162922938418",
+          "likes": 102,
+          "retweets": 5,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2099197266636783989",
+          "text": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones.\n\nAlso saves lots of disk space.",
+          "createdAt": "2026-09-13T18:03:24.000Z",
+          "url": "https://x.com/steipete/status/2099197266636783989",
+          "likes": 643,
+          "retweets": 18,
+          "replies": 43,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2099231248027730195",
+          "text": "started using Astra medium for simple tasks\n\ncall that pacing the frontier",
+          "createdAt": "2026-09-13T20:18:26.000Z",
+          "url": "https://x.com/danshipper/status/2099231248027730195",
+          "likes": 285,
+          "retweets": 7,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2099152769080828197",
+          "text": "we’re going to the moon https://t.co/f02uVIYNHS",
+          "createdAt": "2026-09-13T15:06:35.000Z",
+          "url": "https://x.com/danshipper/status/2099152769080828197",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2099152064072790468"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2099259374544003527",
+          "text": "Imagine a world where we didn’t have to rely on any one organization to be good and virtuous. https://t.co/Vkz9lpNeE2",
+          "createdAt": "2026-09-13T22:10:11.000Z",
+          "url": "https://x.com/adityaag/status/2099259374544003527",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "tweets": [
+        {
+          "id": "2099352016988614852",
+          "text": "There are two ways AI progress could go very badly and that we must avoid.\n\nFirst, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and safety techniques stay ahead of progress in model capabilities.\n\nSecond, we could end up in a world with too much concentration of power. If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian.\n\nAvoiding these two threats requires walking a narrow middle path; for example, one country could gain too much power. Another example is one lab ending up with too much power.",
+          "createdAt": "2026-09-14T04:18:19.000Z",
+          "url": "https://x.com/sama/status/2099352016988614852",
+          "likes": 7540,
+          "retweets": 728,
+          "replies": 1680,
+          "isQuote": true,
+          "quotedTweetId": "2099348812305473766"
+        },
+        {
+          "id": "2099348812305473766",
+          "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence. Consistent rules to manage frontier risk so that we can maximize the benefits are a good idea (and we are excited by ideas like independent auditors).\n\nYears ago, companies like ours developed things like Responsible Scaling Policies and Preparedness Frameworks. Those were good for that moment, and focused primarily on the deployment of completed models, not what happens during their development process.\n\nToday's shift to focusing on safe development and evaluation will need new tools. For example, at OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability, in addition to the safety work we have long done in advance of model releases.\n\nWe hope that other companies will learn from our approaches and propose their own; we think shared standards for misalignment, monitoring, and safety will lead to better outcomes. We look forward to collaborating with our colleagues across the industry to formulate the best version of these.\n\nWhen we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.\n\nPacing will be well worth this cost; no amount of American competitive pressure should justify recklessness, or let capabilities get ahead of alignment and monitoring.\n\nWhere we will need the help of our government is for international coordination. But first we should do what we can ourselves.",
+          "createdAt": "2026-09-14T04:05:35.000Z",
+          "url": "https://x.com/sama/status/2099348812305473766",
+          "likes": 7781,
+          "retweets": 702,
+          "replies": 1503,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-03T10:00:00.000Z"
+    }
+  ]
+}

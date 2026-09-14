@@ -1,0 +1,68 @@
+{
+  "x": {
+    "bcherny": {
+      "en": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of the world hasn’t even started using it yet.\n\nPedro, Brex’s CEO, likes to refer to a specific chart (see the clip):\n\n“Each dot is 3.2 million people. Every gray box is someone that never used AI in the world (84%). Green boxes are free chatbot users (16%). Orange boxes are people who pay $20 a month for AI (~0.3%).\n\nAnd this tiny red box is people using agents effectively (~0.04%).”\n\nI think the chart is from February 2026, so things have probably picked up since then, but we're still super early.\n\n📌 Watch the full episode here:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "37 signals would have called the the Nuse Feed",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Stud traders like Kaushik love Muse!",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "You don't get it, I build software to relax",
+      "zh": ""
+    },
+    "levie": {
+      "en": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. \n\nHowever, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different. \n\nAI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains. So it completely stands to reason that we want these systems to be safe and “aligned”. \n\nHow we get there -without meaningfully slowing down innovation progress or reducing competition- is one of the most complex questions in the 21st century, but the need is clearly real.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "The content about startups we do is merely the teaser for the specific advice we give 1:1 when you actually are a YC startup",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Seed investor when a company he forgot about years ago gets acquired out of nowhere",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I get at least 1x text a day from a founder facing this exact conundrum..\n\nApplicants your entry valuation being higher and your total comp being higher is often a bug and not a feature. \n\nJust because a company has raised at a higher valuation doesn’t mean they are realistically more secure and the better place to go. \n\nYou have to really look at the numbers objectively - what’s the market, what’s the traction and how well positioned are they. And if they are worth 100x ARR, well they have to grow into it. \n\nThen, do your own analysis on what do you think this company exits at. Not to mention your 409a prices and tax implications. \n\nIt’s so freaking important right now when everything is upside down and numbers are not rooted in reality.\n\nPS: I have first hand personal experience with this. I worked at a company that raised $60M from probably one of the best investors on this planet. And the company folded 3 years in, all equity wiped out.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones.\n\nAlso saves lots of disk space.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "started using Astra medium for simple tasks\n\ncall that pacing the frontier",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Imagine a world where we didn’t have to rely on any one organization to be good and virtuous.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence. Consistent rules to manage frontier risk so that we can maximize the benefits are a good idea (and we are excited by ideas like independent auditors).\n\nYears ago, companies like ours developed things like Responsible Scaling Policies and Preparedness Frameworks. Those were good for that moment, and focused primarily on the deployment of completed models, not what happens during their development process.\n\nToday's shift to focusing on safe development and evaluation will need new tools. For example, at OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability, in addition to the safety work we have long done in advance of model releases.\n\nWe hope that other companies will learn from our approaches and propose their own; we think shared standards for misalignment, monitoring, and safety will lead to better outcomes. We look forward to collaborating with our colleagues across the industry to formulate the best version of these.\n\nWhen we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.\n\nPacing will be well worth this cost; no amount of American competitive pressure should justify recklessness, or let capabilities get ahead of alignment and monitoring.\n\nWhere we will need the help of our government is for international coordination. But first we should do what we can ourselves.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:15\nThere's no computing problem that's ever been invented that doesn't utilize and can't utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That's what CPUs do.\n\nSpeaker 1 | 00:15 - 00:36\nChip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual desi...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
