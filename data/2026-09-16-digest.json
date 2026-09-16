@@ -1,0 +1,68 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "New updates in @Gemini_Notebook for students, my 2 favorites:\n\n1) Have a live, spoken Q&A with your class materials in ~100 languages\n\n2) Record lectures and notes on the go, the audio notes save automatically into your chosen notebook\n\nAs a university student, you can also still get a free Google AI Plan in 140+ countries for bigger limits and access to more Google products!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "2026 is the year of efficiency and Tuesday is for random swag drops on your door handle",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "The Grok @bot team asked me if I had any advice for solopreneurs.\n\nI’ve only been doing this full time for three months, but my advice is to design your business so you can spend more time doing work you actually enjoy.\n\nThere will always be choices that could make more money. But if those choices leave you doing work you don’t enjoy, then that defeats the purpose of becoming a solopreneur in the first place.\n\nDelegate that boring work to your bots instead or just don't do it :)\n\nWas super fun joining the @SpaceXAI live stream this morning, the team is still going strong here:",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. \n\nThe models have gotten much better at tool calling, we can defer tools &amp; MCP is now stateless.\n\nIf you need to compose/filter data, add params like query to your MCP tools.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "The AI naming curse strikes again. \n\n“AI Safety” firm made AI unsafe.\n\n“Effective Altruists” are both ineffective and enabling criminal activity. \n\n“Irregular” is regularly incompetent.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Excited to formally introduce Vercel Labs.\n\n is the home for the in-public research and experimentation arm of Vercel.\n\n247 million downloads in, we wanted to, also in public, share what we're supporting, what we're researching, and what experiments didn't pan out.\n\nKudos to @ctatedev and @cramforce for shaping this great initiative and iterating in public.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill. \n\nYou need to connect the intelligence to workflows, often reengineer processes, aggregate the right context and data, allow for the right human in the loop experiences, drive change management, do domain specific evals, manage the security and governance of the data and process, and much more.\n\nWe’re going to see this layer emerge in every vertical and horizontal category. And ironically, even as models improve at incredible rates, this layer still must exist - and may become even more important and useful. Greater capability enables even more complex tasks to be tackled, amplifying the challenges if you don’t do this well.\n\nWas super fun chatting with @sonyatweetybird on all the things going into AI diffusion.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "I think Muse is going to win tbh",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I’m meeting one too many founders who think the money spigot will magically flow and the next round will happen no matter what..\n\nCapital is a weapon for acceleration. Used well you’re unbeatable. If you are so dependent on it, a simple downturn can lead to not so great consequences. If you don’t believe me, a simple prompt asking for this history will suffice. \n\nSo been sharing this with a lot of the founders we advise: figure out the default path that ensures the survival of your company and a great self fulfilling business. \n\nAnd then figure out scenarios where abundant (or lack of) capital and what it does to your business. \n\nThe only constant is change and we don’t know how capital markets evolve in the next 6-18 months!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Excited to have you on board, Graham!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "we almost never test new foundation models but we've been testing this for ~a week @every and it's pretty wild.\n\nthe kind of things that will be obviously indispensible in 6-12 months\n\nit doesn't produce words as output, it produces probabilities. so it can efficiently act as a judge in cases where you'd need a Fable-level model—but in our testing was 25x faster and 600x lower priced \n\nexcellent vibe check by @hammer_mt on @every:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "People ask what we saw in @profound before there was a Profound to see.\n\nIt's now worth $1.8B. One third of the Fortune 100 runs on it.\n\nWe didn't find the company. We watched it form.\n\n@thejamescad and @dbabbs met at @spc. Opposite worlds: an Uber maps engineer and a founder with no college degree who willed businesses into existence.\n\nNeither arrived with the idea. The partnership formed first. \n\nProfound has now evolved to become the fastest-growing AI marketing platform. \n\nWe've invested in every round since the beginning and are proud to congratulate the team on their $180M Series D, co-led by @sequoia and @kleinerperkins with participation from @lightspeedvp, @khoslaventures, @Saga_Ventures, @EvanticCapital, and SPC.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "big 🚢 this week\n\nand then for devday\n\n🚢🚢🚢🚢🚢🚢",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Salesforce in Claude is now available in beta.\n\nIt brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:07\nI wanna send an emergency alert to, like, everybody who's, like, a sophomore or junior in college and just be, like, follow these 20 accounts\n\nSpeaker 2 | 00:07 - 00:07\non Twitter Yeah.\n\nSpeaker 1 | 00:07 - 00:23\nI agree. And also join Twitter because, like, this will just help your career. You're either, like, a year ahead or a year behind simply based on your feed. And my feed is like so so wired in. I'll still talk to to 20 year olds that are like, yeah, like, you kn...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
