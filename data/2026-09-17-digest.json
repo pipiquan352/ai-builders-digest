@@ -1,0 +1,65 @@
+{
+  "x": {
+    "bcherny": {
+      "en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Sometimes physics can't be cheated",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way.\n\n1. /podcast-prep does research on the guest and then preps an interview guide.\n\n2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel along with moments to cut.\n\n3. /podcast-production orchestrates 5 skills to turn the full episode into 6 different assets.\n\nSome people think the latest models make skills redundant but they've been indispensable for me to get AI to follow my specific edit and browser-use instructions.\n\nMy latest video highlighting how I actually work with these skills is a good watch if you want to automate any manual workflow.\n\n📌 Watch me demo all 8 skills here:",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside.",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "Today, we are merging Claude Cowork and chat to simplify how you use Claude!\n\nWe are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps.\n\nMany of you shared that you didn't want to choose which Claude product to use for any task. As Claude models have become more capable, we've found that Claude can handle the routing for you. Based on your prompt, Claude will decide whether to give a quick answer or do deeper agentic work, and what kind of output best fits the task.\n \nYou're in control the whole time: you can still stop, redirect, or exert finer control over Claude's effort or approach.\n \nGive it a try and let us know what you think. We're rolling this out slowly over the next few weeks to get it right.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "related to this- I think bash is no longer all you need, if your goal is just reliably tool calling\n\nbut sandboxes + bash are still good for work that involves code generation &amp; execution",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "We're seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command.\n\nThat reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It's coming to @vercel AI Gateway and likely new default.",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own.\n\nAnd the new slides/docs/design integrations work very well.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.\n\nBeing able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.\n\nData classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security, and more all are the gates in a large number of  processes. \n\nThis model and approach could be quite cool in agentic workflows in the enterprise.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "I can use any harness I want and it's the same personality and full memory of my personal AGI",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Wife wanted Black Forest cake for her birthday..\n\nI haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT)\n\nHappy birthday @shimoleejhaveri - I love you mostest ❤️",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "THEY DID IT\n\nTHE END OF THE TABS ERA IS UPON US",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Great ideas rarely emerge from isolation.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "You can also now make decks, docs, and designs in your conversation.\n\nDraft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
