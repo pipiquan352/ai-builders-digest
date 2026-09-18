@@ -1,0 +1,65 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Have a family? We ❤️ this in ours.",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Projects have changed not only how I interact with Claude but how I code.\n\nI stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.\n\n[screenshot: my actual prompts for claude code cli yesterday]",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "My little @Muse red panda is both cute and saving me money - a winning combination",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "In the new Projects experience, Claude coordinates all of your sessions. \n\nI've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it. \n\nWe're rolling this out over the coming weeks. Let me know what you think!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Projects brings the architecture of Claude Tag to Claude Code.\n\nIt has one agent per project that manages memory and spins off subagents for tasks. \n\nYou can ask it to be proactive, to do things on a schedule, etc.\n\nIt feels a lot nicer than a bunch of sessions, try it out!",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "CC the entire fam 🤝!\n\nToday, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together.\n\nYou can now:\n\n👤 Add up to 5 members to your CC agent\n☀️ Start mornings aligned with a shared \"Your Day Ahead\" brief email\n🗓️ Autosync schedules & to-dos with a shared Google Calendar and Tasks\n💬 Coordinate in Google Chat with CC to offload relevant tasks (ie., crafting weekly meal plans, school supply shopping lists, etc)\n📝 Delegate paperwork (ie., permission slips, forms, and more) for CC to complete under your direction\n📌 Keep tabs on the details – CC remembers what applies to everyone (ie., family grocery lists, favorite restaurants) versus what applies to one person (ie., dietary restrictions, local timezones)\n\nReady to keep everybody on the same page? Join the waitlist or upgrade your existing CC (US only, 18+):",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "This is why we need a gazillion data centers (worth it)",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone.\n\nSome of this will be tiny, personal and even disposable software. An HTML file with some javascript (\"artifacts\"), a report, a pricing calculator, a slide deck, all the way to sophisticated apps, agents and platforms.\n\nDeployment speed is one of our obsessions. We've brought down the time to deploy, upload, assign a domain and globally propagate an artifact to 1 second.\n\nThis is quite a feat considering we serve these artifacts with uncompromising performance and security. This sub-second deployments include our global CDN, Firewall, immutable deployments, domain assignment, observability, rollbacks…\n\nAnd we're not done yet. Follow @melkeydev for more.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.\n\nThe vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7. \n\nAgents will be deployed to read all code changes to secure our software, process all of our data inside of workflows, handle a significant majority of the research that goes into recruiting and customer prospecting, review every event stream and log from every system in the world, go out and execute tasks for us in our personal lives, and hundreds of other use cases. \n\nThe rate of new agents coming online that will be consuming insane amounts of tokens is not slowing down. Just in the past week I’ve introduced multiple completely new workflows that would not have been possible technically even a month ago.\n\nIncredible time to be doing anything in inference and of course building on top of all of this.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "The future is already here\n\nWe just have to choose it and spread it faster",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I have been obsessed with self driving companies  for more than a year now.. tried a LOT of products, none of them met the bar and decided to just build one myself with \"claude\" in the loop.\n\nIntroducing my first experiment: nosugarforkids (dot com) 🙅‍♂️\n\n> catalog of only healthy snacks for kids (surprisingly this didn't exist)\n> you can chat to get recommendations for school, lunches, snack boxes\n> built a \"tier\" list based on the nutrients and what's actually good\n\nOn the autonomous side, I have a Claude agent that wakes up once a day to do the following things:\n\n> checks catalog for new additions\n> prunes any products that may be dead\n> finds new content ideas to help increase reach\n> checks dataforSEO and Google Search Console for performance\n> writes and edits new pieces that might be useful to help\n> keeps quality high, and tries to not introduce slop\n> (new) reaches out to publications to get backlinks\n\nEven with ZERO backlinks today and no social presence whatsoever, site has organically grown to ~6k impressions a day and 60 clicks. \n\nLots of rough edges still, but parents give it a try and tell me if it's helpful!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "it's happening!",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "This is the right way to solve alignment and safety.\n\n@GoodfireAI is the leading non-frontier-lab company that is working on this.\n\nThis is generationally important.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service.\n\nThe project's library keeps the files you add and the ones Claude creates.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
