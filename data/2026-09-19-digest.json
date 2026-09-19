@@ -1,0 +1,52 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession. \n\nWe'll have some things next week already to not keep you waiting so long, but very excited to show you all new things we've been working on and how it will all come together in the coming months.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Meta's @Muse is the best personal agent I've tried to date.\n\nIt actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent.\n\nHere's my new video where I walk through 10 of my favorite Muse use cases, including a personalized morning news feed, a habit tracker, and how I got Muse to call customer support and negotiate my bills for me.\n\nHonestly, I can see Muse becoming Meta's next billion-user app.\n\n📌 Watch now:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "This is the best movie ever made",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Free Jev on Vercel \nI know what I’m doing this weekend 😁",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise.\n\nHere's a quick demo with Box and Jev to make that real. The demo pulls an incident report from Box, asks whether it's customer-facing and how severe it is, moves the file into escalate, monitor, or review folders, and sets a metadata template instance with the result. This all happens nearly instantly and at almost no cost.\n\nYou can imagine this in insurance claims, contract management, loan processing, security reviews, customer log analysis, and so on. Definitely a great new class of AI use-case.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Jev scoring 3000 kid snacks with multiple criteria on  in 28 seconds for $0.11 🤯",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt-live and knows about all the sessions it's juggling.\n\nWe can ask it about context to current and past sessions right while we have meetings.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Roose on the loose. Very concerning",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "AI is a full circle.\n\nEverything old is new again.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:05 - 00:31\nHi, listeners. Welcome back to No Priors. Today, I'm here with Stefano Erman, who is a longtime Stanford professor and now co founder and CEO of Inception. Stefano has a extraordinarily broad body of work around generative modeling, but is especially well known as one of the fathers of diffusion. We talk about his company challenging the large labs and why speed and efficiency are going to be the name of the game in AI over the next few years.\n\nSpeaker 1 | 00:31 - 00:35...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
