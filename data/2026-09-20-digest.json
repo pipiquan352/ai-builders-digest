@@ -1,0 +1,44 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "2026 is the year of linux desktop",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Apple TV is full of bangers, canceled my Netflix.\n\nWidow's Peak, 9.5/10\nSilo season 3, 9/10\n\nWhat's next? Already seen:\n\nSeverance, 9.5/10\nSlow Horses, 8/10, gonna wait for more episodes for new season",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "I’m trying to place calls with both muse and instinct and they both claim to be unable to do so… is this still rolling out?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Personal agents are the ultimate manifestation of “build something that agents want”.\n\nThe form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.\n\nThe new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.\n\nThis will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Stop racial discrimination in the University of California system",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos..\n\nI get basically a DM a day asking “aren’t you a VC, why are you doing this?”\n\nUnlike other eras, things are moving SO fast that if you don’t do this, I simply don’t understand how folks will ever learn what’s coming next. \n\nFor me, it’s quite simple if you want to invest in the AI era:\n\n1) You have to understand the model capabilities to see where the next set of models will improve - still so much alpha in reading technical papers (model research)\n\n2) You need to see what tools do they need to be successful and complete even longer long horizon tasks (infra) \n\n3) You need to understand the harness capabilities that will make these models help building autonomous companies (app layer)\n\nYou can obviously learn this by talking to researchers / builders and simply betting on founders - and I do that too. But, I was never honestly good at learning without getting my hands dirty so just leaning in to what I know best. It’s also honestly so fun!\n\nSo, my push to other folks who want to learn is just get started and find time to tinker daily. Once you do it for 10 days, I’m sure you’ll be equally obsessed!",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states without them knowing about it.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:19\nAnything you can simulate, AI will solve. And before you know it, you're in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.\n\nSpeaker 2 | 00:19 - 00:47\nHi. I'm Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
