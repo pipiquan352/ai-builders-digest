@@ -1,0 +1,317 @@
+{
+  "generatedAt": "2026-09-22T17:58:25.637Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2102160025666101658",
+          "text": "@latentspacepod @allenpark out now wherever fine podcasts are sold! \n\n(email, apple podcasts, youtube) \n\nhttps://t.co/AMwZCJ5IEK",
+          "createdAt": "2026-09-21T22:16:21.000Z",
+          "url": "https://x.com/swyx/status/2102160025666101658",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2102159548366881196"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2102254445082116335",
+          "text": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+          "createdAt": "2026-09-22T04:31:32.000Z",
+          "url": "https://x.com/thsottiaux/status/2102254445082116335",
+          "likes": 12522,
+          "retweets": 760,
+          "replies": 1719,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2102215701255844074",
+          "text": "I think we're in for a rude awakening in the ad markets:\n\nIf a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing your ads at all?",
+          "createdAt": "2026-09-22T01:57:35.000Z",
+          "url": "https://x.com/petergyang/status/2102215701255844074",
+          "likes": 379,
+          "retweets": 21,
+          "replies": 91,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102186174911746151",
+          "text": "ChatGPT Finances can help you spot charges you missed and get your money back.\n\nFrom Ethan, product lead for ChatGPT Finances:\n\n“I used points to book a hotel, and then they still billed me. I had no idea it happened but ChatGPT caught it, worked with customer service, and I ended up getting reimbursed.”\n\nI then shared with Ethan that I had a similar experience where I asked ChatGPT to cancel a hotel booking for my parents, monitor the replies, and keep following up until we got the money back.\n\n📌 Watch the full episode here: https://t.co/xSJd1OwSGT",
+          "createdAt": "2026-09-22T00:00:15.000Z",
+          "url": "https://x.com/petergyang/status/2102186174911746151",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2101676571363012890"
+        },
+        {
+          "id": "2102181024507765167",
+          "text": "Nah. I no longer live in email or text, I live in the chat with my agent(s). https://t.co/dh3JdEgVPN",
+          "createdAt": "2026-09-21T23:39:47.000Z",
+          "url": "https://x.com/petergyang/status/2102181024507765167",
+          "likes": 46,
+          "retweets": 1,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2102165113461739952"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2102186805034635576",
+          "text": "I now type \"use big pictures and few words\" several times a day",
+          "createdAt": "2026-09-22T00:02:45.000Z",
+          "url": "https://x.com/trq212/status/2102186805034635576",
+          "likes": 1759,
+          "retweets": 32,
+          "replies": 132,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2102120769232978174",
+          "text": "AI is reviving the American Dream. https://t.co/H7T1Yzdm07",
+          "createdAt": "2026-09-21T19:40:21.000Z",
+          "url": "https://x.com/amasad/status/2102120769232978174",
+          "likes": 566,
+          "retweets": 29,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2102065557784723766"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2102205684544852121",
+          "text": "In addition to our type-safe TypeSafe @aisdk API (get it?), you can now use Jev over HTTP in AI Gateway https://t.co/u9OiIyILCE",
+          "createdAt": "2026-09-22T01:17:46.000Z",
+          "url": "https://x.com/rauchg/status/2102205684544852121",
+          "likes": 91,
+          "retweets": 3,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2102204402186805464"
+        },
+        {
+          "id": "2102126936592191695",
+          "text": "Game recognizing game https://t.co/CILOFbroWi",
+          "createdAt": "2026-09-21T20:04:51.000Z",
+          "url": "https://x.com/rauchg/status/2102126936592191695",
+          "likes": 462,
+          "retweets": 6,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2102103707936768130"
+        },
+        {
+          "id": "2102089968860721335",
+          "text": "I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!",
+          "createdAt": "2026-09-21T17:37:58.000Z",
+          "url": "https://x.com/rauchg/status/2102089968860721335",
+          "likes": 2194,
+          "retweets": 139,
+          "replies": 81,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2102253246807261579",
+          "text": "The monetization potential of personal agents that are transacting on your behalf you is quite significant.\n\nIf you imagine agents that are perfectly capable of handling an arbitrarily complex task end to end, then eventually a substantial amount of commerce inevitably goes through them. \n\nYou’ll start by slinging your daily simple and annoying tasks at the agent. Then as people get used to it, they’ll just start to throw more complex tasks at the agent, ultimately leading to even more spend through these systems than what they were doing before. If you can bring down the friction for commerce and services, then you end up spending even more. \n\nThis thus creates a ton of opportunity for the agent providers (Muse, etc.), but also completely new opportunities to build the layer that the agents want to interact with (commerce, local, b2b services, etc.). Win/win for multiple layers.",
+          "createdAt": "2026-09-22T04:26:46.000Z",
+          "url": "https://x.com/levie/status/2102253246807261579",
+          "likes": 53,
+          "retweets": 2,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2101738613851803877"
+        },
+        {
+          "id": "2102235949430354273",
+          "text": "AI agents will use software 100X more than people ever did. Even as interfaces begin to fade into the background as you primarily interact with agents, those agents still need many of the core primitives that people have used.\n\nIn fact, in many ways these core primitives become even more important when agents can take destructive actions in our systems or where the context they’re accessing with make or break the workflow. This will be true of where you house your CRM or ERP or structured or unstructured data platforms.\n\nThe platforms that can best act as the security layer and guardrails for agents, manage the data for agents and people, and orchestrate the business logic for workflows have a huge opportunity right now. This is true for brand new startups as well as existing platforms that can move fast enough.",
+          "createdAt": "2026-09-22T03:18:02.000Z",
+          "url": "https://x.com/levie/status/2102235949430354273",
+          "likes": 69,
+          "retweets": 4,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2102190051954393330"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2102233173833007536",
+          "text": "If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea https://t.co/HGeFe0ttBi",
+          "createdAt": "2026-09-22T03:07:00.000Z",
+          "url": "https://x.com/garrytan/status/2102233173833007536",
+          "likes": 213,
+          "retweets": 5,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2102196140930113917"
+        },
+        {
+          "id": "2102096495847551011",
+          "text": "Example PR - here is https://t.co/0wdR9PPUB4 executing against a very ambitious bug fix wave on GBrain with very clear task delineation, automatic parallelization, and very clean Github PR and CI workflow. https://t.co/xURT9mkqvo",
+          "createdAt": "2026-09-21T18:03:54.000Z",
+          "url": "https://x.com/garrytan/status/2102096495847551011",
+          "likes": 22,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102095924893827501",
+          "text": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week.",
+          "createdAt": "2026-09-21T18:01:38.000Z",
+          "url": "https://x.com/garrytan/status/2102095924893827501",
+          "likes": 356,
+          "retweets": 22,
+          "replies": 56,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2102186665863463199",
+          "text": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it..\n\nInstinct and Muse are great especially for browser use on the phone. It shows what a great agent is like for the masses with ZERO setup. \n\nBut, Codex on Mac is simply undefeated in all the work in can do with Computer Use (h/t @AriX and the Sky team). Like try doing a workflow that you do manually and give it Codex to one-shot. \n\nI can't wait to see what their latest launch will be as they reportedly get ready to release their \"agent\" to the masses. My only ask would be to showcase the work and make it easy for folks to get started.\n\nSuch a privileged time to be a customer for all these products - truly the golden age!",
+          "createdAt": "2026-09-22T00:02:12.000Z",
+          "url": "https://x.com/nikunj/status/2102186665863463199",
+          "likes": 164,
+          "retweets": 3,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102136369191800888",
+          "text": "Someone in my DMs asked for proof given my \"public\" Github doesn't have many green squares.. \n\nThere is more to me than what meets the eye 👀 https://t.co/FhWBYwtonM https://t.co/0E0pPeHCeE",
+          "createdAt": "2026-09-21T20:42:20.000Z",
+          "url": "https://x.com/nikunj/status/2102136369191800888",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2101340098356990058"
+        },
+        {
+          "id": "2102049065504739366",
+          "text": "With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences..\n\nIt’s because good products are all about curation &amp; gardening and not throwing the kitchen sink at agents expecting them to figure it out. \n\nLess is more has never more apt.",
+          "createdAt": "2026-09-21T14:55:26.000Z",
+          "url": "https://x.com/nikunj/status/2102049065504739366",
+          "likes": 56,
+          "retweets": 7,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2102116206371315854",
+          "text": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh",
+          "createdAt": "2026-09-21T19:22:13.000Z",
+          "url": "https://x.com/steipete/status/2102116206371315854",
+          "likes": 4388,
+          "retweets": 146,
+          "replies": 102,
+          "isQuote": true,
+          "quotedTweetId": "2102103707936768130"
+        },
+        {
+          "id": "2102049706830647467",
+          "text": "Proud to say that we did our homework. They found nothing critical. https://t.co/UT152Oggpj",
+          "createdAt": "2026-09-21T14:57:58.000Z",
+          "url": "https://x.com/steipete/status/2102049706830647467",
+          "likes": 433,
+          "retweets": 15,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2102036150739169745"
+        },
+        {
+          "id": "2102044040397238286",
+          "text": "The beauty of running a claw yourself: they cannot block you. https://t.co/WKSs0TwM8f",
+          "createdAt": "2026-09-21T14:35:27.000Z",
+          "url": "https://x.com/steipete/status/2102044040397238286",
+          "likes": 1108,
+          "retweets": 51,
+          "replies": 110,
+          "isQuote": true,
+          "quotedTweetId": "2102012446600794222"
+        }
+      ]
+    }
+  ],
+  "podcasts": []
+}
