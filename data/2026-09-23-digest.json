@@ -1,0 +1,73 @@
+{
+  "x": {
+    "joshwoodward": {
+      "en": "Big milestone!",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks.\n\nWe had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hours compared to Fable 5.1's 12 hours, and for 51% less cost.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go further too, even on the subscriptions.\n\nAnd one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users. Let's go!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Just randomly played this Australian show on Apple TV and it’s another banger",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "Claude Opus 5.5 is now the default model in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team plans. I’ve been using Opus 5.5 as a daily driver and love its clear communication skills and ability to write in my style.\n\nWe’re defaulting to effort medium across products, which is comparable to Fable 5.1 on intelligence but faster. Your rate limits will go 25% further on Opus 5.5 compared to Opus 5.\n\nGive Opus 5.5 an ambitious task and let us know what you think!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "the right way to use model capabilities is not to ship 10x more features to prod\n\nit's to spend more time understanding your users, trying experiments, building prototypes, learning about things you don't understand so that you can ship things that actually work",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Your intelligence is fake. It’s artificial.\n\nMine? It’s super. Super Intelligence. Aka SI.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Love the tastefulness with which anthropic ships. \n\nMain reason I got excited about 'headless' for the web is that any given page could take whatever whimsical or unique shape you wanted. With AI, there's no excuse not to push the design frontier.\n\nThis is @nextjs at its finest:",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "I've been on a Blender kick with Opus 5.5. Its better 3D modeling and vision mean you can build an entire world from a single prompt.\n\nHistorically accurate San Francisco Market street in 1906, pre-earthquake",
+      "zh": ""
+    },
+    "levie": {
+      "en": "What an insane day in AI. The frontier models just became substantially cheaper, with the Opus 5.5 price cuts, and now with GPT-6 Sol and Luna dropping token prices by 50%.\n\nThe rate at which the cost per task (on a like-for-like basis) drops in AI is unlike any other type of technology in history. And every time the cost of AI drops, the use-cases you can deploy agents against dramatically increase. This is Jevons paradox applied to agents.\n\nThese improvements will directly lead to broader diffusion of AI in the economy as we can use agents to process all of our data, scan our code for security issues, read through all log data to make decisions, have agent swarms in workflows, and much more. The cost of tokens is directly correlated to these use-cases being opened up at scale.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "We need to teach the world to prompt and maximally use AI: to help all people see the way it can give you wings in all your pursuits \n\nThen we need yearn to solve more problems for ourselves and for one another",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "A Walk In The Park (part III) feat @toddsaunders\n\n00:00 Software should fit your business\n00:16 Meet Todd, the councilman\n03:01 From Google to flooring software\n07:51 The $10M pivot\n11:55 Life after the exit\n17:35 Vertical vs. horizontal software\n23:21 The college startup story\n24:35 Cofounders and the Dalton Mills name\n28:06 Why raise VC again?\n32:43 Who Todd wants to hear from\n\nshot on @iPhone, edited on @descript\n📍westfield, nj",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Had ChatGPT sometimes crashing on me after updating to macOS 27 and... Astra found a ~14 year old bug in libuv.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "i added almost 10k new followers today! \n\nif you're new around here, here are two things to start with:\n\n1. my vibe check on opus 5.5 vs. sol-6 on @every: \n2. after automation, my take on why AI automation creates more good work to do for human experts: \n\nif you like those two things you should subscribe to @every—there's more where that came from!",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Safety and alignment of \"models\" is the raging topic today.\n\nBut the original \"safety\" debate for AI/MachineLearning was actually in autonomous vehicles!\n\nMy first Waymo ride truly felt like a religious experience. It was mind-boggling that we could build technology that actually worked on real roads with all the challenges that entails.\n\nI thought the most interesting part of the talk yesterday was the extensive eval/testing infrastructure that Waymo has built out in order to build the confidence to release 2-ton robots traveling at 30mph through urban environments.\n\nIt was awesome to host @dmitri_dolgov @spc yesterday.  \n\nI learnt a lot myself and I am excited to release the full video soon.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "An algorithmic drawing program created by @kevin_t_ngo. Every drawing is based on a different seed.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
