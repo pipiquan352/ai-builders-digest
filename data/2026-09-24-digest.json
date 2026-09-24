@@ -1,0 +1,69 @@
+{
+  "x": {
+    "swyx": {
+      "en": "can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: \n\n5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus.",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "More of your favorite apps are coming to Gemini! Which ones do you want next?",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "If you've noticed how fast  and the Desktop app have become in the last few weeks, here's how we did it. \n\nLots of juicy learnings &amp; techniques in the blog post for engineers working on speeding up your own apps.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Opus 5.5 is:\n\n- Smart\n- Fast\n- Fun to talk to\n- Good at writing \n- Friendly on rate limits\n- Constantly surprising at just how much it is capable of",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship with “doing things”. \n\nI’ve learned it the hard way from building consumer and smb products for years at Google and now Meta.\n\nBrowsing clothes can be entertainment (for some). But hiring a roofer is miserable (for most).\n\nEven with shopping, sometimes you want to browse for an hour. Sometimes you want the right thing just delivered asap.\n\nHis argument sounds a lot like the early 2000s:\n\n“Why would I buy clothes online? I need to try them on.”\n\n“Why would I buy a $500 TV online? I will go check it out at Circuit City.”\n\nTechnology keeps giving you better ways of doing things.\n\nTry hiring a roofer today: search, read 10 reviews, phone tag, coordinate with insurance, schedule inspection, get quotes, catch hidden costs, review their past work, hire, scheduling.\n\nFor some tasks like this, better means almost zero effort. For others, it means considering more options, enjoying the process and making an informed decision.\n\nThe latent demand for agents that remove this friction for consumers is immense.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "this is a new type of post we're trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate\n\nlet us know if it's useful or if you have any feedback!",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "You need young people to break the mold, question deeply held beliefs, and attempt the impossible. The ideal college would cultivate exactly that.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Muse, Instinct, OpenClaw, Claude Code…\nAll successful agents have 3 key components:\n\n🧠 Brain → model, harness (logic)\n👐 Hands → tools, computer, browser\n🗃️ Files → memories, skills, repos\n\nThe 'easy' way is to throw all these in 1 stateful computer (a Mac Mini)\n\nLike, you run 𝚌𝚕𝚊𝚞𝚍𝚎 or 𝚏𝚡 in your mac, you keep it running all day with 𝚌𝚊𝚏𝚏𝚎𝚒𝚗𝚊𝚝𝚎, it has storage, and CLIs and apps installed.\n\nBut if you want to cost-efficiently run agents in the cloud, you actually start breaking down these parts.\n\n🧠 The harness can run in Fluid compute. To make it reliable across restarts, rollouts, crashes, you make its event log durable using Workflow.\n\n👐 The hands can be a dedicated browser fleet like Browserbase/Kernel, a computer like Sandbox, and even more efficient lightweight tools like just-bash.\n\n🗃️ 🆕 What was missing was a way to also decouple storage. Imagine you want to run a memory consolidation cron job every night (\"dreaming\"). You can read/write to the files directly without 'booting up' the agent's full computer.\n\nToday we're introducing the perfect companion to Sandbox: Drives. We shipped the computer for agents, now we're giving you the 'external disk' you can attach at will. It's early, and we'll be expanding capabilities here quickly.\n\nBtw, breaking apart the agent into these independent parts not only optimizes costs in a big way, it also *massively* improves security and auditability. I'd argue you can't even run a secure agent otherwise!",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Muse and Box, together at last",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "efficiency, productivity, speed\n\nwe keep worshipping these words like they are what we live for\n\nship faster\nmerge more\nmanage more agents\ncompress every loop\nremove every pause\nturn every hour into output\n\nbut what is the point of endless production if there is no time left to think deeply?\n\nnot react\nnot optimize\nnot summarize\nnot clear the queue\n\nthink\n\nto sit with a question long enough that your real intention starts to appear  \nto find the purpose underneath the motion  \nto ask whether the thing being accelerated should exist at all\n\nai could be a new canvas\n\na way to make strange things\npersonal things\nimpossible things\ntools, worlds, poems, games, interfaces, films, languages, rituals\nthings that let more people touch the shape of their own imagination\n\nbut instead, so much of it is becoming slop factories\n\nmore content\nmore funnels\nmore tickets\nmore fake work pretending to be value\n\nyou can merge 2000 prs\nyou can manage 500 agents\nyou can wake up to dashboards proving that the machine kept moving while you slept\n\nbut what is the point if you only sleep 5 hours a day?\n\nwhat is the point if you stop talking to other humans?\nstop learning about the past?\nstop playing?\nstop wandering?\nstop being surprised?\n\nwhat is the point if your whole life becomes optimizing the system that is consuming you?\n\nspeed is not meaning\nscale is not wisdom\nautomation is not freedom if it only makes everyone run faster\n\nand where are we running?\n\ntoward what?\n\na world where every person becomes a manager of machines, and every machine produces more things no one had the time to truly want?\n\nthe danger is not that ai makes us lazy\n\nthe danger is that ai makes us endlessly busy\n\nthat it gives us infinite production before we have found intention\ninfinite execution before we have developed taste\ninfinite motion before we have learned how to be still\n\nmaybe the real frontier is not more speed\n\nmaybe it is discernment\n\nknowing what not to make\nknowing when to stop\nknowing when the most productive thing is to sleep, read history, call a friend, play with a cat, walk without tracking it, or stare at the ceiling until the false urgency dissolves\n\ntools should give us more life\nnot turn life into a tool\n\nif ai is going to matter, it should not just help us produce more\n\nit should help us become more human  \nmore imaginative\nmore free\n\notherwise, it’s the same old factory\njust without humans",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Two important simultaneous important trends in how startups get customers:\n\nMake software agents want\n\nUse agents to make people want software",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Astra is crushing it.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "sick",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "You think Zuck is good when he is down and in the trenches and in lockdown and in war mode?\n\nJust see how he dominates when he has the big stack.\n\nProud Facebook alum.\n\nLFG.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:\n\n- Add connectors and plugins like Slack and Notion\n- Buy agents and products from companies like Cursor and CrowdStrike\n- Scale with service partners like Accenture and Deloitte",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
