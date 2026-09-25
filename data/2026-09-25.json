@@ -1,0 +1,354 @@
+{
+  "generatedAt": "2026-09-25T18:15:15.592Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2103361254433993165",
+          "text": "In Jan this year I called my content strategy shot: \"Scaling without Slop\". \n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+          "createdAt": "2026-09-25T05:49:36.000Z",
+          "url": "https://x.com/swyx/status/2103361254433993165",
+          "likes": 23,
+          "retweets": 0,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2103360502059679780"
+        },
+        {
+          "id": "2103223477130129726",
+          "text": "more conferences could implement this. so much high value time wasted without thought https://t.co/jn93l7JyoH",
+          "createdAt": "2026-09-24T20:42:07.000Z",
+          "url": "https://x.com/swyx/status/2103223477130129726",
+          "likes": 504,
+          "retweets": 29,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2103182638085501182",
+          "text": "https://t.co/qd50Usegxo",
+          "createdAt": "2026-09-24T17:59:50.000Z",
+          "url": "https://x.com/joshwoodward/status/2103182638085501182",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103182635992514569",
+          "text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. \n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try! https://t.co/cUVgf5wn5b",
+          "createdAt": "2026-09-24T17:59:50.000Z",
+          "url": "https://x.com/joshwoodward/status/2103182635992514569",
+          "likes": 149,
+          "retweets": 5,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2103318850641260959",
+          "text": "Astra blew up 3D models\nThen Opus blew up videos\nI don’t even know what’s next anymore https://t.co/CGJDOoGvYQ",
+          "createdAt": "2026-09-25T03:01:06.000Z",
+          "url": "https://x.com/petergyang/status/2103318850641260959",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2102801274173587569"
+        },
+        {
+          "id": "2103311956639973774",
+          "text": "😂 this is love https://t.co/xUgorFN8IG",
+          "createdAt": "2026-09-25T02:33:42.000Z",
+          "url": "https://x.com/petergyang/status/2103311956639973774",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2103034450908979441"
+        },
+        {
+          "id": "2103310612864569388",
+          "text": "This is called stroking the AI's ego and it works https://t.co/CpSvOv3kmF",
+          "createdAt": "2026-09-25T02:28:22.000Z",
+          "url": "https://x.com/petergyang/status/2103310612864569388",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2103259550325575806",
+          "text": "incredibly thoughtful piece on AI and creativity\n\nhopefully we can make our producst better at enabling and amplifying creatives https://t.co/SeI25wbaI7",
+          "createdAt": "2026-09-24T23:05:28.000Z",
+          "url": "https://x.com/trq212/status/2103259550325575806",
+          "likes": 518,
+          "retweets": 12,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2102774995315245469"
+        },
+        {
+          "id": "2103212052391354794",
+          "text": "this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+tab to something else all together",
+          "createdAt": "2026-09-24T19:56:43.000Z",
+          "url": "https://x.com/trq212/status/2103212052391354794",
+          "likes": 137,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103212051065921632",
+          "text": "lots feedback here, many of you are planning yourself &amp; don't need plan mode\n\nothers prefer the UX of entering a mode where Claude is just thinking &amp; brainstorming with you\n\nmy plan is to:\n- make plan mode into a built-in mod\n- allow mods to add new modes or override shift+tab https://t.co/SL1IzLvb17",
+          "createdAt": "2026-09-24T19:56:43.000Z",
+          "url": "https://x.com/trq212/status/2103212051065921632",
+          "likes": 1654,
+          "retweets": 29,
+          "replies": 193,
+          "isQuote": true,
+          "quotedTweetId": "2102813194196758746"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2103129037011120525",
+          "text": "Muse can now make apps on Replit https://t.co/AColbWFCEN",
+          "createdAt": "2026-09-24T14:26:51.000Z",
+          "url": "https://x.com/amasad/status/2103129037011120525",
+          "likes": 1674,
+          "retweets": 50,
+          "replies": 100,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2103216656747262419",
+          "text": "Spend of OpenAI vs Anthropic vs Open \n(Vercel AI Gateway, last 2 months)\n\n• Anthropic still #1 in spend, but went 69% → 40%\n• OpenAI: 10% → 24% in spend\n• GPT-6 Astra + GPT 5.6 Sol are ripping\n• OpenAI now leads in tokens #\n• Kimi K3 + DeepSeek took ~half of Anthropic's loss\n• Opus 5.5 is up to 10% of spend in 2 days\n• OpenAI is 62% of image generations \n\nWatch here: https://t.co/Gu7D9d7M8w",
+          "createdAt": "2026-09-24T20:15:01.000Z",
+          "url": "https://x.com/rauchg/status/2103216656747262419",
+          "likes": 635,
+          "retweets": 34,
+          "replies": 114,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2103167536141353053",
+          "text": "This conversation with the excellent Renen Hallak of @VAST_Data is also available on Spotify, Apple Podcasts and here on YouTube (like and subcribe!):\n\nhttps://t.co/mViKG7e172",
+          "createdAt": "2026-09-24T16:59:50.000Z",
+          "url": "https://x.com/mattturck/status/2103167536141353053",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103167531917721866",
+          "text": "In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp the software infra part) is much less understood - and thats where @VAST_Data became a $30B company few people know about, powering @SpaceXAI, @CoreWeave, @nebiusai, @MistralAI, @nscale etc\n\nMy conversation with Renen Hallak, CEO:\n\n00:00 Intro\n00:51 The hidden software layer in NVIDIA's AI stack 02:28 What actually makes an \"AI factory\"?\n05:13 Should Walmart and Goldman build their own AI?\n06:20 \"We infer during the day, fine-tune at night\"\n13:16 Announcement: frontier models & sensitive data\n15:32 From P vs. NP to founding VAST Data\n17:32 OpenAI, Navier–Stokes and 10,000 agents\n20:25 The pre-transformer insight behind VAST\n21:55 DASE: VAST's \"shared everything\" architecture \n25:18 \"Storage was where startups go to die\"\n27:39 Trillions of vectors: why old databases break\n29:01 Are S3, Snowflake and Databricks ready for AI\n31:29 Data gravity, vendor lock-in and zero churn\n33:13 Training vs. inference: why the infrastructure changes\n34:46 Model routing, KV caches, RAG & agent memory\n36:59 Identity, permissions and security for AI agents 40:27 Can multi-agent systems unlock scientific discovery?\n41:55 DataEnclave: how confidential AI protects data and weights\n45:16 Who should be AI's trust layer?\n46:37 \"Sometimes it scares me\": 500 petabytes to 2 exabytes\n50:08 Is circular AI financing creating systemic risk\n51:32 Why VAST is profitable when AI infra isn't\n53:24 What separates the winning neoclouds?\n55:06 \"Their lunch is being eaten\": why hyperscalers lag\n59:10 Where will the trillions accrue across the AI stack\n1:01:18 NVIDIA: \"There's no legal document between us\"\n1:03:59 What VAST learned from xAI and @elonmusk \n1:05:36 \"Bad things loudly and often\": building at AI speed\n1:06:53 More change in 10 years than the previous 1,000?\n1:08:39 VAST's endgame: all the data in the world",
+          "createdAt": "2026-09-24T16:59:49.000Z",
+          "url": "https://x.com/mattturck/status/2103167531917721866",
+          "likes": 19,
+          "retweets": 8,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2103360292973633770",
+          "text": "“we believe that every small business owner, specifically for us in the trades, will have bespoke software, \n\nand that last mile is actually where differentiation can become, where you can provide a unique experience to your customers, to your employees” https://t.co/WhBtmHmGqZ https://t.co/IIQ90vD7mZ",
+          "createdAt": "2026-09-25T05:45:47.000Z",
+          "url": "https://x.com/nikunj/status/2103360292973633770",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2102395699895677325"
+        },
+        {
+          "id": "2103276414187548791",
+          "text": "This is the way.. https://t.co/hwQIqAUlBC https://t.co/36ToP9fUlB",
+          "createdAt": "2026-09-25T00:12:28.000Z",
+          "url": "https://x.com/nikunj/status/2103276414187548791",
+          "likes": 31,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2102899862127943985"
+        },
+        {
+          "id": "2103218709234172252",
+          "text": "We are in that stage of the \"revenue\" lifecycle.. https://t.co/2uEqADj9un",
+          "createdAt": "2026-09-24T20:23:10.000Z",
+          "url": "https://x.com/nikunj/status/2103218709234172252",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2103200311641076100",
+          "text": "I put Daybreak on it and found 8 more long-standing leaks. Care for your oss dependencies! https://t.co/pTwsuhEvxs",
+          "createdAt": "2026-09-24T19:10:04.000Z",
+          "url": "https://x.com/steipete/status/2103200311641076100",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103150483062014436",
+          "text": "Afghanistan is more excited about AI than we are? https://t.co/rbkSf8pUkM",
+          "createdAt": "2026-09-24T15:52:04.000Z",
+          "url": "https://x.com/steipete/status/2103150483062014436",
+          "likes": 317,
+          "retweets": 14,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2102746052256322006"
+        },
+        {
+          "id": "2103148444701610233",
+          "text": "If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try \"remove 20% of the least useful tests while maintaining code coverage within 2%\"",
+          "createdAt": "2026-09-24T15:43:58.000Z",
+          "url": "https://x.com/steipete/status/2103148444701610233",
+          "likes": 316,
+          "retweets": 10,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2103283846645166283",
+          "text": "so freaking cool https://t.co/gmU7Izxyuy",
+          "createdAt": "2026-09-25T00:42:00.000Z",
+          "url": "https://x.com/danshipper/status/2103283846645166283",
+          "likes": 44,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2103281698305937693"
+        },
+        {
+          "id": "2103168077102043373",
+          "text": "LIVE: Write-along https://t.co/Y2BfQMlLC4",
+          "createdAt": "2026-09-24T17:01:59.000Z",
+          "url": "https://x.com/danshipper/status/2103168077102043373",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2103230206005612661",
+          "text": "It was great speaking with @SteveHiltonx at @spc for a conversation on California's future.\n\nWe have more work to do. Onwards. https://t.co/tEXWt8Xfhd",
+          "createdAt": "2026-09-24T21:08:51.000Z",
+          "url": "https://x.com/adityaag/status/2103230206005612661",
+          "likes": 7,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-09-24T11:30:00.000Z"
+    }
+  ]
+}

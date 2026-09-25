@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "more conferences could implement this. so much high value time wasted without thought",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. \n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "😂 this is love",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "lots feedback here, many of you are planning yourself &amp; don't need plan mode\n\nothers prefer the UX of entering a mode where Claude is just thinking &amp; brainstorming with you\n\nmy plan is to:\n- make plan mode into a built-in mod\n- allow mods to add new modes or override shift+tab",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Muse can now make apps on Replit",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Spend of OpenAI vs Anthropic vs Open \n(Vercel AI Gateway, last 2 months)\n\n• Anthropic still #1 in spend, but went 69% → 40%\n• OpenAI: 10% → 24% in spend\n• GPT-6 Astra + GPT 5.6 Sol are ripping\n• OpenAI now leads in tokens #\n• Kimi K3 + DeepSeek took ~half of Anthropic's loss\n• Opus 5.5 is up to 10% of spend in 2 days\n• OpenAI is 62% of image generations \n\nWatch here:",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp the software infra part) is much less understood - and thats where @VAST_Data became a $30B company few people know about, powering @SpaceXAI, @CoreWeave, @nebiusai, @MistralAI, @nscale etc\n\nMy conversation with Renen Hallak, CEO:\n\n00:00 Intro\n00:51 The hidden software layer in NVIDIA's AI stack 02:28 What actually makes an \"AI factory\"?\n05:13 Should Walmart and Goldman build their own AI?\n06:20 \"We infer during the day, fine-tune at night\"\n13:16 Announcement: frontier models & sensitive data\n15:32 From P vs. NP to founding VAST Data\n17:32 OpenAI, Navier–Stokes and 10,000 agents\n20:25 The pre-transformer insight behind VAST\n21:55 DASE: VAST's \"shared everything\" architecture \n25:18 \"Storage was where startups go to die\"\n27:39 Trillions of vectors: why old databases break\n29:01 Are S3, Snowflake and Databricks ready for AI\n31:29 Data gravity, vendor lock-in and zero churn\n33:13 Training vs. inference: why the infrastructure changes\n34:46 Model routing, KV caches, RAG & agent memory\n36:59 Identity, permissions and security for AI agents 40:27 Can multi-agent systems unlock scientific discovery?\n41:55 DataEnclave: how confidential AI protects data and weights\n45:16 Who should be AI's trust layer?\n46:37 \"Sometimes it scares me\": 500 petabytes to 2 exabytes\n50:08 Is circular AI financing creating systemic risk\n51:32 Why VAST is profitable when AI infra isn't\n53:24 What separates the winning neoclouds?\n55:06 \"Their lunch is being eaten\": why hyperscalers lag\n59:10 Where will the trillions accrue across the AI stack\n1:01:18 NVIDIA: \"There's no legal document between us\"\n1:03:59 What VAST learned from xAI and @elonmusk \n1:05:36 \"Bad things loudly and often\": building at AI speed\n1:06:53 More change in 10 years than the previous 1,000?\n1:08:39 VAST's endgame: all the data in the world",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "This is the way..",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Afghanistan is more excited about AI than we are?",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "so freaking cool",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "It was great speaking with @SteveHiltonx at @spc for a conversation on California's future.\n\nWe have more work to do. Onwards.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:17\nSometimes it scares me. We had a customer, one of these AI clouds, they said we're probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes. I think in the next ten years, we'll see more difference than we did in the last thousand years.\n\nSpeaker 2 | 00:17 - 00:30\nHi. I'm Matt Turk. Welcome to the MAD podcast. We talk a lot about AI models on this show, ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
