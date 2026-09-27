@@ -1,0 +1,231 @@
+{
+  "generatedAt": "2026-09-27T18:03:29.172Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2103911959544610829",
+          "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
+          "createdAt": "2026-09-26T18:17:54.000Z",
+          "url": "https://x.com/thsottiaux/status/2103911959544610829",
+          "likes": 13920,
+          "retweets": 440,
+          "replies": 1872,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2104066667361992892",
+          "text": "Not sure what happened to Claude limits they went from barely usable to basically unlimited 😂",
+          "createdAt": "2026-09-27T04:32:39.000Z",
+          "url": "https://x.com/petergyang/status/2104066667361992892",
+          "likes": 422,
+          "retweets": 10,
+          "replies": 80,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2104059554204188833",
+          "text": "Building an app with Gemini audio API to teach me conversational Japanese. \n\n10 lessons and 10 phrases per lesson. https://t.co/KjO8XNS1EV",
+          "createdAt": "2026-09-27T04:04:23.000Z",
+          "url": "https://x.com/petergyang/status/2104059554204188833",
+          "likes": 30,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2104003094615052443",
+          "text": "I am using @antigravity for the first time (to try Google's new audio APIs) and who do I give feedback to...",
+          "createdAt": "2026-09-27T00:20:02.000Z",
+          "url": "https://x.com/petergyang/status/2104003094615052443",
+          "likes": 139,
+          "retweets": 3,
+          "replies": 46,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2103897226154328502",
+          "text": "Just about 1 year ago I posted one of the first posts about using Claude Code to make videos.\n\nEach of these actually took a long time to iterate with Claude and get right, pointing out details that were wrong, etc.\n\nCrazy how far things have come. https://t.co/nooto6qxEj",
+          "createdAt": "2026-09-26T17:19:21.000Z",
+          "url": "https://x.com/trq212/status/2103897226154328502",
+          "likes": 1101,
+          "retweets": 32,
+          "replies": 99,
+          "isQuote": true,
+          "quotedTweetId": "1947706205172068624"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2103951116648280266",
+          "text": "Hello world, Lisa Rauch 👧.\nWhat an amazing and beautiful world to be born in. https://t.co/dQZ05ofUM0",
+          "createdAt": "2026-09-26T20:53:30.000Z",
+          "url": "https://x.com/rauchg/status/2103951116648280266",
+          "likes": 7770,
+          "retweets": 30,
+          "replies": 730,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103939888513274147",
+          "text": "Reject non-understanding.\n\nSlop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at you all the time.\n\nThere's a thread going viral about a 'perf improvement' attributed to a compiler change. The PR *description* itself has the AI telling this person it's *not* due to the compiler change, it's how the algorithms and data structures have changed. And the implication is that a similar win could have been attained otherwise.\n\nI want AI in the service of understanding the universe and enhancing human cognition and creativity.",
+          "createdAt": "2026-09-26T20:08:53.000Z",
+          "url": "https://x.com/rauchg/status/2103939888513274147",
+          "likes": 1715,
+          "retweets": 124,
+          "replies": 122,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2104068570938499350",
+          "text": "Most people get mad on social media but don’t know what to do to actually effect change\n\nWe think you should come to a Garry’s List event and meet other people and organize to make it happen \n\nMad about our kids educations? Come to a house party and organize for merit. https://t.co/jyzrVxv0SI",
+          "createdAt": "2026-09-27T04:40:13.000Z",
+          "url": "https://x.com/garrytan/status/2104068570938499350",
+          "likes": 32,
+          "retweets": 2,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2104019760010969194"
+        },
+        {
+          "id": "2103989902476259702",
+          "text": "This is my favorite way to fix bugs now\n@capydotai with GStack /autoplan on a production issue \n\nGPT-6 medium reasoning https://t.co/mE6Oj60CCP",
+          "createdAt": "2026-09-26T23:27:37.000Z",
+          "url": "https://x.com/garrytan/status/2103989902476259702",
+          "likes": 152,
+          "retweets": 9,
+          "replies": 38,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103932595956506885",
+          "text": "Be chalant\n\nDon’t LARP https://t.co/IoqHpwiuEV",
+          "createdAt": "2026-09-26T19:39:54.000Z",
+          "url": "https://x.com/garrytan/status/2103932595956506885",
+          "likes": 499,
+          "retweets": 23,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2103588051243159592"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2104030951370322145",
+          "text": "Hope you got out today ✌️ https://t.co/fbB6qHsWdR",
+          "createdAt": "2026-09-27T02:10:44.000Z",
+          "url": "https://x.com/nikunj/status/2104030951370322145",
+          "likes": 25,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2103883264054505493",
+          "text": "Now I see why some people talk about AGI. This is so clever! https://t.co/it621aH3EM",
+          "createdAt": "2026-09-26T16:23:53.000Z",
+          "url": "https://x.com/steipete/status/2103883264054505493",
+          "likes": 1609,
+          "retweets": 98,
+          "replies": 70,
+          "isQuote": true,
+          "quotedTweetId": "2103584703215497217"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2103894152316645620",
+          "text": "Plato's Protagoras, as a short film by Opus 5.5\n\nscene 2: https://t.co/4NAbBgui65 https://t.co/MUkpMRbskK",
+          "createdAt": "2026-09-26T17:07:09.000Z",
+          "url": "https://x.com/danshipper/status/2103894152316645620",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2103850415930708437"
+        },
+        {
+          "id": "2103850415930708437",
+          "text": "i wrote a novelization of Plato’s Protagoras\n\nthen i had Opus 5.5 turn it into a movie (scene 1); https://t.co/9Kib5BfpGt",
+          "createdAt": "2026-09-26T14:13:21.000Z",
+          "url": "https://x.com/danshipper/status/2103850415930708437",
+          "likes": 60,
+          "retweets": 2,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-18T10:00:00.000Z"
+    }
+  ]
+}
