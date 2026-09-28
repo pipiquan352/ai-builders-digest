@@ -1,0 +1,64 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": ". . . . . .",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Yes I am a millennial 🙂",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "We came up in the golden era",
+      "zh": ""
+    },
+    "AmandaAskell": {
+      "en": "I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest and most well reviewed perfumes and bought a tiny sample bottle of each. I can now confidently confirm that all perfume smells disgusting.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I am most afraid of us eating the productivity gains of agents by just becoming lazier.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Cool to see Replit being popular at Chan-Zuckerberg household!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "I¹ ported my Mini web browser to Rust & Swift. It's faster, more secure, and shockingly, nicer to iterate on than Electron + Bun.\n\nI always wanted Safari-like UX but… Chrome 😁. Thanks to the 𝚌𝚎𝚏 crate, I can bundle up-to-date Chromium.\n\n𝚏𝚡 𝚊𝚌𝚙 lets me embed an agent without bloating the app. It talks to my local fx CLI over ACP. fx can then manage the browser via an MCP server².\n\nBy ditching Electron, I was able to get Liquid Glass, faster boots, and a more Mac-native feeling. Little things like fine-grained focus and input control, which are nightmare fuel in JS, just work®.\n\nNative is the future, both on the desktop and in the cloud. I suspect the entire software world will \"nativify\" faster than people realize, as DHH hinted at Rails World. Excited that Vercel's bet on Fluid will help support this, whether you choose to go Rust, Go, Zig, scriptc…\n\n¹ Built on  with Opus 5.5 and Sol 6\n² In the process I learned about  which I'm now really excited about. This will allow a more secure and direct way to expose MCP tools",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users.\n\nOn one hand, there is some subset of the economy that benefits from the friction customers traditionally have changing something about their habits. In those parts of the market, switching costs will come down and competition is going to increase dramatically until some equilibrium is reached between the disruptive alternatives and the incumbents.\n\nOn the other hand, there are lots of markets that are hurt by a significant amount of friction, where agents will begin to unlock all kinds of economic activity by making it far easier to buy products or services that were too frictionful before. Healthcare, travel, local services, certain information services, and other entirely new markets probably are net beneficiaries of agents as a result.\n\nNo matter what, a future meaningfully mediated by agents that work tirelessly for us and our goals can’t possibly function exactly the same as today. Going to be wild.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Do not nerf\n\nMade in San Francisco",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "It continues to be notable how many AI researchers (who understand how AI actually works) believe in neither AI doom nor massive uncontrollable acceleration, while non AI researchers (who have limited knowledge) have very definite and certain views on the topic.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Astra is absurd.. \n\nGive it decently hard verifiable end to end tasks with the right tools and watch it just fly 😅",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. \n\nMy plan is to let codex decide which tests actually need to run and drastically nix CI and run tests hourly.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "industry built on modeling humans as rational agents panics as humans adopt rational agents",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:07\nI wanna send an emergency alert to, like, everybody who's, like, a sophomore or junior in college and just be, like, follow these 20 accounts\n\nSpeaker 2 | 00:07 - 00:07\non Twitter Yeah.\n\nSpeaker 1 | 00:07 - 00:23\nI agree. And also join Twitter because, like, this will just help your career. You're either, like, a year ahead or a year behind simply based on your feed. And my feed is like so so wired in. I'll still talk to to 20 year olds that are like, yeah, like, you kn...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
