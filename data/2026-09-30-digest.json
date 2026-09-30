@@ -1,0 +1,53 @@
+{
+  "x": {
+    "swyx": {
+      "en": "for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. \n\nExcited to learn from all of you on what you love and what doesn’t yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferences and things on my mind. It learns very quickly to be most useful and it can take on surprisingly ambitious tasks on its own.\n\nWe’re learning from how you all use your primary dot before releasing the ability to create an entire team of them.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅\n\nInstead, I spent the day catching up with some great folks, so I'm going to embarass some of them now:\n\n1. @lennysan the nicest most humble successful person I've had the pleasure of being friends with \n\n2. @bb_fresh the comedy legend, search \"krazam microservices\" on YouTube for a laugh. My dream is to appear in one of Ben's sketches as the PM.\n\n3. @danshipper the vibe checks are legendary\n\n4. @bentossell the tall Welsh gentleman in pink - has an amazing newsletter in Ben's Bites\n\n5. @thenanyu the man who brings taste and craft to everything he touches from Linear to OpenAI\n\n6. @illscience my favorite a16z partner that I've met (because @joshelman still hasn't met me in person 😅)\n\n7. @fishmanaf a great product leader but more importantly the most buff dad ever\n\n8. @tomkrcha the founder behind @pendev one of my favorite AI design tools\n\n9. @victornunez who still makes time to answer my dumb DMs at 11 pm despite working at OpenAI and having 3 kids",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "have you tried telling Claude \"we have the power to do anything, please be braver\"\n\nalso, have you tried telling yourself",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "How to design and build a harness to reach frontier performance at a fraction of the cost!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "AI SDK has hit 30M weekly downloads.\n\nOne-shotted this video in fframes +  + opus. I asked 𝚏𝚡 to look at  and highlight the 5M/10M/20M/30M milestones.\n\nYes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw",
+      "zh": ""
+    },
+    "levie": {
+      "en": "It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future. \n\nAt some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are still in a phase where the industry can absolutely align on these efforts collectively.\n\nAwesome to see this come together so quickly and for the whole industry to support progress without reducing competition. This certainly points to a much brighter future for AI.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. \n\nLuckily intelligence is on tap these days!",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Two random honest thoughts on the market right now..\n\nFirst is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the \"obvious\" winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a moment's notice. Companies getting Windsurf-ed where only the choice people are getting to join the future company. Founders raising tranched valuations without worrying about the next employee that will join them will have 409As that make early exercising impossible. \n\nAs early stage VCs, we are often just betting on people. And, when those people leave on a dime's notice, then the remaining company (usually) becomes a shell. It seems like a great time to be a mercenary, and everyone feels like one even though there are missionaries out there. \n\nSecond is on defensibility: There's a lot of chatter on moats, so I won't re-litigate the matter here. But the thing that I want to call out is given the pace of what's happening the moat is no longer \"one\" thing. Like if you really think about it especially in the app layer - the harness is like a thousand small things done well. And, a lot of it is invisible. And given the competition is so fierce and new entrants overnight, you really have to dig into the details to figure out why a given company is different. What is their edge, and their combined edge across product, tech and GTM. \n\nAnd often times even with that, you end up going back to \"well the real defensibility is the founders\". And in those founders the defensibility is their speed of execution and being able to adapt to the market. That has become the new bar for every founder out there, given there are no \"blue ocean\" markets. And even if there are, any company with a LITTLE bit of heat, will have a lot of competitiors overnight. \n\nEven though I think I have a pretty good sense on finding the best people who have founder market fit, I find this current climate really hard and it's testing all my priors (and patience) at the same time. \n\nI know it's not true, but feels like everyone is in it to grab the bag and not really care about their legacy of what they want to build (please reach out if you do).",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "This is pretty amazing.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "im biased but im insanely proud of @every's dev day coverage\n\n- two vibe checks\n- live feed\n- livestream\n- podcast with @sama (coming tomorrow!)\n\ninsane amount of effort from the team:",
+      "zh": ""
+    },
+    "sama": {
+      "en": "Dots are here!\n\nA new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
