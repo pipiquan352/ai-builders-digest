@@ -1,0 +1,80 @@
+{
+  "x": {
+    "swyx": {
+      "en": "is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in professional tech media",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Gemini 4 Argon!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. \n\nWithin ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Google cooked on Gemini 4! \n\nNow they just need to be more competitive on coding harness (Antigravity) + personal agent (Spark).",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "It’s interesting to contrast, what different companies take for granted in their internal cultures\n\nI’ve only been at OpenAI for about a week, and the thing that stands out is absurdly high bias towards action\n\nThis shows up in ways big and small…\n\nSometimes you have a casual discussion about a possible feature, and the PR is sitting in front of you by the time you get back to your desk \n\nOr you meet someone on Slack and say: “let’s grab lunch next week” and the meeting invites on your calendar within the next five minutes\n\nThis has its downsides. because it often feels like everything’s behind a hair trigger, and things just change out from under you— but you can’t really teach this energy, and if you ever lose it, it’s unbelievably hard to get it back\n\nOpen AI is not a tiny company anymore. It’s got several massive buildings in San Francisco, it’s impressive that this energy still persists",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "While prototypes are fun, I think ideally I'd work on this with a small group of 2-3 people. \n\nThe animations, design, etc. are fine but someone with expertise could help make it much better.",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "💠 Opal shines on in Skills! 💠\n\nWhen we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and today, supporting the global launch of skills in @GeminiApp! ✨\n\nSkills are a faster way to automate repetitive tasks and save custom instructions right in chat - built from the learnings we had from Opal. As skills roll out globally, we will be saying a bittersweet farewell to Opal. The experiment will be shutting down on Nov 17, 2026.\n\nWhether you built mini-apps on  or tried Gems in Gemini, thank you for shaping the future of customizable AI. Opal lives on in every skill you build next. 💙",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Make and one-click publish Meta VR apps.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect.\n\nWith code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps.\n\n¹ The world of building agents is plagued with static credentials. You're supposed to give a bunch of keys to each agent or app you build. It's DX hell, but it's also a massive liability. Connect fixes this.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to look like in the form of software and agents, but also it opens up new services firms opportunities.\n\nLegacy systems need to be moved to the cloud, data organization and access needs to be updated, software needs to be connected to agents in new ways, workflows need to be reengineered for agents, HITL needs to be figured out for the process, evals need to be generated and maintained, and the entire system needs to be continually updated as new models get released and new capabilities emerge. And the full list may even be longer.\n\nAI is not the same as just deploying software. Software you generally did the implementation of an existing, well understood category of technology, then stepped back and the customer kept running. With AI agents, you're delivering actual work augmentation to the organization, which has a completely different set of complexities associated with it. You're no longer deploying tools that the company is merely enabled by, you're deploying work output in a process. Completely different implementation and enablement process.\n\nAs a result, this is going to open up lots of new kinds of firms and plays for existing firms to diffuse AI into organizations. We're going to see approaches by industry, by size of company, and by problem inside of companies. Traditional SIs will modernize and adapt (some will clearly not adapt as well), and new entrants will also be founded in this period that take advantage of this window. Great time to be an FDE or FDE firm.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "*chefs kiss*",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "SaaS companies seeing Anthropic’s ARR growth flatline",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Still looking for this..\n\nIf you are building an insanely good multiplayer experience, please DM or reply here with a demo!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!)",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Okay i thought this model was already out phew. \n\n@sundarpichai would love to vibe check it",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "The question I keep on asking everyone @spc is \"What is the maximalist version of this company?\".\n\nPerhaps this has always been true....but if you are building a company today, then the only way is to have the boldest, most audacious and maximalist version of the idea and how it can change the arc of the future.\n\nIf you start small, you will struggle to get funding, hire great people and ultimately to make a dent in the future.\n\nThis is the paradox of AI. It makes building easier but dramatically raises the floor on what it means to be a great startup.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).\n\nCome for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Do you do all your prompting on Ultrafast?\n\nI do.\n\nThat's sick.\n\nYeah.\n\nThat's crazy.\n\nYou know, seven people's dots can, working together, create something new that kind of existed in all of our heads to some degree, but was like an emergent thing.\n\nHey, this is Dan Shipper.\n\nYou might be wondering what happened to AI and I.\n\nThis is the same show, we are just rebranding it to the Every Podcast.\n\nI'm really excited for our first episode with Sam Waltman.\n\nHere it is.\n\nSam, welcome to the show.\n...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
