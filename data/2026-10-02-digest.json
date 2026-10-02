@@ -1,0 +1,88 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+      "zh": ""
+    },
+    "swyx": {
+      "en": "pls support smol creators",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Introducing the Stitch CLI, get design ideas on demand",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it.\n\nEach person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others can try your mods too.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I love a good reset although these days Claude Max feels basically unlimited on Opus and Sonnet",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "There is only One True SaaS Layout.\nYou may not like it, but this is what peak usability looks like",
+      "zh": ""
+    },
+    "AmandaAskell": {
+      "en": "Tantalum being discovered in 1802 and turning out to have an isotope with a half life so long that we might never see it decay is a great example of nominative determinism.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me &amp; find references.\n\nI asked Claude to make an animation editor where we could iterate on the jump, I'm really happy with how it came out.\n\nHere's a side-by-side video",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "The future is verification-engineering.\nProofs, (e2e) tests, benchmarks, linters… \n\nSome tests will be deterministic, some agentic. This looks great.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "A big trend with most enterprises that I talk to is deploying internal FDEs into departments in their organization to help bridge the capabilities of AI into their underlying workflows. \n\nThis requires a high level of technical expertise, an understanding of AI, and the ability to understand the workflows and processes that the enterprise is trying to automate. There’s no shortcut to getting automation without this combination of skills (either in one person or multiple). \n\nWhat’s exciting is this is an entirely new function in most enterprises, which is going to create a ton of new roles in the economy.\n\n“Every generation of technology creates jobs that didn't exist before it, jobs that arise from an immediate need in an emergent industry. The Automation Engineer is a key example of those jobs for this generation. Nobody has ten years of experience doing this yet, because ten years ago the tools that made it possible didn't exist (it didn’t even exist two years ago).”\n\nIf you have software skills and are diving into AI, this is an area to go deep on.",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "flip phone. full desktop. \na whole little world.\n\nryOS on iPhone Duo",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Harm accelerationist Gary McCoy is going to ruin San Francisco",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI \n\nIs this the beginning of the interp exponential?\n\n00:00 Cold open & intro\n01:06 \"Amoral students with an absent teacher\"\n02:49 What is reward hacking?\n04:13 Models cheat up to 96% of the time\n06:08 Do models know they're cheating?\n08:10 The Hugging Face hack: why tests missed it\n11:35 \"The dumbest models we'll ever deal with\"\n11:58 Should AI slow down?\n13:56 Mechanistic interpretability 101\n16:06 Models are grown, not built\n19:10 How labs do alignment today\n21:30 Is this an alignment crisis?\n23:26 Why agents changed everything\n25:38 Chain-of-thought monitoring is fading\n27:49 Neuralese: AI that stops thinking in English\n29:28 A model caught evading its own monitor\n30:42 Open vs. closed models\n32:11 Activation monitoring in production\n35:00 Learning from superhuman AI\n36:15 The most underrated field in AI\n38:24 What is a probe?\n39:52 What is steering? Golden Gate Claude\n40:53 Why build Goodfire outside the labs\n42:46 Do you need frontier model access?\n44:16 Inside the paper: an MRI for the model\n47:28 Dialing sycophancy up and down\n49:16 Probes vs. chain-of-thought monitors\n51:44 Cutting monitoring costs by 90%\n53:28 So what can we do about it?\n55:41 Giving gradient descent a choice\n57:24 RL from feature rewards\n1:00:03 Silico and Goodfire's business\n1:01:25 A new Alzheimer's biomarker\n1:03:38 Decoding neural networks by 2028?\n1:06:00 What engineers can do tomorrow\n1:07:35 Are we at risk? \"I want people to believe\"\n\nGreat group of folks and friends involved @deedydas @MenloVentures @fendien @Work_Bench @BCapitalGroup @AnthropicAI",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Been reading a LOT of chatter on X about how SF culture is “gatekeeping” and how it all comes down to who you know..\n\nWhile that’s definitely true in pockets, what’s made SF great is how open even extremely smart/accomplished people are to meet for coffee. And how willing people are to open doors for you even when they’ve just met you. I benefitted from this again and again when I first moved here, and I still benefit from it even as I’ve been here for 10+ years. \n\nSF is probably the only place where when you quit your job people say congratulations, and immediately jump into asking what’s next and try to help you. \n\nWith any given hype cycle, I’m sure this wanes to a certain degree. And a lot of tourists will come and go expecting a different SF. But I still see the grace and the abundance mindset from most of the folks I meet and that makes me more bullish on this city ever than before. \n\nLet’s keep paying it forward!!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "\"Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash\" \n\n\nNever seen an idea spreading so fast.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "we published a sick guide to getting started with open models on @every:",
+      "zh": ""
+    },
+    "sama": {
+      "en": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:20\nA lot of people who aren't in the AI field are very surprised to realize that even the, you know, smartest researchers and scientists at the frontier don't understand their creations. It's like, oh, I thought we had a handle on all of this. You know? What's going on here? The existing alignment techniques are not going to scale to superintelligence.\n\nSpeaker 1 | 00:21 - 00:34\nI don't think that the... We have the recipe where we are going to be able to fully trust smart...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
