@@ -1,0 +1,60 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post announcements",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "The man has spoken",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "AI adoption is largely a product problem today. \n\nEven among the 2% that are paying for AI today, the depth of usage is shallow. \n\nThe main reason : most AI products look like airplane cockpits with 100 levers - connectors, permissions, model selection, token usage etc.\n\nThis has started to change. Things will look materially different in the next 12 months as product teams come into their own and make AI products easier to use.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Who’s building this?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else. \n\nAnd even within coding, you have a very wide continuum of adoption patterns, with some likely a small percentage of developers deploying background agents working on projects in parallel, and the rest of everyone else still working with agents 1:1. \n\nThen, there’s the entire rest of knowledge work where real agentic adoption is still very early. The reason for this is that most of the workflows still need to reengineered to work with agents. \n\nThis isn’t the same as deploying a chat system for better research efficiency, but instead requires workflows to be rebuilt, data to be wired up in new ways, new practices for accountability and liability of decisions when agents are in the mix, governance and compliance paradigm changes, security upgrades, and more. \n\nWe’re still so unbelievably early in what this is going to look like outside of a few categories of work right now. This is why you can basically expect 100X more agent adoption from what we’ve seen so far.",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "convergence to the mean\n\nwhen everyone looks at everyone else to decide what to make, we eventually stop making anything of our own.\n\nwe copy what works. borrow the language, the aesthetic, the features. we call it learning from the market, following best practices, staying competitive. together, everything starts to feel familiar. polished, interchangeable. nothing wrong. nothing alive.\n\nthe mean isn’t necessarily bad. it’s where everything lands when we remove the reasons for it to be different.\n\nnumbers are easier to compare than feelings, so we make things that produce numbers. we study what gets attention, then shape ourselves around it. eventually the feedback stops informing the work and starts authoring it. we’re no longer asking what we want to say. we’re asking what will be rewarded for saying.\n\nai makes this loop frictionless. it can draw from more references than we could see in a lifetime. but access to every perspective isn’t the same as having one. it hasn’t lived a particular life that makes one detail unbearable and another beautiful. when we ask it to choose for us without bringing any intention of our own, we get something plausible, easy to approve.\n\nthen we ship it, measure it, copy it, and feed it back into the next round. a tidal wave of mid.\n\nthis changes not just the work, but the people making it.\n\nwe describe ourselves in categories platforms can distribute and markets understand. designer. founder. creator. pick a niche. build a brand. be consistent. the parts that don’t fit become inconvenient, even when those contradictions might produce our most interesting work. we become easier to classify and harder to tell apart.\n\ni think we need to approach making things more like artists.\n\nan artist develops a perspective through the work. making, noticing, choosing, failing, returning. learning what matters even when nobody else cares. craft gives that perspective a form precise enough for someone else to experience.\n\nthe life outside the work matters too. the places you’ve lived, the people you’ve loved, the things you’re embarrassed to care about. these aren’t distractions from having something to say. they’re how you come to have something to say.\n\nwe understand this with music, paintings, photographs, movies. we expect a person to be present in the choices. we want to experience something we wouldn’t have encountered without them.\n\nsoftware can do this too.\n\na piece of software expresses beliefs about how life should feel. what deserves your attention. what you should be free to change. whether a task should feel like paperwork or play. even a small interaction can carry someone’s care, humor, or curiosity.\n\nbut we rarely talk about software as a medium. we talk about it as an industry. markets to capture, workflows to optimize, competitors to catch up with. we add a feature because someone else has it, without asking whether it belongs. products accumulate the same parts and lose what made them worth choosing.\n\nunderneath the branding, it’s all the same thing.\n\nartists learn from others too. the question is whether you’re absorbing those influences into a point of view, or using them to avoid developing one.\n\nwhat are you trying to let someone feel, understand, or do? why this particular shape? what have you noticed that the existing tools don’t seem to notice?\n\nthose questions don’t have answers you can borrow from a competitor’s roadmap.\n\nif we can make almost anything, deciding what deserves to exist becomes more important, not less. speed gives us more chances to exercise judgment. it doesn’t remove the responsibility.\n\ni don’t want a world where every person becomes a more efficient distributor of the same ideas. i want people to use these tools to go further into what they actually care about. to make things specific enough that we can feel someone behind them.\n\nwhat is the point of everyone being able to make something, if we all end up making the same thing?",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "It'll be interesting to see how this innovator's dilemma plays out in the next few years as personal agents become inevitable..\n\nAmazon is protecting it's \"ads\" cash cow and *cough* the brand. \n\nDoordash, albeit smaller, is opening the gates (slowly) with their CLIs and allowing to order via text.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Do I know anyone at Google who could help? We're now over a week in review limbo for OpenClaw's Android app.",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "A common misconception is that if you are super rich, you can get unlimited access to the world's best doctor/lawyer/creative-professional etc.\n\nThe reality is that the world's leading cancer doctor will still see you for 20-30min if you have cancer no matter how much money you have.\n\nThis is why AI is so crazy. \n\nIt both democratizes access AND it makes the amount of time available unlimited for every individual.\n\nThis is the practical effect of intelligence too cheap to meter.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:17\nSometimes it scares me. We had a customer, one of these AI clouds, they said we're probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we're gonna need an extra two exabytes on top of that 500 petabytes. I think in the next ten years, we'll see more difference than we did in the last thousand years.\n\nSpeaker 2 | 00:17 - 00:30\nHi. I'm Matt Turk. Welcome to the MAD podcast. We talk a lot about AI models on this show, ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
