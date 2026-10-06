@@ -1,0 +1,57 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I built an AI language learning app that teaches me Japanese via live voice calls.\n\nHere's my new tutorial that shows you exactly how I built this, including:\n\n→ Using my spec skill to create key designs\n→ Setting up Gemini Live APIs for voice\n→ Creating diorama art with Nano Banana\n\nYou can follow along to build your own app to learn 100 phrases for any language before a trip.\n\n📌 Watch now:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "You can just fix things",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "The most common mistake teams make is to treat evals as an additional QA step once the agent is built.\n\nAI products are fundamentally different.\n\nYour evals are your product spec.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML-\n\nthe model doesn’t need to remake the components or logic to do common things like state machines, diagrams, code snippets, etc.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "The US is catching up on open-weights models.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript.\n\ngdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authorization check.\n\nThe typechecker verifies these proofs at compile time, preventing your team and agents from shipping catastrophic security (and other kinds of) bugs.\n\nWhile these patterns have existed for quite some time, especially in ecosystems like Haskell, ① human code review and ② cognitive and syntactic overhead made these solutions niche.\n\nThe situation is now inverted. Agents are writing more code than we can review, and they *thrive* in tight loops with hard constraints that would frustrate us. We see this with the rise of Rust, borrow checker, code aesthetics debate and all.\n\nThe README and examples model a real-world Vercel API product constraint: changing the password on a Project requires a proof of a certain role + a certain entitlement. Thanks to Matt Noonan and Ollie Charles for their research in this space.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments. The files agents need to access, the CRM environments, email, and more.\n\nIt’s impossible to know how agents are performing if you don’t understand how well they’re executing on your evals and how they’ll perform in the future with a model change or workflow upgrade. Every enterprise has to do this 1 by 1 right now, which is obviously slow and tedious.\n\nEvery enterprise is going to have someone managing evals, infrastructure for building and running evals and simulated environments, and more. Huge space.",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "made a lil thing for language learners:\nwatch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults.\nenjoy 🍿",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is repeatable just by observing agent use",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "The guy who thought he was too late to crypto investing",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "what we promise @every:\n\nas the frontier advances, so do you.",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Three Stanford degrees.\n\nBerkeley EECS faculty since 2016.\n\nCofounder of @physical_int.\n\n@svlevine builds the algorithms that let robots learn from experience, linking what they see to how they move. \n\nHe's coming to @spc tomorrow.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
