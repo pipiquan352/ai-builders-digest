@@ -1,0 +1,84 @@
+{
+  "x": {
+    "swyx": {
+      "en": "what is your default/workhorse coding agent today, Oct 2026?",
+      "zh": "今天（2026 年 10 月）您的默认/主力编码代理是什么？"
+    },
+    "joshwoodward": {
+      "en": "Mask-based editing is my favorite from today, much more coming soon!",
+      "zh": "基于蒙版的编辑是我今天最喜欢的，更多内容即将推出！"
+    },
+    "bcherny": {
+      "en": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in the Sonnet 3.5 days, your prompt mattered a lot. Nowadays, it's much more important to communicate to the model:\n\n1. What you want it to do\n2. How much effort you want it to spend\n3. How it should verify that it did the right thing",
+      "zh": "我很惊讶人们对我这样提示克劳德感到惊讶。\n\n像与同事交谈一样与克劳德交谈。提示没有什么秘诀。对于大多数任务来说，不需要过度的脚手架或规定——给克劳德一个目标，它就会解决它。\n\n回到 Sonnet 3.5 天，你的提示非常重要。如今，与模型沟通变得更加重要：\n\n1.你想让它做什么\n2.你希望它花费多少努力\n3. 它应该如何验证它做了正确的事情"
+    },
+    "thsottiaux": {
+      "en": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!",
+      "zh": "我们发布了四件被认为从优秀到优秀的东西以及一些数学证明，但投票结果很明确，社区要求重新设置。我确实校准了它，并且“似乎”游戏被操纵以利于重置，但这就是目前的规则。\n\n因此...重置已处理。享受！"
+    },
+    "petergyang": {
+      "en": "@dps not sure if this is possible but it’ll be incredible if muse can wait on a call for me then dial me in when there’s a human on the other line",
+      "zh": "@dps 不确定这是否可行，但如果 muse 可以等待我的电话，然后在另一条线路有人接听时给我拨通，那就太不可思议了"
+    },
+    "thenanyu": {
+      "en": "I worry, though, that this will cause extreme degradation in systems that no one loves to maintain, but someone has to",
+      "zh": "不过，我担心这会导致系统极度退化，没有人愿意维护，但必须有人维护"
+    },
+    "trq212": {
+      "en": "working at a higher level of abstraction has always required understanding the lower level ones, I don't think coding agents changes this",
+      "zh": "在更高层次的抽象上工作总是需要理解较低层次的抽象，我不认为编码代理会改变这一点"
+    },
+    "amasad": {
+      "en": "What’s happening in the AI-powered reverse engineering and decompilation is absolutely insane. Pretty soon all software will be de facto open-source.\n\nAI is coming for everything and everyone.",
+      "zh": "人工智能驱动的逆向工程和反编译中发生的事情绝对是疯狂的。很快所有软件都将成为事实上的开源软件。\n\n人工智能正在为一切和每个人带来帮助。"
+    },
+    "rauchg": {
+      "en": "At this rate AI will get us GTA 7 before GTA 6",
+      "zh": "按照这个速度，人工智能将在 GTA 6 之前为我们带来 GTA 7"
+    },
+    "levie": {
+      "en": "Cyber will be one of the most defining domains for AI in the coming years, and a huge area of focus for most enterprises.\n\nAI is going to now create a whole new level of work for security dealing with the increase of vibe coded issues, agentic attacks, and even accidental agent swarms hunting for data. OpenAI + Hugging Face is just a preview of what’s to come.\n\nSecurity teams have often been the most strapped for resources teams in the enterprise, and now it’s only going to get more intense. AI agents of course become the solution to this problem as well, and we’ll see a range of new agentic products for protecting code, enterprise systems, mission critical infrastructure, and enterprise data. Huge opportunity here right now.\n\nAnd it’s going to be a booming market for cyber professionals that can effectively deploy agents for security purposes in the enterprise. Great time to be in security.",
+      "zh": "网络将成为未来几年人工智能最具定义性的领域之一，也是大多数企业关注的一个巨大领域。\n\n人工智能现在将为安全工作创造一个全新的水平，以应对日益增加的振动编码问题、代理攻击，甚至意外的代理群寻找数据。 OpenAI + Hugging Face 只是未来的预览。\n\n安全团队往往是企业中资源最紧张的团队，而且现在只会变得更加紧张。人工智能代理当然也成为这个问题的解决方案，我们将看到一系列用于保护代码、企业系统、关键任务基础设施和企业数据的新代理产品。现在这里有巨大的机会。\n\n对于网络专业人员来说，这将是一个蓬勃发展的市场，他们可以在企业中有效地部署代理以实现安全目的。安全的好时光。"
+    },
+    "garrytan": {
+      "en": "Connie Chan doesn’t want to see a strong Dem party bring about a boom loop to SF and California\n\nShe votes against all the things that could make a vibrant city and state and attacks anyone who fights for us.",
+      "zh": "陈康妮 (Connie Chan) 不希望看到强大的民主党给旧金山和加州带来繁荣循环\n\n她投票反对所有可以使城市和州充满活力的事情，并攻击任何为我们而战的人。"
+    },
+    "mattturck": {
+      "en": "My kids when I take care of home logistics",
+      "zh": "当我照顾家庭后勤时，我的孩子们"
+    },
+    "nikunj": {
+      "en": "Coming to New York next week for a board meeting.. who should I meet? 👋 \n\nPrioritizing founders, but open to meeting design engineers or builders who are not pacing the frontier. \n\nDMs open!",
+      "zh": "下周来纽约参加董事会会议..我应该见谁？ 👋 \n\n优先考虑创始人，但也欢迎与不涉足前沿领域的设计工程师或建筑商会面。 \n\nDM 开放！"
+    },
+    "steipete": {
+      "en": "I hooked up our team claw to X to trigger work faster. Unassigned sessions are for anyone to grab. Our agent looks who worked on the related code last and pings people on the server.\n\nWhole thing was a prompt and team server extended itself since plugins are now hot reloadable.",
+      "zh": "我将我们的团队爪子连接到 X 以更快地触发工作。未分配的会话可供任何人获取。我们的代理会查看谁最后处理了相关代码，并对服务器上的人员执行 ping 操作。\n\n整个事情就是一个提示，团队服务器自我扩展，因为插件现在可以热重新加载。"
+    },
+    "danshipper": {
+      "en": "this is actually true",
+      "zh": "这实际上是真的"
+    },
+    "adityaag": {
+      "en": "It is wild to me that the only legally allowed form of spam is political campaigns.\n\nAnd it is also for the most intrusive channel of txt messaging.\n\nInsane,.",
+      "zh": "让我感到疯狂的是，唯一合法允许的垃圾邮件形式是政治活动。\n\n而且它也是对 txt 消息传递最具侵入性的渠道。\n\n疯狂的，。"
+    },
+    "sama": {
+      "en": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\"",
+      "zh": "今晚，带着额外的敬畏仰望星空。\n\n“你的海那么大，我的船那么小。”"
+    },
+    "claudeai": {
+      "en": "The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack.\n\nOnce it caught on internally, they released it to their subscribers.",
+      "zh": "每个团队都通过代理来运行尽可能多的工作。为了帮助整个团队在新模型出现时分享技能，他们在 Claude Managed Agents 上构建了一个公司代理，每个人都在 Slack 中使用该代理。\n\n一旦它在内部流行起来，他们就将其发布给订阅者。"
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:02\nHow do you kind of characterize where we are today?\n\nSpeaker 2 | 00:02 - 00:25\nWhat we have with RL is we essentially have a hill climbing machine. The hardest part is actually defining the hill to climb, which is why evals, I think, is like a really important thing for companies to, a, focus on building and b, actually like safeguard pretty carefully. Your employees are not fungible. You would not like be comfortable with them going to another company and doing work th...",
+      "zh": "演讲者 1 | 00:00 - 00:02\n您如何形容我们今天的处境？\n\n扬声器 2 | 00:02 - 00:25\n我们的强化学习本质上是一台爬山机。最难的部分实际上是定义要攀登的山峰，这就是为什么我认为评估对于公司来说是一件非常重要的事情，a，专注于建设，b，实际上喜欢非常小心地保护。你的员工是不可替代的。你不会愿意让他们去另一家公司做工作",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
