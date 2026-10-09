@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "if you cant hire for it, my team will do oneoff consult for you, get in touch business@latent.space",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Today, we are announcing ChatGPT.\n\nIt is here:",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I don't understand how Grok @bot's new email feature works. I just tagged it on a thread and it doesn't seem to reply? What are ppl using it for?",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "huge",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "There are massive startup opportunities hiding in plain sight : every layer of the computing stack will need to be rebuilt for agents.\n\nFor the last few years, most of the focus has been on making enterprise software agent-ready: APIs, connectors, MCPs.\n\nNow personal agents are forcing the same conversation for consumer products - e-commerce is an early example.\n\nThis is just the tip of the iceberg.\n\nNow think about the rest of the stack:\n\nDesktop and mobile OSes where agents are first-class users\n\nCloud infra built for agents to operate directly.\n\nidentity, permissions and security designed for thousands of agents acting on our behalf.\n\nInterfaces designed for agent and human users or both working together.\n\nIf you’re looking for startup ideas, go through each layer of the computing stack and ask: what has to change when the primary user is an agent?",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "whoops I hit send and went to a meeting, didn't realize the repo wasnt public- it is now! \n\nit's a chrome extension I use every day now",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness in people, sometimes even before they fully see it themselves.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This sounds weird, but it is actually probably a good policy. \n\nEven if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on endless content of humans being rude to models. \n\nThe models only understand the data they’ve been trained on, or what they run into in their interactions, so if you want safe and aligned models we probably want AI to have lots of good interactions in their training data. \n\nAnthropic may have more extreme beliefs than this (though even if they didn’t, you may want to word policies like this), but this is sort of an easy Pascal’s wager for AI. Just be nice to the AI.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "GTA SF omg",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Special treat for the @andy_pavlo fans out there: an in-depth discussion about what happens to databases when billions of AI agents hit them, his move to build a research lab at @ClickHouseDB, and plently of hot takes on the database market (Postgres, vector, graph, GPU etc)\n\n00:00 Cold open & Intro\n01:21 From vector databases and RAG to the age of agents\n04:09 Neon's stat: agents create 80% of databases? 07:25 Why agents keep deleting production databases 08:19 Guardrails: the toddler-and-stairs rule\n10:51 The four eras of database volume: 10–100x more queries\n15:10 Agent memory: files vs. databases (\"everything is a database\")\n18:24 Which database do AI models recommend? \n19:25 \"It cites me back to myself\"\n23:14 MCP for databases, and text-to-SQL from 60% to 99.5%\n27:09 Trust an agent the way you'd trust a junior developer\n27:47 Can AI build an entire database? Opus 4 and the CMU projects\n29:57 60% of open-source databases now have AI commits\n30:43 Ten years of self-driving databases, Peloton to today\n33:52 What LLMs changed: 85% of the tuning in 15 minutes\n35:42 Should anyone still study databases?\n38:27 Free CMU courses, the DJ, and the Wu-Tang final exam\n42:09 Why start a research lab inside ClickHouse?\n45:53 Why ClickHouse looked like vaporware in 2016\n47:46 What makes ClickHouse fast: columns, vectors, Snowflake's lineage\n52:22 Why Databricks, Snowflake and ClickHouse all added Postgres\n58:15 Vector, graph and GPU databases: thumbs up or down?\n1:08:34 Is the database market stagnant? \"A cheetah on cocaine in a Ferrari\"\n1:10:14 The relational model is arithmetic; SQL as the new assembly\n1:11:59 Larry Ellison, Linux, and why databases still matter",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Met a close friend who’s also a seed stage founder today..\n\nThey have been growing but runway is dwindling and he wanted advice on what he should do next. Stellar customers, getting close to a $1M in revenue. Not a rocket ship, but not bad at all. He thinks he’s a bit early since the models haven’t caught up to the capabilities he wants but he also really feels the opportunity cost. \n\nI have this same exact  conversation at least 2x a week. \n\nIn this moment, you only have essentially three options:\n\n1) if you have intense belief in the company, be a cockroach and get to default profitable. once the capabilities get there, you feel the demand, then go raise a large round and go for the jugular. \n\n2) find an orthogonal area that is much more relevant and growing like crazy. ride the coat tails of new existing capabilities and push hard to capture them quickly using unfair advantages. and if you don’t have that, then.. \n\n3) sell / get acquihired and join a far more ambitious company that has figured out a lot of the things you haven’t. And then get back to starting a new company 1-2 years later when you find the next thing you want to build. \n\nIt’s hard but honestly those are the three options you have. And it really depends what category you’re in. The bar continues to get harder every month on how to cross the chasm from seed -> series A. The old school metrics are just not relevant anymore and in this consensus market there’s only a few categories where there’s tremendous pull on the VC front. \n\nYou could lament that this is the state of the market, but it’s better to know it’s happening than be oblivious on what is actually happening.\n\nI get to share this directly which makes me uncomfortable but at least someone has to say it out loud 🙈",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "WE GOT IT! .claw incoming!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "NEW JOB ALERT:\n\n@every we've built a personal benchmarking platform, Checks, to help anyone measure how good new models are for their real work\n\nwe're looking for someone who understands why this is so important, and wants to help us build it into the future of how great human work gets done with AI:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "When is an autonomous vehicle actually good enough?",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free.\n\nYour team and Claude can edit the same doc, deck, or design together.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:35\nIn hardware, again, as you know, there is this opportunity where the more you specialize to a particular workload, the less flexible it is, the faster, the more power efficient the hardware is gonna be. So it is this art, and it's this projection of what are you designing to and how persistent is that workload. In other words, if it's gonna go away after a month or two months or three months, even if it's big for those three months, you got a really narrow window to int...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
