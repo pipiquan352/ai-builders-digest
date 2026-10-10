@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Your ChatGPT subscription is now also a Devin subscription",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Pro @bot tip:\n\nIf you want your Grok Bot as a chief of staff it doesn't actually make sense to register its email as your (your-name) because it's weird to copy in yourself.\n\ne.g., \"Let me copy in Peter to find a time for us\" doesn't make alot of sense.\n\nSo I suggest picking another name for your Grok Bot email - whatever you want your chief of staff to be called.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "I cannot stress how much I’ve loved using this feature. \n\nFirst we wrote code by hand, then we tab-completed the code. \n\nThen we evolved to prompting agents…and now we tab-complete that too.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Open-weight models did not start the drop in price per unit of intelligence. They are a tailwind on a trend that was already underway.\n\nFor the last few years, a few factors have driven price drops:\n\n1/ Model builders distilling their best models into smaller ones, with cheaper inference\n\n2/ Infra efficiency\n\n3/ Competition between model providers\n\nYou can see this pattern with every model company: Version x of the mid-size model = intelligence of version x-1 of the large model.  Same intelligence for less $.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process &amp; didnt work that well\n\nbut one prompt to Opus 5.5 ported it to Claude Managed Agents &amp; made it way more reliable",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this to domains.\n\nAgents can now go full stack, from idea to online business, with a banger domain name 😁",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. \n\nThe usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem like a relic within a year or two. The vast, vast majority of tokens will be consumed by agents that are just doing continuous work for us in the background and in our workflows.\n\nThis is why we’re still so early in the curve of AI agent adoption right now, and how much more compute and infrastructure build out will be needed to sustain this.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Only Nancy Tung has done anything to prevent ongoing misconduct and now the hard left crazies and the captured legacy media are on a witch hunt\n\nThis is politics as usual but normal voters should know it is pure dishonesty",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "One prompt to build a professional-level video for your company or product, in your style... this is 🤯  \n\nBtw, quite literally the vision that @synthesiaIO has been pursuing since the early days. Happening slowly, then all at once.  Available to everyone today.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Love this so so much. Basically how I have tried to emulate life, although Sunil’s father seems ultra special. \n\nBelieve in karma, universe finds a way to repay favors even if the people don’t.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Working With Agents in Slack",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "We hosted @svlevine at @spc this week. \n\nHe is perhaps the best example of clarity in action that I have seen in a long time.\n\nThank you for joining us, Sergey.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:26\nWhen you remove cyber offensive capabilities, you also remove cyber defensive capabilities. The state of the world today is that we have a few 100 safety researchers within closed labs that understand how these things work. And despite their best intentions, is impossible to cover the long tail of unintended consequences that these systems might have. A very powerful closed model went and hacked into another company, and the only way that company could remediate itself ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
