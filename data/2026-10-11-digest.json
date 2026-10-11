@@ -1,0 +1,52 @@
+{
+  "x": {
+    "thsottiaux": {
+      "en": "Put the reset in the bag. All propagated.",
+      "zh": "将重置放入包中。皆传扬之。"
+    },
+    "petergyang": {
+      "en": "Something went wrong alright",
+      "zh": "出了点问题，好吧"
+    },
+    "thenanyu": {
+      "en": "Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers.\n\nSo the ideal ratio is 1:1",
+      "zh": "是的，我也一直有这样的感觉。代理使工程师变得非常强大，但项目经理通常仍然在与客户交谈的带宽方面遇到瓶颈。\n\n所以理想的比例是1:1"
+    },
+    "realmadhuguru": {
+      "en": "Agent capabilities will soon evolve at RSI pace. Agentic security (identity, permissions, observability) will need to outpace this.\n\nThe evolutionary direction of the broader agents space is capability -> trust -> autonomy\n\nThe first phase has been about capability - can the combination of model + harness + tools + context reliably get work done?\n\nCapabilities have gotten pretty far, so the focus now shifts to trust…does the harness / system take the right action with right permissions? Can we observe it, audit it and establish accountability?\n\nA lot of serious work has already gone into these problems over the last couple of years.\n\nNow the challenge gets more important. and harder.",
+      "zh": "代理能力很快就会以 RSI 的速度发展。代理安全（身份、权限、可观察性）需要超越这一点。\n\n更广泛的智能体空间的演化方向是能力->信任->自治\n\n第一阶段是关于能力——模型+工具+工具+上下文的组合能否可靠地完成工作？\n\n功能已经取得了很大的进步，因此现在的焦点转移到信任......安全带/系统是否在正确的权限下采取了正确的操作？我们能观察它、审计它并建立责任吗？\n\n在过去的几年里，人们已经针对这些问题进行了大量认真的工作。\n\n现在挑战变得更加重要。而且更难。"
+    },
+    "rauchg": {
+      "en": "All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)",
+      "zh": "所有看似合理的科幻小说都将在我们有生之年实现。如果你正在读这篇文章，那么你就是有史以来最幸运的人之一（如果我们处理得当的话）。"
+    },
+    "levie": {
+      "en": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.\n\nThe ability to parallelize agents against a unified goal where the volume of work is large, or where the search space not entirely known upfront, is going to be massive. \n\nAgents can fan out and coordinate work together on a specific mission in completely different ways from what humans are able to do. Today even in the most resource-abundant organizations, your ability to parallelize work on most projects is quite limited. Humans run into constraints on being able to communicate with one another, share status, deal with conflicts in work, keep shared context, and so on.\n\nAs AI models can handle larger context without getting confused, and as they’re able to communicate effectively across their work with shared infrastructure, they can avoid many of the pitfalls that people have.\n\nYou can see how this can lead to not just faster execution of tasks, but qualitatively different outcomes in medicine, research or defending against cyber attacks, scientific and math discoveries, and so on. This is why we’re going to need 1,000X more compute.",
+      "zh": "如果您想知道所有代币将来会在哪里被消耗，就在这里。代理群将对软件开发、网络、生命科学研究、人工智能研究、金融等许多企业领域产生巨大影响。\n\n在工作量很大或预先不完全了解搜索空间的情况下，针对统一目标并行化代理的能力将是巨大的。 \n\n智能体可以以与人类完全不同的方式在特定任务上展开并协调工作。如今，即使在资源最丰富的组织中，并行处理大多数项目工作的能力也相当有限。人类在相互交流、分享状态、处理工作冲突、保持共享环境等方面会遇到限制。\n\n由于人工智能模型可以处理更大的环境而不会感到困惑，并且它们能够通过共享基础设施在工作中进行有效的沟通，因此它们可以避免人们遇到的许多陷阱。\n\n您可以看到，这不仅可以更快地执行任务，而且可以在医学、研究或防御网络攻击、科学和数学发现等领域产生质量上不同的结果。这就是为什么我们需要 1,000 倍以上的计算能力。"
+    },
+    "garrytan": {
+      "en": "For retrieval/latency data tasks like what GBrain does, setting up clear evals around retrieval, latency and cost per compute is useful. That's my repo  which has 40+ categories that each can be auto-researched and auto-improved",
+      "zh": "对于像 GBrain 所做的检索/延迟数据任务，围绕检索、延迟和每次计算的成本设置明确的评估是有用的。这是我的存储库，其中有 40 多个类别，每个类别都可以自动研究和自动改进"
+    },
+    "nikunj": {
+      "en": "Let’s go - only took 23 months 😂",
+      "zh": "走吧——只花了23个月😂"
+    },
+    "steipete": {
+      "en": "not as clear-cut, but also yes",
+      "zh": "不那么明确，但也是的"
+    },
+    "danshipper": {
+      "en": "yup \n\nif your company slack is not a constant source of wonder and inspiration right now something is wrong",
+      "zh": "是的 \n\n如果你的公司的冗余现在不能成为奇迹和灵感的源泉，那么一定是出了问题"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:20\nA lot of people who aren't in the AI field are very surprised to realize that even the, you know, smartest researchers and scientists at the frontier don't understand their creations. It's like, oh, I thought we had a handle on all of this. You know? What's going on here? The existing alignment techniques are not going to scale to superintelligence.\n\nSpeaker 1 | 00:21 - 00:34\nI don't think that the... We have the recipe where we are going to be able to fully trust smart...",
+      "zh": "演讲者 1 | 00:00 - 00:20\n许多不在人工智能领域的人都非常惊讶地发现，即使是最聪明的前沿研究人员和科学家也无法理解他们的创造。就好像，哦，我以为我们已经掌控了这一切。你知道？这是怎么回事？现有的对齐技术无法扩展到超级智能。\n\n演讲者 1 | 00:21 - 00:34\n我不认为……我们有办法完全信任聪明的人",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
