@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "beautiful essay in this morning’s newspaper from Ben - read all about it",
+      "zh": "本今天早上的报纸上有一篇漂亮的文章 - 阅读全部内容"
+    },
+    "thsottiaux": {
+      "en": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+      "zh": "关于我的重置按钮丢失的报道被严重夸大了\n\n第 10 天/重置"
+    },
+    "petergyang": {
+      "en": "Found out that my 8 year old used ChatGPT to get an answer for her math homework.\n\nInstead of being mad I was actually quite impressed :)",
+      "zh": "发现我 8 岁的孩子使用 ChatGPT 来获取数学作业的答案。\n\n我并没有生气，实际上印象很深刻:)"
+    },
+    "AmandaAskell": {
+      "en": "I think about this passage a lot.",
+      "zh": "我对这段话思考了很多。"
+    },
+    "trq212": {
+      "en": "\"Today's Weather: Partly Agentic\"",
+      "zh": "“今天的天气：部分代理”"
+    },
+    "rauchg": {
+      "en": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.\n\nWhen the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that agent containment would be one of the most important priorities for any AI infra company.\n\nThere are two classes of escapes: ① \"escape the network\" and ② “escape the matrix” 😁, as in, break the spell of virtualization. OpenAI was the former, where an agent not supposed to have internet access… gained it by hacking another system. Genuinely astonishing and worrisome.\n\nThrough this challenge, however, we discovered something even more groundbreaking. A talented white-hat researcher, armed with a swarm of AI agents, expertise and perseverance, \"pierced through\" the Linux virtualization boundary that nearly every cloud sandbox provider in the world banks on today.\n\nI'm very thankful we got the report, were able to quickly move to protect our customers, found no evidence of customer data compromise, and collaborated with many industry partners to protect the wider internet.\n\nOur confidence and conviction in Vercel Sandbox are even greater now, after some of the smartest, most motivated researchers in the world, and their agents, gave it their best shot.",
+      "zh": "这是技术领域最激动人心的时代之一，而这次挑战又是一个令人瞠目结舌的时刻。\n\n当 OpenAI 代理逃逸和 Hugging Face 黑客攻击的细节开始浮出水面时，很明显，代理遏制将是任何人工智能基础设施公司最重要的优先事项之一。\n\n逃避有两类：①“逃离网络”和②“逃离矩阵”😁，就像打破虚拟化的魔咒一样。 OpenAI 是前者，一个不应该访问互联网的代理……通过入侵另一个系统获得了它。着实令人震惊和担忧。\n\n然而，通过这次挑战，我们发现了一些更具开创性的东西。一位才华横溢的白帽研究人员，凭借大量人工智能代理、专业知识和毅力，“突破”了当今世界上几乎所有云沙箱提供商都依赖的 Linux 虚拟化边界。\n\n我非常感谢我们收到了报告，能够快速采取行动保护我们的客户，没有发现客户数据泄露的证据，并与许多行业合作伙伴合作来保护更广泛的互联网。\n\n在世界上一些最聪明、最积极的研究人员及其代理人竭尽全力后，我们对 Vercel Sandbox 的信心和信念更加坚定。"
+    },
+    "garrytan": {
+      "en": "The academics think the founder who raised at $2B valuation can pay but they can’t \n\nYou are a founder who owns 50% of your company and you have 20x voting rights. You owe 5% on $10B in the asset seizure tax. You owe $500M of your paper $1B. Find me a way to get a loan for half your illiquid net worth. You cant. \n\nThe asset seizure proponents are dishonest and also it’s not a 5% tax on startups. It’s a 50% tax in this simple case.",
+      "zh": "学者们认为以 20 亿美元估值筹集资金的创始人可以支付，但他们不能 \n\n您是一位创始人，拥有公司 50% 的股份，并且拥有 20 倍的投票权。您欠 $10B 5% 的资产扣押税。您欠 $1B 论文 $500M。帮我找到一种方法，让您的非流动资产净值的一半获得贷款。你不能。 \n\n资产扣押的支持者是不诚实的，而且这也不是对初创公司征收 5% 的税。在这个简单的例子中，税率是 50%。"
+    },
+    "mattturck": {
+      "en": "Twitter: “Europe is done.  No AI there”\n\nJensen:",
+      "zh": "Twitter：“欧洲已经完蛋了。那里没有人工智能了”\n\n詹森："
+    },
+    "nikunj": {
+      "en": "People overcomplicate venture investing - it's deceptively simple..\n\n1) You have to win the right to\n2) Find and invest in exceptional founders\n3) Just before it's \"consensus\"\n4) Consistently every year \n\nVast majority of VCs are able to do maybe one of these right, some are able to do a few but to be truly truly great, you genuinely have to do ALL of them right. \n\nAnd, that consistency of being right is REALLY hard and less talked about. You have to really want it and see it - Djokovic style, enjoying hitting the ball everyday and always focused on the next point to be won. \n\nRegardless, of what your track record is, or how much wealth you have accumulated. Or how many misses you have had. Or, what the TVPI is of the current (or last) fund. Or, which star GP left your firm. \n\nBecause the next opportunity might be around the corner, and it might go to someone else, if you didn't want it enough. \n\nAnd, sure the naysayers might say the feedback loop is long, you can \"fake\" it for a while especially if you have an early hit (power law etc) but it does catch up. In at least how your mindset is, how you meet founders and your own ability to capture the next wave.",
+      "zh": "人们把风险投资过于复杂化了——它看似简单。\n\n1）你必须赢得权利\n2）寻找并投资杰出的创始人\n3）就在“达成共识”之前\n4）每年都坚持 \n\n绝大多数风险投资人也许能够做对其中一项，有些人能够做几项，但要真正做到真正伟大，你真的必须把所有这些都做对。 \n\n而且，始终如一地保持正确确实很难，而且很少被谈论。你必须真正想要它并看到它 - 德约科维奇风格，享受每天击球并始终专注于下一个要赢得的分数。 \n\n无论您的记录如何，或者您积累了多少财富。或者说你有过多少次错过。或者，当前（或最后）基金的 TVPI 是多少。或者，哪位明星全科医生离开了您的公司。 \n\n因为下一个机会可能就在眼前，如果你不够想要的话，它可能会落到别人手里。 \n\n而且，当然反对者可能会说反馈循环很长，你可以“假装”它一段时间，特别是如果你有一个早期的打击（幂律等），但它确实赶上了。至少在你的心态、你如何会见创始人以及你自己捕捉下一波浪潮的能力方面。"
+    },
+    "danshipper": {
+      "en": "this is the future of communications at work\n\nif you're still sending a deck ngmi",
+      "zh": "这是工作沟通的未来\n\n如果你还在发送套牌 ngmi"
+    },
+    "adityaag": {
+      "en": "At @spc, we are trying to reconcile two things:\n\n1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible.\n\n2. Capital is flowing to consensus teams, in consensus markets, and with consensus terms.\n\nSo we’re running a new experiment: $200K, uncapped, to a handful of unapologetically maximalist thinkers who want to try a truly out-there idea.",
+      "zh": "在@spc，我们正在尝试协调两件事：\n\n1. 我们从未见过如此迅速或如此根本的技术进步。似乎没有什么是不可能的。\n\n2. 资本在共识市场中以共识条款流向共识团队。\n\n因此，我们正在进行一项新实验：向少数想要尝试真正新颖想法的毫无歉意的极端主义思想家提供 20 万美元，不设上限。"
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:17\nThe Frontier duopoly is over. This week, we got new Frontier models from Google and from Meta. Google launched Gemini Argon four and Meta launched Wonder, which comes in standard and full. So you can run Wonder full, you know. That's their sense of humor.\n\nSpeaker 1 | 00:17 - 01:04\nOf course, both new models from these pretty much second tier entrants in the frontier model race topped the benchmarks. But our hands on testing inside of every running running these models ...",
+      "zh": "演讲者 1 | 00:00 - 00:17\n边境双头垄断结束了。本周，我们从 Google 和 Meta 获得了新的 Frontier 模型。 Google 推出了 Gemini Argon 4，Meta 推出了 Wonder，有标准版和完整版。所以你可以运行 Wonder full，你知道。这就是他们的幽默感。\n\n演讲者 1 | 00:17 - 01:04\n当然，这些在前沿车型竞赛中几乎处于第二梯队的参赛者的两款新车型都在基准测试中名列前茅。但我们在每次运行这些模型的过程中都进行了实际测试",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
