@@ -1,0 +1,64 @@
+{
+  "x": {
+    "bcherny": {
+      "en": "Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that we solve it across the industry. \n\nReally excited to partner with Gray Swan to host this competition. Can’t wait to see what you find!",
+      "zh": "在过去的几年里，我们在 Claude 模型的快速注射方面取得了重大进展。随着代理商做得越来越多，我们在整个行业解决这个问题变得越来越紧迫。 \n\n非常高兴能与灰天鹅合作主办这次比赛。迫不及待想看看你发现了什么！"
+    },
+    "thsottiaux": {
+      "en": "Either we are out of ideas or we are cooking. Time will tell",
+      "zh": "要么我们没有主意，要么我们正在做饭。时间会证明一切"
+    },
+    "petergyang": {
+      "en": "My 8-year-old and I are looking for feedback:\n\nIf you're a parent, which of her T-shirt designs below would you buy for your kid? Which character do you like the best?\n\nPlease reply with the number (e.g., A1) and why :)",
+      "zh": "我和我 8 岁的孩子正在寻求反馈：\n\n如果您是父母，您会为您的孩子购买下面她设计的哪款 T 恤？你最喜欢哪个角色？\n\n请回复号码（例如 A1）以及原因 :)"
+    },
+    "thenanyu": {
+      "en": "Taste does not mean taste in aesthetics. That is the shallowest definition of taste, and uninteresting because it’s so common.",
+      "zh": "品味并不意味着审美品味。这是品味的最浅薄的定义，而且无趣，因为它太常见了。"
+    },
+    "AmandaAskell": {
+      "en": "I really like the movie \"don't look up\" but it's also made it hard for me to go back to having red hair.",
+      "zh": "我真的很喜欢《别抬头》这部电影，但这也让我很难再回到红头发了。"
+    },
+    "rauchg": {
+      "en": "🤯",
+      "zh": "🤯"
+    },
+    "levie": {
+      "en": "They did it. They made a Muse open weights model, which is a huge step forward for OSS in the US. \n\nThis is going to further accelerate AI diffusion because enterprises will be able to mix and match frontier performance for orchestration and high end tasks, while being able to have low cost and tailored post trained models for repeatable workflows. \n\nOverall this dramatically increases token consumption and workloads across the stack. Great to see Meta doing this.",
+      "zh": "他们做到了。他们制作了 Muse 开放权重模型，这对于美国 OSS 来说是一个巨大的进步。 \n\n这将进一步加速人工智能的扩散，因为企业将能够混合和匹配编排和高端任务的前沿性能，同时能够为可重复的工作流程提供低成本和定制的后训练模型。 \n\n总体而言，这极大地增加了整个堆栈的令牌消耗和工作负载。很高兴看到 Meta 这样做。"
+    },
+    "garrytan": {
+      "en": "Tech people I beg you to stop being this virtue signaling person who is cool at political parties but creates doom loop outcomes that endanger my Asian American elders in SF",
+      "zh": "科技人士，我求你们不要再做这种在政党中很酷的美德信号人，但却会造成厄运循环结果，危及我在旧金山的亚裔美国长辈"
+    },
+    "mattturck": {
+      "en": "Crazy launch! Copycats! Massive round! On the one-month anniversary of the launch of Jev, we unpack it all with @CompleteSkeptic, CEO of @typesafeai: what Jev is, how it fixes what's broken in AI, and why the fast-followers are missing the hard part. \n\n00:00 “95% Einstein, 5% Mr. Bean”\n1:09 Why intelligence per dollar matters\n3:25 Why TypeSafe built in stealth for two years\n5:50 “We could have had AGI last year”\n6:48 Why the product carries the marketing\n9:33 What is Jev? Machine-native AI, built for software\n10:53 System One vs. System Two\n12:26 From simple decisions to composable AI\n15:21 Automating email: giant prompts vs. smart if-statements\n20:03 Probabilities, thresholds, and developer control\n23:43 Why Jev is faster and cheaper than chat models\n25:39 “Classification is AI-complete”\n27:16 RLHF: how OpenAI trained models to please humans\n31:28 Sycophancy, refusals, and the hidden costs of RLHF\n34:22 RLVR: why benchmark gains don’t mean reliable automation\n37:51 RLCD: optimizing for machine-native intelligence\n39:54 Why TypeSafe builds its training data in-house\n41:49 The Bitterest Lesson: define the task before scaling\n44:39 Building Jev from open-weight models\n45:56 Is Jev just a classifier? Why that’s a compliment\n48:35 “Build prod, not God”\n50:11 Embedding AI in software, beyond coding assistants\n53:05 Jev’s copycats: matching the interface vs. the intelligence\n55:33 Why benchmarks mislead the users they should help\n58:37 Open weights vs. APIs: how TypeSafe weighs the tradeoff\n1:00:04 Jevons paradox: a new market for machine intelligence\n1:02:50 Why Diogo is skeptical of recursive self-improvement\n1:04:47 Can practical automation avert an AI winter?",
+      "zh": "疯狂发射！抄袭者！大轮！在 Jev 推出一个月周年之际，我们与 @typesafeai 首席执行官 @CompleteSkeptic 一起揭开这一切：Jev 是什么，它如何修复人工智能中的缺陷，以及为什么快速追随者错过了最困难的部分。 \n\n00:00 “95% 爱因斯坦，5% 憨豆先生”\n1:09 为什么每美元的情报很重要\n3:25 为什么 TypeSafe 隐藏了两年\n5:50 “我们去年就可以拥有 AGI”\n6:48 产品为何承载营销\n9:33 什么是杰夫？机器原生人工智能，专为软件而构建\n10:53 系统一与系统二\n12:26 从简单的决策到可组合的人工智能\n15:21 自动化电子邮件：巨大的提示与智能的 if 语句\n20:03 概率、阈值和开发人员控制\n23:43 为什么 Jev 比聊天模型更快、更便宜\n25:39 “分类是人工智能完成的”\n27:16 RLHF：OpenAI 如何训练模型来取悦人类\n31:28 奉承、拒绝和 RLHF 的隐性成本\n34:22 RLVR：为什么基准收益并不意味着可靠的自动化\n37:51 RLCD：优化机器原生智能\n39:54 为什么 TypeSafe 在内部构建训练数据\n41:49 最惨痛的教训：在扩展之前定义任务\n44:39 从开放重量模型构建 Jev\n45:56 Jev 只是一个分类器吗？为什么这是赞美\n48:35 “建造产品，而不是上帝”\n50:11 将人工智能嵌入到软件中，超越编码助手\n53:05 Jev 的模仿者：匹配界面与智能\n55:33 为什么基准会误导他们应该帮助的用户\n58:37 开放权重与 API：TypeSafe 如何权衡权衡\n1:00:04 杰文斯悖论：机器智能的新市场\n1:02:50 为什么迪奥戈对递归自我完善持怀疑态度\n1:04:47 实用的自动化能否避免人工智能冬天？"
+    },
+    "nikunj": {
+      "en": "gm nyc 🌆",
+      "zh": "纽约通用汽车🌆"
+    },
+    "steipete": {
+      "en": "crabbox is underrated",
+      "zh": "蟹盒被低估了"
+    },
+    "danshipper": {
+      "en": "Of course that’s your contention. You just got finished reading about polysemanticity, so naturally you think interpretability means untangling superposition. You’re gonna believe that until next semester, when you find a neuron that lights up for the Eiffel Tower. Then you’re gonna spend the summer explaining how we can align a superintelligence because we know when it’s thinking about France. And next year you’ll realize that knowing it recognizes the Eiffel Tower doesn’t tell you what the fuck it’s planning.",
+      "zh": "当然这是你的论点。您刚刚读完关于多语义性的内容，所以您自然会认为可解释性意味着解开叠加。你会相信这一点，直到下学期，当你发现一个为埃菲尔铁塔点亮的神经元时。然后你将花整个夏天的时间来解释我们如何调整超级智能，因为我们知道它什么时候会想到法国。明年你就会意识到，知道它识别出埃菲尔铁塔并不能告诉你它到底在计划什么。"
+    },
+    "adityaag": {
+      "en": "I strongly believe that Goodfire might be one of the most  important companies to come out of @spc. \n\nThey are showing that interpretability and alignment can approached as engineering problems. Whew.",
+      "zh": "我坚信 Goodfire 可能是 @spc 诞生的最重要的公司之一。 \n\n他们表明，可解释性和一致性可以作为工程问题来解决。呼。"
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:18\n95% Einstein, 5% mister Bean. And if it doesn't tell you when it's the mister Bean, then how are you gonna automate anything? I wrote a document at OpenAI. We could have had AGI last year, and I still believe that to be true. Pre training is a giant dumpster fire of wasting resources.\n\nSpeaker 1 | 00:18 - 00:31\nWhen I first started this project, I literally thought it would take a week. You can now express things that you couldn't express in software before. I think tha...",
+      "zh": "演讲者 1 | 00:00 - 00:18\n95%是爱因斯坦，5%是憨豆先生。如果它不告诉你什么时候是憨豆先生，那么你怎么能自动化呢？我在 OpenAI 写了一篇文档。去年我们本可以拥有通用人工智能，我仍然相信这是真的。预训练是浪费资源的巨大垃圾箱火灾。\n\n演讲者 1 | 00:18 - 00:31\n当我第一次开始这个项目时，我确实认为这需要一周的时间。您现在可以表达以前在软件中无法表达的东西。我认为",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
