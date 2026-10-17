@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "ok i really need the prompt(s) for this video because this is near-kurzgesagt level clarity of explanation (not yet illustration)",
+      "zh": "好的，我真的需要这个视频的提示，因为这接近 kurzgesagt 级别的解释清晰度（尚未插图）"
+    },
+    "bcherny": {
+      "en": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar",
+      "zh": "我无法想象如果没有克劳德代码审查，我的生产力会怎样。它在我的所有 PR 上运行，并且在发生之前捕获几乎所有错误。这是让我和团队快速行动并提高质量标准的秘诀之一"
+    },
+    "thsottiaux": {
+      "en": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next?",
+      "zh": "ChatGPT Space 是什么，这是个问题。有时会很尴尬，因为这是真正的团队在做这件事。接下来你想看什么？"
+    },
+    "petergyang": {
+      "en": "Docs -&gt; slides -&gt; video -&gt; rap battle as the ultimate form of communication.\n\nShould I make another one like this? Not about the feud don’t worry :)",
+      "zh": "文档 -> 幻灯片 -> 视频 -> 说唱大战作为沟通的终极形式。\n\n我应该再做一个这样的吗？不是关于不和，不用担心:)"
+    },
+    "AmandaAskell": {
+      "en": "the rocket car is cool and i want one",
+      "zh": "火箭车很酷，我想要一辆"
+    },
+    "amasad": {
+      "en": "Fascinating to see Mathematicians go through all the stages of grief — Denial, Anger, Bargaining, Depression, and Acceptance — in such a compressed window of time. \n\nWe're at the tail end of depression and entering acceptance.",
+      "zh": "看到数学家在如此压缩的时间窗口内经历悲伤的所有阶段——否认、愤怒、讨价还价、抑郁和接受——真是令人着迷。 \n\n我们正处于抑郁症的尾声并进入接受阶段。"
+    },
+    "rauchg": {
+      "en": "Rebuilt the Roadster demo in a playable, highly accurate simulation that retains a lot of the IRL details:",
+      "zh": "在可玩的、高度精确的模拟中重建 Roadster 演示，保留了许多 IRL 细节："
+    },
+    "levie": {
+      "en": "It’s incredible to have reached a threshold where it’s practical that AI will be better at training models than humans are so quickly. One day recursive self improvement feels far off, and the next we already have signs of what it will look like.\n\nModel capability finally exceeding most human engineers, advancements in the harness and infra for long running agents, a growing array of data, and the ability to parallelize the agents to work on vastly more tasks and tests and approaches than any person could have before, creates an incredible flywheel. \n\nThis flywheel will almost certainly accelerate model progress far faster than we’ve seen before - or at a minimum enable pushing up the ceiling of the frontier at an insane rate. If you aren’t pricing in what RSI will lead to, that’s probably a mistake.",
+      "zh": "令人难以置信的是，人工智能已经达到了一个阈值，可以如此快地比人类更好地训练模型。有一天，递归式的自我改进感觉还很遥远，而第二天我们就已经看到了它会是什么样子的迹象。\n\n模型能力最终超过了大多数人类工程师，长期运行代理的工具和基础设施的进步，越来越多的数据，以及并行代理处理比任何人以前更多的任务、测试和方法的能力，创造了一个令人难以置信的飞轮。 \n\n这个飞轮几乎肯定会比我们以前看到的更快地加速模型进展——或者至少能够以疯狂的速度推高前沿的上限。如果你没有考虑 RSI 会导致什么，那可能是一个错误。"
+    },
+    "ryolu_": {
+      "en": "feelings\n\nlight piercing through the blinds\nbirdsongs by the window\ncoffee grounds, blooming\n\nslow walk in the cypress forest\nlong breath, cold air\nfuzzy raindrops tap on the skin\ncatching the waves\nendless ocean, salt on the lips\n\ntrain window, mountains sliding by\nholding hands, running\nthrough the yellow light\ncold bath after a hot day\nmaking you laugh like a kid again\n\neyes closed\nlistening to our favorite songs\ncuddles and kisses\nyour breath slow on my neck\nhearing my heart break\n\nday by day, letting time pass\nmidnight to sunrise\nlife is beautiful, the way it is",
+      "zh": "感受\n\n光线透过百叶窗\n窗外的鸟鸣声\n咖啡渣，开花\n\n在柏树林中缓慢行走\n长长的呼吸，冰冷的空气\n模糊的雨滴敲打在皮肤上\n赶上波浪\n无尽的海洋，唇上的盐\n\n火车窗外，山峦滑过\n牵着手，奔跑\n透过黄光\n炎热的一天后洗冷水澡\n让你再次像个孩子一样笑\n\n闭着眼睛\n听我们最喜欢的歌曲\n拥抱和亲吻\n你的呼吸在我的脖子上缓慢\n听到我的心碎\n\n日复一日，让时间流逝\n午夜到日出\n生活本来就是美丽的"
+    },
+    "garrytan": {
+      "en": "Starting a new project today, and my absolute favorite thing is @capydotai with @AsideAI means my agents can both code the first version and help me get all the DevOps set up in one fell swoop",
+      "zh": "今天开始一个新项目，我最喜欢的事情是 @capydotai 和 @AsideAI 意味着我的代理既可以编写第一个版本的代码，又可以帮助我一次性设置所有 DevOps"
+    },
+    "mattturck": {
+      "en": "When an AI startup gets a compute allocation",
+      "zh": "当人工智能初创公司获得计算分配时"
+    },
+    "nikunj": {
+      "en": "Shoot your shot, you never know how the universe collaborates in your favor..\n\nI wrote this 7 months ago as my “prediction”, met ~50 odd startups in the space, and finally found the one that we get the privilege to lead the Series A for. \n\nPerfect way to end the week 🙏",
+      "zh": "开枪吧，你永远不知道宇宙会如何对你有利。\n\n我在 7 个月前写下这篇文章作为我的“预测”，在这个领域遇到了大约 50 家初创公司，最终找到了我们有幸领导 A 轮融资的一家公司。 \n\n结束这一周的完美方式🙏"
+    },
+    "danshipper": {
+      "en": "generation is now cheap and high quality \n\nthe big capabilities bump we need is now editing and oversight",
+      "zh": "现在一代既便宜又高品质 \n\n我们现在需要的重大能力提升是编辑和监督"
+    },
+    "adityaag": {
+      "en": "Very excited to welcome a dear friend to @spc next week. \n\n@sriramk is joining us for a fireside chat and Q&amp;A.\n\nHe helped build Azure, scaled Meta’s mobile ads, and led a16z’s international expansion.\n\nThen he went to the White House and helped write the U.S. AI Action Plan.",
+      "zh": "非常高兴下周欢迎一位亲爱的朋友来到@spc。 \n\n@sriramk 将加入我们进行炉边聊天和问答。\n\n他帮助构建了 Azure，扩展了 Meta 的移动广告，并领导了 a16z 的国际扩张。\n\n随后他前往白宫，帮助起草了美国人工智能行动计划。"
+    },
+    "sama": {
+      "en": "Wow the new roadster looks quite amazing, good job @elonmusk",
+      "zh": "哇，新敞篷跑车看起来相当惊人，干得好@elonmusk"
+    },
+    "claudeai": {
+      "en": "A cardiology fellow built a 3D tool to help trainees learn to read coronary angiograms.",
+      "zh": "一位心脏病学研究员构建了一个 3D 工具来帮助学员学习阅读冠状动脉血管造影照片。"
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:19\nTo ensure AGI benefits all of humanity, we think that humans should be firmly in the driver's seat, should have control over the future, and this technology should amplify human agency. When I look at the world we're going to be in, where software in some ways is becoming like the barrier to entry, it's becoming so cheap. You don't just want software. Right? You want software that is reliable, that is secure, that you can believe in.\n\nSpeaker 1 | 00:19 - 00:32\nAnd so cy...",
+      "zh": "演讲者 1 | 00:00 - 00:19\n为了确保通用人工智能造福全人类，我们认为人类应该牢牢占据主导地位，应该掌控未来，而这项技术应该增强人类的能动性。当我看到我们即将进入的世界时，软件在某些方面正变得像进入壁垒，它变得如此便宜。您需要的不仅仅是软件。正确的？您需要可靠、安全、值得信赖的软件。\n\n演讲者 1 | 00:19 - 00:32\n所以赛",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
