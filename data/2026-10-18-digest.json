@@ -1,0 +1,44 @@
+{
+  "x": {
+    "swyx": {
+      "en": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story.  basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Done",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT.\n\nThe only things missing still are better browser/computer use, remote control for all threads, and live voice.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "I had the same conversation reminiscing at a team offsite the other day.\n\n“What did we pay attention to before AI?”\n\n“😅 Front end JavaScript frameworks”",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.\n\nWhat I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership.\n\nWe believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "“What matters is the end product, whether it's a game or an engine”. Well said!",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. \n\nExactly the opposite is happening where essentially most things are actually turning into software. Because agents can use tools, work with computers, write software on the fly, and process data like humans (but far faster), we can now throw “software” at problems that never could reasonably be digitized before.\n\nWhat that leads to is the role of engineering taking on greater importance in the economy, because we can now engineer far more systems and processes than were possible before.\n\nIf you’re a bank trying to do new forms of trading, engineers are often your first bet. If you are in life sciences, you expect more and more research and lab work to be engineering centric. If you’re in manufacturing, you’re trying to automate more of the supply chain, all that is engineering. More and more work is shaped like software problems.\n\nYes we’re not going to be coding manually in the future. But almost everything will be code, which means those that understand it are in a fantastic position.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "nyc ily 👋",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:06\nWhat is a file system? It's a database. Right? Everything's a database. Every month, there's a story where someone lost their production database because the agent deleted something.\n\nSpeaker 1 | 00:06 - 00:15\nIt's the wild west for people that don't know their history databases. It's just like, you know, taking a cheetah, giving them much cocaine, and putting it a Ferrari. Like, the amount of speed that people are developing these things is insane.\n\nSpeaker 2 | 00:16 -...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

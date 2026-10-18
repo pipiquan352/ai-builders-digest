@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-10-18T17:05:30.849Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2111353401363902573",
+          "text": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story.  basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks. https://t.co/XcQM6lzVvU",
+          "createdAt": "2026-10-17T07:07:32.000Z",
+          "url": "https://x.com/swyx/status/2111353401363902573",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111351354409300230",
+          "text": "@dexhorthy channel affinity\n\nmy goal is basically to collab with every single one of these folks. you guys already love them.\n\npls @Jeffdelaney23 @ThePrimeagen https://t.co/QAhKVubT88",
+          "createdAt": "2026-10-17T06:59:24.000Z",
+          "url": "https://x.com/swyx/status/2111351354409300230",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111350966419411070",
+          "text": "@dexhorthy we serve &gt;1m unique viewers a month pretty much nonstop since May (after AIE EU) but even now 58% of  viewers a month are new to us. 68% of viewers not subscribed lol.\n\nmost viewers 7am-11am PT daily. nobody watches after 5pm. https://t.co/EdPFF9QllO",
+          "createdAt": "2026-10-17T06:57:52.000Z",
+          "url": "https://x.com/swyx/status/2111350966419411070",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2111566005684289735",
+          "text": "Done",
+          "createdAt": "2026-10-17T21:12:21.000Z",
+          "url": "https://x.com/thsottiaux/status/2111566005684289735",
+          "likes": 6188,
+          "retweets": 120,
+          "replies": 1193,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111495392559067199",
+          "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
+          "createdAt": "2026-10-17T16:31:45.000Z",
+          "url": "https://x.com/thsottiaux/status/2111495392559067199",
+          "likes": 4351,
+          "retweets": 77,
+          "replies": 737,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111492738025959922",
+          "text": "Landing sometime today by EOD PST",
+          "createdAt": "2026-10-17T16:21:13.000Z",
+          "url": "https://x.com/thsottiaux/status/2111492738025959922",
+          "likes": 2607,
+          "retweets": 45,
+          "replies": 392,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2111663267995361287",
+          "text": "Tim is so right. Hope the devs building StarCraft 3 sees this tweet and embrace AI to ship before 2030 🙂 https://t.co/OAFYpl4KR2",
+          "createdAt": "2026-10-18T03:38:50.000Z",
+          "url": "https://x.com/petergyang/status/2111663267995361287",
+          "likes": 71,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2111633221725122769"
+        },
+        {
+          "id": "2111508293818671449",
+          "text": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them:\n\n\"Help me audit my Google app connections at https://t.co/5eMX9dNhLD\n\n1. Review EVERY app across all connection categories. Ask me which ones I still use rather than guessing.\n\n2. Open each app's details. Distinguish basic Google sign-in from permissions to access Gmail, Drive, Calendar, or other data.\n\n3. Suggest which to keep, disconnect, or ask me about. Explain your reasoning and what might stop working. Flag broad permissions, unfamiliar providers, and duplicate entries.\n\n4. Show me your recommendations before changing anything. Only disconnect apps I explicitly approve, then verify they're removed. Don't delete app accounts or cancel subscriptions.”",
+          "createdAt": "2026-10-17T17:23:01.000Z",
+          "url": "https://x.com/petergyang/status/2111508293818671449",
+          "likes": 44,
+          "retweets": 7,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111496600522805624",
+          "text": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT.\n\nThe only things missing still are better browser/computer use, remote control for all threads, and live voice. https://t.co/kWULRv1A1t",
+          "createdAt": "2026-10-17T16:36:33.000Z",
+          "url": "https://x.com/petergyang/status/2111496600522805624",
+          "likes": 225,
+          "retweets": 5,
+          "replies": 58,
+          "isQuote": true,
+          "quotedTweetId": "2111214518336708996"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "tweets": [
+        {
+          "id": "2111597172840083574",
+          "text": "I had the same conversation reminiscing at a team offsite the other day.\n\n“What did we pay attention to before AI?”\n\n“😅 Front end JavaScript frameworks” https://t.co/sKe9X8ylhL",
+          "createdAt": "2026-10-17T23:16:12.000Z",
+          "url": "https://x.com/thenanyu/status/2111597172840083574",
+          "likes": 56,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2111586045858832490"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2111494912562888939",
+          "text": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.\n\nWhat I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership.\n\nWe believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
+          "createdAt": "2026-10-17T16:29:51.000Z",
+          "url": "https://x.com/amasad/status/2111494912562888939",
+          "likes": 415,
+          "retweets": 19,
+          "replies": 128,
+          "isQuote": true,
+          "quotedTweetId": "2111206322381185492"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2111643672274165938",
+          "text": "“What matters is the end product, whether it's a game or an engine”. Well said! https://t.co/PC90IVIa2y",
+          "createdAt": "2026-10-18T02:20:58.000Z",
+          "url": "https://x.com/rauchg/status/2111643672274165938",
+          "likes": 381,
+          "retweets": 12,
+          "replies": 43,
+          "isQuote": true,
+          "quotedTweetId": "2111633221725122769"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2111525362446520466",
+          "text": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. \n\nExactly the opposite is happening where essentially most things are actually turning into software. Because agents can use tools, work with computers, write software on the fly, and process data like humans (but far faster), we can now throw “software” at problems that never could reasonably be digitized before.\n\nWhat that leads to is the role of engineering taking on greater importance in the economy, because we can now engineer far more systems and processes than were possible before.\n\nIf you’re a bank trying to do new forms of trading, engineers are often your first bet. If you are in life sciences, you expect more and more research and lab work to be engineering centric. If you’re in manufacturing, you’re trying to automate more of the supply chain, all that is engineering. More and more work is shaped like software problems.\n\nYes we’re not going to be coding manually in the future. But almost everything will be code, which means those that understand it are in a fantastic position.",
+          "createdAt": "2026-10-17T18:30:51.000Z",
+          "url": "https://x.com/levie/status/2111525362446520466",
+          "likes": 806,
+          "retweets": 92,
+          "replies": 116,
+          "isQuote": true,
+          "quotedTweetId": "2111507711653564543"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2111558586421920134",
+          "text": "introducing the modern venture capital stack (2026): \n- pre-pre-seed\n- pre-seed\n- post-pre-seed\n- mid-seed\n- pre-post-seed\n- post-seed\n- post-post-seed(?) https://t.co/WSFA45JCLu",
+          "createdAt": "2026-10-17T20:42:52.000Z",
+          "url": "https://x.com/nikunj/status/2111558586421920134",
+          "likes": 121,
+          "retweets": 4,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2111216236529156129"
+        },
+        {
+          "id": "2111415330622820739",
+          "text": "nyc ily 👋 https://t.co/renM3InhHD",
+          "createdAt": "2026-10-17T11:13:37.000Z",
+          "url": "https://x.com/nikunj/status/2111415330622820739",
+          "likes": 151,
+          "retweets": 2,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-08T11:30:00.000Z"
+    }
+  ]
+}
