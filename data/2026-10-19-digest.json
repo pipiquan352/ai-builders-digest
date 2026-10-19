@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "are we so different, you and i",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until you have to deal with an incident. We’re here to help.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I plan to release a free open source skill and video to make this easy for everyone later this week. Subscribe here:",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I've realized I often would prefer to vibe code little parts of games than actually play games these days. \n\nEspecially cerebral ones that require some thinking like League.\n\nI'm not quite sure what this really means for games but I think it's important?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Every once in a while, some unsuspecting country's domain economy goes vertical 😂\n\n.𝚌𝚘 → Colombia\n.𝚒𝚘 → I/O → Island Ocean\n.𝚖𝚍 → Markdown → Moldova\n.𝚛𝚜 → Rust → Serbia\n.𝚊𝚒 → AI → Anguilla\n.𝚜𝚒 → SI → Slovenia",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Here’s why agent swarms are going to be a very big deal. We can finally make compute a critical variable in a large number of important tasks in the economy which wasn’t possible before.\n\nThere’s a large amount of work in the world that is essentially only constrained by the amount of time that we put into research, data processing, discovery work, running tests, and more. All of this work is bottlenecked by our ability to plan, execute, review, and coordinate everything happening in these workflows. Which means we basically do very little of them today relative to their economic value. \n\nAgent swarms are the first real ability to parallelize this work in a way where - in theory - the only parameter that matters is how much compute you throw at the problem. Cyber security, life sciences or material science research, trading, QA testing, data processing, and many other fields are essentially compute constrained problems in the limit once models are good enough at these tasks.\n\nThe breakthrough is that in a world where agents can use tools, write code, process data, have strong domain depth, and can coordinate with each other, you can begin to solve arbitrarily complex problems by setting the right goals and applying enough tokens to the problem. This changes a lot of fields as well as even the competitive dynamics in these fields.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Prediction: you’re all going to be using @AsideAI with your agents in a year or so",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Americans packing for their next vacation to France",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "This aged relatively well.. even with the GH growth, I think people are still sleeping on @reatools. It’s truly bonkers 💥",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "AI;DR",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "current (mostly) reading:",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:26\nWhen you remove cyber offensive capabilities, you also remove cyber defensive capabilities. The state of the world today is that we have a few 100 safety researchers within closed labs that understand how these things work. And despite their best intentions, is impossible to cover the long tail of unintended consequences that these systems might have. A very powerful closed model went and hacked into another company, and the only way that company could remediate itself ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
