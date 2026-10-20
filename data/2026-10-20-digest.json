@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "\"O Infallible one, why do the people not heed the sign we tap?\"\n\n\"My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.\"\n\n\"But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people's wants must be made.\"\n\n*a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.”",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 15/ We're cooked",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "This is super cool I love how visual it is. \n\nCan't wait to try this @ekuyda!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I think most people multi-tasking with agents could benefit from slowing down\n\nmost of the stuff you're doing wont really matter- what's your P0? what would it look like if you gave it your full attention?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durable.\n\nBuilding the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.\n\nNow it's easy, free, and OSS: \n\nPS: I built this floating container in a few minutes… it's delightful, and it's just HTML!",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. \n\nIronically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. \n\nWhen models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. \n\nBut in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. \n\nObviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Multiplayer agents as group chat seems quite inevitable and Wabi's built it",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an early preview of Wabi 2.0..\n\nTruth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never \"stuck\" with me.\n\nBut, in moments of downloading this edition, I was immediately hooked. \n\nIt just gets the \"paradigm\" right imo. There are two types of personal agents today: 1) Singleplayer iMessage or Muse types - while useful it's hard to compartmentalize them when many things are going on 2) Build your own multiple chat Hermes agents - while that's useful and can share context, they live forever\n\nWabi has this great paradigm of orchestrator (which is the main agent) and topic specific episodic chats that are for a single purpose. You can share these individual chats with folks (for example the school one with my wife). And these are generated proactively AND don't need to stay forever (which is important).\n\nFor example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived. Same with my 2025 taxes. \n\nMy only critique so far it's TOO proactive, the apps can be better and they need to dial both of those in, but this is a wonderful product that everyone should try!\n\n(I know it's shocking to see this in today's day and age, but this is neither paid, nor an investor, just a fan)",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "so proud of Quinten + Ajay and team! \n\nthey've been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer\n\npsyched to be a tiny investor :)",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.\n\nLast time @traestephens was at @spc was back in 2022.\n\nThe world looks a little different now.\n\nWednesday. RSVP below.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Speaker 1 | 00:00 - 00:12\nThe hot thing right now is dots. They're persistent agents from OpenAI. I was there at Dev Day when they launched them. I interviewed Sam about them, and I've been using dots since before they came out. And now we're into week two of dots.\n\nSpeaker 1 | 00:12 - 00:46\nSo how's it going? If you read my vibe check, you know that I thought they were a little bit rough to begin with, but that the idea of a persistent proactive agent was obviously the future. Even before DOTS ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
