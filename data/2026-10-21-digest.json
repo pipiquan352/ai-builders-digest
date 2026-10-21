@@ -1,0 +1,61 @@
+{
+  "x": {
+    "swyx": {
+      "en": "opus is great for writing... when you dont happen to have any random no-no words in your prompt.\n\njfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path.",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "We just crossed a big milestone for our @GeminiApp Trusted Tester community yesterday. TLDR: Lots of people want to try early stuff on Web, Android, and iOS! If you’ve signed up before, you’re fully in. If you want to sign up… 👇",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I predict Fable 5.5 will come anywhere from 5 seconds from now to a few weeks from now.\n\nAnd it'll be breathtaking. You heard it here first folks.",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "What would happen if Dreambeans ☁️ dreamt up ☁️ your morning ☀️?\n\nWe brought together Google Labs’ very own Sahana R. (Product Manager), Brian R. (VP of Product), and his impossibly adorable floof Nala to dance with destiny in an exercise we’re calling “Dreambeans Roulette”!\n\nHere’s the rundown:\n1️⃣ Open Dreambeans\n2️⃣ Select a story\n3️⃣ Go out and do it!\n\nDiscover where Dreambeans takes us in “Dreambeans Roulette: Part 1” and follow along in this three-part series!\n\nDreambeans is available in the US, for users 18+. More regions coming soon. Learn more at",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.\n\nIf you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.\n\nThis is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you. And you can reliably trust that work can get accomplished properly (still with a human in the loop) because of far better tool and computer use, and the general intelligence of the models improving. \n\n1) The tool and computer use capability increases in the models mean that you can provide the agent with far more granular access to external data systems and other software to operate. This means, in effect, the agent begins to execute workflows similar to how a person would have in that same function. And where there isn’t existing software, the agent just builds it itself. This is a huge unlock. \n\n2) Next, the actual capability of the models are improving in just about every vertical domain. The models can make far better judgment calls in legal, do deeper bio research, scan for security issues in code, understand supply chain processes, and more. Obviously in many of these spaces then models still have worse intuition than people, but that will only get better.\n\n3) Finally, the harnesses and surrounding infra — sandboxes, file systems, data pipelines, etc. — allows for longer running agents, agents to be able to work on arbitrarily complex or long tasks, process data at enormous scale, and more. Few of these components worked well for AI even a year ago, but we now have many of the core primitives necessary for more autonomous systems.\n\nWhen combined with the right UX, implementation, and change management for the human oversight and coordination, it’s clear that these autonomous systems will become quite powerful in a wide variety of enterprise workflows. \n\nWe’re starting to see them in IT automation, cyber operations, drug discovery, manufacturing, AI research, and more spaces. You can almost imagine one or more of these systems for every role in the economy. Quite a bit of opportunity ahead.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Greatest unlock for any startup founder or anyone who has to get in touch with the right people",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Thrilled to double down at @daytonaio: @ivanburazin, @JukicVedran and team are building one of the iconic companies of the AI era.  We're grateful that they let us lead the Series B, after leading the Series A earlier this year.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Incredible things are happening on this planet.. \n\nGenerational miss to not call this p(bloom) 🌳",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "See you at @Cloudflare Connect tomorrow! Will be chatting with @dok2001 about agents",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "BOOK REVIEW: Will and Attention, Meghan O'Gieblyn author of God, Human, Animal Machine\n\nI loved this book. O'Gieblyn writes with an addictive mix of clarity, rigor, literary references, and self-implicating honesty. I tore through it in a few days.\n\nThe book deals with her relapse into alcoholism, how the stories we tell about ourselves can both save us and, when they go stale, ruin us, whether we change from the outside in or the inside out, and how and whether we can trust our own desires.\n\nUnderneath it's a story about pragmatism. Her initial recovery from alcoholism rested on a pragmatic philosophy: she treated the core tenets of sobriety—faith as \"something you do\" surrendering her will to a Higher Power that would keep her safe, and even the resolution not to drink—not as capital T truths, but truths she adopted because they worked.\n\nThe problem she found is, for one, this creates a gap between your underlying desires and beliefs and your behavior. One that you hope will close eventually, but if it doesn’t can leave you feeling hollowed out and can keep your actual desires and beliefs unexamined. The other problem, of course, is once you start asking whether sobriety is “useful”, you open yourself to another version of the truth: That it might not be.\n\nOne of the things I found so striking about this book is how honest she is, without glorifying drinking, about what alcohol gives to alcoholics. For her, it can bring the kind of unification of self that mystics and yogis seek in God and meditation. So at that point, it is easy for the alcoholic to ask, fairly, why alcohol is not “useful”?\n\nIt should be clear that even if you’re not an alcoholic these are the kinds of mental gymnastics all of us do to justify and rationalize any number of behaviors or beliefs.\n\nAs an admirer of pragmatism I found this to be quite an interesting and mind-expanding line of questioning.\n\nBut I also found it interesting that, as far as I can tell, her turn away from pragmatism—away from truths held to because they “worked,” and back toward a vision of truth and goodness as inviolable and untouchable by experience—ultimately seems to rest on pragmatic grounds. Getting sober again, having faith, and treating the resolution not to drink as an unconditional taboo all, in the broadest sense possible, rest on what they do for her: they keep her desires from talking her back into ruin.",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Call me an old hat computer scientist but the parallels between\n\nInference time scaling ---&gt; Subagents --&gt; Agent Swarms\n\nlooks an awful lot like\n\nCPU Threads --&gt; Multi-core CPUs --&gt; Multi-Node Distributed Systems\n\nHistory rhymes well.",
+      "zh": ""
+    },
+    "sama": {
+      "en": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+      "zh": ""
+    }
+  },
+  "podcasts": {}
+}
