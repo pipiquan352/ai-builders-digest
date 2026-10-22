@@ -1,0 +1,76 @@
+{
+  "x": {
+    "swyx": {
+      "en": "this is my quant",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Dot, Dotter, Dottest",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Securing all my accounts with AI's help tonight before something bad happens. Also finally stopped being cheap and paid for @1Password",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Instrumentation problem.",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "We heard your feedback that you want Claude to proactively take more off your plate! Claude Duet is a large step in this direction - it'll notice work that needs to be done, and then do it before you ask. \n\nJoin the waitlist here:",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "Story picked ✅ Calendar cleared ✅\n\nThe adventure continues in “Dreambeans Roulette: Part 2”!\n\nJoin the trail with Sahana, Brian, and Nala as we dive into all things Dreambeans including:\n\n☕️ How are Dreambean stories “brewed” in the first place?\n☁️ How can one make Dreambeans “dream” even better?\n📵 What if apps were designed to get you off your phone?\n\nStay tuned for Part 3, where Brian shares field notes from the trail and a bit more on the experience and vision behind Google Labs.\n\nDreambeans is live in the US, for users 18+. More regions coming soon. Learn more at",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "prompt -&gt; corporation",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Vercel has proactively rolled out Firewall-level mitigations for today's Node.js RCE vulnerability, in advance of the official patch release. \n\nAll traffic for all deployments is automatically protected. We're actively monitoring and rolling out managed runtime upgrades.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Cyber is going to be one of the most profound aspects of AI. We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created.\n\nWe will use agents to identify the long standing risks in existing systems and infrastructure. Attackers will use agents to accelerate the discovery of gaps in environments. We will equally use agents to defend attacks and discover anomalous patterns to better protect our data, and much more.\n\nWe’re entering a new cyber regime, and we’ll probably use 100X more tokens on this loop than we’re imagining right now, because we can scan every log, look at every line of code, look through traffic, and process data at a scale that wasn’t comprehensible before.\n\nMore than ever, enterprises are going to care deeply about how they manage their networks, systems, software, data, identity, devices, and more. Agents will largely become the solution to these challenges, but they will keep everyone up in the process.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Gabriel Zucman is currently employed by the University of California at Berkeley, a public university that will be hurt severely due to shortfall of tax revenue to the state: to the tune of $39 billion net loss in aggregate\n\nPerhaps when the tax doom spiral hits his department some people will finally say damn we shouldn’t have hired this guy",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "In an era of tokens, APIs and agents, the world is shifting towards continuous financial planning, and Pigment is the platform for it.\n\nEleonore, @romain_pigment and the whole @gopigment team are building a very special company.  Congrats on the round, proud investors since the seed.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Who knew acquiring super intelligence could lead to the entire fabric and trust of the internet being slowly broken..\n\nIt’s truly wild and batsh!t bananas out there.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "That PHP vulnerability that’s gonna cause havoc this week was found with… GPT‑5.6 Sol.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "BREAKING:\n\n@AnthropicAI just launched Duet, its always-on personal agent. It’s the first personal agent I’d call a pro tool.\n\nWe’ve been testing it for two weeks. I’ve gone from mostly using ChatGPT to roughly 50/50 between ChatGPT and Claude—the most time I’ve spent with Anthropic in close to a year.\n\n• It lives in its own app, separate from Claude, on iOS, Android, and the web. This makes it feel clean and easy to understand.\n• It has channels for specific areas of your work and life rather than just a single chat\n• It has a todo list so you never lose what you’re working on and you can always see statuses\n• It allows you to easily write and edit documents, slides, and more all through the app.\n• It’s not a chief of staff yet. It can see the Claude sessions on my computers but can’t direct them. Its email drafts are worse than dot’s, and voice is transcription only—you can’t have a spoken conversation with it.\n\nMy verdict: the vibes are good, and I’m opening Duet every day. It’s worth trying.\n\nCheck out our agent comparison page: \n\nFull Vibe Check coming soon on @every",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Fucking PHP\n\nIt’s always fucking PHP",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "We designed Claude Duet around Claude Opus 5.5, which gives it the judgment to decide what needs you, what can wait, and when to check with you first. It carries over the memory, skills, and connected apps from your Claude account, so there’s little to set up.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "You need a frontier team.\n\nHere's why.\n\nEvery single person in your company is caught in this dilemma.\n\nDo I get my work done or do I stay up to date with AI and figure out what all these new tools and workflows mean for what work I should do?\n\nThat's just crazy.\n\nIt's so hard to figure out.\n\nEvery single company is struggling with this right now.\n\nBecause, I mean, on the one hand, you could ignore the frontier and that'll probably work for a little while until you get disrupted by some agent na...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
