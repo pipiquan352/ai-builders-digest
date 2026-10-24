@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "fake news btw i got him",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex &amp; work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I think most ambitious people don't reflect and realize that at some point, their time > their money.   \n\nBeing in the sandwich generation with young kids and aging parents has made me realize this sooner than most and I'm privileged to be in a position where I can make the choice to pursue agency over my time.  \n\nBut many tech people are also in this position and just don't stop to reflect on this.\n\n📌 See my chat with Adam for more:",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Thrilled to welcome Jeff and the Chroma team to Replit!\n\nThey’re pioneers in AI. They were building RAG before it was even a thing!\n\nAt Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work.\n\nMassive step toward the self-driving company.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Agents can play \"Ouija\" in the cloud.\n\nThis class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution.\n\nThe world’s cyber infrastructure runs on “yes, that attack is theoretically possible, but who would have the ingenuity & gall to go that far!” Enter, agents.\n\nI'd describe this particular OpenAI find as a 'noisy neighbor' attack. If two agents are on the same machine, one can make enough noise (through the CPU caches!) that the other one can detect it by timing its own computation and cache accesses.\n\nThe only \"complete\" solution would be for each agent to run on its own dedicated hardware, which obviously has significant economic consequences.\n\nFor Vercel Sandbox, we've deployed every practical mitigation possible to this class of attack, complementing it with always-on monitoring and red-teaming (similar to where OpenAI arrived).\n\n¹  (and even further back)",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk, processing gobs of data, and more. \n\nSecurity is one of the best use-cases for swarms because it’s an obvious area where more compute in equals more value out. There’s a wide range of testing that people can never get around to - or at least quickly enough - that agents have no problem going after. \n\nGoing to be a wild time in cyber.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Horseshoe theory is real\n\nThe NIMBY left (nonprofit extractors) and the NIMBY right (boomer landlords) just want to destroy housing affordability and the economy for their own comfort and grift \n\nMeanwhile we are just trying to build abundance",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "It truly feels magical - recommend adding to your website 😅",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "I’ll wait a bit before thinking about a new phone.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "the best configuration of teams in AI is only two people: pirates and architects",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Ok, more math with Mr @ScottWu46.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Here’s the deeper look at how Claude Duet handles safety, privacy, and security:",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:11\nAI has become the tool that's causing this kind of security apocalypse. Is also the tool that can help us solve it faster as well. It went from how to get everyone just using AI. Now all of sudden, everyone's racing to figure out what AI security means.\n\nSpeaker 2 | 00:11 - 00:36\nI've heard serious technical people say things like air gap, everything important, and we're, like, not gonna be able to trust the Internet for a while, and we just assume all the critical infr...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

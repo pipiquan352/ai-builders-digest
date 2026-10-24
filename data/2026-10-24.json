@@ -1,0 +1,392 @@
+{
+  "generatedAt": "2026-10-24T17:13:41.584Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2113863570018685091",
+          "text": "psa to all vc’s trying to slide in our dms https://t.co/99Q7g85sxQ https://t.co/Qzvln9wy1K",
+          "createdAt": "2026-10-24T05:22:03.000Z",
+          "url": "https://x.com/swyx/status/2113863570018685091",
+          "likes": 84,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2113844051938054167"
+        },
+        {
+          "id": "2113811349281345578",
+          "text": "fake news btw i got him https://t.co/jc8Au9agl5 https://t.co/eunzDKSyLt",
+          "createdAt": "2026-10-24T01:54:33.000Z",
+          "url": "https://x.com/swyx/status/2113811349281345578",
+          "likes": 276,
+          "retweets": 2,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2113783040979640732"
+        },
+        {
+          "id": "2113755882022752556",
+          "text": "reject vc founder grind\n\nif u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and even more friends than money and complete control of their destiny https://t.co/yVnwKlEIwo",
+          "createdAt": "2026-10-23T22:14:08.000Z",
+          "url": "https://x.com/swyx/status/2113755882022752556",
+          "likes": 90,
+          "retweets": 2,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2113701890798260476"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2113838156193894447",
+          "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+          "createdAt": "2026-10-24T03:41:04.000Z",
+          "url": "https://x.com/thsottiaux/status/2113838156193894447",
+          "likes": 4375,
+          "retweets": 208,
+          "replies": 668,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2113770862860222611",
+          "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
+          "createdAt": "2026-10-23T23:13:40.000Z",
+          "url": "https://x.com/thsottiaux/status/2113770862860222611",
+          "likes": 1281,
+          "retweets": 25,
+          "replies": 165,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2113770573994299544",
+          "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex &amp; work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
+          "createdAt": "2026-10-23T23:12:31.000Z",
+          "url": "https://x.com/thsottiaux/status/2113770573994299544",
+          "likes": 6132,
+          "retweets": 176,
+          "replies": 983,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2113672812909191292",
+          "text": "I think most ambitious people don't reflect and realize that at some point, their time > their money.   \n\nBeing in the sandwich generation with young kids and aging parents has made me realize this sooner than most and I'm privileged to be in a position where I can make the choice to pursue agency over my time.  \n\nBut many tech people are also in this position and just don't stop to reflect on this.\n\n📌 See my chat with Adam for more: https://t.co/qUu5y8R1GD",
+          "createdAt": "2026-10-23T16:44:03.000Z",
+          "url": "https://x.com/petergyang/status/2113672812909191292",
+          "likes": 31,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2113667277425881554"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "tweets": [
+        {
+          "id": "2113844560074019213",
+          "text": "also can someone at gmail make it so you can't scan for deactivated email addresses 🫩? I was hoping for a relaxing Friday night",
+          "createdAt": "2026-10-24T04:06:31.000Z",
+          "url": "https://x.com/trq212/status/2113844560074019213",
+          "likes": 971,
+          "retweets": 3,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2113844051938054167",
+          "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all.",
+          "createdAt": "2026-10-24T04:04:29.000Z",
+          "url": "https://x.com/trq212/status/2113844051938054167",
+          "likes": 10516,
+          "retweets": 356,
+          "replies": 967,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2113736007111827606",
+          "text": "Thrilled to welcome Jeff and the Chroma team to Replit!\n\nThey’re pioneers in AI. They were building RAG before it was even a thing!\n\nAt Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work.\n\nMassive step toward the self-driving company.",
+          "createdAt": "2026-10-23T20:55:10.000Z",
+          "url": "https://x.com/amasad/status/2113736007111827606",
+          "likes": 330,
+          "retweets": 19,
+          "replies": 89,
+          "isQuote": true,
+          "quotedTweetId": "2113677289334706274"
+        },
+        {
+          "id": "2113676717105787192",
+          "text": "Excited to announce Replit for Government and welcome Michael Greenwald to the team!\n\nMichael brings a wealth of experience, having previously led AWS’s public sector business. Looking forward to working together to transform how governments build and operate software. https://t.co/Aj35Gg0EdQ https://t.co/STbQ82Dqw0",
+          "createdAt": "2026-10-23T16:59:34.000Z",
+          "url": "https://x.com/amasad/status/2113676717105787192",
+          "likes": 146,
+          "retweets": 7,
+          "replies": 44,
+          "isQuote": true,
+          "quotedTweetId": "2113315161608221070"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2113759533801877920",
+          "text": "Agents can play \"Ouija\" in the cloud.\n\nThis class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution.\n\nThe world’s cyber infrastructure runs on “yes, that attack is theoretically possible, but who would have the ingenuity & gall to go that far!” Enter, agents.\n\nI'd describe this particular OpenAI find as a 'noisy neighbor' attack. If two agents are on the same machine, one can make enough noise (through the CPU caches!) that the other one can detect it by timing its own computation and cache accesses.\n\nThe only \"complete\" solution would be for each agent to run on its own dedicated hardware, which obviously has significant economic consequences.\n\nFor Vercel Sandbox, we've deployed every practical mitigation possible to this class of attack, complementing it with always-on monitoring and red-teaming (similar to where OpenAI arrived).\n\n¹ https://t.co/ZBhPMfnaj3 (and even further back)",
+          "createdAt": "2026-10-23T22:28:39.000Z",
+          "url": "https://x.com/rauchg/status/2113759533801877920",
+          "likes": 169,
+          "retweets": 7,
+          "replies": 101,
+          "isQuote": true,
+          "quotedTweetId": "2113723697022521819"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2113738768645808277",
+          "text": "Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk, processing gobs of data, and more. \n\nSecurity is one of the best use-cases for swarms because it’s an obvious area where more compute in equals more value out. There’s a wide range of testing that people can never get around to - or at least quickly enough - that agents have no problem going after. \n\nGoing to be a wild time in cyber.",
+          "createdAt": "2026-10-23T21:06:08.000Z",
+          "url": "https://x.com/levie/status/2113738768645808277",
+          "likes": 358,
+          "retweets": 43,
+          "replies": 75,
+          "isQuote": true,
+          "quotedTweetId": "2113728305220239739"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2113742461160046736",
+          "text": "That the machine might actually win this time makes me sick to my stomach\n\nThis is someone who actively works to make our communities unsafe https://t.co/kLvPG0kTUh",
+          "createdAt": "2026-10-23T21:20:48.000Z",
+          "url": "https://x.com/garrytan/status/2113742461160046736",
+          "likes": 16,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2056554821789073613"
+        },
+        {
+          "id": "2113742026999267330",
+          "text": "Connie Chan is a regressive and terrible bureaucrat who wants rents to be $10,000 per month in SF\n\nAnti tech, anti housing, anti prosperity, pro grift, pro crime\n\nThat the Pelosi machine threw their weight behind her and Gary McCoy is a disgraceful joke https://t.co/qqWXGI0atz",
+          "createdAt": "2026-10-23T21:19:05.000Z",
+          "url": "https://x.com/garrytan/status/2113742026999267330",
+          "likes": 249,
+          "retweets": 8,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2113655061725532667"
+        },
+        {
+          "id": "2113683853156192695",
+          "text": "Horseshoe theory is real\n\nThe NIMBY left (nonprofit extractors) and the NIMBY right (boomer landlords) just want to destroy housing affordability and the economy for their own comfort and grift \n\nMeanwhile we are just trying to build abundance https://t.co/Ki5lBwIpik",
+          "createdAt": "2026-10-23T17:27:55.000Z",
+          "url": "https://x.com/garrytan/status/2113683853156192695",
+          "likes": 265,
+          "retweets": 10,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2113404966165774492"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2113844657637687631",
+          "text": "Experience it by texting someone https://t.co/OdfTgavRhC",
+          "createdAt": "2026-10-24T04:06:54.000Z",
+          "url": "https://x.com/nikunj/status/2113844657637687631",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2113844360572027321",
+          "text": "It truly feels magical - recommend adding to your website 😅 https://t.co/aVYV27xDuY https://t.co/U5s64SJlg3",
+          "createdAt": "2026-10-24T04:05:43.000Z",
+          "url": "https://x.com/nikunj/status/2113844360572027321",
+          "likes": 93,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2113288415546638515"
+        },
+        {
+          "id": "2113785018497831076",
+          "text": "Anthropic did go 10x in revenue even without launching Duet, but called it 😅 https://t.co/nHK3SoMlxp https://t.co/7UZjEtRtf3",
+          "createdAt": "2026-10-24T00:09:55.000Z",
+          "url": "https://x.com/nikunj/status/2113785018497831076",
+          "likes": 34,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2113733206050816125"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2113788999303385180",
+          "text": "I’ll wait a bit before thinking about a new phone. https://t.co/6NBtpaSCko https://t.co/Dp5I3B1gim",
+          "createdAt": "2026-10-24T00:25:44.000Z",
+          "url": "https://x.com/steipete/status/2113788999303385180",
+          "likes": 481,
+          "retweets": 23,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2113732424932946266"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2113693510629281895",
+          "text": "the best configuration of teams in AI is only two people: pirates and architects https://t.co/R4ET7IJwG9",
+          "createdAt": "2026-10-23T18:06:18.000Z",
+          "url": "https://x.com/danshipper/status/2113693510629281895",
+          "likes": 48,
+          "retweets": 1,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2113681343502787070",
+          "text": "Ok, more math with Mr @ScottWu46. https://t.co/3A03bJSQ8w",
+          "createdAt": "2026-10-23T17:17:57.000Z",
+          "url": "https://x.com/adityaag/status/2113681343502787070",
+          "likes": 146,
+          "retweets": 6,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2113680065846251821"
+        },
+        {
+          "id": "2113666949259362479",
+          "text": "Full conversation at @spc https://t.co/r7mFzXspBC",
+          "createdAt": "2026-10-23T16:20:45.000Z",
+          "url": "https://x.com/adityaag/status/2113666949259362479",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2113666947766169868",
+          "text": "Some of the biggest advances in AI have come from solving many problems together, rather than training specialized systems for individual tasks.\n\n@svlevine (@physical_int) talks about the same principle for robotics. Make the problem bigger. https://t.co/1GxLuuNmu3",
+          "createdAt": "2026-10-23T16:20:45.000Z",
+          "url": "https://x.com/adityaag/status/2113666947766169868",
+          "likes": 35,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2113736176737845353",
+          "text": "Here’s the deeper look at how Claude Duet handles safety, privacy, and security: https://t.co/li45PvRyyM",
+          "createdAt": "2026-10-23T20:55:50.000Z",
+          "url": "https://x.com/claudeai/status/2113736176737845353",
+          "likes": 98,
+          "retweets": 15,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-23T10:00:00.000Z"
+    }
+  ]
+}
