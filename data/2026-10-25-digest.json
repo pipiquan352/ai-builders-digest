@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a version of this in the welcome package for everyone we hire",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 20/ Rest and reset",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Of all the learning apps that my 4-year-old and I have tried, @once_reading is the only one that we’ve managed to persist in following for months. \n\nIt works because:\n\n1. It builds a habit where you need to learn with your kid daily\n\n2. It has lightweight gamification like taking a silly photo with your kid after every lesson\n\n3. After 30 lessons, Once will send you books for your kid to read by themselves, giving them a big feeling of accomplishment\n\nMy kid loves reading now and will even choose her Once books over YouTube and the phone (sometimes at least) which is the highest compliment 😅\n\nThis is not sponsored or anything I just love the product. \n\nTry out Once here:",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you.\n\nThere’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context.\n\nHow well you manage this superpower is the #0 skill I look for.",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "@addyosmani @lydiahallie @_catwu @bcherny @sidbid @jarredsumner @adocomplete @delba_oliveira @connerphillippi @dsp_  @gcemaj @karbon0x for Claude Managed Agents!",
+      "zh": ""
+    },
+    "levie": {
+      "en": "We’ll likely have 1,000X more tokens flowing through cyber agents soon than we do today. \n\nAs the surface area of cyber risk increases, at some point soon it will be nearly impossible to keep up with the volume of new risks (we’re essentially already there). Large companies barely had the resources to pull this off before, but the vast majority of companies don’t. \n\nThere’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure and code to secure. We’ll have agent swarms that can fan out, leverage any security tool, test various perpetuations of attacks, read through logs, process enterprise data for risk level, and more. \n\nThis capability only emerged in the past few months. Wouldn’t have been possible before long running agents and computer use were good enough, and models hadn’t been trained on cyber deeply. That’s all changing now.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability.",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "struggle together\n\ni learned programming and design by trying, failing, and trying again.\n\nwhen i hit a wall, i figured out how to climb it. read something i barely understood. took things apart. asked someone for help. started over.\n\nwhen i began my career, i kept doing things i had never done before. trying different ways to make something work. when i stopped learning, i moved on to the next struggle.\n\nmany things i made weren’t very good. but after enough rounds, something stuck. what once took so much effort became part of how i thought. i could feel something was wrong before i knew how to explain it.\n\nit became like water.\n\ni think about what went into that. the bug i couldn’t fix. the design that looked right until someone used it. the conversation that made me realize my flaws.\n\nnow we can ask a machine.\n\ni’ve made things with these tools that i might never have made otherwise. i don’t miss every tedious task. but i wonder what happens when we remove the difficulty before we understand what it was teaching us.\n\nwe ask. something appears. it works well enough. we move on.\n\nwe learn how to get results without necessarily understanding how it works. and because the result looks complete, it becomes easy to miss the questions we never learned to ask.\n\nthere is another side to this.\n\nworking with people is uncomfortable.\n\neveryone wants something different. everyone has a history you don’t know. someone cares about a detail you think is unimportant. someone pushes back when you want to move. someone needs time when you feel certain.\n\nit takes a while to find each other.\n\nbut sometimes, after struggling together, you become a band.\n\nyou know who notices what you miss. who can pull an idea apart without killing it. when to step in, when to slow down, when to let someone else carry the rhythm.\n\nyou share something unfinished. admit you don’t know. hurt each other, apologize, try again. eventually you make something none of you could have made alone.\n\nsome of my closest friendships came from working this way. smart, caring humans who saw me confused, wrong, tired, excited. people i could be vulnerable with. people whose ideas changed mine.\n\ni worry we are making it easier to avoid that beginning.\n\nan agent is always there. patient. ready to keep going. talking to it can feel easier than reaching toward someone who might misunderstand you, disagree, or have somewhere else to be.\n\nsometimes that ease helps. but if we keep choosing it, where do the friendships begin?\n\ni picture each of us with our own agents. our own explanations. our own little worlds. making more things, with fewer reasons to leave the screen or work through a difference with another person.\n\nand these worlds aren’t entirely ours.\n\nthey run on machines in server farms, owned by companies, shaped by interests we may not see. we bring them our questions, our work, our loneliness. they become part of how we understand what is real.\n\nis that freedom?\n\nor a comfortable kind of confinement, where everything responds to us but fewer things reach us?\n\ni don’t think pain makes something good. there are struggles nobody should have to endure. but i don’t want to lose the difficulty of learning something unfamiliar, or getting to know someone who isn’t like me.\n\nmaybe we need tools that help us spend more time with the world, instead of giving us fewer reasons to enter it. tools that make it easier to find people, share something unfinished, and work through what we couldn’t figure out alone.\n\nsometimes i want to close the laptop.\n\nsit with people i love. play something we haven’t figured out yet. miss a note, lose the rhythm, listen until we find each other again.\n\nlike a jazz band. everyone bringing something different. nobody knowing where we’ll end up.\n\ni don’t want a life without struggle. i want people to struggle with. something we can feel, change, and make our own.\n\nmusic we couldn’t have made alone, instead of the silent static of the server farm.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "What’s new in Gstack?",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Venture in a single meme 🤦",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "One weird effect of being max AI pilled is that I have started to really treasure IRL time with my family and my friends.\n\nPut on some techno, dance with friends, take your kids to the park. \n\nLet the agents cook (or not).\n\nBut dear god, celebrate humans.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "The MAD Podcast with Matt Turck": {
+      "en": "Speaker 1 | 00:00 - 00:18\n95% Einstein, 5% mister Bean. And if it doesn't tell you when it's the mister Bean, then how are you gonna automate anything? I wrote a document at OpenAI. We could have had AGI last year, and I still believe that to be true. Pre training is a giant dumpster fire of wasting resources.\n\nSpeaker 1 | 00:18 - 00:31\nWhen I first started this project, I literally thought it would take a week. You can now express things that you couldn't express in software before. I think tha...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
