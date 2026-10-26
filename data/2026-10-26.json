@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-10-26T19:45:30.273Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2114263159355904426",
+          "text": "i need 12 more likes to ratio @ArfurRock whos got it",
+          "createdAt": "2026-10-25T07:49:52.000Z",
+          "url": "https://x.com/swyx/status/2114263159355904426",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2114595002210783279",
+          "text": "Reminder you can customize the appearance of chatgpt on web and make it soothing\n\nhttps://t.co/an6R8iY5Ix https://t.co/iysHpdDLml",
+          "createdAt": "2026-10-26T05:48:30.000Z",
+          "url": "https://x.com/thsottiaux/status/2114595002210783279",
+          "likes": 1136,
+          "retweets": 42,
+          "replies": 310,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2114588174249071102",
+          "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+          "createdAt": "2026-10-26T05:21:22.000Z",
+          "url": "https://x.com/thsottiaux/status/2114588174249071102",
+          "likes": 5168,
+          "retweets": 281,
+          "replies": 1442,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2114560930646487116",
+          "text": "This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2",
+          "createdAt": "2026-10-26T03:33:07.000Z",
+          "url": "https://x.com/petergyang/status/2114560930646487116",
+          "likes": 38,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2114422260346110358"
+        },
+        {
+          "id": "2114557067700916723",
+          "text": "lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD",
+          "createdAt": "2026-10-26T03:17:46.000Z",
+          "url": "https://x.com/petergyang/status/2114557067700916723",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2114313044541235554"
+        },
+        {
+          "id": "2114507378532229214",
+          "text": "Here’s how to use Claude to copy any video shorts style in a few minutes.\n\nFrom @jake11moran:\n\n“We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change.\n\nYou can see where we’re drawing inspiration from and apply a different font or different colors. It’s still structurally the same idea.”\n\n📌 Watch our full AI video editing tutorial here: https://t.co/1seCb77tGJ",
+          "createdAt": "2026-10-26T00:00:19.000Z",
+          "url": "https://x.com/petergyang/status/2114507378532229214",
+          "likes": 245,
+          "retweets": 15,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2114360145505595842"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "tweets": [
+        {
+          "id": "2114433404557279435",
+          "text": "Anyone else find it insane that this is the default for unoptimized apps when the iPhone Duo supports split mode? https://t.co/TOoeDyhMzz https://t.co/uXGfG7EbYt",
+          "createdAt": "2026-10-25T19:06:22.000Z",
+          "url": "https://x.com/thenanyu/status/2114433404557279435",
+          "likes": 55,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2114231252375232804"
+        },
+        {
+          "id": "2114427877240488442",
+          "text": "By the time it shows up in the data or UXR interviews it’s too late. The damage has been done and the reputation tarnished https://t.co/hIPaT1BOmk",
+          "createdAt": "2026-10-25T18:44:24.000Z",
+          "url": "https://x.com/thenanyu/status/2114427877240488442",
+          "likes": 129,
+          "retweets": 6,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2114040855073820966"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2114391265655816315",
+          "text": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve.\n\nThere’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure, data, and code to secure. Most large enterprises can barely keep up with this, let alone smaller startups or most companies outside of tech. \n\nIn many cases enterprises need to work to modernize their tech stacks. Data, in most organizations, is highly fragmented which means you don’t really know the state of risk at any given time. Some systems are open up privileges too broadly, and others are operating primarily via security through obscurity. Lots of upgrading here to do.\n\nOnce you can get your data and infra into a better spot, at least you have a chance for agents to help you secure the environment. Agent swarms can fan out, leverage any security tool, test various perpetuations of attacks, read through logs, process enterprise data for risk level, and more. This capability only emerged in the past few months, and none of it would be possible before we had long running agents and computer use good enough.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability. \n\nBut everyone does need to do the hard work of getting the basics right at the start.",
+          "createdAt": "2026-10-25T16:18:55.000Z",
+          "url": "https://x.com/levie/status/2114391265655816315",
+          "likes": 244,
+          "retweets": 23,
+          "replies": 69,
+          "isQuote": true,
+          "quotedTweetId": "2114372350707986492"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2114507945585328606",
+          "text": "Rare footage of how VCs turned their 2021 bets in metaverse, gaming and crypto mining into 'mission-critical AI infrastructure’ https://t.co/ULSKrUwg1f",
+          "createdAt": "2026-10-26T00:02:34.000Z",
+          "url": "https://x.com/mattturck/status/2114507945585328606",
+          "likes": 53,
+          "retweets": 5,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2114411547594457483",
+          "text": "Good neighborhood https://t.co/ZRTxHmsoZv https://t.co/OCMZ85Yk8G",
+          "createdAt": "2026-10-25T17:39:31.000Z",
+          "url": "https://x.com/mattturck/status/2114411547594457483",
+          "likes": 100,
+          "retweets": 6,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2114306073846751404"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2114380495140405394",
+          "text": "Golden hour 🌅 https://t.co/VPmAgnMkGH",
+          "createdAt": "2026-10-25T15:36:07.000Z",
+          "url": "https://x.com/nikunj/status/2114380495140405394",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2114509827057561603",
+          "text": "https://t.co/F3WWInD6LH https://t.co/PKNm0MT3So",
+          "createdAt": "2026-10-26T00:10:03.000Z",
+          "url": "https://x.com/danshipper/status/2114509827057561603",
+          "likes": 33,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2114388808628379695"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "No Priors",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-15T10:00:00.000Z"
+    }
+  ]
+}

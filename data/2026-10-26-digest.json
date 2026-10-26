@@ -1,0 +1,40 @@
+{
+  "x": {
+    "swyx": {
+      "en": "i need 12 more likes to ratio @ArfurRock whos got it",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Here’s how to use Claude to copy any video shorts style in a few minutes.\n\nFrom @jake11moran:\n\n“We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change.\n\nYou can see where we’re drawing inspiration from and apply a different font or different colors. It’s still structurally the same idea.”\n\n📌 Watch our full AI video editing tutorial here:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "By the time it shows up in the data or UXR interviews it’s too late. The damage has been done and the reputation tarnished",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve.\n\nThere’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure, data, and code to secure. Most large enterprises can barely keep up with this, let alone smaller startups or most companies outside of tech. \n\nIn many cases enterprises need to work to modernize their tech stacks. Data, in most organizations, is highly fragmented which means you don’t really know the state of risk at any given time. Some systems are open up privileges too broadly, and others are operating primarily via security through obscurity. Lots of upgrading here to do.\n\nOnce you can get your data and infra into a better spot, at least you have a chance for agents to help you secure the environment. Agent swarms can fan out, leverage any security tool, test various perpetuations of attacks, read through logs, process enterprise data for risk level, and more. This capability only emerged in the past few months, and none of it would be possible before we had long running agents and computer use good enough.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability. \n\nBut everyone does need to do the hard work of getting the basics right at the start.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Good neighborhood",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Golden hour 🌅",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:19\nTo ensure AGI benefits all of humanity, we think that humans should be firmly in the driver's seat, should have control over the future, and this technology should amplify human agency. When I look at the world we're going to be in, where software in some ways is becoming like the barrier to entry, it's becoming so cheap. You don't just want software. Right? You want software that is reliable, that is secure, that you can believe in.\n\nSpeaker 1 | 00:19 - 00:32\nAnd so cy...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
