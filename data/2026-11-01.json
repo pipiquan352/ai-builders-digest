@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-11-01T18:45:32.241Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2116773135668404286",
+          "text": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).\n\noverall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY",
+          "createdAt": "2026-11-01T06:03:37.000Z",
+          "url": "https://x.com/swyx/status/2116773135668404286",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 29,
+          "isQuote": true,
+          "quotedTweetId": "2116642586387730593"
+        },
+        {
+          "id": "2116642586387730593",
+          "text": "join me all the way on the light side guys\n\nlow effort + critique loop &gt; superultramaxhighwhatever\n\n(for the throughput-constrained; see swyxio/skills/babysit-runs) https://t.co/TuAWCwUPR1",
+          "createdAt": "2026-10-31T21:24:52.000Z",
+          "url": "https://x.com/swyx/status/2116642586387730593",
+          "likes": 135,
+          "retweets": 0,
+          "replies": 156,
+          "isQuote": true,
+          "quotedTweetId": "2116420089411145913"
+        },
+        {
+          "id": "2116544052267205093",
+          "text": "direct clip: https://t.co/fcuFuFRIpO",
+          "createdAt": "2026-10-31T14:53:20.000Z",
+          "url": "https://x.com/swyx/status/2116544052267205093",
+          "likes": 14,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2116692529970311254",
+          "text": "Banked 1/2",
+          "createdAt": "2026-11-01T00:43:20.000Z",
+          "url": "https://x.com/thsottiaux/status/2116692529970311254",
+          "likes": 6582,
+          "retweets": 181,
+          "replies": 1024,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2116754343315841471",
+          "text": "Is it weird if I prefer listening to this over Spotify https://t.co/lH3wixKArx",
+          "createdAt": "2026-11-01T04:48:57.000Z",
+          "url": "https://x.com/petergyang/status/2116754343315841471",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116733034926100841",
+          "text": "Don't particularly care about the trick or treat part, just being able to dress up as whatever you want is the best",
+          "createdAt": "2026-11-01T03:24:17.000Z",
+          "url": "https://x.com/petergyang/status/2116733034926100841",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116732887265656978",
+          "text": "Halloween is honestly the best holiday and should be held every quarter",
+          "createdAt": "2026-11-01T03:23:41.000Z",
+          "url": "https://x.com/petergyang/status/2116732887265656978",
+          "likes": 25,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2116710688550994042",
+          "text": "This would go so hard in SF https://t.co/RgE7UIADws",
+          "createdAt": "2026-11-01T01:55:29.000Z",
+          "url": "https://x.com/rauchg/status/2116710688550994042",
+          "likes": 673,
+          "retweets": 18,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2116652002830963114",
+          "text": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
+          "createdAt": "2026-10-31T22:02:17.000Z",
+          "url": "https://x.com/levie/status/2116652002830963114",
+          "likes": 618,
+          "retweets": 53,
+          "replies": 107,
+          "isQuote": true,
+          "quotedTweetId": "2116567219199234317"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2116640529232609515",
+          "text": "> Why does the worst rise to the top in a society rife with broken politics? \n\n“When the plan fails—and it always fails—coercion is needed. You need people willing to do what honest people refuse to do. The system doesn't promote the best; it selects those with no scruples. And to rally a majority around the plan, nothing works better than a common enemy: the rich, the foreigner, the dissenter.”",
+          "createdAt": "2026-10-31T21:16:42.000Z",
+          "url": "https://x.com/garrytan/status/2116640529232609515",
+          "likes": 119,
+          "retweets": 10,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2116285524516229287"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2116653171741470990",
+          "text": "A classic that never goes out of style 🎃👻 https://t.co/4AiSR3Qg4L",
+          "createdAt": "2026-10-31T22:06:56.000Z",
+          "url": "https://x.com/mattturck/status/2116653171741470990",
+          "likes": 17,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2116624458198982668",
+          "text": "First snow is always special ❄️ https://t.co/FzWYVB4HUl",
+          "createdAt": "2026-10-31T20:12:50.000Z",
+          "url": "https://x.com/nikunj/status/2116624458198982668",
+          "likes": 74,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116554844207198501",
+          "text": "what do you mean you dressed up as cybersecurity awareness month for halloween\n\ni hate sf https://t.co/TLitKBVgUu",
+          "createdAt": "2026-10-31T15:36:13.000Z",
+          "url": "https://x.com/nikunj/status/2116554844207198501",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Latent Space",
+      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-10-31T16:00:00.000Z"
+    }
+  ]
+}

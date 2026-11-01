@@ -1,0 +1,44 @@
+{
+  "x": {
+    "swyx": {
+      "en": "join me all the way on the light side guys\n\nlow effort + critique loop &gt; superultramaxhighwhatever\n\n(for the throughput-constrained; see swyxio/skills/babysit-runs)",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Banked 1/2",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Halloween is honestly the best holiday and should be held every quarter",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "This would go so hard in SF",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "> Why does the worst rise to the top in a society rife with broken politics? \n\n“When the plan fails—and it always fails—coercion is needed. You need people willing to do what honest people refuse to do. The system doesn't promote the best; it selects those with no scruples. And to rally a majority around the plan, nothing works better than a common enemy: the rich, the foreigner, the dissenter.”",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "A classic that never goes out of style 🎃👻",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "First snow is always special ❄️",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "We're actually not a SaaS company. We are, um, we are the firm ourselves. Agents prompt people more than people prompt agents- Mm... and it is a proactive kind of, um, service that is running for them twenty-four seven.\n\n[on-hold music] We're here at the, uh, AI Engineer New York conference, twenty twenty-six. Um, and I'm here with Aman Singh, uh, from Arca.\n\nUm, and, uh, Arca's, uh, recently raised sixty-four million for an AI-native wealth management firm.\n\nUh, so first of all, Aman, can you t...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
