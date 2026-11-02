@@ -1,0 +1,52 @@
+{
+  "x": {
+    "karpathy": {
+      "en": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+      "zh": ""
+    },
+    "swyx": {
+      "en": "@karpathy  url",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Day 28/ Banked 2/2",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I wish I could just use one AI tool but right now there are clear winners in each category below:\n\nBrowser/computer use = ChatGPT + Codex\nDesign/video editing/\"taste\" = Claude\n24/7 agents and scheduled jobs = Grok Bot\n\nAlso, Gemini is underrated for writing but need to test it more.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "adding a new character: a taekwondo master that fights with fire\n\nI also updated the art style from 3d models to use generated sprites",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "If you’re enjoying a subsidized AI subscription get ready to get rug pulled.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Own your intelligence.\n\nAnyone that opposes this has something to sell you (perhaps your own intelligence back to you.)\n\nLocal models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own your harness, data, connections, runtime: your agents. Embrace open source.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work.\n\nThis turns everyone in one of these positions to that of a manager of a team of agents, instead of an individual contributor with just some added leverage from AI. The biggest areas of impact will be information-heavy jobs, like coding, cybersecurity, legal work, biotech, engineering, and many other fields. \n\nAnd as a result, in these jobs your leverage will begin to be decoupled from the normal ratio of hours spent working to output generated. For essentially the history of knowledge work the main variable you had to play with was hours of work done (assuming fixed level talent/coordination/strategy). \n\nNow we’ve separated these variables because agents can parallelize work for us, to in theory execute as much as we need to pull off whatever goal we’re trying to accomplish. The people and organizations that discover this sooner, and orient their operations around it, will see compounding gains in their workflows.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "YC is the YC for hard tech",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "argon cooks",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:04\nHow much of, like, an an organized marketplaces compute these days versus, like, the Wild West?\n\nSpeaker 2 | 00:04 - 00:17\nI went to GTC last year. It was like an open air drug market, but, like, GPUs. Walking around, like, talking to people, trying to get GPUs, and meeting people in hotel lobbies, exchanging numbers. It's very far from an efficient market. I mean, some people are working on this.\n\nSpeaker 2 | 00:17 - 00:29\nCompute comes in many different shapes or form...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
