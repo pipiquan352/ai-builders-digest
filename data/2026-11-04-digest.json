@@ -1,0 +1,80 @@
+{
+  "x": {
+    "swyx": {
+      "en": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) \n\nand a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next!\n\ngathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here:  <- see you in SF!",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now.\n\nTeam and Enterprise admins can set them up, and teammates are connected automatically the first time they use the plugins.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh\n\nj/k what a generational run from cat",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Super-retweet",
+      "zh": ""
+    },
+    "_catwu": {
+      "en": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "this is basically the bitter lesson at work\n\nthe smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "We've been dreaming about this for a long time... So excited to hear what our new Indian users think!\n\nWhere should we roll out Dreambeans next? 😴🫘",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this product works whether you host on Vercel or not) and your peace of mind will increase tremendously. You'll see it catch things that every other agent misses.\n\nWhy: you cannot just bank on your engineers having a skill installed, prompting \"please make secure\", or rolling the weights' dice that the code is good out of the gate.\n\nThe other cool thing about this is that this was entirely developed by our security team. A lot of companies out there are probably in a mad rush right now trying to staff up. If you wanted to 'download a security team' as software, this is the closest you get today.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. \n\nA few years ago the best productivity gains you could get, even in the most capability-aligned field (like coding), was maybe 30-50% better productivity if you were very good at it. You’d spend a decent chunk of time cleaning up the mistakes of models, the context windows were too limited to do any long running work, and the interfaces required highly synchronous interactions. \n\nNow, the models can do far longer tasks at a time with limited human interaction. The harnesses support agentic work that can take on these larger tasks. The models are trained on vastly better datasets for a growing array of domains so you have to intervene far less. And we have systems that better support working with many agents at once. \n\nIn just a two year timespan, the upper limits on productivity gains have gone from 30-50% to now likely 5-10X depending on the field. So we’ve gone from an environment where living at the frontier vs. not paying attention at all could be an order of magnitude difference in your output.\n\nThis distance is only getting wider from here given the rate of progress we’re likely to see with RSI. Crazy times.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "RIP Popular Mechanics",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Hang it in the Louvre",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground..\n\nFor insights, I have a regular cron job that runs this now every two weeks. It tells me all the best ways to upgrade my setup. I pair it with X bookmarks that show all the new ways to build a software factory. It's a self improving loop on how I use Claude Code + what the industry thinks I should move to. \n\nFor playground, it's the best way to visualize what's happening in the workflow. I ask it to show me architecture of esoteric Github's to simulating a full learning loop on my side project. My new favorite thing is to pair Codex + Claude Code on this skill and ask it to find dead code, hot pathways, latency improvements.\n\nGive it a shot and tell me what you think!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "very neat!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "go get it",
+      "zh": ""
+    },
+    "sama": {
+      "en": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:15\nIf NVIDIA could have bought... Like, could have produced, like, 10 x the chips, this whole market would have been shaped differently. Yeah. Because there is not enough capacity for their scale, this is a relatively small business for them. For the hyperscalers, it's not just a matter of, like, sales.\n\nSpeaker 1 | 00:15 - 00:29\nIt's also a matter of changing the infrastructure that was built at scale for other kinds of workloads. This is a massive investment on their par...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
