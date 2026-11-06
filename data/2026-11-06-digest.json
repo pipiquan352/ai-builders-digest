@@ -1,0 +1,64 @@
+{
+  "x": {
+    "swyx": {
+      "en": "ok guys pitchforks down pls we chatted and i learned a lot about why i had been missing context and communication - not a sequoia wide thing, just a small gap i got caught in. also the quoted tweet has impt inaccuracies/incomplete info i can’t share \n\n\n\nbut basically treat it as unrelated to the broader sequoia restructuring that was announced this week",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Can folks from @suno and @Tesla add the app to the cars by default. This shit is better than any radio.\n\nLike it'll be amazing to just drive and voice dictate to create songs to listen to.",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "good hang with @signulll today! \n\ngonna start making time to  meet with more of my twitter friends through the end of the year.\n\nhit me up if you’re in the bay area!",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "one of my favorite prompts for agents like Instinct is location based reminders\n\ne.g. \"Keep track of when I've done my laundry. If it's been more than 5 days, remind me 30 minutes after I get home on a week day and bug me until I confirm or delay\"",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "There are so many Linux zero-day vulnerabilities these days, but on Replit we’re able to avoid 96% of them with our custom Kernel build.\n\nRead about our new sandbox design.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "SpaceXSI 🤝 Vercel\nGrok and Cursor can now build, deploy, and scale",
+      "zh": ""
+    },
+    "levie": {
+      "en": "We’re going to have 100X more agents in the enterprise working with our data and systems than even people do today. Every AI agent deployment comes down to how successfully they can get access to the critical context to make a decision, do research, or execute tasks. \n\n90% of the data in an enterprise is unstructured data, which means this critical context is living inside of our documents, contracts, marketing assets, research materials, financial plans, design files, and more. Which means we need effective ways for agents to get access to this critical enterprise content to other work.\n\nWe’re excited to partner with NVIDIA to deliver advanced context retrieval -combining lexical and semantic search in Box- to ensure that AI agents can find the most relevant information they’re looking for. All in a way that adheres to their enterprise security, access controls, and data governance policies, so agents only work with the data they’re allowed to.\n\nGreat to work with @NVIDIAAI and @JensenHuang on this partnership. Files 🤝 GPUs.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "This is the first long horizon benchmark for PE/IB work\n\nSolving high finance is on the path to AGI",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Thesis: 2027 - LIVE from Brooklyn!",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Just because someone is willing to invest at a certain valuation doesn't mean it's the right valuation for your company.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:06\nAs you think about Anthropic, is that something you're optimistic on? It's like, hey. That's that's undervalued or something you're like, oh, I don't know what's gonna happen to that.\n\nSpeaker 2 | 00:06 - 00:32\nI get the sense that a lot of the expectations baked in are ones that are not just product level, but based on, like, misunderstandings of the future of AI and what it can do. So my guess is that because some people might be valuing, like, building god as basical...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
