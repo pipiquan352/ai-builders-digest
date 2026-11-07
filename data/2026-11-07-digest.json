@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "we are committing to weekly coverage of the Anthropic IPO all the way until it does or doesn't happen. \n\nHaving covered mega-IPOs from $BABA to $TEAM, I get to dust off my equity hedge fund analyst hat with my AI Engineer hat once more, this time with my good friend @jaminball who is challenging @ttunguz for writer-VC-extraordinare of his generation.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "It's Friday",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Alright, I just interviewed @jsnnsa and he blew my mind the most out of all my guests since probably @steipete. \n\nGoing to expedite shipping our episode. \n\nSubscribe here to get it soon:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "what do the shrimp welfare ppl think about this one I wonder",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "too many people building agents and not enough people using software to improve the quality of fish",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Generative UI for conversational agents.\n\nCombining @aisdk with Chat SDK and 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛, you can go straight from LLM to UI on platforms like Slack and Teams.\n\nI believe this will become the dominant Human-Agent Interaction (HAI) paradigm:",
+      "zh": ""
+    },
+    "levie": {
+      "en": "The future is files. And GPUs.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Eval-driven development loops for agent skills is necessary. Every new model gets better. You can remove things you don't need anymore. \n\nI just removed /investigate as a skill because Opus 5.5 does it better without it. \n\nYou can feel the AGI tide rising",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "How VCs who got into the 2nd tranche of a hot deal look at the VCs in the third tranche",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "ok so here's how we get to building a 100M company in two weeks before thanksgiving.. \n\nfirst, our preseed plan. we're going to raise $2M. why $2M? simple. $200k for the launch video, $200k to promote the launch video to xM impressions - i have six agencies lined up for this don't sweat with no paid partnerships tag duhh, and $500k for the tokens i'm going to obliterate to have a resemblance of a product. again its all token spend and no employee spend because vcs dont want that. solo founders is hot again so i can fully get away with this lfg.\n\nok, so next we use the token spend that i can vibe code and sell to \"wink friendly wink\" customers and have them give me LOIs and cARR - in return for using their products obviously. scratch mine, scratch yours. ok then i can fully wrap in the most creative financial metrics possible to show xM in revenue of ARR because who even knows what that means anymore. \n\nand then i'm going to run the tighteeest possible process as possible for my \"already oversubscribed seed\". get some sick angels at a discount duhh, fomo VCs, get that tier 1 TS, shop it, and tranche it to the moon baby. first at 40M, then 80M and then finally a few angels at $100M. \n\nof course i'm going to incorporate the company as late as possible even though all the machinery is there. so i can claim 0->10M in revenue on day 14 or whatever. \n\nand yeah completely forgot that i need a sick vision and a full deck, that will need $100k for someone to drill that to me cause i ain't got no clue what this category even means. don't sweat, there's a fundraising expert who might take x% and some cash or whatever to help me whisper to the right networks. yeah, that's a thing. \n\ndiligence? who needs charts and due diligence, we live in the token economy, and lfg economy baby. elections and the market selloff? don't sweat, the seed market is still red hot, it might take a day more, but this will still most def work.\n\nanyway, i'm going to go try this and i'll see you in two weeks eh?\n\n(before i get obliterated this is satire, but every sentence in there individually has personally happened to me)",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "the @every team, nov 2026 \n\nso proud of this crew!",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "SpaceX didn’t build Starship overnight. Ambitious technology demands both urgency &amp; patience.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "We can really now start guiding the experimentation. So where before you, we built these human cell atlases, we had sort of this mapping aspect. Then we talked about the world models prediction problem.\n\nFrom mapping, we went to prediction. But now we can go to actually steering the next experiment. But quite frankly, very often the papers ended with some model, right?\n\nMaybe some sort of concept figure, maybe add a little bit validation. But then typically you start the next project, right? And...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
