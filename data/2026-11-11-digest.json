@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Labs innovating together ftw",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history.\n\nI'm actually really glad Dario is focused on this vs. winning on viral shorts and TikTok memes.",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "One of the lovely details about this, which few other dictation apps get right, is you're able to map the Apple dictation key (special variant of F5) \n\nWe also support push to talk, double tap and single tap shortcuts. kudos to @bamitsmanas for getting all the edges right on this",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding.\n\nWith agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR, assembly…\n\nAI is fluid. No more one-size-fits-all.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box content via Claude.\n\nNow you can have an agent not only pull up content to work with in a workflow, but also write back file updates to Box and view them directly inside of Claude, all via MCP. You can create, edit, and update contracts, presentations, strategy docs, and any other content.\n\nWhen we started Box we couldn't have imagined all the ways that we'd be working with our unstructured data in the future, but it's clear that agents and people will be producing vastly more artifacts than we imagined. We're building the platform that makes it incredibly seamless and secure to work with your content from any agent.",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "working together with other humans is where the magic happens, not each of us running our own army of agents in silos\n\nglad to see this come alive 💛",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Mic drop\n\nGulp\n\nWow",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "\"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months.\nHowever, when it re-ran diagnostics using \"GPT-6 Astra,\" the latest model released by US-based OpenAI, it confirmed 35,000 new vulnerabilities. \"Honestly, we're completely exhausted\"",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "BREAKING:\n\n@Google just dropped Gemini 4 Carbon. It’s a much better coder than Argon—but I’m probably keeping Argon for writing.\n\nWe’ve been testing it at @every across coding, writing, design, and knowledge work. It can work for hours on an ambitious project, but it doesn’t always know when to stop.\n\nHere’s your day-zero vibe check:\n\n• Coding: On one run of our Senior Engineer benchmark, Carbon scored 44%, versus Argon’s 21%. A big improvement, though still middle of the pack. In a separate test, @hammer_mt gave it a backlog to work through. It identified 6 tasks as ready, then did 15—including work someone else was already doing. He stopped it after almost 4.5 hours.\n\n• Big builds: @RandyCounsman gave it 3D scans of our podcast studio and an equipment list. In one attempt, it built a browser-based model accurate enough to check whether new gear would fit without getting into the shot. He estimates Carbon also wrote about 95% of a big update to Everycut, our internal video editor.\n\n• Code quality: @kieranklaassen values its tests and documentation on large projects, including its record of approaches it considered and rejected. Fable remains his first choice, but Carbon has earned a place alongside it. The catch: It can produce huge files where Fable keeps things more modular.\n\n• Audio and video: Randy found it caught audio editing issues other models missed. Kieran handed it a recorded meeting and asked for shorts. It came back with 6 titled clips.\n\n• Design: @jackcheng got a hyperrealistic ginkgo-leaf app icon with details other models struggle with. Objects and 3D scenes look better than Argon’s. Interfaces split the team: Jack and Randy kept getting boxes within boxes, while @TylerNishida liked its ideas for new interfaces. Kieran says giving it design guidance makes a big difference.\n\n• Writing: Our editorial benchmark put Carbon and Argon about even. If you like Argon, you’ll probably like Carbon. But Carbon costs more, and I haven’t seen enough improvement to justify switching.\n\nMy Reach Test: 🟨 I’ll use it sometimes.\n\nGive it one big job with a clear finish line, and review what comes back. It’s also worth trying as a second opinion, especially on audio and video.\n\nFull vibe check coming soon:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Strongly concur. \n\nMy most successful friends also have the most intense hobbies.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you.\n\nRolling out on web and desktop.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "It's like, oh my gosh, how are we ever gonna beat SendGrid? It's im- just impossible.\n\nAnd then earlier this year, we crossed a number of, uh, downloads from SendGrid, and I was like, \"That's insane,\" and now we're more than double.\n\nSo Resend now is powering four point three million users as of this morning. Uh, we have all sorts of customers like, uh, Warner Brothers, HBO. There was a Japanese gang that recently came.\n\nThey, they brought like maybe twenty thousand domains at Resend. Like, thos...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
