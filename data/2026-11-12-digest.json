@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "standing room only for @poteto’s keynote",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "We love this and build with it regularly ♥️\n\nIt makes our apps faster and smarter",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "It’s been a while without resets. Maybe I should come back out of the basement",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Man I am so disappointed in Jensen.\n\nSo many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to his college sweetheart.\n\nWhat the hell happened man?\n\nAnd of all the people to have affairs with you have to choose a spy and a freakin' NVIDIA executive?\n\nCome on dude.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out\n\nso if you’re not one of those please come to mine tomorrow at 5pm\n\nit’s called “the sweet side of the bitter lesson”",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "🚨 NEW LABS EXPERIMENT 🚨\n\nIntroducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\"\n\nDrop links and files into one shared space, add your crew, and ask Tabletop for whatever you need to create custom spaces on the fly:\n\n🗺️ Interactive road trip maps & dinner-decider wheels\n🏆 Live pickleball brackets & merch voting boards\n🪑 Drag-and-drop seating charts (so you don’t get stuck next to your boss)\n\nPull up a chair and join the waitlist (US, 18+):",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news?\n\nThe timing is suspicious, so worth asking: who benefits and why now?\n\nIf Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit.\n\nWhy now? The midterms seem relevant. But also perhaps the upcoming IPOs.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "French execs as a second Jensen story surfaces",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure.. \n\nSome interesting findings from the last time I did this in March:\n\n> 44% of companies list two+ model providers (up from 33%). Small n, but Anthropic grew twice as fast as OpenAI. \n\n> 86 pairs where each company names the other as a subprocessor (@AnthropicAI + @Cloudflare, @vercel + @spacexai)\n\n> 33% of companies list an inference provider (up from 22%). @modal continues to crush. \n\n> Chinese models are primarily coming through video (think Bytedance) rather than text (at least on the subprocessor lists)\n\n> @typesafeai is the breakout hit, going from 0 to many companies in a short period. \n\nCaveat: subprocessor lists tend to be a lagging indicator, but a sure shot way of knowing if the company is using something. \n\nYou can find all the updated data, design and insights at deploygraph dot com. Feedback welcome!",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "reading some of these comments makes my brain hurt. oss is already hard enough without politics.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000.\n\nThen I look at what my team does with the same AI.\n\nLast week, between meetings, I analyzed our customer survey, made a game for our team, spotted an opportunity to sell @Every to teams, built a CRM, and started reaching out.\n\nLook at that and you might ask: Why would I need a team at all?\n\nThe chart seems to agree. On OpenAI's GDPval benchmark, AI went from beating human experts 12.4% of the time in 2024 to around 83% in 2026. That's the aggregate view of the future of work: gather a lot of data and extrapolate a trend line.\n\nBut the aggregate misses something. To see it, you have to get intimate: zoom in on one real situation, with all its messiness, and extrapolate from there.\n\nWe gave everyone at Every access to the same customer survey and the same AI models.\n\n• I found an opportunity to sell to teams.\n• @poojary_yash saw that first-time subscribers were churning because we send too much email.\n• @dabrundage noticed that many of our readers feel lonely: they're excited about AI, but people around them think they're crazy.\n• @jackcheng turned the results into a Claymation game show.\n\nCould you ask Claude to produce what each of them found? Maybe. But generating possibilities is cheap. Knowing which ones matter is hard.\n\n@hammer_mt ran an experiment to predict what I'd say in Slack. When Claude got 400 attempts, it produced an answer like mine 93% of the time. But when it had to rank its own answers, mine landed in its top 10% only around 60% of the time.\n\nEach person on a team is responsible for a different part of the world. That responsibility narrows where they look, and their perspective helps them decide what matters enough to act on. A team explores more possibilities than a single default prompt, and it can take responsibility for what it finds.\n\nThe obvious objection: models will get better at ranking. I think they will. But people aren't frozen while that happens. Comparing 2026 Yash with 2027 Claude misses that there will also be a 2027 Yash, with another year of experience, using 2027 Claude.\n\nAs models improve and spread, they raise the floor for everyone. The default answer becomes the baseline. The value is in using your perspective and responsibility to push past it.\n\nThat's why I think we need to change how we measure AI. Instead of only asking how well a model performs on problems everyone agrees are worth solving, ask: How good is it at doing my work, from my perspective?\n\nThe aggregate can show us the capability curve. The intimate helps us see what we might build, and who we might become, as we ride it.\n\nI presented this at Thesis: 2027. The full talk is on the Every podcast:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "There are basically two kinds of companies to build right now.\n\n1. Diffusion of AI\nThis is the \"vertical SaaS\" of today. There are a bunch of different models for it (FDE company, rollup, horizontal product) but ultimately it all boils down to the same thing: get AI diffused very close to where the work is being done.\n\nProfound, Cognition, Harvey etc. A lot of great companies will get built here.\n\n2. Frontier of AI\nThis is where the really interesting action is. Use AI to accelerate scientific progress, then build products from that progress.\n\nIt is a harder category to see. But we are seeing a lot more of it at @spc:\n\n- Externa is adding hundreds of new chemical building blocks to proteins, so you can engineer a drug to match the disease instead of settling for what nature gave you.\n\n- Epana Bio is using genomics and AI to design autoimmune therapies that go after the cellular origin of the disease.\n\n- VenomicsAI is doing AI-accelerated drug discovery from venoms.\n\n- Equivariant is doing multi-physics modeling for the semiconductor industry.\n\n(There are always picks-and-shovels for AI as well. Lots of amazing companies in that category.)\n\nCategory 2 is not well understood or much talked about externally. It should be because I think that is where the vast majority of model driven returns will come from.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Hey, welcome back to the Every Podcast, where we talk about the future of work.\n\nI'm Natalia Quintero, and at Every, our team of writers and builders use AI every day, so we can tell you how the frontier is shifting, what actually works, and what you need to know.\n\nSo last week at Every, we hosted our first ever conference, V.C.S.S.,\n\nIt was a full day of talks in Brooklyn featuring speakers from Anthropic, OpenAI, Notion, Lovable, Ode, and many more.\n\nIf you missed it, we'll have all of the tal...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
