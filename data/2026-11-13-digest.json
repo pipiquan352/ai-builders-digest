@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "the production team got us a cake!! #aie1m",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Gemini, now from your point of view",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Can't tell if this is real but if NVIDIA employees feels strongly doing something like this isn't a bad idea.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "it’s time to retvrn",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Makes total sense that congressman leading the inquiry into Jensen’s alleged foreign ties is the same guy who showed up at the Capitol wearing a foreign army uniform. He’s an expert at foreign ties!",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "What happens to frameworks in the agents era? to component libraries? to @shadcn? \n\nThe answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate.\n\nUI SDK is like the x86 instruction set for agents to build new UI components spontaneously. \n\nAgents are the new design engineers, and they're ready to build *anything* you ask, tailored to your usecase. High-level, rigid, single-framework abstractions are like kryptonite for what is essentially an infinite, untiring creation machine.\n\nI think we've found someone that allows us to have the cake and eat it too. A decades-long dream. UI SDK is packaged behaviors that give us accessibility, performance, cohesion, saving us tokens, errors and effort, but with absolutely zero limitations and tradeoffs for what UIs we can generate.\n\nEnjoy!",
+      "zh": ""
+    },
+    "alexalbert__": {
+      "en": "A lot of getting good work out of Claude now is just finding the context it’s missing and figuring out how to close that gap\n\nClaude Meetings is one way to bring in the remaining slices and has proved very useful internally",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with the Box AI Complex Work Eval, and it’s a serious jump for fast models. \n\nHydrogen is 5 percentage points better in accuracy than Gemini 3.8 Flash. That alone would be a great boost in capability, but possibly more importantly it did the tasks in less than half the time with about 12% fewer tokens on a typical task.\n\nFor this eval, we give the Box Agent Hydrogen as a model for a series of complex tasks that represent real world work with enterprise documents across finance, consulting, life sciences, and other industries. Hydrogen will be a great model for a lot of efficient but complex tasks across these fields.\n\nGemini team is definitely cooking. Hydrogen will be rolling out in the Box AI Studio shortly so any customer can build a custom agent with it.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "My first time at Slush next week, and the schedule is like:\n\n* boozy brunch\n* post-lunch cocktails\n* sauna &amp; wine!\n* afternoon tea and whiskey\n* join us for pre-dinner drinks!\n* dinner showcasing premium spirits\n* post-dinner cocktails\n* come drink with us at the after party!!",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "I know everyone is plugged into the Jensen news, but 9 hours of this without resolution is wiiiiild..\n\nI guess it’s going to get way WAY worse before it gets any better. \n\nAnd it’s going to happen to every single organization - big and small ☠️",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Claude the first time it sits in on one of my meetings:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "We would not be where we are today without Jensen.\n\nIt is viscerally painful to see what is happening.",
+      "zh": ""
+    },
+    "claudeai": {
+      "en": "Claude joins as a visible participant. Ask it a question out loud or in chat, or have it start a doc. Your team can see what it’s building and correct it as it takes shape.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:24\nThe large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
