@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-11-14T18:57:15.565Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2121473082372292885",
+          "text": "come to https://t.co/Jlx1Lz0P5U tmr !\n\nhttps://t.co/3Zb9a9HZlY",
+          "createdAt": "2026-11-14T05:19:32.000Z",
+          "url": "https://x.com/swyx/status/2121473082372292885",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2121469001553555648"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2121431117526134923",
+          "text": "And here's a story from an NVIDIA employee. Btw, I encourage anyone reading this to do your own research.\n\nhttps://t.co/Yf5NhhhArY",
+          "createdAt": "2026-11-14T02:32:47.000Z",
+          "url": "https://x.com/petergyang/status/2121431117526134923",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2121331681332539883"
+        },
+        {
+          "id": "2121430819667579031",
+          "text": "Here's some evidence of the questionable reporting - it's still unclear that Alice Huang is a spy despite WSJ jumping to conclusions.\n\nThis is from the Singapore gov: https://t.co/6WnZqOt0KH https://t.co/TvUEyV1bOB",
+          "createdAt": "2026-11-14T02:31:36.000Z",
+          "url": "https://x.com/petergyang/status/2121430819667579031",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2121430386685395022",
+          "text": "If you know a loved one suffering from cancer or another long-term illness:\n\n1. Upload all of the patient's medical records (e.g., to a Google Drive folder)\n\n2. Tell ChatGPT or Claude to install my free /fuck-cancer skill (just point them at the link: https://t.co/4fi5N8hsSG)\n\n3. Point the skill at the folder to create a one-page brief, research clinical trials, and more.\n\nYou're also welcome to fork the skill and modify it for other long-term conditions. \n\ntl:dr Use the full power of AI to beat shitty diseases.",
+          "createdAt": "2026-11-14T02:29:53.000Z",
+          "url": "https://x.com/petergyang/status/2121430386685395022",
+          "likes": 434,
+          "retweets": 36,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2121325325388824708"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2121428406764204199",
+          "text": "It's been great partnering with @Visa on agentic commerce. More features and use cases are coming! https://t.co/R15wSaMQ7c",
+          "createdAt": "2026-11-14T02:22:01.000Z",
+          "url": "https://x.com/amasad/status/2121428406764204199",
+          "likes": 105,
+          "retweets": 6,
+          "replies": 35,
+          "isQuote": true,
+          "quotedTweetId": "2121337014733750781"
+        },
+        {
+          "id": "2121389001546567837",
+          "text": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale!\n\nFeel free to share @GavinSBaker https://t.co/7fMPobz2ud",
+          "createdAt": "2026-11-13T23:45:26.000Z",
+          "url": "https://x.com/amasad/status/2121389001546567837",
+          "likes": 1270,
+          "retweets": 104,
+          "replies": 59,
+          "isQuote": true,
+          "quotedTweetId": "2121360881892389376"
+        },
+        {
+          "id": "2121377395244749097",
+          "text": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen https://t.co/eZvYNAc43r",
+          "createdAt": "2026-11-13T22:59:18.000Z",
+          "url": "https://x.com/amasad/status/2121377395244749097",
+          "likes": 2557,
+          "retweets": 367,
+          "replies": 108,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2121351007615811799",
+          "text": "Co-sign https://t.co/BaaFgrSaXG",
+          "createdAt": "2026-11-13T21:14:27.000Z",
+          "url": "https://x.com/rauchg/status/2121351007615811799",
+          "likes": 3392,
+          "retweets": 103,
+          "replies": 37,
+          "isQuote": true,
+          "quotedTweetId": "2121345211959804234"
+        },
+        {
+          "id": "2121347136965210286",
+          "text": "Vercel Sandbox is inevitable https://t.co/w25tdheX95",
+          "createdAt": "2026-11-13T20:59:04.000Z",
+          "url": "https://x.com/rauchg/status/2121347136965210286",
+          "likes": 227,
+          "retweets": 4,
+          "replies": 67,
+          "isQuote": true,
+          "quotedTweetId": "2121346552476377102"
+        },
+        {
+          "id": "2121277727940776114",
+          "text": "Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents.\n\n◾ The 'time to first step' and 'time between steps' have massively improved.\n\n◾ We doubled down on encryption and security.\n\n◾ The reliability of the overall system has been proven at massive scale. We've ironed out many subtle details and exercised many disaster-recovery scenarios.\n\n◾ We made the underlying durability log reusable for any agent harness. 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜 was born.\n\nCheck it out:",
+          "createdAt": "2026-11-13T16:23:16.000Z",
+          "url": "https://x.com/rauchg/status/2121277727940776114",
+          "likes": 345,
+          "retweets": 8,
+          "replies": 101,
+          "isQuote": true,
+          "quotedTweetId": "2121272480786731294"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2121464508225053153",
+          "text": "Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.\n\nOpus already solves most of these tasks, though, so telling the two apart will take harder ones.\n\nhttps://t.co/SfIvr9pHNg",
+          "createdAt": "2026-11-14T04:45:28.000Z",
+          "url": "https://x.com/garrytan/status/2121464508225053153",
+          "likes": 154,
+          "retweets": 10,
+          "replies": 69,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2121463161069228382",
+          "text": "Here's my open source harness eval repo and what it found\n\nhttps://t.co/v0sQymE8qM https://t.co/XWp5KliSlN",
+          "createdAt": "2026-11-14T04:40:07.000Z",
+          "url": "https://x.com/garrytan/status/2121463161069228382",
+          "likes": 135,
+          "retweets": 8,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2121438470531109308"
+        },
+        {
+          "id": "2121462697787342932",
+          "text": "Jensen deserves due process, not whatever is happening right now. I signed. \n\n#standwithjensen https://t.co/3yTMpxHJoC",
+          "createdAt": "2026-11-14T04:38:16.000Z",
+          "url": "https://x.com/garrytan/status/2121462697787342932",
+          "likes": 2017,
+          "retweets": 122,
+          "replies": 69,
+          "isQuote": true,
+          "quotedTweetId": "2121339322385440842"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2121358328169132503",
+          "text": "Breaking news: VCs to opine shortly on FAA nationwide airport ground stop.",
+          "createdAt": "2026-11-13T21:43:33.000Z",
+          "url": "https://x.com/mattturck/status/2121358328169132503",
+          "likes": 150,
+          "retweets": 3,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2121366466905981435",
+          "text": "Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever happened..\n\nFirst time was 9/11, second time was the NOTAM system outage in 2023, and now today (reasons unclear).\n\nHappy Friday the 13th to all the agents celebrating 💀",
+          "createdAt": "2026-11-13T22:15:53.000Z",
+          "url": "https://x.com/nikunj/status/2121366466905981435",
+          "likes": 54,
+          "retweets": 2,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2121320899161010360",
+          "text": "I thought after Llama 4 we had stopped benchmark-maxxing as a flex.. but it seems like the cartel is back again. \n\nThere’s no substitute to really using the models for your workflows to understand the best ones that actually work for your workflows. \n\nIn reality, there’s only very very few benchmarks that truly matter, and the real ones know. \n\nRest is primarily posturing or hill climbing on one just to use as marketing (which in reality does work for a select group of companies but won’t last over time)",
+          "createdAt": "2026-11-13T19:14:49.000Z",
+          "url": "https://x.com/nikunj/status/2121320899161010360",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2121291022366122373"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2121367890095960507",
+          "text": "stuff like this seems to be getting more common. extremely impt it gets fixed, and everyone in AI should be willing to help make sure it does https://t.co/SahVGlswJ4",
+          "createdAt": "2026-11-13T22:21:32.000Z",
+          "url": "https://x.com/danshipper/status/2121367890095960507",
+          "likes": 29,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2121348905296343341"
+        },
+        {
+          "id": "2121248233510818003",
+          "text": "why teams still pay for software even when Fable 5.2 can vibe code anything:\nhttps://t.co/x2ijjgwjaN https://t.co/IqaqbBkjLW",
+          "createdAt": "2026-11-13T14:26:04.000Z",
+          "url": "https://x.com/danshipper/status/2121248233510818003",
+          "likes": 83,
+          "retweets": 7,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2121243400293007866",
+          "text": "musing: \n\nthe most important formula in AI https://t.co/YWBzxClRSb https://t.co/PeIwGrrziD",
+          "createdAt": "2026-11-13T14:06:52.000Z",
+          "url": "https://x.com/danshipper/status/2121243400293007866",
+          "likes": 76,
+          "retweets": 11,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2121372222292201767",
+          "text": "We are in an extremely weird timeline right now.",
+          "createdAt": "2026-11-13T22:38:45.000Z",
+          "url": "https://x.com/adityaag/status/2121372222292201767",
+          "likes": 114,
+          "retweets": 7,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2121281677238604148",
+          "text": "Proud of our companies in the AI 100.\n\nBaseten, Render, Profound, Replit, Gamma, Cog and Density. https://t.co/Z3s327MaF0",
+          "createdAt": "2026-11-13T16:38:58.000Z",
+          "url": "https://x.com/adityaag/status/2121281677238604148",
+          "likes": 29,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2120967226065035462"
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Training Data",
+      "title": "A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-11-05T10:00:00.000Z"
+    }
+  ]
+}

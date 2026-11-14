@@ -1,0 +1,48 @@
+{
+  "x": {
+    "swyx": {
+      "en": "come to  tmr !",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "If you know a loved one suffering from cancer or another long-term illness:\n\n1. Upload all of the patient's medical records (e.g., to a Google Drive folder)\n\n2. Tell ChatGPT or Claude to install my free /fuck-cancer skill (just point them at the link: \n\n3. Point the skill at the folder to create a one-page brief, research clinical trials, and more.\n\nYou're also welcome to fork the skill and modify it for other long-term conditions. \n\ntl:dr Use the full power of AI to beat shitty diseases.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Co-sign",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Jensen deserves due process, not whatever is happening right now. I signed. \n\n#standwithjensen",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Breaking news: VCs to opine shortly on FAA nationwide airport ground stop.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever happened..\n\nFirst time was 9/11, second time was the NOTAM system outage in 2023, and now today (reasons unclear).\n\nHappy Friday the 13th to all the agents celebrating 💀",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "why teams still pay for software even when Fable 5.2 can vibe code anything:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "We are in an extremely weird timeline right now.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Training Data": {
+      "en": "Speaker 1 | 00:00 - 00:32\nA lot of our philosophy in product actually comes from Apple. In, like, the early two thousands, you had a computer that had access to the Internet, and you had a phone that you could make phone calls. And I think no one really thought to put the two together until Apple said, okay. What if you actually put the Internet on a handheld device and combine the two? And I think by doing this of of basically putting training, eval, and deployment in one place, making that jus...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
