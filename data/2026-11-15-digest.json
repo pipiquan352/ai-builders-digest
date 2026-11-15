@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "New in Gemini: Connect Google Wallet for personal finance insights\n\nThis is powerful for things like:\n+ making instant charts to visualize your spend\n+ finding sneaky subscription price hikes\n+ making a holiday budget based on what you actually spent last year",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Two very useful prompts to try with Fable 5.2:\n\n\"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes.\n\n\"/claude-api prompt-audit [skill name]\": Audits one skill in depth.\n\nI wish Claude Code auto-suggested running these every time Anthropic releases a new model.\n\n📌 Watch my full tutorial on how I use Fable and Opus here:",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once considered a rare failure is now a daily thing.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Got to experience the magic of @uisdk.\n\nTwo prompts of fx + Gemini Argon. Pure Web Components. No framework.\n\nThe agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching,  typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys, ARIA, and WebMCP agent control.\n\n (source linked)\nMusic by @suno.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks. As a result, agents that can use software to do their work, or generate code from scratch, will improve at a faster rate than all other domains of knowledge work.\n\nOn one hand that could mean that only a small subset of work can get automated. But probably what happens is that more and more work just becomes coding-shaped to adapt to what agents are good at.\n\nYou can see it in the most recent examples of model releases in the past couple of months, where agents can generate code that becomes animated videos, games, 3D models for products, and so on. We also know that tool use gives agents the ability to work with much of the same software that people already work with. This helps in cyber, life sciences, finance, and a number of other domains.\n\nOur mental model traditionally has been that the models have to be able to know everything about anything to generate value, but in reality they *really* have to know how to use or generate software effectively combined with deep domain expertise to make the right judgment calls inside of workflows. \n\nWhen you have that powerful combination, almost everything else gets unlocked. This is why the acceleration of agents in knowledge work is only going to increase from here.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Do all this and use it with gbrain :-)",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Great take.  NVIDIA is the one deep pocketed player that has a clear business interest in open weights AI, and was willing to make founder-type big bets. What happens now?",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "2026 Startup Bookshelf 📕",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "🍿",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "if you want all of the raw alpha from @every you should have your agent read our frontier feed\n\nwe publish all of our frontier team's experiments with AI including raw code and short writeups\n\nno faster way to get inspired 👇",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:06\nAs you think about Anthropic, is that something you're optimistic on? It's like, hey. That's that's undervalued or something you're like, oh, I don't know what's gonna happen to that.\n\nSpeaker 2 | 00:06 - 00:32\nI get the sense that a lot of the expectations baked in are ones that are not just product level, but based on, like, misunderstandings of the future of AI and what it can do. So my guess is that because some people might be valuing, like, building god as basical...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
