@@ -1,0 +1,52 @@
+{
+  "x": {
+    "swyx": {
+      "en": "clanker wrote up a short recap of the talk",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Alright I can't help it:\n\nNYTimes published this article that \"US intelligence had believed\" Alice Huang was a spy: \n\nBut there's still no proof one way or another whether she was a spy or not, per CNN: \n\nSo where did this spy narrative come from? Show us the evidence?",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "It’s cute that my Waymo turns on its windshield wipers in the rain",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "a new arena and two new characters",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "It’s been an interesting 48 hours.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Introducing 𝚡𝚎𝚎𝚝: \n\nA hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\" 😁).\n\nX is the global town square, and the medium is the message. Being able to preview what things will look like before posting is great for both humans and agents.\n\nRendering with xeet is is 100x-1000x faster than booting up a browser and taking a screenshot, yet it's just as accurate.\n\nIt reproduces Blink & HarfBuzz text shaping, 1/64px line breaking, RTL bidi, 28 Chirp font subsets, CJK/Math/Emoji fallbacks, \"Show more\" rules, etc. It's the kind of thing that would be wildly impractical, if not impossible, for a human engineer to pull off.\n\nExcept 𝚡𝚎𝚎𝚝 is structured as an \"autorepo.\" An oracle boots up Chrome, and verifies tens of thousands of text layout rules. A CI canary then watches the evolution of the original, and files signed PRs for agents to act on. It was conceived from the ground up around 'verification engineering', and the result speaks for itself.\n\nEnjoy!",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Next guest up in this weekly series is @kanavg1, cofounder of @coreauto on Friday, Nov 20th at noon. \n\nFor this session, we'll be chatting about all things RL (methods, synthetic data, loops, automation etc)\n\nFormat:\n> 60 minute sessions (IRL only) in SF\n> For the first 45 mins, I get to ask the guest spicy questions about their expertise\n> For the last 15 mins, they get to ask me anything they want to learn about venture\n> All off the record, chatham house rules\n> Open to 15 guests who listen in and can ask some of their own questions\n\nRegister here if you want to join, and subscribe to the Luma for future guests:",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "we've been working hard on compounding skills lately (skills that get better every time you use them) \n\nand i think @hammer_mt finally cracked it\n\nthis weekend i made a skill to help us write context window summaries, and used autoresearch to iterate until it hit 80% of my taste on summaries vs. a no-skill baseline\n\nfull writeup for your agnets on the @every frontier feed:",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "One of our aerospace companies in India shared this with me today morning.\n\nThe journey to the stars starts with a single plane on a remote runway on an early Sunday morning. \n\nAd Astra.\n\n@shreepoorna365 @arctusaerospace",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:07\nPrediction markets are an evolution of news. You just can see what's happening and what's likely to happen in the future through the odds.\n\nSpeaker 2 | 00:07 - 00:11\nWhat is your reaction to the revolution in math that's happening with AI today?\n\nSpeaker 1 | 00:11 - 00:20\nIt's too centralized, right? It's like AI companies with their big data centers and their employees using secret models to sort of do all this work.\n\nSpeaker 2 | 00:20 - 00:22\nDo you think people will ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
