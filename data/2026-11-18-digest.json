@@ -1,0 +1,60 @@
+{
+  "x": {
+    "swyx": {
+      "en": "devin bots are multi-agent teams done right:\n- always on, proactive (but tuned for ROI)\n- own outcomes not tasks (but can collab w others)\n- manages teams of subagents (and reviews itself)\n- available everywhere (call text slack whatever hello @interaction)\n- consistent reporting thru interactive artifacts aka devinapps not long chats (HTML is all you need™ @trq212)\n\nthis is the preview that @walden_yan gave at AIE. i've been trialing them for a week and i've been able to hand over my AEO, QA, cross-platform app porting, personal admin automation, and video editing work (also simultaneously moving from local agent worktree hell to cloud because ofc this is all cloud based thank god)\n\nhyped concepts this replaces:\n- /goal\n- \"ultracode\" / \"ultra mode\"\n- \"loop engineering\"\n- \"agent to agent\"\n- \"agent swarms\"\n- AI employees (see below)\n\nmy main aha moment is that you don't want \"AI Employees\", we do not have agi yet and you will just fail if you overpromise/overexpect. what you want is the \"just\" the next level of abstraction above single tasks, and the overwhelming consensus I've had talking to everyone at the frontier of agents (yes incl cog competitors) is agent managers that own outcomes. \n\nincidentally, as an employer of humans it's also how i distinguish between someone who \"has agency\" (owns a problem area, finds issues and researches/brings solutions not problems) and who doesn't (only does precisely what i asked, not proactive, doesn't come up with suggestions i didn't think about). guess which one i value more lol.\n\nif youre a startup, reminder that Devin for Startups offers 65k in credits. apply via clanker",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to get the job done and save you time and money along the way.\n\n3 major updates:\n\n1) Running on our new Gemini 4 Hydrogen model, Gemini can get stuff done at no cost for hundreds of millions of people across the US, Japan, Korea, Canada, Australia, and India.\n\n2) Many highly requested features are rolling out now, starting in the US:\n* Call local businesses (via Google Duplex)\n* Pay and check out (via Google Pay)\n* Text Gemini on Android or iOS (via RCS)\n* Forward emails to Gemini (via Gmail)\n* Sign into sites without sharing passwords outside Google (via Google Password Manager)\n\n3) We’ve also landed our biggest update yet for the Gemini <> Google Workspace integration. The tools trigger more reliably, and you can do much more without ever leaving Gemini. Draft or send emails. Create and edit Docs or Sheets. Add multiple Calendar events at once.\n\nReady to hand off your next task? We can’t wait to see what Gemini crosses off your list first.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Ok I'll tell you guys the truth - since I didn't get early access the GPT-6.2 Astra I paid off all the other influencers so they could leave negative reviews.\n\nYes it's indeed a big conspiracy. Also you MUST eat my brisket I won't accept no for an answer.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "Didn’t think it was possible to do iOS-quality gestures on the web",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software is here!",
+      "zh": ""
+    },
+    "ryolu_": {
+      "en": "crazy ideas are now possible\nbut it takes just as much care and effort",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Only three people to remove from the board? Easy work\n\n15% shareholder vote coming",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Building intelligence that compounds: excited to announce our investment in @remanencelabs and partner with @plcedoz, @hparams and Axel Moyal - a $30M seed co-led with @eqt. \n\nMore on continual learning and the thesis here:",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Grateful for another trip around the sun today with the best family, friends and founders/coworkers ✌️\n\nLife’s been chaotically busy with just work, computer, family and some sleep. \n\nNot much time for anything else. \n\nGoal for next year is to do all of those, get fit, be present and be funmaxxing as much as possible. \n\nSend me your best tips on how to do it all!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "the @every team's full ratings for Astra and Sol 6.2\n\nhard to remember a frontier model release like this. opus 5 is the closest comp",
+      "zh": ""
+    },
+    "sama": {
+      "en": "6.2 Sol and Astra are out.\n\nThese models can do amazing things and are very token-efficient; we hope people will get great value from them.\n\nIn particular, 6.2 Sol ultrafast is something I think people will really enjoy.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Happy to bring to you our episode with Black Forest Labs.\n\nOur guests today are Andreas Blattmann, he also goes by Andi, who is co-inventor of latent diffusion, the technique that eventually got scaled up by Stable Diffusion and Stability AI, and they eventually split with a bunch of, uh, the core Stability AI image gen folks to form Black Forest Labs.\n\nAnd Dustin Podell, who I also met with Anj, uh, at one of the stories that we tell, and, uh, who worked his way up from just being a regular eng...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
