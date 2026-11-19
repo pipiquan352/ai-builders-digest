@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "casting Monica Barbaro as temu Mira Murati is crazy work",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use!",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "How is 6.2 Sol treating you today?",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "Why do people have to make board games that are so complicated",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "also applies to work",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "this is one of those reasons why I don't think most people will really generate their own software\n\ngood software is a set of strong opinions and I'd rather have something that's been really thought through by someone else",
+      "zh": ""
+    },
+    "GoogleLabs": {
+      "en": "🚨NEW EXPERIMENT 🚨\n\nPlease join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products.\n\nJoin the waitlist:",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate.\n\nWith Replit Missions you can see how the agents are coordinating and talking.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each.\n\nBut it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM compounded since the beginning of the year. No signs of stopping.\n\nOne way to reconcile this is that compute is the new economy, and tokens the new energy unit. There’s a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system that enhances everything. More like an “oil rush” than a “gold rush”: it’s durable, not a fad.\n\nIn the short term, I anticipate more expansion, followed by consolidation due to economies of scale, cybersecurity and enterprise requirements (ZDR and cyber being a hot topic for inference providers), capital requirements, and an evolving regulatory landscape.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. \n\nWe’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a set of tasks. But as agents can both fan out and work in parallel, handle much larger context, be able to do long running work, and have far greater levels of capabilities, we’re entering yet another level of what we can have AI do for us.\n\nWe’ll soon be able to give agents a set of goals, and they can go out and design the best solution for that goal, while also continuously improving it based on the ongoing execution of whatever it built. This will obviously start with engineering because that’s where we’re seeing the best practices emerge first in almost every new era of agents. \n\nBut the impact can be quite massive across the rest of knowledge work. You’ll tell an agent to improve your client onboarding workflow to achieve a certain targeted goal; or have agents go reduce risk in your business; or improve your security posture on an ongoing basis.\n\nThese autonomous systems will be able to take on a set of goals, design the best outcome, test and iterate, deploy, and then optimize whatever it built on an ongoing basis. Importantly, this leads to outcomes and results that humans literally couldn’t have accomplished before. This will lead to fairly new levels of productivity with AI.",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "Ok this happens a lot so I thought I’ll lay it out here..\n\nfounder friend: my pitch isn’t working on the fundraising side. haaalp. \n\n*proceeds to give me the pitch*\n\nme: ambition is what’s being rewarded right now. what do you believe to be true if everything you laid out works? think about the second and third order effects as a result of you being successful. \n\nfounder: err, if everything works out, then “this” happens. \n\nme: put “this” in the pitch in the first slide and walk the investor how you get to “this” by building what you’re building in the first place and how you earn the right to get there. \n\nfounder: no, they’ll think I’m crazy\n\nme: try it. what do you have to lose?\n\n*tries it very reluctantly*\n\nfounder (4 days later): you *insert expletive*.. it worked. \n\nme: see. you always had it in you, you just had to tell it. \n\n—\n\nIf you’re an ambitious founder reading this and having the same issue, try this, I think it’ll work. If it does, please tell me!!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "Legggoooo",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": "Stablecoins will likely be one of the biggest ways for America to exert soft power.\n\nIf you are living in most countries outside of India and China, then you 100% would prefer to own dollars. Ditto for businesses.\n\n🇺🇸🇺🇸",
+      "zh": ""
+    },
+    "sama": {
+      "en": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "AI & I by Every": {
+      "en": "Everybody can start making their own software, no?\n\nIn some sense, the original vision of the 60s, 70s, hippie generation of computing come to life, and that's actually why Notion was started.\n\nNotion was about how do we bring this computing power to as many people as possible without forcing them to learn how to code.\n\nHello and welcome to the Every Podcast.\n\nI'm Dan Shipper.\n\nAnd I'm Natalia Quintero.\n\nAnd this week we're talking about a conversation that you had, Dan, with Ivan Zhao, CEO and ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
