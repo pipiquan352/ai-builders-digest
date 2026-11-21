@@ -1,0 +1,68 @@
+{
+  "x": {
+    "swyx": {
+      "en": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet?",
+      "zh": ""
+    },
+    "joshwoodward": {
+      "en": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the post from @UFO2002616 so much that we just built it and threw it into prod! \n\nLong click on the model picker on the web and enjoy 🙂",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "BREAKING: @JensenHuang Once Tried to Offer Brisket to a Visibly Vegetarian Squirrel",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "big perf and QoL wins for actions you do dozens to hundreds of times a day",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "Who are the most interesting AI people I should meet in Chennai? \n\nI’ll be in town end of Nov - 1st wk Dec.\n\nabout me: \nI’m at Meta building AI products now; previously led product for Gemini, Veo and Nano Banana models at Google.\n\nschedule is tight but I should be able to squeeze in a few meetings.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "I think I’ve figured out the gameplay loop!\n\nIt’s a sports anime game, but the sport is elemental bending.\n\nYou fight in tournaments alongside your squad, and between matches they have their own stories you can get into, like in Mass Effect or Dragon Age.",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "With two separate Riemann proofs, one AI and one Human, coming out at the same time, assuming they’re both correct, it’ll be interesting to see the difference especially on elegance.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "ISO 42001:2023 is like the \"SOC2 of AI\".\n\nIt's the first global, independently audited standard for how companies build, evaluate, monitor and govern AI systems.\n\nWhen you ship on and use Vercel's AI, you now know the infra is audited annually by an accredited third party.",
+      "zh": ""
+    },
+    "levie": {
+      "en": "Going to be a big day in math",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "You don’t need an asset seizure tax\n\nYou need to encourage building new ideas and startups in California\n\nAnd then you need a government that spends it wisely on things that help the people\n\nThat’s it. The ivory tower academics and the SEIU-HNW union bosses have it wrong.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "Automated agentic emailing  vs the real world, a story: \n\nGuy emails me twice to meet at a conference (Slush)\n\nI reply once \n\nHe then emails me 3 times in rapid succession \n\nDamn that guy really wants to meet \n\nI bump into him later that day \n\nI say “well, was meant to be”\n\nHe reads my name tag, twice.\n\nBlank face.  He clearly has no idea who  I am. \n\nHe says “oh hi” and walks away. \n\nThe end.",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "\"one dawn across science of something far greater\"",
+      "zh": ""
+    },
+    "adityaag": {
+      "en": ".@theRealTrishaK started @unit21inc at @spc in 2018. \n\nIt has since caught $14B+ in financial crime.\n\nKavitha Iyer Rodrigues started @zumutor in 2013, believing new cancer drugs would be discovered in India.\n\nJoin us at @spc_india on Nov 25th.",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Latent Space": {
+      "en": "Kari writing this blog post, like issue tracking is dead. Yeah.\n\nSo like how do you explain to your customers that like, \"Hey, you know, our entire business was issue tracking before, and now our CEO just wrote this blog post\"?\n\nThe great thing about our business is that we're not like so big to like kill ourselves, right? [laughs] Yeah. Like [laughs] um- [laughs]...\n\nit's probably really hard if you're Google to like kill the search business, right? Yeah. And put an AI, you know, box at the top...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
