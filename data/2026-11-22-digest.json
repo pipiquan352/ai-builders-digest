@@ -1,0 +1,56 @@
+{
+  "x": {
+    "swyx": {
+      "en": "is there any possible benign explanation why these providers were secretly phoning home? because wtf",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "Going to check out this threads thing",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I get the complaints about GTA VI now wtf is this",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "Forget second brain. Third brain.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "yes, Claude is doing a lot of the technical work. and yes, maybe future models will one-shot \"prove the Riemann hypothesis\" or \"make javascript a static language\"\n\nbut I believe collaborating with models to push the frontier is a deeply technical skill in its own right",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "A high school kid is recompiling the GTA6 to work on PC.\n\nWhat’s more interesting is how they’re github issues to coordinate tasks across agent swarms.\n\nA new model for open source?",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "We need  for AI feats",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This post nails why we why we should take the Riemann Hypothesis breakthrough very seriously, even beyond math. We’re entering an era where solving problems will look very different from how we solved them in the past.\n\n“This is not theory-building in the usual sense. It is something much weirder and more alien. The best human mathematicians know how to build theory, painstakingly, to reach a goal. But no human brain, on its own, is capable of creating a wormhole that requires a 25,000 page long tour through existing infrastructure with no obvious or realistic connection to the goal. But huge credit to Levent here: I think no current AI, on its own, is capable of this either.”\n\nIt used to be the case that to solve a particular problem - code, life sciences, math, cyber, engineering, and so on - you were ultimately bound by how much information an individual or team could retain and understand about the space. More information or more team members don’t always help, because it gets harder to connect the dots or coordinate amongst everyone. AI changes that completely. \n\nFor the first time ever we can decouple the human context limits and ability to work through information from our ability to drive productivity or discoveries. This is likely not just a small increase in the kinds of discoveries we can drive, but a qualitative shift in human output. \n\nNow every single form of prior art, insight, past research, past decision, or unrelated breakthrough, can be used for the discovery or creation of something new. This is useful for anything from cybersecurity to life sciences research. Agents will be able to correlate entirely unrelated work to a separate project; scan every bit of data in your enterprise for solving a problem; and so on. \n\nThe solutions may not be as elegant as they were in the past, but we sure will have far more of them. We’re only in the first couple of months of actually understanding the implications of this but it’s clearly going to drive a lot of change.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "Given AI and all the GTA VI hate, how long before a vibe coded hobbyist PC port with all the hated design flaws removed?\n\nCould literally be a month or two with enough tokens.",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "First Slush wrap up \n\n* best startup conference \n\n* visually striking, in a gothic dark chic kinda way\n\n* organized by students! Super pros\n\n* convos about Russia threat (next door) is a whole vibe \n\n* conferences in non-tech hubs work great because people stay put at the event\n\nw/ @neilzegh 👇🔥",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "great piece\n\nbenchmarks have to choose what to measure and what to keep constant—numbers go up doesn't always mean what you think it means\n\nanother good window into this is to look in rich detail at how AI-pilled teams are putting model capabilities to work in practice:",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "No Priors": {
+      "en": "Speaker 1 | 00:00 - 00:24\nThe large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there's toxicity that we didn't account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}
