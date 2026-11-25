@@ -1,0 +1,72 @@
+{
+  "x": {
+    "swyx": {
+      "en": "hey is silicon valley okay because wtf",
+      "zh": ""
+    },
+    "bcherny": {
+      "en": "Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box.",
+      "zh": ""
+    },
+    "thsottiaux": {
+      "en": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "zh": ""
+    },
+    "petergyang": {
+      "en": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo.\n\nSome takeaways:\n\n1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once.\n\n2. /grill-me is a great built-in skill that gets Antigravity to ask clarifying questions to help you flesh out the plan first.\n\n3. Remote control is better than Claude Code's because every thread is active by default. I show you how to add Antigravity to your phone home screen to run this in the video.\n\n📌 Watch my full 17-minute Antigravity course here:",
+      "zh": ""
+    },
+    "thenanyu": {
+      "en": "DOT SUPREMACY",
+      "zh": ""
+    },
+    "realmadhuguru": {
+      "en": "the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right.\n\nit’s wild how many prominent VCs, analysts and experts spoke with complete confidence about how things would play out .\n\nsome flip-flopped on their predictions within days - each time with the same confidence!\n\nour info ecosystem asymmetrically rewards certainty, speed and brashness… “I don’t know,\nlet’s see how this plays out” just doesn’t get eyeballs.\n\nworth remembering with ALL “expert” commentary you consume - people often have far less certainty than their tone suggests. they just form a view, stake out a position and say it loudly.\n\ntake everything with a sack of salt.\n\nthis news cycle was also a good way to calibrate on the people who are consistently loud and wrong.",
+      "zh": ""
+    },
+    "trq212": {
+      "en": "you have to be bad at it for a while",
+      "zh": ""
+    },
+    "amasad": {
+      "en": "America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.\n\nGovernments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control.\n\nIf American companies won’t meet that demand, Chinese companies will. Countries will start with Chinese models, then adopt Chinese infrastructure and chips. Having the smartest model won’t mean much if most of the world runs on someone else’s stack.\n\nWe’ve seen a version of this play out with Huawei. China understood that supplying the world’s telecom infrastructure creates lasting strategic influence. Once a country builds its networks around your equipment, it also builds technical expertise, supplier relationships, and future investment around it. Replacing that equipment becomes expensive and disruptive (the US government is now trying to finance replacement operations but it’s been difficult).\n\nThat’s why Jensen’s backing of the American open-model ecosystem is so important. Open models give startups the freedom to compete and give countries a reason to build on American technology.\n\nWe need both frontier leadership and global adoption. Open models are essential to getting both.",
+      "zh": ""
+    },
+    "rauchg": {
+      "en": "Good stuff",
+      "zh": ""
+    },
+    "levie": {
+      "en": "This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted AI.\n\nThis is a different phenomenon from other tech. Typically in the economy you think of technology adoption rates on a per firm basis, because the company generally adopts a relatively standardized approach to doing the new tech thing. Like “that company has gone digital or adopted the cloud”. So generally the uplift across teams is more or less the same across teams. \n\nAI is starting to look quite different. Even within the same company you can have a 10X delta between the lowest and highest adopters of AI and the impact they’re seeing. The teams that are able to actually figure out how to redesign their processes to best deploy agents in their workflows can see up to an order of magnitude jump in productivity depending on the job function.\n\nRight now this is heavily concentrated in coding, but more work will become coding adjacent so we can expect similar results elsewhere too. This is going to definitely lead to some wild dynamics within companies.",
+      "zh": ""
+    },
+    "garrytan": {
+      "en": "YC is the YC for hard tech",
+      "zh": ""
+    },
+    "mattturck": {
+      "en": "The man did change",
+      "zh": ""
+    },
+    "nikunj": {
+      "en": "2026 pitches in a nutshell..\n\nApp companies: He who owns the workflow controls the universe.\n\nHarness companies: He who puts the intelligence to work controls the universe.\n\nInference companies: He who serves the intelligence controls the universe.\n\nModel companies: He who builds the intelligence controls the universe.\n\nData companies: He who feeds the intelligence controls the universe.\n\nInfra companies: He who keeps the intelligence running controls the universe.\n\nChip companies: He who controls the sand controls the universe.\n\nEnergy companies: He who controls the electrons controls the universe.",
+      "zh": ""
+    },
+    "steipete": {
+      "en": "What a year this has been! Time to reflect and do a blog post over the holidays.\n\nOC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.\n\nShipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.\n\nWe mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. \n\nTo many more years!",
+      "zh": ""
+    },
+    "danshipper": {
+      "en": "my first prompt when we get early access to a new model",
+      "zh": ""
+    }
+  },
+  "podcasts": {
+    "Unsupervised Learning": {
+      "en": "Speaker 1 | 00:00 - 00:34\nIt's been a wild past few weeks in AI world with Jensen Huang out and now back in at NVIDIA. And there's been so many twists and turns to this story. I really wanted to dig into it on the podcast, an emergency episode with a good friend of the pod and personal friend Jordan Schneider from China Talk. Jordan is the perfect person to talk about the geopolitical angles of what happened here, what was behind Jensen getting fired in the first place, and who was behind that, ...",
+      "zh": "",
+      "takeaway_en": "",
+      "takeaway_zh": ""
+    }
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-11-25T22:57:34.914Z",
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2125448165197570547",
+          "text": "literally if you turn your brain off you are just choosing not to listen at this point https://t.co/1bR6AwZlSf",
+          "createdAt": "2026-11-25T04:35:06.000Z",
+          "url": "https://x.com/swyx/status/2125448165197570547",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2125371136943022423"
+        },
+        {
+          "id": "2125444028527468699",
+          "text": "hey is silicon valley okay because wtf https://t.co/XM7o4KRgQt https://t.co/Rk9n9G5peG",
+          "createdAt": "2026-11-25T04:18:39.000Z",
+          "url": "https://x.com/swyx/status/2125444028527468699",
+          "likes": 154,
+          "retweets": 6,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2125367695730421863"
+        },
+        {
+          "id": "2125431392226148670",
+          "text": "also useful here from John:\n\n- local-cloud envs &amp; sandboxes\n- session vs conversation store\n- user approval inbox\n- stream listeners\n- artifacts for everyone\n- all configurations of dashboard \n\nhttps://t.co/Udf0Ex5Znn",
+          "createdAt": "2026-11-25T03:28:27.000Z",
+          "url": "https://x.com/swyx/status/2125431392226148670",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2124336124172935336"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude @anthropicai",
+      "tweets": [
+        {
+          "id": "2125292098165612585",
+          "text": "Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box. https://t.co/Z0TQVOfGTz",
+          "createdAt": "2026-11-24T18:14:56.000Z",
+          "url": "https://x.com/bcherny/status/2125292098165612585",
+          "likes": 5102,
+          "retweets": 210,
+          "replies": 226,
+          "isQuote": true,
+          "quotedTweetId": "2125289794871963935"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2125299467691987445",
+          "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
+          "createdAt": "2026-11-24T18:44:13.000Z",
+          "url": "https://x.com/thsottiaux/status/2125299467691987445",
+          "likes": 167,
+          "retweets": 3,
+          "replies": 25,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125299436964479474",
+          "text": "https://t.co/SY2X7f40c5",
+          "createdAt": "2026-11-24T18:44:06.000Z",
+          "url": "https://x.com/thsottiaux/status/2125299436964479474",
+          "likes": 320,
+          "retweets": 6,
+          "replies": 50,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125299248782778588",
+          "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+          "createdAt": "2026-11-24T18:43:21.000Z",
+          "url": "https://x.com/thsottiaux/status/2125299248782778588",
+          "likes": 5295,
+          "retweets": 154,
+          "replies": 1064,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2125436963645952307",
+          "text": "@antigravity If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+          "createdAt": "2026-11-25T03:50:35.000Z",
+          "url": "https://x.com/petergyang/status/2125436963645952307",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125246828082057462",
+          "text": "Also follow @adhidesign, the designer behind Antigravity and @_mohansolo, the new \"reset guy\" for Gemini :)",
+          "createdAt": "2026-11-24T15:15:03.000Z",
+          "url": "https://x.com/petergyang/status/2125246828082057462",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125246815884984398",
+          "text": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo.\n\nSome takeaways:\n\n1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once.\n\n2. /grill-me is a great built-in skill that gets Antigravity to ask clarifying questions to help you flesh out the plan first.\n\n3. Remote control is better than Claude Code's because every thread is active by default. I show you how to add Antigravity to your phone home screen to run this in the video.\n\n📌 Watch my full 17-minute Antigravity course here: https://t.co/lmfSTiVBsm",
+          "createdAt": "2026-11-24T15:15:00.000Z",
+          "url": "https://x.com/petergyang/status/2125246815884984398",
+          "likes": 580,
+          "retweets": 39,
+          "replies": 44,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "product, codex @openai. prev head of product @linear",
+      "tweets": [
+        {
+          "id": "2125427566647640288",
+          "text": "MOAR DOT SUPREMACY\nhttps://t.co/m3UZ4uDEDv",
+          "createdAt": "2026-11-25T03:13:15.000Z",
+          "url": "https://x.com/thenanyu/status/2125427566647640288",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2125266673234055547"
+        },
+        {
+          "id": "2125388928647880795",
+          "text": "DOT SUPREMACY https://t.co/tpmPV5Gmfr",
+          "createdAt": "2026-11-25T00:39:43.000Z",
+          "url": "https://x.com/thenanyu/status/2125388928647880795",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2125370884382990747"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Madhu Guru",
+      "handle": "realmadhuguru",
+      "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+      "tweets": [
+        {
+          "id": "2125355549202194801",
+          "text": "the predictions around the Jensen saga were a great demo of how little correlation there is between confidence and being right.\n\nit’s wild how many prominent VCs, analysts and experts spoke with complete confidence about how things would play out .\n\nsome flip-flopped on their predictions within days - each time with the same confidence!\n\nour info ecosystem asymmetrically rewards certainty, speed and brashness… “I don’t know,\nlet’s see how this plays out” just doesn’t get eyeballs.\n\nworth remembering with ALL “expert” commentary you consume - people often have far less certainty than their tone suggests. they just form a view, stake out a position and say it loudly.\n\ntake everything with a sack of salt.\n\nthis news cycle was also a good way to calibrate on the people who are consistently loud and wrong.",
+          "createdAt": "2026-11-24T22:27:04.000Z",
+          "url": "https://x.com/realmadhuguru/status/2125355549202194801",
+          "likes": 22,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service, formerly Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2125156290494353663",
+          "text": "you have to be bad at it for a while https://t.co/s5ECrbQ3sG",
+          "createdAt": "2026-11-24T09:15:17.000Z",
+          "url": "https://x.com/trq212/status/2125156290494353663",
+          "likes": 2013,
+          "retweets": 77,
+          "replies": 77,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2125414100692041797",
+          "text": "3B local Muse 🤯 https://t.co/psL7dzZOiu",
+          "createdAt": "2026-11-25T02:19:44.000Z",
+          "url": "https://x.com/amasad/status/2125414100692041797",
+          "likes": 186,
+          "retweets": 9,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2125379218280444197"
+        },
+        {
+          "id": "2125353849057853876",
+          "text": "America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.\n\nGovernments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control.\n\nIf American companies won’t meet that demand, Chinese companies will. Countries will start with Chinese models, then adopt Chinese infrastructure and chips. Having the smartest model won’t mean much if most of the world runs on someone else’s stack.\n\nWe’ve seen a version of this play out with Huawei. China understood that supplying the world’s telecom infrastructure creates lasting strategic influence. Once a country builds its networks around your equipment, it also builds technical expertise, supplier relationships, and future investment around it. Replacing that equipment becomes expensive and disruptive (the US government is now trying to finance replacement operations but it’s been difficult).\n\nThat’s why Jensen’s backing of the American open-model ecosystem is so important. Open models give startups the freedom to compete and give countries a reason to build on American technology.\n\nWe need both frontier leadership and global adoption. Open models are essential to getting both. https://t.co/f34FKKbljl",
+          "createdAt": "2026-11-24T22:20:19.000Z",
+          "url": "https://x.com/amasad/status/2125353849057853876",
+          "likes": 633,
+          "retweets": 73,
+          "replies": 53,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125287538911072753",
+          "text": "Unlike say electricity, token demand grows in step functions as we find ways to put more compute to use on behalf of a single user.\n\nauto-complete -> chat -> agent -> long-running autonomous agents -> swarms\n\nEach harness innovation unlocks an order of magnitude more potential token consumption.\n\nBut then there’s a lag between these new tools and users figuring out what to do with them.",
+          "createdAt": "2026-11-24T17:56:49.000Z",
+          "url": "https://x.com/amasad/status/2125287538911072753",
+          "likes": 215,
+          "retweets": 11,
+          "replies": 72,
+          "isQuote": true,
+          "quotedTweetId": "2125239920545366347"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2125426206183239770",
+          "text": "Open sourced the bg effect builder:\nhttps://t.co/1kXz8ojcCK (🔉) https://t.co/k5GSmXawpm https://t.co/4KO6zJjq5n",
+          "createdAt": "2026-11-25T03:07:50.000Z",
+          "url": "https://x.com/rauchg/status/2125426206183239770",
+          "likes": 34,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2125320020666565096"
+        },
+        {
+          "id": "2125330925324300725",
+          "text": "Good stuff https://t.co/tqfvBrVMo7",
+          "createdAt": "2026-11-24T20:49:13.000Z",
+          "url": "https://x.com/rauchg/status/2125330925324300725",
+          "likes": 248,
+          "retweets": 6,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2125316052636606563"
+        },
+        {
+          "id": "2125320020666565096",
+          "text": "The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡.\n\nThe goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface:  browsers, servers, mobile, desktop, OS, ADEs… https://t.co/L51jXUhdBY https://t.co/ksrRsLFHu3",
+          "createdAt": "2026-11-24T20:05:54.000Z",
+          "url": "https://x.com/rauchg/status/2125320020666565096",
+          "likes": 237,
+          "retweets": 3,
+          "replies": 50,
+          "isQuote": true,
+          "quotedTweetId": "2125270850232607168"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2125442246543814686",
+          "text": "This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted AI.\n\nThis is a different phenomenon from other tech. Typically in the economy you think of technology adoption rates on a per firm basis, because the company generally adopts a relatively standardized approach to doing the new tech thing. Like “that company has gone digital or adopted the cloud”. So generally the uplift across teams is more or less the same across teams. \n\nAI is starting to look quite different. Even within the same company you can have a 10X delta between the lowest and highest adopters of AI and the impact they’re seeing. The teams that are able to actually figure out how to redesign their processes to best deploy agents in their workflows can see up to an order of magnitude jump in productivity depending on the job function.\n\nRight now this is heavily concentrated in coding, but more work will become coding adjacent so we can expect similar results elsewhere too. This is going to definitely lead to some wild dynamics within companies.",
+          "createdAt": "2026-11-25T04:11:35.000Z",
+          "url": "https://x.com/levie/status/2125442246543814686",
+          "likes": 160,
+          "retweets": 15,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2125267894644916669"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2125258221946630432",
+          "text": "YC is the YC for hard tech https://t.co/NWlfp6U19R",
+          "createdAt": "2026-11-24T16:00:20.000Z",
+          "url": "https://x.com/garrytan/status/2125258221946630432",
+          "likes": 315,
+          "retweets": 7,
+          "replies": 33,
+          "isQuote": true,
+          "quotedTweetId": "2125011107064721711"
+        },
+        {
+          "id": "2125247972158193792",
+          "text": "Second, society hit a limit in its ability to absorb the tech socially. There are natural brakes on how much a knowledge work process or business process can change: people don’t like their cheese moved. https://t.co/q7VI5RNow1",
+          "createdAt": "2026-11-24T15:19:36.000Z",
+          "url": "https://x.com/garrytan/status/2125247972158193792",
+          "likes": 74,
+          "retweets": 0,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125247943540142577",
+          "text": "First, the models have reached beyond what some customers even need. Though I suspect there is still a step function in agency and taste available even if the models can do the tasks today. https://t.co/7a26JGS13f",
+          "createdAt": "2026-11-24T15:19:29.000Z",
+          "url": "https://x.com/garrytan/status/2125247943540142577",
+          "likes": 54,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2125395139581657558",
+          "text": "The man did change https://t.co/Ptoa5sdBZF",
+          "createdAt": "2026-11-25T01:04:23.000Z",
+          "url": "https://x.com/mattturck/status/2125395139581657558",
+          "likes": 69,
+          "retweets": 4,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125275072802029631",
+          "text": "“Look at Anthropic below IPO price, they’ve been at it for almost SIX years now and they are BARELY a trillion dollar company” https://t.co/0qdZTTN9Qq",
+          "createdAt": "2026-11-24T17:07:17.000Z",
+          "url": "https://x.com/mattturck/status/2125275072802029631",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2125376105024758112",
+          "text": "2026 pitches in a nutshell..\n\nApp companies: He who owns the workflow controls the universe.\n\nHarness companies: He who puts the intelligence to work controls the universe.\n\nInference companies: He who serves the intelligence controls the universe.\n\nModel companies: He who builds the intelligence controls the universe.\n\nData companies: He who feeds the intelligence controls the universe.\n\nInfra companies: He who keeps the intelligence running controls the universe.\n\nChip companies: He who controls the sand controls the universe.\n\nEnergy companies: He who controls the electrons controls the universe.",
+          "createdAt": "2026-11-24T23:48:45.000Z",
+          "url": "https://x.com/nikunj/status/2125376105024758112",
+          "likes": 121,
+          "retweets": 3,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125270251491520702",
+          "text": "One of my favorite movies is Ratatouille, and this is a quote I think of a LOT..\n\n“Not everyone can become a great artist, but a great artist can come from anywhere.”\n\nA good reminder to remember that generational talent can’t be typecast. The exceptional, by definition, defy the pattern. \n\nThat is true for all folks (founders, operators and also investors).",
+          "createdAt": "2026-11-24T16:48:08.000Z",
+          "url": "https://x.com/nikunj/status/2125270251491520702",
+          "likes": 68,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2124973512909611413"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2125422797304549672",
+          "text": "What a year this has been! Time to reflect and do a blog post over the holidays.\n\nOC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.\n\nShipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.\n\nWe mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. \n\nTo many more years!",
+          "createdAt": "2026-11-25T02:54:17.000Z",
+          "url": "https://x.com/steipete/status/2125422797304549672",
+          "likes": 590,
+          "retweets": 31,
+          "replies": 83,
+          "isQuote": true,
+          "quotedTweetId": "2125273417561850199"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2125380245461045492",
+          "text": "my first prompt when we get early access to a new model https://t.co/StoFkQ5Loh",
+          "createdAt": "2026-11-25T00:05:12.000Z",
+          "url": "https://x.com/danshipper/status/2125380245461045492",
+          "likes": 26,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2125379920461533255",
+          "text": "https://t.co/AfzmuDKgnK https://t.co/WwlmvVKgV3",
+          "createdAt": "2026-11-25T00:03:55.000Z",
+          "url": "https://x.com/danshipper/status/2125379920461533255",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2125370563132625085"
+        },
+        {
+          "id": "2125370917719343278",
+          "text": "read the rest: https://t.co/qask0BIPKD",
+          "createdAt": "2026-11-24T23:28:08.000Z",
+          "url": "https://x.com/danshipper/status/2125370917719343278",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "Unsupervised Learning",
+      "title": "Ep 98: China Expert on Jensen’s Return",
+      "url": "https://www.youtube.com/watch?v=gkd5eOQGASU",
+      "publishedAt": "2026-11-24T13:05:03.000Z"
+    }
+  ]
+}
